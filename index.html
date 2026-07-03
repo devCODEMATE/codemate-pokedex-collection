@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>CodeMate Pokédex Collection</title>
+<meta name="description" content="Binder virtual de cartas Pokémon TCG — armá carpetas temáticas y coleccioná. Proyecto fan-made de CodeMate." />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=DM+Sans:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css?v=3" />
+</head>
+<body>
+<div id="app">
+
+  <header class="app-header">
+    <div class="brand" id="brand-home-btn" role="button" tabindex="0" aria-label="Ir a Tu biblioteca">
+      <img class="naga-pixel" src="images/codemate-avatar.png" alt="CodeMate" />
+      <span class="wordmark">CodeMate<em>Pokédex Collection</em></span>
+    </div>
+    <nav>
+      <button id="nav-library" class="nav-btn active" type="button">Tu biblioteca</button>
+      <button id="nav-new" class="nav-btn primary" type="button">+ Nueva carpeta</button>
+    </nav>
+  </header>
+
+  <main id="view-root">
+
+    <!-- ---------------- Vista: Tu biblioteca ---------------- -->
+    <section id="view-library" class="view">
+      <h1>Tu biblioteca</h1>
+      <p class="view-subtitle">Todas tus carpetas guardadas en este navegador.</p>
+      <div id="library-content"></div>
+    </section>
+
+    <!-- ---------------- Vista: Wizard ---------------- -->
+    <section id="view-wizard" class="view" hidden>
+      <h1>Armá tu carpeta</h1>
+      <p class="view-subtitle" id="wizard-step-label">Paso 1 de 3 — Color de carpeta</p>
+      <div class="wizard-steps">
+        <div class="wizard-step-dot" data-step="1"></div>
+        <div class="wizard-step-dot" data-step="2"></div>
+        <div class="wizard-step-dot" data-step="3"></div>
+      </div>
+      <div class="wizard-body">
+        <div class="wizard-panel" id="wizard-panel"></div>
+        <div class="wizard-panel preview-panel">
+          <h3>Vista previa</h3>
+          <div class="preview-slot" id="wizard-preview-slot"></div>
+          <p class="preview-caption" id="wizard-preview-caption">Así se va a ver una carta en tu carpeta.</p>
+        </div>
+      </div>
+      <div class="wizard-actions">
+        <button class="btn btn-ghost" id="wizard-back-btn" type="button">Atrás</button>
+        <button class="btn btn-primary" id="wizard-next-btn" type="button">Siguiente</button>
+      </div>
+    </section>
+
+    <!-- ---------------- Vista: Binder ---------------- -->
+    <section id="view-binder" class="view" hidden>
+      <div class="binder-header">
+        <div class="binder-header-info">
+          <div class="binder-cover-chip" id="binder-cover-chip"></div>
+          <div>
+            <h1 id="binder-title" style="margin-bottom:0;">—</h1>
+            <p class="view-subtitle" style="margin:2px 0 0;" id="binder-progress-label"></p>
+          </div>
+        </div>
+        <button class="nav-btn" id="binder-back-btn" type="button">← Tu biblioteca</button>
+      </div>
+
+      <div class="binder-stage">
+        <div class="binder-shell">
+          <div class="binder-page-wrap" id="binder-page-wrap">
+            <div class="binder-page" id="binder-page"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="binder-pager">
+        <button class="page-corner-btn" id="binder-prev-btn" type="button" aria-label="Página anterior">‹</button>
+        <span class="page-indicator" id="binder-page-indicator">Página 1</span>
+        <button class="page-corner-btn" id="binder-next-btn" type="button" aria-label="Página siguiente">›</button>
+      </div>
+      <button class="add-page-btn" id="binder-add-page-btn" type="button">+ Agregar hoja</button>
+    </section>
+
+  </main>
+
+  <!-- ---------------- Buscador (modal) ---------------- -->
+  <div class="modal-backdrop" id="buscador-modal" hidden>
+    <div class="modal-panel">
+      <div class="modal-panel-header">
+        <div>
+          <h2 style="margin-bottom:2px;">Buscador de cartas</h2>
+          <p class="view-subtitle" style="margin:0;">Elegí una carta para este slot.</p>
+        </div>
+        <button class="modal-close-btn" id="buscador-close-btn" type="button" aria-label="Cerrar">✕</button>
+      </div>
+      <input type="text" class="text-input" id="buscador-search-input" placeholder="Buscar por nombre…" />
+      <span class="filter-group-label">Rareza</span>
+      <div class="chip-row" id="buscador-rarity-chips"></div>
+      <span class="filter-group-label">Tipo</span>
+      <div class="chip-row" id="buscador-type-chips"></div>
+      <span class="filter-group-label">Ilustrador</span>
+      <div class="chip-row" id="buscador-illustrator-chips"></div>
+      <span class="filter-group-label">Año</span>
+      <div class="chip-row" id="buscador-year-chips"></div>
+      <div class="buscador-results" id="buscador-results"></div>
+    </div>
+  </div>
+
+  <footer class="app-footer">
+    Proyecto fan-made, gratuito y sin fines comerciales. Pokémon y los nombres de personajes son marcas registradas
+    de Nintendo, Creatures Inc. y GAME FREAK Inc. © The Pokémon Company. CodeMate Pokédex Collection no está afiliado
+    ni respaldado por estas empresas.
+  </footer>
+
+</div>
+
+<script src="mock-data.js?v=3"></script>
+<script src="storage.js?v=3"></script>
+<script src="render-card.js?v=3"></script>
+<script src="wizard.js?v=3"></script>
+<script src="library.js?v=3"></script>
+<script src="buscador.js?v=3"></script>
+<script src="binder.js?v=3"></script>
+<script src="app.js?v=3"></script>
+</body>
+</html>
