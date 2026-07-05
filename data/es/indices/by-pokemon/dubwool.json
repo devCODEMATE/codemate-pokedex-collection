@@ -1,0 +1,84 @@
+{
+  "name": "Dubwool",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A1-215",
+      "name": "Dubwool",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "215",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/215",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "saino misaki"
+    },
+    {
+      "id": "sv07-125",
+      "name": "Dubwool",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "125",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/125",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "swsh1-154",
+      "name": "Dubwool",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "154",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/154",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "You Iribi"
+    },
+    {
+      "id": "swsh12.5-122",
+      "name": "Dubwool",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "122",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/122",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh4.5-SV104",
+      "name": "Dubwool",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV104",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV104",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh8-223",
+      "name": "Dubwool",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "223",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/223",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Shibuzoh."
+    }
+  ]
+}

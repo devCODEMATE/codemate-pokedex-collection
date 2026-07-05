@@ -1,0 +1,71 @@
+{
+  "name": "Tapu Koko ex",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "P-A-084",
+      "name": "Tapu Koko ex",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "084",
+      "rarity": "Cuatro Diamantes",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv04-068",
+      "name": "Tapu Koko ex",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "068",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/068",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv04-222",
+      "name": "Tapu Koko ex",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "222",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/222",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv04-247",
+      "name": "Tapu Koko ex",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "247",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/247",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv09-051",
+      "name": "Tapu Koko ex",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "051",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/051",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    }
+  ]
+}

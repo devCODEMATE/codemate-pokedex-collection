@@ -1,0 +1,84 @@
+{
+  "name": "Rolycoly",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "me02.5-118",
+      "name": "Rolycoly",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "118",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/118",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Kurata So"
+    },
+    {
+      "id": "sv05-093",
+      "name": "Rolycoly",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "093",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/093",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "swsh2-105",
+      "name": "Rolycoly",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "105",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/105",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Misa Tsutsui"
+    },
+    {
+      "id": "swsh3.5-31",
+      "name": "Rolycoly",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "31",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/31",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh4.5-SV067",
+      "name": "Rolycoly",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV067",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV067",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "swsh5-78",
+      "name": "Rolycoly",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "78",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/78",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    }
+  ]
+}

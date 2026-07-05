@@ -1,0 +1,50 @@
+{
+  "name": "Sally",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "swsh11-TG28",
+      "name": "Sally",
+      "set": "swsh11",
+      "setName": "Origen Perdido",
+      "number": "TG28",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh11/TG28",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "swsh4-158",
+      "name": "Sally",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "158",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/158",
+      "types": null,
+      "illustrator": "take"
+    },
+    {
+      "id": "swsh4-184",
+      "name": "Sally",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "184",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/184",
+      "types": null,
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "swsh4-197",
+      "name": "Sally",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "197",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/197",
+      "types": null,
+      "illustrator": "Naoki Saito"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "name": "Kirlia",
+  "totalCards": 36,
+  "cards": [
+    {
+      "id": "2023sv-15",
+      "name": "Kirlia",
+      "set": "2023sv",
+      "setName": "McDonald's Collection 2023",
+      "number": "15",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "A1-131",
+      "name": "Kirlia",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "131",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/131",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "A2-069",
+      "name": "Kirlia",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "069",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/069",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "A3b-098",
+      "name": "Kirlia",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "098",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/098",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "B2-064",
+      "name": "Kirlia",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "064",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/064",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "mingo"
+    },
+    {
+      "id": "bw11-60",
+      "name": "Kirlia",
+      "set": "bw11",
+      "setName": "Legendary Treasures",
+      "number": "60",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw11/60",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "bw11-RC9",
+      "name": "Kirlia",
+      "set": "bw11",
+      "setName": "Legendary Treasures",
+      "number": "RC9",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw11/RC9",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "bw4-56",
+      "name": "Kirlia",
+      "set": "bw4",
+      "setName": "Next Destinies",
+      "number": "56",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw4/56",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "bw8-60",
+      "name": "Kirlia",
+      "set": "bw8",
+      "setName": "Plasma Storm",
+      "number": "60",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw8/60",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "dp3-53",
+      "name": "Kirlia",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "53",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/53",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "ex11-47",
+      "name": "Kirlia",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "47",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/47",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ex1-34",
+      "name": "Kirlia",
+      "set": "ex1",
+      "setName": "Ruby & Sapphire",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex1/34",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ex1-35",
+      "name": "Kirlia",
+      "set": "ex1",
+      "setName": "Ruby & Sapphire",
+      "number": "35",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex1/35",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "ex15-32",
+      "name": "Kirlia",
+      "set": "ex15",
+      "setName": "Dragon Frontiers",
+      "number": "32",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex15/32",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex15-33",
+      "name": "Kirlia δ",
+      "set": "ex15",
+      "setName": "Dragon Frontiers",
+      "number": "33",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex15/33",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex16-31",
+      "name": "Kirlia",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "31",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/31",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex2-40",
+      "name": "Kirlia",
+      "set": "ex2",
+      "setName": "Sandstorm",
+      "number": "40",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex2/40",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex9-33",
+      "name": "Kirlia",
+      "set": "ex9",
+      "setName": "Emerald",
+      "number": "33",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex9/33",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "me01-059",
+      "name": "Kirlia",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "059",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/059",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "satoma"
+    },
+    {
+      "id": "me02.5-088",
+      "name": "Kirlia",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "088",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/088",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "satoma"
+    },
+    {
+      "id": "pl1-51",
+      "name": "Kirlia",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "51",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/51",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pop7-8",
+      "name": "Kirlia",
+      "set": "pop7",
+      "setName": "POP Series 7",
+      "number": "8",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pop/pop7/8",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm12-81",
+      "name": "Kirlia",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "81",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/81",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "sm3-92",
+      "name": "Kirlia",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "92",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/92",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm8-140",
+      "name": "Kirlia",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "140",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/140",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sma-SV35",
+      "name": "Kirlia",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV35",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV35",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "sv01-085",
+      "name": "Kirlia",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "085",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/085",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "sv01-212",
+      "name": "Kirlia",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "212",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/212",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Jiro Sasumo"
+    },
+    {
+      "id": "sv04.5-028",
+      "name": "Kirlia",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "028",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/028",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "sv04.5-154",
+      "name": "Kirlia",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "154",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/154",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "swsh10-061",
+      "name": "Kirlia",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "061",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/061",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh12-068",
+      "name": "Kirlia",
+      "set": "swsh12",
+      "setName": "Silver Tempest",
+      "number": "068",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12/068",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh6-60",
+      "name": "Kirlia",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "60",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/60",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "0313"
+    },
+    {
+      "id": "swshp-SWSH271",
+      "name": "Kirlia",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH271",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH271",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy7-53",
+      "name": "Kirlia",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "53",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/53",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "xy8-69",
+      "name": "Kirlia",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "69",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/69",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    }
+  ]
+}

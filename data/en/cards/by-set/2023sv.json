@@ -1,0 +1,1635 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "2023sv-1",
+    "illustrator": "Saya Tsuruta",
+    "localId": "1",
+    "name": "Sprigatito",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725418,
+            "avg": 0.44,
+            "low": 0.04,
+            "trend": 0.34,
+            "avg1": 0.3,
+            "avg7": 0.48,
+            "avg30": 0.45,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      906
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Scratch",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Leafage",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725418,
+        "avg": 0.44,
+        "low": 0.04,
+        "trend": 0.34,
+        "avg1": 0.3,
+        "avg7": 0.48,
+        "avg30": 0.45,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-2",
+    "illustrator": "Akira Komayama",
+    "localId": "2",
+    "name": "Fuecoco",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725419,
+            "avg": 0.42,
+            "low": 0.02,
+            "trend": 0.47,
+            "avg1": 0.21,
+            "avg7": 0.57,
+            "avg30": 0.42,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      909
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Gnaw",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Combustion",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725419,
+        "avg": 0.42,
+        "low": 0.02,
+        "trend": 0.47,
+        "avg1": 0.21,
+        "avg7": 0.57,
+        "avg30": 0.42,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-3",
+    "illustrator": "Mizue",
+    "localId": "3",
+    "name": "Quaxly",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725420,
+            "avg": 0.48,
+            "low": 0.02,
+            "trend": 0.38,
+            "avg1": 0.28,
+            "avg7": 0.37,
+            "avg30": 0.45,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      912
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Pound",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Kick",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725420,
+        "avg": 0.48,
+        "low": 0.02,
+        "trend": 0.38,
+        "avg1": 0.28,
+        "avg7": 0.37,
+        "avg30": 0.45,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-4",
+    "illustrator": "Kouki Saitou",
+    "localId": "4",
+    "name": "Cetoddle",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725421,
+            "avg": 0.1,
+            "low": 0.02,
+            "trend": 0.07,
+            "avg1": 0.02,
+            "avg7": 0.13,
+            "avg30": 0.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      974
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Icicle",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Sharp Fin",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725421,
+        "avg": 0.1,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.02,
+        "avg7": 0.13,
+        "avg30": 0.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-5",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "5",
+    "name": "Cetitan",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725422,
+            "avg": 0.28,
+            "low": 0.02,
+            "trend": 0.36,
+            "avg1": 0.03,
+            "avg7": 0.3,
+            "avg30": 0.28,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      975
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Cetoddle",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Hammer In",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Sweeping Tackle",
+        "effect": "This attack does 20 less damage for each damage counter on this",
+        "damage": "200-"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725422,
+        "avg": 0.28,
+        "low": 0.02,
+        "trend": 0.36,
+        "avg1": 0.03,
+        "avg7": 0.3,
+        "avg30": 0.28,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-6",
+    "illustrator": "OKACHEKE",
+    "localId": "6",
+    "name": "Pikachu",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725423,
+            "avg": 1.88,
+            "low": 0.15,
+            "trend": 1.74,
+            "avg1": 2.16,
+            "avg7": 2.08,
+            "avg30": 1.92,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Growl",
+        "effect": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)."
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Pika Bolt",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725423,
+        "avg": 1.88,
+        "low": 0.15,
+        "trend": 1.74,
+        "avg1": 2.16,
+        "avg7": 2.08,
+        "avg30": 1.92,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-7",
+    "illustrator": "kantaro",
+    "localId": "7",
+    "name": "Pawmi",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725424,
+            "avg": 0.09,
+            "low": 0.02,
+            "trend": 0.05,
+            "avg1": 0.02,
+            "avg7": 0.06,
+            "avg30": 0.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      921
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Light Punch",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Zap Kick",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725424,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.02,
+        "avg7": 0.06,
+        "avg30": 0.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-8",
+    "illustrator": "Kouki Saitou",
+    "localId": "8",
+    "name": "Kilowattrel",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725425,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.05,
+            "avg1": 0.04,
+            "avg7": 0.05,
+            "avg30": 0.06,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      941
+    ],
+    "hp": 120,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Wattrel",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Skill Dive",
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Thunder Blast",
+        "effect": "Discard a Lightning Energy from this Pokémon",
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725425,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.04,
+        "avg7": 0.05,
+        "avg30": 0.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-9",
+    "illustrator": "Hitoshi Ariga",
+    "localId": "9",
+    "name": "Flittle",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725426,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.06,
+            "avg1": 0.02,
+            "avg7": 0.07,
+            "avg30": 0.07,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      955
+    ],
+    "hp": 30,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Ram",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725426,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.02,
+        "avg7": 0.07,
+        "avg30": 0.07,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-10",
+    "illustrator": "Yuya Oka",
+    "localId": "10",
+    "name": "Sandaconda",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725427,
+            "avg": 0.07,
+            "low": 0.02,
+            "trend": 0.1,
+            "avg1": 0.2,
+            "avg7": 0.07,
+            "avg30": 0.06,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      844
+    ],
+    "hp": 140,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Silicobra",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Skull Bash",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Sandstorm Spray",
+        "effect": "Discard 2 Energy from this Pokémon. If you discarded any Energy in this way, your opponent shuffles their Active Pokémon and all attached cards into their deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725427,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.1,
+        "avg1": 0.2,
+        "avg7": 0.07,
+        "avg30": 0.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-11",
+    "illustrator": "nagimiso",
+    "localId": "11",
+    "name": "Klawf",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725428,
+            "avg": 0.4,
+            "low": 0.02,
+            "trend": 0.42,
+            "avg1": 0.2,
+            "avg7": 0.34,
+            "avg30": 0.38,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      950
+    ],
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Vise Grip",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Adrenaline Hammer",
+        "effect": "This Pokémon is now Confused.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725428,
+        "avg": 0.4,
+        "low": 0.02,
+        "trend": 0.42,
+        "avg1": 0.2,
+        "avg7": 0.34,
+        "avg30": 0.38,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-12",
+    "illustrator": "chibi",
+    "localId": "12",
+    "name": "Blissey",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725429,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.09,
+            "avg1": 0.02,
+            "avg7": 0.08,
+            "avg30": 0.08,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      242
+    ],
+    "hp": 150,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Chansey",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Busybody Nurse",
+        "effect": "Once during your turn, you may use this Ability. Your Active Pokémon recovers from all Special Conditions."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Happy Cyclone",
+        "effect": "Move all Energy from this Pokémon to 1 of your Benched Pokémon.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725429,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.02,
+        "avg7": 0.08,
+        "avg30": 0.08,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-13",
+    "illustrator": "yuu",
+    "localId": "13",
+    "name": "Tandemaus",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725430,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.07,
+            "avg1": 0.02,
+            "avg7": 0.07,
+            "avg30": 0.08,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      924
+    ],
+    "hp": 40,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Double Hit",
+        "effect": "Flip 2 coins. This attack does 30 damage for each heads.",
+        "damage": "30x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725430,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.02,
+        "avg7": 0.07,
+        "avg30": 0.08,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-14",
+    "illustrator": "Ryota Murayama",
+    "localId": "14",
+    "name": "Cyclizar",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725431,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.05,
+            "avg1": 0.1,
+            "avg7": 0.08,
+            "avg30": 0.07,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      967
+    ],
+    "hp": 110,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Touring",
+        "effect": "Draw 2 cards."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Speed Attack",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725431,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.1,
+        "avg7": 0.08,
+        "avg30": 0.07,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2023sv-15",
+    "illustrator": "kawayoo",
+    "localId": "15",
+    "name": "Kirlia",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "McDonald's Collection 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725432,
+            "avg": 0.11,
+            "low": 0.02,
+            "trend": 0.09,
+            "avg1": 0.02,
+            "avg7": 0.17,
+            "avg30": 0.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      281
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Ralts",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Magical Shot",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Phychic",
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725432,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.02,
+        "avg7": 0.17,
+        "avg30": 0.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  }
+]

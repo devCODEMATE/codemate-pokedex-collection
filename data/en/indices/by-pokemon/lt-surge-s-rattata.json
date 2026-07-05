@@ -1,0 +1,32 @@
+{
+  "name": "Lt. Surge's Rattata",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym1-82",
+      "name": "Lt. Surge's Rattata",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "82",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/82",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym2-85",
+      "name": "Lt. Surge's Rattata",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "85",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/85",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Atsuko Nishida"
+    }
+  ]
+}

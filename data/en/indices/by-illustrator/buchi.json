@@ -1,0 +1,110 @@
+{
+  "name": "buchi",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "A4-165",
+      "name": "Cyndaquil",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "165",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/165",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "buchi"
+    },
+    {
+      "id": "me02.5-166",
+      "name": "Delcatty",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "166",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/166",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "buchi"
+    },
+    {
+      "id": "me02.5-218",
+      "name": "Erika's Tangela",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "218",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/218",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "buchi"
+    },
+    {
+      "id": "sv08-094",
+      "name": "Flittle",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "094",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/094",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "buchi"
+    },
+    {
+      "id": "sv10.5b-095",
+      "name": "Foongus",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "095",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/095",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "buchi"
+    },
+    {
+      "id": "sv10-015",
+      "name": "Team Rocket's Blipbug",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "015",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/015",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "buchi"
+    },
+    {
+      "id": "sv10-117",
+      "name": "Team Rocket's Nidoran♂",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "117",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/117",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "buchi"
+    },
+    {
+      "id": "svp-154",
+      "name": "Indeedee",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "154",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/154",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "buchi"
+    }
+  ]
+}

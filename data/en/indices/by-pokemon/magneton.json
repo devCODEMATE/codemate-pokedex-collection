@@ -1,0 +1,604 @@
+{
+  "name": "Magneton",
+  "totalCards": 46,
+  "cards": [
+    {
+      "id": "A1-098",
+      "name": "Magneton",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "098",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/098",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "A2-052",
+      "name": "Magneton",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "052",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/052",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yumi"
+    },
+    {
+      "id": "A2a-054",
+      "name": "Magneton",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "054",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/054",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "A4-218",
+      "name": "Magneton",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "218",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/218",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "B1a-025",
+      "name": "Magneton",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "025",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/025",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "base1-9",
+      "name": "Magneton",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "9",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base1/9",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "base3-11",
+      "name": "Magneton",
+      "set": "base3",
+      "setName": "Fossil",
+      "number": "11",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base3/11",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base3-26",
+      "name": "Magneton",
+      "set": "base3",
+      "setName": "Fossil",
+      "number": "26",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base3/26",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base4-9",
+      "name": "Magneton",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "9",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base4/9",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "bw8-44",
+      "name": "Magneton",
+      "set": "bw8",
+      "setName": "Plasma Storm",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw8/44",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "bw8-45",
+      "name": "Magneton",
+      "set": "bw8",
+      "setName": "Plasma Storm",
+      "number": "45",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw8/45",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "dp1-54",
+      "name": "Magneton",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "54",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/54",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "dp7-42",
+      "name": "Magneton",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/42",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "dp7-43",
+      "name": "Magneton",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "43",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/43",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kent Kanetsuna"
+    },
+    {
+      "id": "ecard2-22",
+      "name": "Magneton",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/22",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Hikaru Koike"
+    },
+    {
+      "id": "ecard2-H16",
+      "name": "Magneton",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "H16",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Hikaru Koike"
+    },
+    {
+      "id": "ecard3-19",
+      "name": "Magneton",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "19",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/19",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ecard3-20",
+      "name": "Magneton",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "20",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/20",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ecard3-H18",
+      "name": "Magneton",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "H18",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ecard3-H19",
+      "name": "Magneton",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "H19",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex11-48",
+      "name": "Magneton",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/48",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "ex12-22",
+      "name": "Magneton",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/22",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hisao Nakamura"
+    },
+    {
+      "id": "ex16-16",
+      "name": "Magneton",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/16",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "ex3-17",
+      "name": "Magneton",
+      "set": "ex3",
+      "setName": "Dragon",
+      "number": "17",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex3/17",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ex3-35",
+      "name": "Magneton",
+      "set": "ex3",
+      "setName": "Dragon",
+      "number": "35",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex3/35",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex6-27",
+      "name": "Magneton",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "27",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/27",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "hgss4-43",
+      "name": "Magneton",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "43",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/43",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Noriko Hotta"
+    },
+    {
+      "id": "lc-28",
+      "name": "Magneton",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "28",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/lc/lc/28",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "me01-046",
+      "name": "Magneton",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "046",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/046",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mfb-20",
+      "name": "Magneton",
+      "set": "mfb",
+      "setName": "My First Battle",
+      "number": "20",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "neo3-10",
+      "name": "Magneton",
+      "set": "neo3",
+      "setName": "Neo Revelation",
+      "number": "10",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo3/10",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "sm11-59",
+      "name": "Magneton",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "59",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/59",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yumi"
+    },
+    {
+      "id": "sm12-69",
+      "name": "Magneton",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "69",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/69",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Eske Yoshinob"
+    },
+    {
+      "id": "sm5-82",
+      "name": "Magneton",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "82",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/82",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "sm6-35",
+      "name": "Magneton",
+      "set": "sm6",
+      "setName": "Forbidden Light",
+      "number": "35",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm6/35",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "sma-SV28",
+      "name": "Magneton",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV28",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV28",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "sv01-064",
+      "name": "Magneton",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "064",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/064",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03.5-082",
+      "name": "Magneton",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "082",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/082",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "sv03-064",
+      "name": "Magneton",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "064",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/064",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv08-059",
+      "name": "Magneton",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "059",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/059",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "svp-153",
+      "name": "Magneton",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "153",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/153",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shinya Mizuno"
+    },
+    {
+      "id": "svp-159",
+      "name": "Magneton",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "159",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/159",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shinji Kanda"
+    },
+    {
+      "id": "swsh10-106",
+      "name": "Magneton",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "106",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/106",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "tk-ex-latio-5",
+      "name": "Magneton",
+      "set": "tk-ex-latio",
+      "setName": "EX trainer Kit (Latios)",
+      "number": "5",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "xy12-38",
+      "name": "Magneton",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "38",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/38",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "xy8-53",
+      "name": "Magneton",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "53",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/53",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    }
+  ]
+}

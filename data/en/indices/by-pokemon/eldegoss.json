@@ -1,0 +1,110 @@
+{
+  "name": "Eldegoss",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "B2-016",
+      "name": "Eldegoss",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "016",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/016",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sv07-011",
+      "name": "Eldegoss",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "011",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/011",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yuka Tanaka"
+    },
+    {
+      "id": "swsh1-21",
+      "name": "Eldegoss",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "21",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/21",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "swsh4.5-15",
+      "name": "Eldegoss",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "15",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/15",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "swsh4.5-SV011",
+      "name": "Eldegoss",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV011",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV011",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "swsh7-16",
+      "name": "Eldegoss",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "16",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/16",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh8-25",
+      "name": "Eldegoss",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "25",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/25",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "swshp-SWSH046",
+      "name": "Eldegoss",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH046",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH046",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mina Nakai"
+    }
+  ]
+}

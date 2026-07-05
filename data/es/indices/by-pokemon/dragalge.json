@@ -1,0 +1,71 @@
+{
+  "name": "Dragalge",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sm12-92",
+      "name": "Dragalge",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "92",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/92",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "sm6-53",
+      "name": "Dragalge",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "53",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/53",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh12.5-082",
+      "name": "Dragalge",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "082",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/082",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy2-71",
+      "name": "Dragalge",
+      "set": "xy2",
+      "setName": "Destellos de Fuego",
+      "number": "71",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy2/71",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "xy9-86",
+      "name": "Dragalge",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "86",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/86",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

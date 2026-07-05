@@ -1,0 +1,58 @@
+{
+  "name": "Cranidos",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "A2-088",
+      "name": "Cranidos",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "088",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/088",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sm5-64",
+      "name": "Cranidos",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "64",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/64",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh10-076",
+      "name": "Cranidos",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "076",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/076",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH274",
+      "name": "Cranidos",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH274",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": null
+    }
+  ]
+}

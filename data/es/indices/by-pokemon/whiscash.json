@@ -1,0 +1,97 @@
+{
+  "name": "Whiscash",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "A2a-017",
+      "name": "Whiscash",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "017",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/017",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Shinya Komatsu"
+    },
+    {
+      "id": "sm2-71",
+      "name": "Whiscash",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "71",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/71",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sv03-109",
+      "name": "Whiscash",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "109",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/109",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "0313"
+    },
+    {
+      "id": "swsh10-036",
+      "name": "Whiscash",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "036",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/036",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh2-100",
+      "name": "Whiscash",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "100",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/100",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "xy5-40",
+      "name": "Whiscash",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "40",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/40",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "xy5-41",
+      "name": "Whiscash",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "41",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/41",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA"
+    }
+  ]
+}

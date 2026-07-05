@@ -1,0 +1,1767 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "det1-1",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/es/sm/det1/1",
+    "localId": "1",
+    "name": "Bulbasaur",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Encontrar un Amigo",
+        "effect": "Busca en tu baraja 1 Pokémon Grass, enséñalo y ponlo en tu mano. Después, baraja las cartas de tu baraja."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370766,
+        "avg": 0.78,
+        "low": 0.02,
+        "trend": 0.67,
+        "avg1": 0.21,
+        "avg7": 0.6,
+        "avg30": 0.77,
+        "avg-holo": null,
+        "low-holo": 0.02,
+        "trend-holo": 1.22,
+        "avg1-holo": 1.99,
+        "avg7-holo": 1.15,
+        "avg30-holo": 0.81
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186001,
+          "lowPrice": 0.2,
+          "midPrice": 0.98,
+          "highPrice": 38.53,
+          "marketPrice": 1.1,
+          "directLowPrice": 1.21
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-2",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/es/sm/det1/2",
+    "localId": "2",
+    "name": "Ludicolo",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      272
+    ],
+    "hp": 140,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Servicio de Mesa",
+        "effect": "Una vez durante tu turno (antes de tu ataque), puedes curar 30 puntos de daño a 1 de tus Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Pega y Corre",
+        "effect": "Cambia este Pokémon por 1 de tus Pokémon en Banca.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370767,
+        "avg": 1.8,
+        "low": 0.19,
+        "trend": 1.5,
+        "avg1": 2.48,
+        "avg7": 1.85,
+        "avg30": 1.88,
+        "avg-holo": 2.17,
+        "low-holo": 1.49,
+        "trend-holo": 1.85,
+        "avg1-holo": 1.5,
+        "avg7-holo": 1.81,
+        "avg30-holo": 1.87
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186003,
+          "lowPrice": 0.3,
+          "midPrice": 0.98,
+          "highPrice": 18.4,
+          "marketPrice": 0.97,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-3",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/es/sm/det1/3",
+    "localId": "3",
+    "name": "Morelull",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      755
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Espora Soporífera",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370768,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.21,
+        "avg1": 0.04,
+        "avg7": 0.21,
+        "avg30": 0.23,
+        "avg-holo": 0.21,
+        "low-holo": 0.02,
+        "trend-holo": 0.33,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.28,
+        "avg30-holo": 0.31
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186004,
+          "lowPrice": 0.09,
+          "midPrice": 0.33,
+          "highPrice": 19.7,
+          "marketPrice": 0.33,
+          "directLowPrice": 0.15
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-4",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/es/sm/det1/4",
+    "localId": "4",
+    "name": "Charmander",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      4
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Carga Descuidada",
+        "effect": "Este Pokémon se hace 10 puntos de daño a sí mismo.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370769,
+        "avg": 0.52,
+        "low": 0.02,
+        "trend": 0.68,
+        "avg1": 0.26,
+        "avg7": 0.49,
+        "avg30": 0.51,
+        "avg-holo": 1,
+        "low-holo": 0.02,
+        "trend-holo": 1.04,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.64,
+        "avg30-holo": 0.72
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186005,
+          "lowPrice": 0.14,
+          "midPrice": 0.69,
+          "highPrice": 4321,
+          "marketPrice": 0.65,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-5",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/es/sm/det1/5",
+    "localId": "5",
+    "name": "Charizard",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 180,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cuchillada",
+        "damage": 70
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Placaje Salvaje",
+        "effect": "Este Pokémon se hace 50 puntos de daño a sí mismo.",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370770,
+        "avg": 10.79,
+        "low": 4,
+        "trend": 11.5,
+        "avg1": 9.75,
+        "avg7": 9.02,
+        "avg30": 11.25,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 17.65,
+        "avg1-holo": 17.45,
+        "avg7-holo": 18.32,
+        "avg30-holo": 18.7
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186007,
+          "lowPrice": 6.99,
+          "midPrice": 11.86,
+          "highPrice": 118.97,
+          "marketPrice": 11.51,
+          "directLowPrice": 14.7
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-6",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/es/sm/det1/6",
+    "localId": "6",
+    "name": "Arcanine",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      59
+    ],
+    "hp": 120,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Guardia de Seguridad",
+        "effect": "Mientras este Pokémon sea tu Pokémon Activo, los ataques de tu rival hacen 30 puntos de daño menos a todos tus Pokémon (después de aplicar Debilidad y Resistencia)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Colmillo Afilado",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370771,
+        "avg": 3.25,
+        "low": 0.4,
+        "trend": 2.63,
+        "avg1": 1.94,
+        "avg7": 2.45,
+        "avg30": 3.01,
+        "avg-holo": null,
+        "low-holo": 1,
+        "trend-holo": 4.93,
+        "avg1-holo": 1.5,
+        "avg7-holo": 4.5,
+        "avg30-holo": 4.92
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186009,
+          "lowPrice": 1.07,
+          "midPrice": 3.27,
+          "highPrice": 25.6,
+          "marketPrice": 3.49,
+          "directLowPrice": 5.59
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-7",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/es/sm/det1/7",
+    "localId": "7",
+    "name": "Psyduck",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      54
+    ],
+    "hp": 80,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Pánico",
+        "effect": "Este Pokémon pasa a estar Confundido.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370626,
+        "avg": 0.73,
+        "low": 0.02,
+        "trend": 0.49,
+        "avg1": 0.14,
+        "avg7": 0.66,
+        "avg30": 0.68,
+        "avg-holo": 1.05,
+        "low-holo": 0.05,
+        "trend-holo": 1.06,
+        "avg1-holo": 1,
+        "avg7-holo": 0.98,
+        "avg30-holo": 0.66
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186010,
+          "lowPrice": 0.2,
+          "midPrice": 1.02,
+          "highPrice": 7,
+          "marketPrice": 1.31,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-8",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/es/sm/det1/8",
+    "localId": "8",
+    "name": "Magikarp",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      129
+    ],
+    "hp": 30,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Permanecer Inmóvil",
+        "effect": "Cura 10 puntos de daño a este Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370772,
+        "avg": 0.33,
+        "low": 0.02,
+        "trend": 0.2,
+        "avg1": 0.37,
+        "avg7": 0.18,
+        "avg30": 0.3,
+        "avg-holo": 0.5,
+        "low-holo": 0.02,
+        "trend-holo": 1.4,
+        "avg1-holo": 3.5,
+        "avg7-holo": 0.46,
+        "avg30-holo": 0.55
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186012,
+          "lowPrice": 0.1,
+          "midPrice": 0.57,
+          "highPrice": 4.99,
+          "marketPrice": 0.87,
+          "directLowPrice": 0.89
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-9",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/es/sm/det1/9",
+    "localId": "9",
+    "name": "Greninja",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      658
+    ],
+    "hp": 140,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Evasión Jutsu",
+        "effect": "Si se inflige cualquier daño a este Pokémon por ataques, lanza 1 moneda. Si sale cara, evita ese daño."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "name": "Shuriken Furiosos",
+        "effect": "Este ataque hace 50 puntos de daño a 2 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370773,
+        "avg": 5.33,
+        "low": 2,
+        "trend": 5.83,
+        "avg1": 4.99,
+        "avg7": 5.3,
+        "avg30": 6.51,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 7.96,
+        "avg1-holo": 7.5,
+        "avg7-holo": 8.61,
+        "avg30-holo": 7.15
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186013,
+          "lowPrice": 3.45,
+          "midPrice": 8.69,
+          "highPrice": 112.35,
+          "marketPrice": 9.25,
+          "directLowPrice": 109.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-10",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/es/sm/det1/10",
+    "localId": "10",
+    "name": "Detective Pikachu",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Explorar",
+        "effect": "Tu rival enseña las cartas de su mano."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ataque Sorpresa",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metálica",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370774,
+        "avg": 11.82,
+        "low": 0.99,
+        "trend": 14.78,
+        "avg1": 15.75,
+        "avg7": 16.09,
+        "avg30": 12.73,
+        "avg-holo": 5.5,
+        "low-holo": 5,
+        "trend-holo": 9.89,
+        "avg1-holo": 5,
+        "avg7-holo": 9.57,
+        "avg30-holo": 9.67
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186015,
+          "lowPrice": 4.74,
+          "midPrice": 13.89,
+          "highPrice": 98.83,
+          "marketPrice": 14.19,
+          "directLowPrice": 19.16
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-11",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/es/sm/det1/11",
+    "localId": "11",
+    "name": "Mr. Mime",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      122
+    ],
+    "hp": 80,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Pantomima",
+        "effect": "Cuando juegues este Pokémon de tu mano a tu Banca durante tu turno, puedes cambiar 1 de tus cartas de Premio que están boca abajo por la primera carta de tu baraja."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Malabarismo",
+        "effect": "Lanza 4 monedas. Este ataque hace 20 puntos de daño por cada cara.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370628,
+        "avg": 2.78,
+        "low": 0.1,
+        "trend": 3,
+        "avg1": 3,
+        "avg7": 3.31,
+        "avg30": 2.74,
+        "avg-holo": 3.13,
+        "low-holo": 2,
+        "trend-holo": 2.68,
+        "avg1-holo": 4,
+        "avg7-holo": 3.6,
+        "avg30-holo": 2.78
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186019,
+          "lowPrice": 0.75,
+          "midPrice": 2.19,
+          "highPrice": 96.56,
+          "marketPrice": 2.81,
+          "directLowPrice": 3.15
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-12",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/es/sm/det1/12",
+    "localId": "12",
+    "name": "Mewtwo",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      150
+    ],
+    "hp": 130,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Secuestro Psíquico",
+        "effect": "Elige 1 de los ataques del Pokémon Activo de tu rival. Ese Pokémon no puede usar ese ataque durante el próximo turno de tu rival.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Quiebre Quemadura",
+        "effect": "Descarta 2 Energías Psychic de este Pokémon.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370775,
+        "avg": 9,
+        "low": 1.5,
+        "trend": 9.51,
+        "avg1": 6.32,
+        "avg7": 10.69,
+        "avg30": 9.1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 10.41,
+        "avg1-holo": 6.63,
+        "avg7-holo": 9.97,
+        "avg30-holo": 9.86
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186020,
+          "lowPrice": 4.49,
+          "midPrice": 9.12,
+          "highPrice": 155.59,
+          "marketPrice": 9.2,
+          "directLowPrice": 9.21
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-13",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/es/sm/det1/13",
+    "localId": "13",
+    "name": "Machamp",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      68
+    ],
+    "hp": 160,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Dirigir el Tráfico",
+        "effect": "Mira las 5 primeras cartas de tu baraja y vuelve a ponerlas en la parte superior de tu baraja en el orden que quieras."
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Tajo Cruzado",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 60 puntos de daño más.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370776,
+        "avg": 1.33,
+        "low": 0.08,
+        "trend": 1.04,
+        "avg1": 0.45,
+        "avg7": 1.29,
+        "avg30": 1.39,
+        "avg-holo": 0.5,
+        "low-holo": 0.08,
+        "trend-holo": 1.91,
+        "avg1-holo": 0.5,
+        "avg7-holo": 2.06,
+        "avg30-holo": 1.86
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186021,
+          "lowPrice": 0.5,
+          "midPrice": 1.5,
+          "highPrice": 4321,
+          "marketPrice": 1.54,
+          "directLowPrice": 1.69
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-14",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/es/sm/det1/14",
+    "localId": "14",
+    "name": "Jigglypuff",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      39
+    ],
+    "hp": 60,
+    "types": [
+      "Hada"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Hada"
+        ],
+        "name": "Melodía Curativa",
+        "effect": "Cura 10 puntos de daño a cada uno de tus Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Oscura",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370627,
+        "avg": 0.42,
+        "low": 0.02,
+        "trend": 0.23,
+        "avg1": 0.15,
+        "avg7": 0.29,
+        "avg30": 0.41,
+        "avg-holo": 0.41,
+        "low-holo": 0.02,
+        "trend-holo": 0.59,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.4,
+        "avg30-holo": 0.48
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186022,
+          "lowPrice": 0.17,
+          "midPrice": 0.53,
+          "highPrice": 5,
+          "marketPrice": 0.54,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-15",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/es/sm/det1/15",
+    "localId": "15",
+    "name": "Snubbull",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      209
+    ],
+    "hp": 70,
+    "types": [
+      "Hada"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Carantoña",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Oscura",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370777,
+        "avg": 0.25,
+        "low": 0.02,
+        "trend": 0.21,
+        "avg1": 0.2,
+        "avg7": 0.3,
+        "avg30": 0.24,
+        "avg-holo": 0.52,
+        "low-holo": 0.09,
+        "trend-holo": 0.6,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.42,
+        "avg30-holo": 0.41
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186023,
+          "lowPrice": 0.08,
+          "midPrice": 0.39,
+          "highPrice": 19.92,
+          "marketPrice": 0.35,
+          "directLowPrice": 0.14
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-16",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/es/sm/det1/16",
+    "localId": "16",
+    "name": "Lickitung",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      108
+    ],
+    "hp": 100,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Lengüetazo Incesante",
+        "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 20 puntos de daño por cada cara.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.425Z",
+        "unit": "EUR",
+        "idProduct": 370778,
+        "avg": 0.27,
+        "low": 0.02,
+        "trend": 0.44,
+        "avg1": 0.19,
+        "avg7": 0.26,
+        "avg30": 0.27,
+        "avg-holo": 0.35,
+        "low-holo": 0.02,
+        "trend-holo": 0.45,
+        "avg1-holo": 0.59,
+        "avg7-holo": 0.4,
+        "avg30-holo": 0.48
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186024,
+          "lowPrice": 0.02,
+          "midPrice": 0.39,
+          "highPrice": 5,
+          "marketPrice": 0.37,
+          "directLowPrice": 0.37
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-17",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/es/sm/det1/17",
+    "localId": "17",
+    "name": "Ditto",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      132
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Copietear",
+        "effect": "Elige 1 de los ataques de los Pokémon de tu rival y úsalo para este ataque. Si este Pokémon no tiene la Energía necesaria para usar ese ataque, este ataque no hace nada."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370779,
+        "avg": 6.2,
+        "low": 1.2,
+        "trend": 5.59,
+        "avg1": 7.99,
+        "avg7": 5.63,
+        "avg30": 6.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 6.08,
+        "avg1-holo": 6.73,
+        "avg7-holo": 5.59,
+        "avg30-holo": 6.54
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186025,
+          "lowPrice": 6.5,
+          "midPrice": 11.05,
+          "highPrice": 145.79,
+          "marketPrice": 10.96,
+          "directLowPrice": 9.87
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "det1-18",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/es/sm/det1/18",
+    "localId": "18",
+    "name": "Slaking",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      289
+    ],
+    "hp": 180,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Arrojar",
+        "effect": "Tu rival cambia su Pokémon Activo por 1 de sus Pokémon en Banca.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 370780,
+        "avg": 2.36,
+        "low": 0.2,
+        "trend": 2.36,
+        "avg1": 1,
+        "avg7": 2.55,
+        "avg30": 2.38,
+        "avg-holo": 4,
+        "low-holo": 1,
+        "trend-holo": 2.62,
+        "avg1-holo": 1.95,
+        "avg7-holo": 2.78,
+        "avg30-holo": 2.18
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:51.924Z",
+        "holofoil": {
+          "productId": 186026,
+          "lowPrice": 0.35,
+          "midPrice": 1,
+          "highPrice": 19.96,
+          "marketPrice": 1,
+          "directLowPrice": 1.47
+        }
+      }
+    }
+  }
+]

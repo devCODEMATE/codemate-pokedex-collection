@@ -1,0 +1,45 @@
+{
+  "name": "Oricorio ex",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "me02-018",
+      "name": "Oricorio ex",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "018",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/me/me02/018",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "me02-110",
+      "name": "Oricorio ex",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "110",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02/110",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "mep-024",
+      "name": "Oricorio ex",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "024",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Shinji Kanda"
+    }
+  ]
+}

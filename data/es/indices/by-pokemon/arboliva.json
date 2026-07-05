@@ -1,0 +1,58 @@
+{
+  "name": "Arboliva",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "B2a-009",
+      "name": "Arboliva",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "009",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv01-023",
+      "name": "Arboliva",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "023",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/023",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv03-021",
+      "name": "Arboliva",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "021",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/021",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv04.5-104",
+      "name": "Arboliva",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "104",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/104",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hideki Ishikawa"
+    }
+  ]
+}

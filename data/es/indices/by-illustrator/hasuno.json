@@ -1,0 +1,994 @@
+{
+  "name": "Hasuno",
+  "totalCards": 76,
+  "cards": [
+    {
+      "id": "A1-025",
+      "name": "Scyther",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "025",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/025",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "A1-207",
+      "name": "Eevee",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "207",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/207",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "A1a-009",
+      "name": "Dhelmise",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "009",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/009",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "A2-098",
+      "name": "Sneasel",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "098",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/098",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "A3-020",
+      "name": "Tsareena",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "020",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/020",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "A3-039",
+      "name": "Sandslashde Alola",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "039",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/039",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "me01-079",
+      "name": "Toxicroak",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "079",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/079",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "me03-017",
+      "name": "Turtonator",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "017",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me03/017",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "mep-065",
+      "name": "Barbaracle",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "065",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "P-A-047",
+      "name": "Staraptor",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "047",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/047",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "P-A-075",
+      "name": "Kartana",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "075",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "P-A-076",
+      "name": "Blacephalon",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "076",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm10-103",
+      "name": "Landorus",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "103",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/103",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm10-59",
+      "name": "Vikavolt",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "59",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/59",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm11-121",
+      "name": "Archeops",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "121",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/121",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm11-53",
+      "name": "Tapu Fini",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "53",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/53",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm12-104",
+      "name": "Blacephalon",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "104",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/104",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm12-132",
+      "name": "Carvanha",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "132",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/132",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm12-138",
+      "name": "Sandslash de Alola",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "138",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/138",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm12-164",
+      "name": "Ultra-Necrozma",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "164",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/164",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm12-167",
+      "name": "Eevee",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "167",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/167",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm12-55",
+      "name": "Prinplup",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "55",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/55",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm1-29",
+      "name": "Golduck",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "29",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/29",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm2-59",
+      "name": "Dhelmise",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "59",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/59",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm3-85",
+      "name": "Sneasel",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "85",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/85",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm5-117",
+      "name": "Drampa",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "117",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/117",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm5-57",
+      "name": "Toxicroak",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "57",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/57",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm5-85",
+      "name": "Bastiodon",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "85",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/85",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm5-95",
+      "name": "Exeggutor de Alola",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "95",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/95",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm6-64",
+      "name": "Toxicroak",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "64",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/64",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm7.5-46",
+      "name": "Zekrom",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "46",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm7-101",
+      "name": "Kartana",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "101",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/101",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm7-93",
+      "name": "Beldum",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "93",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/93",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm8-146",
+      "name": "Ribombee",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "146",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/146",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm8-51",
+      "name": "Pyroar",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "51",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/51",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm8-91",
+      "name": "Unown",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "91",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/91",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm8-97",
+      "name": "Giratina",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "97",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/97",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm9-103",
+      "name": "Ferrothorn",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "103",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/103",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm9-30",
+      "name": "Gyarados",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "30",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/30",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm9-85",
+      "name": "Tyranitar",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "85",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/85",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "smp-SM151",
+      "name": "Giratina",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM151",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sv02-113",
+      "name": "Hariyama",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "113",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/113",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sv04.5-010",
+      "name": "Magmortar",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "010",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/010",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sv06-125",
+      "name": "Revavroom",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "125",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/125",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sv10.5w-068",
+      "name": "Ferroseed",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "068",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/068",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sv10.5w-069",
+      "name": "Ferrothorn",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "069",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/069",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sv10-131",
+      "name": "Liepard de Roxy",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "131",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/131",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "svp-096",
+      "name": "Cyclizar",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "096",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/096",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "svp-151",
+      "name": "Flamariete",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "151",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/151",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh1-49",
+      "name": "Lapras V",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "49",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/49",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh1-66",
+      "name": "Raichu",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "66",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/66",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh2-28",
+      "name": "Arcanine",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "28",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/28",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh2-62",
+      "name": "Luxray",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "62",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/62",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh2-82",
+      "name": "Palossand",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "82",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/82",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh3.5-40",
+      "name": "Liepard",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "40",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/40",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh3-107",
+      "name": "Liepard",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "107",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/107",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh3-123",
+      "name": "Aggron",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "123",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/123",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh3-140",
+      "name": "Lugia",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "140",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/140",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh3-61",
+      "name": "Tapu Koko",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "61",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/61",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh4.5-33",
+      "name": "Luxray",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "33",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/33",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh4.5-46",
+      "name": "Yveltal",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "46",
+      "rarity": "Increíbles",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/46",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh4-111",
+      "name": "Garbodor",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "111",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/111",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh4-4",
+      "name": "Exeggcute",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "4",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/4",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh5-102",
+      "name": "Bronzong",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "102",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/102",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh5-44",
+      "name": "Electabuzz",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "44",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/44",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh5-83",
+      "name": "Falinks",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "83",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/83",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh6-51",
+      "name": "Zebstrika",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "51",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/51",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh6-6",
+      "name": "Heracross",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "6",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/6",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh8-163",
+      "name": "Sharpedo",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "163",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/163",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh8-189",
+      "name": "Melmetal",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "189",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/189",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh8-48",
+      "name": "Centiskorch",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "48",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/48",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swshp-SWSH036",
+      "name": "Arctozolt",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH036",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH036",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swshp-SWSH059",
+      "name": "Obstagoon de Galar",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH059",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH059",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "xy10-15",
+      "name": "Seel",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "15",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/15",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "xy10-18",
+      "name": "Omastar",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "18",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/18",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "xy11-43",
+      "name": "Nidoran♂",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "43",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/43",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hasuno"
+    }
+  ]
+}

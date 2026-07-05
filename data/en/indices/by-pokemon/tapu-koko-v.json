@@ -1,0 +1,45 @@
+{
+  "name": "Tapu Koko V",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh1-72",
+      "name": "Tapu Koko V",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "72",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/72",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh5-147",
+      "name": "Tapu Koko V",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "147",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/147",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Eske Yoshinob"
+    },
+    {
+      "id": "swsh5-50",
+      "name": "Tapu Koko V",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "50",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/50",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Mimikyu ex",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv09-069",
+      "name": "Mimikyu ex",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "069",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/069",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "svp-004",
+      "name": "Mimikyu ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "004",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/004",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Yamashita"
+    }
+  ]
+}

@@ -1,0 +1,7771 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "neo3-1",
+    "illustrator": "Toshinao Aoki",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/1",
+    "localId": "1",
+    "name": "Ampharos",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      181
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Flaaffy",
+    "description": "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Attract Current",
+        "effect": "Flip 3 coins. For each heads, you may search your deck for a L Energy card and attach it to 1 of your L Pokémon. Shuffle your deck afterward.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Gigavolt",
+        "effect": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage. If tails, this attack does 40 damage and the Defending Pokémon is now Paralyzed.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274587,
+        "avg": 47.69,
+        "low": 6.89,
+        "trend": 37.37,
+        "avg1": 27.5,
+        "avg7": 25.73,
+        "avg30": 37.97,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 16,
+        "avg1-holo": 24.19,
+        "avg7-holo": 18.31,
+        "avg30-holo": 14.84
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 83535,
+          "lowPrice": 138.8,
+          "midPrice": 181.99,
+          "highPrice": 999.98,
+          "marketPrice": 90.46,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 83535,
+          "lowPrice": 59.67,
+          "midPrice": 78.5,
+          "highPrice": 679.91,
+          "marketPrice": 73.82,
+          "directLowPrice": 469.21
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-2",
+    "illustrator": "Yuka Morii",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/2",
+    "localId": "2",
+    "name": "Blissey",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      242
+    ],
+    "hp": 120,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Chansey",
+    "description": "Anyone who takes even one bite of Blissey's egg becomes unfailingly caring and pleasant to everyone.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Softboiled",
+        "effect": "When you play Blissey from your hand, you may flip a coin. If heads, remove 8 damage counters from Blissey. If tails, remove 4 damage counters from Blissey. Either way, if Blissey has fewer damage counters than that, remove all of them."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Body Slam",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274588,
+        "avg": 43.32,
+        "low": 7,
+        "trend": 46.92,
+        "avg1": 25.79,
+        "avg7": 38.93,
+        "avg30": 36.01,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 11.84,
+        "avg1-holo": 6.45,
+        "avg7-holo": 13.8,
+        "avg30-holo": 16.97
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 83918,
+          "lowPrice": 73.83,
+          "midPrice": 294.99,
+          "highPrice": 1703.5,
+          "marketPrice": 172.5,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 83918,
+          "lowPrice": 89.99,
+          "midPrice": 120,
+          "highPrice": 9999,
+          "marketPrice": 117.03,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-3",
+    "illustrator": "Hironobu Yoshida",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/3",
+    "localId": "3",
+    "name": "Celebi",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      251
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "description": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Time Travel",
+        "effect": "If an opponent's attack would Knock Out Celebi, flip a coin. If heads, Celebi is not Knocked Out and you shuffle it and all cards attached to it into your deck. This power doesn't work if Celebi is already Asleep, Confused, or Paralyzed."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Psychic Damage",
+        "effect": "Flip 3 coins. For each heads, put 1 damage counter on the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274589,
+        "avg": 89.85,
+        "low": 19,
+        "trend": 95.45,
+        "avg1": 84.95,
+        "avg7": 110.37,
+        "avg30": 76.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 47.59,
+        "avg1-holo": 34.99,
+        "avg7-holo": 71.32,
+        "avg30-holo": 46.49
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 84141,
+          "lowPrice": 199.95,
+          "midPrice": 346.5,
+          "highPrice": 1000.99,
+          "marketPrice": 349.99,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 84141,
+          "lowPrice": 120,
+          "midPrice": 149.99,
+          "highPrice": 1249.9,
+          "marketPrice": 124.25,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-4",
+    "illustrator": "Shin-ichi Yoshida",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/4",
+    "localId": "4",
+    "name": "Crobat",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      169
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Golbat",
+    "description": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Triggered Poison",
+        "effect": "If your opponent attaches an Energy card to the Defending Pokémon during his or her next turn, that Pokémon becomes Poisoned.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Cross Attack",
+        "effect": "Flip 4 coins. This attack does 20 damage times the number of heads. If you get 2 or more heads, the Defending Pokémon is now Confused.",
+        "damage": "20x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274590,
+        "avg": 29.76,
+        "low": 9.98,
+        "trend": 50.76,
+        "avg1": 25,
+        "avg7": 64.29,
+        "avg30": 45.96,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 17.06,
+        "avg1-holo": 19.09,
+        "avg7-holo": 18.54,
+        "avg30-holo": 15.68
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 84482,
+          "lowPrice": 119.99,
+          "midPrice": 159.95,
+          "highPrice": 1199.9,
+          "marketPrice": 86.97,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 84482,
+          "lowPrice": 37.31,
+          "midPrice": 50,
+          "highPrice": 589.9,
+          "marketPrice": 45.72,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-5",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/5",
+    "localId": "5",
+    "name": "Delibird",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      225
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "description": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Present",
+        "effect": "Flip 3 coins. If exactly 1 is heads, this attack does 40 damage. If exactly 2 are heads, remove 3 damage counters from the Defending Pokémon. If the Defending Pokémon has fewer damage counters than that, remove all of them. If all 3 are heads, this attack does 60 damage. If all 3 are tails, remove all damage counters from the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274591,
+        "avg": 39.52,
+        "low": 6.99,
+        "trend": 38.44,
+        "avg1": 25.5,
+        "avg7": 32.08,
+        "avg30": 39.04,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 13.71,
+        "avg1-holo": 14.99,
+        "avg7-holo": 16.04,
+        "avg30-holo": 13.45
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 84745,
+          "lowPrice": 99,
+          "midPrice": 99.99,
+          "highPrice": 135,
+          "marketPrice": 78.4,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 84745,
+          "lowPrice": 37.5,
+          "midPrice": 74,
+          "highPrice": 843,
+          "marketPrice": 41.34,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-6",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/6",
+    "localId": "6",
+    "name": "Entei",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      244
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "description": "Volcanoes erupt when it barks. Unable to restrain its extreme power, it races headlong around the land.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Howl",
+        "effect": "When you play Entei from your hand, you may discard the top 5 cards from your deck. (if you have fewer cards in your deck than that, discard all of them.) If any of those are Fire Energy cards, attach them to any of your Fire Pokémon of your choice. Using this power ends your turn."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "name": "Searing Flames",
+        "effect": "Discard 2 Energy cards attached to Entei or this attack does nothing.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274592,
+        "avg": 145.83,
+        "low": 19.99,
+        "trend": 65.05,
+        "avg1": 140,
+        "avg7": 65.81,
+        "avg30": 137.32,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 71.29,
+        "avg1-holo": 99.99,
+        "avg7-holo": 80.43,
+        "avg30-holo": 48.47
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 85266,
+          "lowPrice": 639.99,
+          "midPrice": 9998.99,
+          "highPrice": 10000,
+          "marketPrice": 262.42,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 85266,
+          "lowPrice": 137.72,
+          "midPrice": 357.49,
+          "highPrice": 1899.99,
+          "marketPrice": 178.66,
+          "directLowPrice": 499.98
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-7",
+    "illustrator": "Kimiya Masago",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/7",
+    "localId": "7",
+    "name": "Ho-oh",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      250
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "description": "Legends claim this Pokémon flies the world's skies continuously on its magnificent seven colored wings.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Stoke",
+        "effect": "You may search your deck for a Energy card and attach it to Ho-oh"
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "name": "Sacred Fire",
+        "effect": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. Don't apply Weakness and Resistance."
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "name": "Dive Bomb",
+        "effect": "Flip a coin. If tails, this attack does nothing.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274593,
+        "avg": 193.03,
+        "low": 25,
+        "trend": 216.51,
+        "avg1": 295,
+        "avg7": 282.9,
+        "avg30": 175.85,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 105.04,
+        "avg1-holo": 139.99,
+        "avg7-holo": 97.74,
+        "avg30-holo": 65.36
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 86118,
+          "lowPrice": 7719.88,
+          "midPrice": 7719.88,
+          "highPrice": 7719.88,
+          "marketPrice": 72,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 86118,
+          "lowPrice": 399.99,
+          "midPrice": 1500.74,
+          "highPrice": 9199.99,
+          "marketPrice": 267.98,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-8",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/8",
+    "localId": "8",
+    "name": "Houndoom",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      229
+    ],
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Houndour",
+    "description": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Dark Flame",
+        "effect": "Discard 1 Energy card attached to Houndoom or this attack does nothing. If there are any Energy cards in your discard pile, attach 1 of them to Houndoom.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Black Fang",
+        "effect": "Flip a number of coins equal to the number of Energy attached to Houndoom. This attack does 30 damage plus 10 more damage for each heads.",
+        "damage": "30+"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274594,
+        "avg": 149.75,
+        "low": 12.99,
+        "trend": 94.42,
+        "avg1": 189.99,
+        "avg7": 132.55,
+        "avg30": 149.96,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 36.23,
+        "avg1-holo": 37.66,
+        "avg7-holo": 39.5,
+        "avg30-holo": 44.17
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 86198,
+          "lowPrice": 750,
+          "midPrice": 874.98,
+          "highPrice": 999.96,
+          "marketPrice": 316.66,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 86198,
+          "lowPrice": 233.99,
+          "midPrice": 441.6,
+          "highPrice": 1607.32,
+          "marketPrice": 336.66,
+          "directLowPrice": 999.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-9",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/9",
+    "localId": "9",
+    "name": "Jumpluff",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      189
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Skiploom",
+    "description": "Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Evolutionary Spore",
+        "effect": "Choose any number of your Hoppips and Skiplooms. Then, for each Pokémon you chose in this way, you may search your deck for a card that evolves from that Pokémon and attach it to that Pokémon. (This counts as evolving those Pokémon.) Shuffle your deck afterward."
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Solarbeam",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274595,
+        "avg": 27.26,
+        "low": 5,
+        "trend": 29.55,
+        "avg1": 7,
+        "avg7": 21.88,
+        "avg30": 22.99,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 9.88,
+        "avg1-holo": 7,
+        "avg7-holo": 10.39,
+        "avg30-holo": 9.4
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 86362,
+          "lowPrice": 48.26,
+          "midPrice": 82.49,
+          "highPrice": 459.9,
+          "marketPrice": 47.42,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 86362,
+          "lowPrice": 29.99,
+          "midPrice": 44.38,
+          "highPrice": 334.7,
+          "marketPrice": 34.56,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-10",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/10",
+    "localId": "10",
+    "name": "Magneton",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      82
+    ],
+    "hp": 80,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Magnemite",
+    "description": "Three Magnemites are linked by a strong magnetic force. Earaches will occur if you get too close.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Electromagnetic Power",
+        "effect": "As often as you like during your turn (before your attack), you may take 1 Energy card attached to 1 of your Magnemites, Magnetons, or Dark Magnetons and attach it to a different 1 of your Magnemites, Magnetons, or Dark Magnetons. This power can't be used if Magneton is Asleep, Confused, or Paralyzed."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Plasma",
+        "effect": "If there are any Energy cards in your discard pile, attach 1 of them to Magneton.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274596,
+        "avg": 20.6,
+        "low": 3.99,
+        "trend": 24.22,
+        "avg1": 24.99,
+        "avg7": 18.32,
+        "avg30": 22.91,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 9.26,
+        "avg1-holo": 15.31,
+        "avg7-holo": 11.99,
+        "avg30-holo": 12.33
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 87092,
+          "lowPrice": 52.49,
+          "midPrice": 95.74,
+          "highPrice": 804.6,
+          "marketPrice": 83.91,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 87092,
+          "lowPrice": 29.73,
+          "midPrice": 36.53,
+          "highPrice": 313.1,
+          "marketPrice": 30.91,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-11",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/11",
+    "localId": "11",
+    "name": "Misdreavus",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      200
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "description": "It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Night Eyes",
+        "effect": "The Defending Pokémon is now Asleep."
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "name": "Perish Song",
+        "effect": "If the Defending Pokémon is Asleep, and was attacked with Night Eyes during your last turn, it is Knocked Out."
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274597,
+        "avg": 60.53,
+        "low": 8,
+        "trend": 69.17,
+        "avg1": 24.8,
+        "avg7": 53.64,
+        "avg30": 52.69,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 19.08,
+        "avg1-holo": 19.32,
+        "avg7-holo": 17.72,
+        "avg30-holo": 17
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 87501,
+          "lowPrice": 99.99,
+          "midPrice": 548.75,
+          "highPrice": 9999,
+          "marketPrice": 143,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 87501,
+          "lowPrice": 50,
+          "midPrice": 99.99,
+          "highPrice": 338.98,
+          "marketPrice": 63.75,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-12",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/12",
+    "localId": "12",
+    "name": "Porygon2",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      233
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Porygon",
+    "description": "This upgraded version of Porygon is designed for space exploration. It can't fly, though.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Energy Converter",
+        "effect": "Once during your turn (before your attack), you may choose 1 Basic Energy card attached to 1 of your Pokémon and choose an Energy type. Treat that Energy card as that type until the end is your turn. This power can't be used if Porygon2 is Asleep, Confused, or Paralyzed. If Porygon2 becomes Asleep, Confused, or Paralyzed, the Energy card goes back to its original type."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Delta Beam",
+        "effect": "Flip a coin. If heads, choose whether the Defending Pokémon becomes Asleep, Confused, or Paralyzed.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274598,
+        "avg": 39.24,
+        "low": 8.99,
+        "trend": 29.85,
+        "avg1": 14.98,
+        "avg7": 32.01,
+        "avg30": 34.58,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 18.08,
+        "avg1-holo": 19.24,
+        "avg7-holo": 15.28,
+        "avg30-holo": 12.55
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 88322,
+          "lowPrice": 69.99,
+          "midPrice": 190,
+          "highPrice": 9999,
+          "marketPrice": 99,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 88322,
+          "lowPrice": 44.36,
+          "midPrice": 59.09,
+          "highPrice": 447.54,
+          "marketPrice": 47.51,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-13",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/13",
+    "localId": "13",
+    "name": "Raikou",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      243
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "description": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Lightning Burst",
+        "effect": "Whenever you attach a Lightning Energy card from your hand to Raikou, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. This power stops working while Raikou is Asleep, Confused, or Paralyzed."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Lightning Tackle",
+        "effect": "Flip a coin. If tails, Raikou does 20 damage to itself.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274599,
+        "avg": 159.55,
+        "low": 13.99,
+        "trend": 153.42,
+        "avg1": 99.95,
+        "avg7": 145.41,
+        "avg30": 153.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 70.09,
+        "avg1-holo": 33.32,
+        "avg7-holo": 54.62,
+        "avg30-holo": 42.4
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 88529,
+          "lowPrice": 499,
+          "midPrice": 513.97,
+          "highPrice": 6396,
+          "marketPrice": 347.54,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 88529,
+          "lowPrice": 137.75,
+          "midPrice": 173.75,
+          "highPrice": 1529.5,
+          "marketPrice": 200.86,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-14",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/14",
+    "localId": "14",
+    "name": "Suicune",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "3a83wf50ts0izj268xwv3crwi"
+      }
+    ],
+    "dexId": [
+      245
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "description": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Crystal Body",
+        "effect": "Prevent all effects of your opponent's attacks, other than damage, done to Suicune. This power stops working while Suicune is Asleep, Confused, or Paralyzed."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Aurora Wave",
+        "effect": "Flip 2 coins. If both are heads, the Defending Pokémon is now Paralyzed. If only 1 is heads, the Defending Pokémon is now Asleep.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274600,
+        "avg": 85.5,
+        "low": 22,
+        "trend": 106.22,
+        "avg1": 79.95,
+        "avg7": 112.49,
+        "avg30": 114.79,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 70.86,
+        "avg1-holo": 59.5,
+        "avg7-holo": 59.99,
+        "avg30-holo": 49.24
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition-holofoil": {
+          "productId": 89597,
+          "lowPrice": 339.99,
+          "midPrice": 360.83,
+          "highPrice": 9999,
+          "marketPrice": 460.7,
+          "directLowPrice": null
+        },
+        "unlimited-holofoil": {
+          "productId": 89597,
+          "lowPrice": 185,
+          "midPrice": 255.82,
+          "highPrice": 9999,
+          "marketPrice": 201.29,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-15",
+    "illustrator": "Shin-ichi Yoshida",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/15",
+    "localId": "15",
+    "name": "Aerodactyl",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      142
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "description": "A vicious Pokémon from the distant past, it appears to have flown by spreading its wings and gliding.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Prehistoric Memory",
+        "effect": "Whenever an Evolved Pokémon attacks (even if it's your opponent's), it can use any attack from its Basic card or any Evolution card attached to it. It still has to pay for that attack's Energy cost. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Fly",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Aerodactyl. If tails, this attack does nothing (not even damage).",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274601,
+        "avg": 9.9,
+        "low": 0.7,
+        "trend": 7.67,
+        "avg1": 5.98,
+        "avg7": 5.91,
+        "avg30": 8.44,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 15.42,
+        "avg1-holo": 12,
+        "avg7-holo": 19.76,
+        "avg30-holo": 9.55
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 83466,
+          "lowPrice": 22.99,
+          "midPrice": 29.08,
+          "highPrice": 245.8,
+          "marketPrice": 29.97,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 83466,
+          "lowPrice": 5.93,
+          "midPrice": 10.38,
+          "highPrice": 60.9,
+          "marketPrice": 7.3,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-16",
+    "illustrator": "Sumiyoshi Kizuki",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/16",
+    "localId": "16",
+    "name": "Celebi",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      251
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "description": "When Celebi disappears deep in a forest, it is said to leave behind an egg it brought from the future.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": "Psychic Leaf",
+        "effect": "Flip a coin for each Energy attached to the Defending Pokémon. This attack does 10 damage plus 10 more damage for each heads. Remove a number of damage counters from Celebi equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Celebi has fewer damage counters than that, remove all of them.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274589,
+        "avg": 89.85,
+        "low": 19,
+        "trend": 95.45,
+        "avg1": 84.95,
+        "avg7": 110.37,
+        "avg30": 76.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 47.59,
+        "avg1-holo": 34.99,
+        "avg7-holo": 71.32,
+        "avg30-holo": 46.49
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 84142,
+          "lowPrice": 35,
+          "midPrice": 55,
+          "highPrice": 229.9,
+          "marketPrice": 31.16,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 84142,
+          "lowPrice": 11.29,
+          "midPrice": 19.99,
+          "highPrice": 141.7,
+          "marketPrice": 16.54,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-17",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/17",
+    "localId": "17",
+    "name": "Entei",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      244
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "description": "A Pokémon that races across the land. It is said that one is born every time a new volcano appears.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Legendary Body",
+        "effect": "As long as Entei is your Active Pokémon, Entei and Energy cards attached to it aren't affected by effects from Trainer cards other than Trainer cards other than Stadium cards. As long as this power is active, discard all Trainer cards attached to Entei. (This power works even if Entei is Asleep, Confused, or Paralyzed.)"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "name": "Mega Flame",
+        "effect": "Flip 2 coins. For each tails, discard 1 Energy card from Entei, if it has any.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274592,
+        "avg": 145.83,
+        "low": 19.99,
+        "trend": 65.05,
+        "avg1": 140,
+        "avg7": 65.81,
+        "avg30": 137.32,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 71.29,
+        "avg1-holo": 99.99,
+        "avg7-holo": 80.43,
+        "avg30-holo": 48.47
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 85269,
+          "lowPrice": 44.75,
+          "midPrice": 84.9,
+          "highPrice": 849,
+          "marketPrice": 55.29,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 85269,
+          "lowPrice": 14,
+          "midPrice": 20.66,
+          "highPrice": 188.06,
+          "marketPrice": 20.32,
+          "directLowPrice": 29.95
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-18",
+    "illustrator": "Aya Kusube",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/18",
+    "localId": "18",
+    "name": "Ho-oh",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      250
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "description": "A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Rainbow Burn",
+        "effect": "This attack does 30 damage plus 10 more for each type of Basic Energy card if any, attached to Ho-oh",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274593,
+        "avg": 193.03,
+        "low": 25,
+        "trend": 216.51,
+        "avg1": 295,
+        "avg7": 282.9,
+        "avg30": 175.85,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 105.04,
+        "avg1-holo": 139.99,
+        "avg7-holo": 97.74,
+        "avg30-holo": 65.36
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 86119,
+          "lowPrice": 87,
+          "midPrice": 359,
+          "highPrice": 9999,
+          "marketPrice": 63.33,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 86119,
+          "lowPrice": 18.63,
+          "midPrice": 42.23,
+          "highPrice": 192.5,
+          "marketPrice": 23.26,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-19",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/19",
+    "localId": "19",
+    "name": "Kingdra",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      230
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Seadra",
+    "description": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Genetic Memory",
+        "effect": "Use any attack from Kingdra's Basic Pokémon card or Evolution card. (Kingdra doesn't have to pay for that attack's Energy cost.)"
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Twister",
+        "effect": "Flip 2 coins. For each heads, choose an Energy card attached to the Defending Pokémon, if any, and discard it. If both are tails, this attack does nothing (not even damage).",
+        "damage": 50
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274605,
+        "avg": 12.88,
+        "low": 0.99,
+        "trend": 3.46,
+        "avg1": 7.95,
+        "avg7": 6.9,
+        "avg30": 11.02,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 10.96,
+        "avg1-holo": 3.9,
+        "avg7-holo": 8.92,
+        "avg30-holo": 6.9
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 86442,
+          "lowPrice": 17.75,
+          "midPrice": 30,
+          "highPrice": 199.24,
+          "marketPrice": 19.86,
+          "directLowPrice": 179.99
+        },
+        "unlimited": {
+          "productId": 86442,
+          "lowPrice": 6.11,
+          "midPrice": 8.51,
+          "highPrice": 4320.25,
+          "marketPrice": 8.51,
+          "directLowPrice": 7.01
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-20",
+    "illustrator": "Aya Kusube",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/20",
+    "localId": "20",
+    "name": "Lugia",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      249
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "description": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Aerowing",
+        "effect": "You may flip a coin. If heads, this attack does 80 damage. If tails, this attack does nothing.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274606,
+        "avg": 20.6,
+        "low": 2,
+        "trend": 20.15,
+        "avg1": 25,
+        "avg7": 28.56,
+        "avg30": 24.9,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.66,
+        "avg1-holo": 3,
+        "avg7-holo": 4.59,
+        "avg30-holo": 4.59
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 86904,
+          "lowPrice": 350,
+          "midPrice": 474.97,
+          "highPrice": 4352.84,
+          "marketPrice": 118.31,
+          "directLowPrice": 474.97
+        },
+        "unlimited": {
+          "productId": 86904,
+          "lowPrice": 50,
+          "midPrice": 90,
+          "highPrice": 9999,
+          "marketPrice": 43.57,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-21",
+    "illustrator": "Masako Yamashita",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/21",
+    "localId": "21",
+    "name": "Raichu",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      26
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Pikachu",
+    "description": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Thundershock",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Lightning Strike",
+        "effect": "You may discard all Energy cards attached to Raichu. If you do, this attack does 80 damage.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274607,
+        "avg": 15.29,
+        "low": 0.93,
+        "trend": 8.43,
+        "avg1": 6.95,
+        "avg7": 5.48,
+        "avg30": 11.85,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.41,
+        "avg1-holo": 2.25,
+        "avg7-holo": 3.58,
+        "avg30-holo": 3.58
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 88500,
+          "lowPrice": 20.99,
+          "midPrice": 40.57,
+          "highPrice": 382.49,
+          "marketPrice": 34.4,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 88500,
+          "lowPrice": 7.5,
+          "midPrice": 17.99,
+          "highPrice": 81.92,
+          "marketPrice": 16.68,
+          "directLowPrice": 16.19
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-22",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/22",
+    "localId": "22",
+    "name": "Raikou",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      243
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "description": "A Pokémon that races across the land while barking a cry that sounds like crashing thunder.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Legendary Body",
+        "effect": "As long as Raikou is your Active Pokémon, Raikou and Energy cards attached to it aren't affected by effects from Trainer cards other than Trainer cards other than Stadium cards. As long as this power is active, discard all Trainer cards attached to Raikou. (This power works even if Raikou is Asleep, Confused, or Paralyzed.)"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Lightning Spark",
+        "effect": "If your opponent has any Benched Pokémon, flip a coin. If heads, choose 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274599,
+        "avg": 159.55,
+        "low": 13.99,
+        "trend": 153.42,
+        "avg1": 99.95,
+        "avg7": 145.41,
+        "avg30": 153.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 70.09,
+        "avg1-holo": 33.32,
+        "avg7-holo": 54.62,
+        "avg30-holo": 42.4
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 88530,
+          "lowPrice": 36.49,
+          "midPrice": 70,
+          "highPrice": 263.1,
+          "marketPrice": 48.99,
+          "directLowPrice": 73.97
+        },
+        "unlimited": {
+          "productId": 88530,
+          "lowPrice": 10.59,
+          "midPrice": 17,
+          "highPrice": 130,
+          "marketPrice": 15.73,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-23",
+    "illustrator": "Aya Kusube",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/23",
+    "localId": "23",
+    "name": "Skarmory",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      227
+    ],
+    "hp": 60,
+    "types": [
+      "Metal"
+    ],
+    "description": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Fury Attack",
+        "effect": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+        "damage": "10x"
+      },
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Agility",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Skarmory.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274609,
+        "avg": 6.48,
+        "low": 0.85,
+        "trend": 16.36,
+        "avg1": 5.95,
+        "avg7": 15.15,
+        "avg30": 8.89,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.16,
+        "avg1-holo": 3,
+        "avg7-holo": 2.39,
+        "avg30-holo": 2.39
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89233,
+          "lowPrice": 20.03,
+          "midPrice": 30.5,
+          "highPrice": 279.4,
+          "marketPrice": 27.27,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89233,
+          "lowPrice": 5.55,
+          "midPrice": 13.7,
+          "highPrice": 87.5,
+          "marketPrice": 11.67,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-24",
+    "illustrator": "Sumiyoshi Kizuki",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/24",
+    "localId": "24",
+    "name": "Sneasel",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      215
+    ],
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "description": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Swipe",
+        "effect": "Flip a coin. If heads, discard all Trainer cards attached to your opponent's Pokémon."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Quick Attack",
+        "effect": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+        "damage": "10+"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274610,
+        "avg": 5.87,
+        "low": 0.9,
+        "trend": 5.29,
+        "avg1": 6.49,
+        "avg7": 6.16,
+        "avg30": 6.25,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89366,
+          "lowPrice": 13.75,
+          "midPrice": 27.49,
+          "highPrice": 82.5,
+          "marketPrice": 16.25,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89366,
+          "lowPrice": 6.25,
+          "midPrice": 8.4,
+          "highPrice": 99.88,
+          "marketPrice": 6.86,
+          "directLowPrice": 7.52
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-25",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/25",
+    "localId": "25",
+    "name": "Starmie",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      121
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Staryu",
+    "description": "The center section of its body is called the core. It glows in a different color each time it is seen.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Confuse Ray",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Core Stream",
+        "effect": "Choose an Energy type other than . This attack does 20 damage to each of your opponent's Pokémon with any Energy cards of that type attached to it. Don't apply Weakness and Resistance."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274611,
+        "avg": 5.89,
+        "low": 0.5,
+        "trend": 4.91,
+        "avg1": 3.95,
+        "avg7": 5.63,
+        "avg30": 5.27,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 12.47,
+        "avg1-holo": 13,
+        "avg7-holo": 10.56,
+        "avg30-holo": 5.52
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89527,
+          "lowPrice": 8.75,
+          "midPrice": 13.99,
+          "highPrice": 112.05,
+          "marketPrice": 12.09,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89527,
+          "lowPrice": 3.29,
+          "midPrice": 7.27,
+          "highPrice": 69.99,
+          "marketPrice": 7.05,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-26",
+    "illustrator": "Sumiyoshi Kizuki",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/26",
+    "localId": "26",
+    "name": "Sudowoodo",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      185
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "description": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Mimic",
+        "effect": "As long as Sudowoodo is your Active Pokémon, it copies all of the Defending Pokémon's attacks, including their costs. This power can't be used if Sudowoodo is Asleep, Confused, or Paralyzed."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Slam",
+        "effect": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+        "damage": "20x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274612,
+        "avg": 3.74,
+        "low": 1,
+        "trend": 5.34,
+        "avg1": 6.99,
+        "avg7": 5.75,
+        "avg30": 4.86,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.5,
+        "avg1-holo": 1.5,
+        "avg7-holo": 1.5,
+        "avg30-holo": 1.5
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89590,
+          "lowPrice": 11,
+          "midPrice": 25.43,
+          "highPrice": 212,
+          "marketPrice": 18.16,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89590,
+          "lowPrice": 5,
+          "midPrice": 10.09,
+          "highPrice": 65.42,
+          "marketPrice": 9.47,
+          "directLowPrice": 65.42
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-27",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/27",
+    "localId": "27",
+    "name": "Suicune",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      245
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "This Pokémon races across the land. It is said that north winds will somehow blow whenever it appears.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Legendary Body",
+        "effect": "As long as Suicune is your Active Pokémon, Suicune and Energy cards attached to it aren't affected by effects from Trainer cards other than Trainer cards other than Stadium cards. As long as this power is active, discard all Trainer cards attached to Suicune. (This power works even if Suicune is Asleep, Confused, or Paralyzed.)"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Crystal Wave",
+        "effect": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage. If tails, this attack does 30 damage and, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274600,
+        "avg": 85.5,
+        "low": 22,
+        "trend": 106.22,
+        "avg1": 79.95,
+        "avg7": 112.49,
+        "avg30": 114.79,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 70.86,
+        "avg1-holo": 59.5,
+        "avg7-holo": 59.99,
+        "avg30-holo": 49.24
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89599,
+          "lowPrice": 49.95,
+          "midPrice": 62.99,
+          "highPrice": 632.5,
+          "marketPrice": 54.55,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89599,
+          "lowPrice": 14.5,
+          "midPrice": 23.19,
+          "highPrice": 344.9,
+          "marketPrice": 23.34,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-28",
+    "illustrator": "Toshinao Aoki",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/28",
+    "localId": "28",
+    "name": "Flaaffy",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      180
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Mareep",
+    "description": "Its fluffy fleece easily stores electricity. Its rubbery hide keeps it from being electrocuted.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Electric Punch",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Tail Shock",
+        "effect": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274614,
+        "avg": 2.31,
+        "low": 0.05,
+        "trend": 1.74,
+        "avg1": 1.5,
+        "avg7": 5.06,
+        "avg30": 2.87,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 85473,
+          "lowPrice": 3.25,
+          "midPrice": 4.88,
+          "highPrice": 53.1,
+          "marketPrice": 4.34,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 85473,
+          "lowPrice": 0.69,
+          "midPrice": 2,
+          "highPrice": 27007.04,
+          "marketPrice": 2.34,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-29",
+    "illustrator": "Masako Yamashita",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/29",
+    "localId": "29",
+    "name": "Golbat",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      42
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Zubat",
+    "description": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Screech",
+        "effect": "Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon."
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Poison Bite",
+        "effect": "If this attack damages the Defending Pokémon, the Defending Pokémon is now Poisoned and you remove a number of damage counters from Golbat equal to half that damage (rounded up to the nearest 10). If Golbat has fewer damage counters than that, remove all of them. Either way, the Defending Pokémon is now Poisoned.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274615,
+        "avg": 1.83,
+        "low": 0.05,
+        "trend": 1.25,
+        "avg1": 3,
+        "avg7": 1.13,
+        "avg30": 1.68,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 85790,
+          "lowPrice": 1.37,
+          "midPrice": 2.96,
+          "highPrice": 34.2,
+          "marketPrice": 2.92,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 85790,
+          "lowPrice": 0.45,
+          "midPrice": 1,
+          "highPrice": 22.99,
+          "marketPrice": 1.6,
+          "directLowPrice": 1.84
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-30",
+    "illustrator": "Yukiko Baba",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/30",
+    "localId": "30",
+    "name": "Graveler",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      75
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Geodude",
+    "description": "With a free and uncaring nature, it doesn't mind if pieces break off while it rolls down mountains.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Earthquake",
+        "effect": "Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Rock Tumble",
+        "effect": "Don't apply Resistance.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274616,
+        "avg": 0.95,
+        "low": 0.05,
+        "trend": 1.18,
+        "avg1": 0.84,
+        "avg7": 0.94,
+        "avg30": 0.99,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.4,
+        "avg1-holo": 0.4,
+        "avg7-holo": 0.4,
+        "avg30-holo": 0.4
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 85885,
+          "lowPrice": 1.75,
+          "midPrice": 2.5,
+          "highPrice": 31.3,
+          "marketPrice": 2.88,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 85885,
+          "lowPrice": 0.64,
+          "midPrice": 1.02,
+          "highPrice": 20.99,
+          "marketPrice": 1.15,
+          "directLowPrice": 2.52
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-31",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/31",
+    "localId": "31",
+    "name": "Jynx",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      124
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Freezing Kiss Goodnight",
+        "effect": "The Defending Pokémon is now Asleep."
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Strange Dance",
+        "effect": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage and the Defending Pokémon is now Confused. If tails, this attack does 20 damage.",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274617,
+        "avg": 2.17,
+        "low": 0.04,
+        "trend": 3.26,
+        "avg1": 1.05,
+        "avg7": 1.69,
+        "avg30": 2.24,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 86373,
+          "lowPrice": 16.5,
+          "midPrice": 49.99,
+          "highPrice": 88.02,
+          "marketPrice": 11.29,
+          "directLowPrice": 49.99
+        },
+        "unlimited": {
+          "productId": 86373,
+          "lowPrice": 2,
+          "midPrice": 3.76,
+          "highPrice": 96.95,
+          "marketPrice": 3.73,
+          "directLowPrice": 5.07
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-32",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/32",
+    "localId": "32",
+    "name": "Lanturn",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      171
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Chinchou",
+    "description": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Submerge",
+        "effect": "Once during your turn (before your attack), you may change Lanturn's type to Water until the end of your turn. This power can't be used if Lanturn is Asleep, Confused, or Paralyzed. If Lanturn becomes Asleep, Confused, or Paralyzed after you have used this power, its type changes back to Lightning."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Blinding Light",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274618,
+        "avg": 1.08,
+        "low": 0.03,
+        "trend": 0.69,
+        "avg1": 0.35,
+        "avg7": 1.26,
+        "avg30": 1.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 86602,
+          "lowPrice": 1.78,
+          "midPrice": 2.98,
+          "highPrice": 4321,
+          "marketPrice": 2.54,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 86602,
+          "lowPrice": 0.5,
+          "midPrice": 1.11,
+          "highPrice": 21.25,
+          "marketPrice": 1.24,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-33",
+    "illustrator": "Shin-ichi Yoshida",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/33",
+    "localId": "33",
+    "name": "Magcargo",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      219
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Slugma",
+    "description": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Magma Pool",
+        "effect": "If Magcargo is your Active Pokémon and moves to the Bench, remove 1 Fire Energy card attached to Magcargo, if any, and attach it to the new Active Pokémon. (You can't use an Energy card that you used to pay for the Retreat Cost.)"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "name": "Lava Flow",
+        "effect": "You may discard any number of Energy cards attached to Magcargo when you use this attack. If you do, this attack does 40 damage plus 20 more damage for each Energy card you discarded in this way.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274619,
+        "avg": 1.14,
+        "low": 0.02,
+        "trend": 0.91,
+        "avg1": 0.4,
+        "avg7": 0.9,
+        "avg30": 1.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 87012,
+          "lowPrice": 2.59,
+          "midPrice": 5.86,
+          "highPrice": 179.07,
+          "marketPrice": 6.27,
+          "directLowPrice": 179.07
+        },
+        "unlimited": {
+          "productId": 87012,
+          "lowPrice": 0.69,
+          "midPrice": 1.51,
+          "highPrice": 4321,
+          "marketPrice": 2.19,
+          "directLowPrice": 5.24
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-34",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/34",
+    "localId": "34",
+    "name": "Octillery",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      224
+    ],
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Remoraid",
+    "description": "It traps enemies with its suction cupped tentacles then smashes them with its rockhard head.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Constrict",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Octazooka",
+        "effect": "Flip a coin. If heads, whenever the Defending Pokémon attacks, your opponent flips a coin. If tails that attack does nothing. (Benching or evolving that Pokémon ends this effect.)",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274620,
+        "avg": 2.67,
+        "low": 0.09,
+        "trend": 4.83,
+        "avg1": 2.46,
+        "avg7": 2.51,
+        "avg30": 2.53,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 87830,
+          "lowPrice": 3,
+          "midPrice": 8,
+          "highPrice": 59.9,
+          "marketPrice": 7.53,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 87830,
+          "lowPrice": 0.99,
+          "midPrice": 1.89,
+          "highPrice": 47.7,
+          "marketPrice": 2.99,
+          "directLowPrice": 47.69
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-35",
+    "illustrator": "Atsuko Nishida",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/35",
+    "localId": "35",
+    "name": "Parasect",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      47
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Paras",
+    "description": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mushrooms on its back.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Pokemon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": "Sleep Pinchers",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274621,
+        "avg": 2.04,
+        "low": 0.05,
+        "trend": 1.09,
+        "avg1": 0.8,
+        "avg7": 1.1,
+        "avg30": 1.78,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 87955,
+          "lowPrice": 2,
+          "midPrice": 4.8,
+          "highPrice": 33.1,
+          "marketPrice": 2.88,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 87955,
+          "lowPrice": 0.56,
+          "midPrice": 1.21,
+          "highPrice": 27831.64,
+          "marketPrice": 1.52,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-36",
+    "illustrator": "Atsuko Nishida",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/36",
+    "localId": "36",
+    "name": "Piloswine",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      221
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Swinub",
+    "description": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Nap",
+        "effect": "Remove 3 damage counters from Piloswine. If it has fewer damage counters than that, remove all of them."
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "High-Speed Charge",
+        "effect": "Piloswine does 30 damage to itself. Piloswine can't use this attack during your next turn.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274622,
+        "avg": 1.19,
+        "low": 0.05,
+        "trend": 1.33,
+        "avg1": 0.79,
+        "avg7": 1.19,
+        "avg30": 1.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 88114,
+          "lowPrice": 1,
+          "midPrice": 2.28,
+          "highPrice": 33.1,
+          "marketPrice": 2.75,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 88114,
+          "lowPrice": 0.62,
+          "midPrice": 1.31,
+          "highPrice": 23.49,
+          "marketPrice": 1.34,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-37",
+    "illustrator": "Miki Tanaka",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/37",
+    "localId": "37",
+    "name": "Seaking",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      119
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Goldeen",
+    "description": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Rising Lunge",
+        "effect": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage. If tails, this attack does 10 damage.",
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Horn Swipe",
+        "effect": "Flip 2 coins. If both are heads, this attack does 20 damage plus 40 more damage. If 1 or both are tails, this attack does 20 damage.",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274623,
+        "avg": 1.16,
+        "low": 0.02,
+        "trend": 1.19,
+        "avg1": 3.5,
+        "avg7": 1.24,
+        "avg30": 1.1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89022,
+          "lowPrice": 1.75,
+          "midPrice": 3,
+          "highPrice": 31.7,
+          "marketPrice": 2.53,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89022,
+          "lowPrice": 0.59,
+          "midPrice": 1.24,
+          "highPrice": 22,
+          "marketPrice": 2,
+          "directLowPrice": 3.98
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-38",
+    "illustrator": "Yukiko Baba",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/38",
+    "localId": "38",
+    "name": "Stantler",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      234
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "description": "Those who stare at its antlers will gradually lose control of their senses and be unable to stand.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Terrorize",
+        "effect": "If the Defending Pokémon is a Basic, choose 1 of its attacks. That Pokémon can't use that attack during your opponent's next turn."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Overhead Toss",
+        "effect": "If you have any Benched Pokémon, flip a coin. If tails, this attack does 10 damage to 1 of them. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274624,
+        "avg": 1.56,
+        "low": 0.1,
+        "trend": 1.46,
+        "avg1": 0.53,
+        "avg7": 2.31,
+        "avg30": 1.41,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89500,
+          "lowPrice": 1,
+          "midPrice": 3.98,
+          "highPrice": 32.1,
+          "marketPrice": 2.8,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89500,
+          "lowPrice": 0.52,
+          "midPrice": 1.06,
+          "highPrice": 19.14,
+          "marketPrice": 1.14,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-39",
+    "illustrator": "CR CG gangs",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/39",
+    "localId": "39",
+    "name": "Unown [B]",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      201
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "description": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "[Bear]",
+        "effect": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon with Unown in its name to Unown . This power can't be used if Unown has 10 HP left. This power can be used even if Unown is Asleep, Confused, or Paralyzed."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Hidden Power",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274625,
+        "avg": 1.55,
+        "low": 0.05,
+        "trend": 1.76,
+        "avg1": 1.26,
+        "avg7": 3.32,
+        "avg30": 1.78,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 90199,
+          "lowPrice": 4,
+          "midPrice": 19.99,
+          "highPrice": 62.5,
+          "marketPrice": 4.96,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 90199,
+          "lowPrice": 0.75,
+          "midPrice": 2,
+          "highPrice": 68.85,
+          "marketPrice": 3.18,
+          "directLowPrice": 68.85
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-40",
+    "illustrator": "CR CG gangs",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/40",
+    "localId": "40",
+    "name": "Unown [Y]",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      201
+    ],
+    "hp": 40,
+    "types": [
+      "Psychic"
+    ],
+    "description": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "[Yield]",
+        "effect": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a Psychic Energy card and attach it to 1 of your Pokémon with Unown in its name. Shuffle your deck afterward. This power can be used even if Unown is Asleep, Confused, or Paralyzed."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Hidden Power",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274626,
+        "avg": 1.13,
+        "low": 0.1,
+        "trend": 1.1,
+        "avg1": 0.85,
+        "avg7": 0.9,
+        "avg30": 1.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 90244,
+          "lowPrice": 2.25,
+          "midPrice": 5.99,
+          "highPrice": 44.03,
+          "marketPrice": 4.83,
+          "directLowPrice": 44.03
+        },
+        "unlimited": {
+          "productId": 90244,
+          "lowPrice": 0.88,
+          "midPrice": 1.88,
+          "highPrice": 96.87,
+          "marketPrice": 2.66,
+          "directLowPrice": 3.32
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-41",
+    "illustrator": "Sumiyoshi Kizuki",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/41",
+    "localId": "41",
+    "name": "Aipom",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      190
+    ],
+    "hp": 40,
+    "types": [
+      "Colorless"
+    ],
+    "description": "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Grab",
+        "effect": "Choose a Trainer card attached to 1 of your opponent's Pokémon. Your opponent shuffles that card into his or her deck."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Tail Punch",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274627,
+        "avg": 0.85,
+        "low": 0.02,
+        "trend": 0.88,
+        "avg1": 0.25,
+        "avg7": 1.52,
+        "avg30": 0.79,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 83486,
+          "lowPrice": 1.5,
+          "midPrice": 2.91,
+          "highPrice": 4321,
+          "marketPrice": 1.99,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 83486,
+          "lowPrice": 0.34,
+          "midPrice": 0.68,
+          "highPrice": 63.05,
+          "marketPrice": 0.75,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-42",
+    "illustrator": "Atsuko Nishida",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/42",
+    "localId": "42",
+    "name": "Chinchou",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      170
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "description": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Positive Ion",
+        "effect": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage. If tails, this attack does 10 damage.",
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Negative Ion",
+        "effect": "If the Defending Pokémon attacks Chinchou during your opponent's next turn, any damage done to Chinchou is reduced by 10 (before applying Weakness and Resistance). (Benching either Pokémon ends this effect.)",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274628,
+        "avg": 0.79,
+        "low": 0.02,
+        "trend": 0.54,
+        "avg1": 0.2,
+        "avg7": 0.93,
+        "avg30": 0.74,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 84299,
+          "lowPrice": 1,
+          "midPrice": 2,
+          "highPrice": 4321,
+          "marketPrice": 1.69,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 84299,
+          "lowPrice": 0.24,
+          "midPrice": 0.5,
+          "highPrice": 20.46,
+          "marketPrice": 0.46,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-43",
+    "illustrator": "Miki Tanaka",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/43",
+    "localId": "43",
+    "name": "Farfetch'd",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      83
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "description": "If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Gust",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Leek Jab",
+        "effect": "This attack can't be used during your next turn. (Benching Farfetch'd ends this effect.)",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274629,
+        "avg": 0.65,
+        "low": 0.02,
+        "trend": 0.5,
+        "avg1": 0.18,
+        "avg7": 0.35,
+        "avg30": 0.59,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 85382,
+          "lowPrice": 19,
+          "midPrice": 30.7,
+          "highPrice": 32.7,
+          "marketPrice": 2.88,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 85382,
+          "lowPrice": 0.3,
+          "midPrice": 0.62,
+          "highPrice": 20.5,
+          "marketPrice": 0.99,
+          "directLowPrice": 0.67
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-44",
+    "illustrator": "Masako Yamashita",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/44",
+    "localId": "44",
+    "name": "Geodude",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      74
+    ],
+    "hp": 40,
+    "types": [
+      "Fighting"
+    ],
+    "description": "It uses its arms to steadily climb steep mountain paths. It swings its fists around if angered.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Knuckle Punch",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274630,
+        "avg": 0.47,
+        "low": 0.02,
+        "trend": 0.43,
+        "avg1": 0.28,
+        "avg7": 0.56,
+        "avg30": 0.49,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 85683,
+          "lowPrice": 1.15,
+          "midPrice": 2.08,
+          "highPrice": 25.6,
+          "marketPrice": 1.82,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 85683,
+          "lowPrice": 0.25,
+          "midPrice": 0.6,
+          "highPrice": 4321,
+          "marketPrice": 0.64,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-45",
+    "illustrator": "Yuka Morii",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/45",
+    "localId": "45",
+    "name": "Goldeen",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      118
+    ],
+    "hp": 40,
+    "types": [
+      "Water"
+    ],
+    "description": "Its dorsal, pectoral and tail fins wave elegantly in the water. That is why it is known as the water dancer.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Fin Smack",
+        "effect": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+        "damage": "10x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274631,
+        "avg": 0.89,
+        "low": 0.02,
+        "trend": 0.6,
+        "avg1": 0.53,
+        "avg7": 0.71,
+        "avg30": 0.89,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 85801,
+          "lowPrice": 2.23,
+          "midPrice": 5,
+          "highPrice": 38,
+          "marketPrice": 4.03,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 85801,
+          "lowPrice": 1.5,
+          "midPrice": 3,
+          "highPrice": 37.7,
+          "marketPrice": 2.83,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-46",
+    "illustrator": "Hironobu Yoshida",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/46",
+    "localId": "46",
+    "name": "Murkrow",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      198
+    ],
+    "hp": 40,
+    "types": [
+      "Darkness"
+    ],
+    "description": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Call for Family",
+        "effect": "Search your deck for a card named Murkrow and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Flock Attack",
+        "effect": "Flip a number of coins equal to the number of Murkrows on your Bench. This attack does 10 damage plus 10 more damage for each heads.",
+        "damage": "10+"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274632,
+        "avg": 0.75,
+        "low": 0.02,
+        "trend": 1.11,
+        "avg1": 0.33,
+        "avg7": 1.29,
+        "avg30": 0.84,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.25,
+        "avg1-holo": 0.25,
+        "avg7-holo": 0.25,
+        "avg30-holo": 0.25
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 87647,
+          "lowPrice": 1.75,
+          "midPrice": 6.4,
+          "highPrice": 39.8,
+          "marketPrice": 3.08,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 87647,
+          "lowPrice": 0.2,
+          "midPrice": 0.84,
+          "highPrice": 20.71,
+          "marketPrice": 0.88,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-47",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/47",
+    "localId": "47",
+    "name": "Paras",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      46
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "description": "It is doused with mushroom spores when it is born. As its body grows, mushrooms sprout from its back.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Sleep Spore",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Scratch",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274633,
+        "avg": 0.71,
+        "low": 0.02,
+        "trend": 0.74,
+        "avg1": 0.25,
+        "avg7": 0.73,
+        "avg30": 0.7,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 87947,
+          "lowPrice": 1.38,
+          "midPrice": 3.99,
+          "highPrice": 4321,
+          "marketPrice": 2.58,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 87947,
+          "lowPrice": 0.3,
+          "midPrice": 0.69,
+          "highPrice": 18.3,
+          "marketPrice": 0.69,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-48",
+    "illustrator": "Yuka Morii",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/48",
+    "localId": "48",
+    "name": "Quagsire",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      195
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Wooper",
+    "description": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Mud Slap",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Whirlpool",
+        "effect": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274634,
+        "avg": 0.94,
+        "low": 0.04,
+        "trend": 0.79,
+        "avg1": 0.2,
+        "avg7": 0.89,
+        "avg30": 1.02,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 88469,
+          "lowPrice": 9,
+          "midPrice": 19.52,
+          "highPrice": 57.44,
+          "marketPrice": 10.74,
+          "directLowPrice": 24.99
+        },
+        "unlimited": {
+          "productId": 88469,
+          "lowPrice": 3,
+          "midPrice": 5.61,
+          "highPrice": 96.29,
+          "marketPrice": 5.33,
+          "directLowPrice": 11.37
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-49",
+    "illustrator": "Sumiyoshi Kizuki",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/49",
+    "localId": "49",
+    "name": "Qwilfish",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      211
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Poison Sting",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Needle Storm",
+        "effect": "Flip a coin until you get tails. This attack does 20 damage times the number of heads you get.",
+        "damage": "20x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274635,
+        "avg": 0.77,
+        "low": 0.02,
+        "trend": 0.41,
+        "avg1": 1.08,
+        "avg7": 0.5,
+        "avg30": 0.75,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 88492,
+          "lowPrice": 0.95,
+          "midPrice": 3.74,
+          "highPrice": 33,
+          "marketPrice": 2.01,
+          "directLowPrice": 4.02
+        },
+        "unlimited": {
+          "productId": 88492,
+          "lowPrice": 0.25,
+          "midPrice": 0.76,
+          "highPrice": 4321,
+          "marketPrice": 0.8,
+          "directLowPrice": 2.49
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-50",
+    "illustrator": "Miki Tanaka",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/50",
+    "localId": "50",
+    "name": "Remoraid",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      223
+    ],
+    "hp": 40,
+    "types": [
+      "Water"
+    ],
+    "description": "It has superb accuracy. The water it shoots out can strike even moving prey from more than 300 feet.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Sharpshooting",
+        "effect": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. Don't apply Weakness and Resistance."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274636,
+        "avg": 0.39,
+        "low": 0.02,
+        "trend": 0.43,
+        "avg1": 1.12,
+        "avg7": 0.52,
+        "avg30": 0.5,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 88692,
+          "lowPrice": 0.99,
+          "midPrice": 2,
+          "highPrice": 26.2,
+          "marketPrice": 1.82,
+          "directLowPrice": 2.67
+        },
+        "unlimited": {
+          "productId": 88692,
+          "lowPrice": 0.25,
+          "midPrice": 0.61,
+          "highPrice": 20.59,
+          "marketPrice": 0.61,
+          "directLowPrice": 0.43
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-51",
+    "illustrator": "Yuka Morii",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/51",
+    "localId": "51",
+    "name": "Shuckle",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      213
+    ],
+    "hp": 40,
+    "types": [
+      "Fighting"
+    ],
+    "description": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Hard Shell",
+        "effect": "Whenever an attack (including your own) does 40 or less damage to Shuckle (after applying Weakness and Resistance), reduce that damage to 10. (Any other effects of attacks still happen.) This power stops working while Shuckle is Asleep, Confused, or Paralyzed."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": "Toxic Saliva",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. It now takes 20 Poison damage after each player's turn (even if it was already Poisoned)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274637,
+        "avg": 1.12,
+        "low": 0.02,
+        "trend": 0.66,
+        "avg1": 0.35,
+        "avg7": 0.95,
+        "avg30": 1.1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89187,
+          "lowPrice": 9.69,
+          "midPrice": 16.95,
+          "highPrice": 67.5,
+          "marketPrice": 17.02,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89187,
+          "lowPrice": 2.44,
+          "midPrice": 5,
+          "highPrice": 4321,
+          "marketPrice": 4.94,
+          "directLowPrice": 31.4
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-52",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/52",
+    "localId": "52",
+    "name": "Skiploom",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      188
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Hoppip",
+    "description": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Hop",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Mysterious Powder",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274638,
+        "avg": 0.68,
+        "low": 0.02,
+        "trend": 0.38,
+        "avg1": 0.23,
+        "avg7": 0.43,
+        "avg30": 0.47,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89253,
+          "lowPrice": 1.15,
+          "midPrice": 2.99,
+          "highPrice": 39.99,
+          "marketPrice": 3.47,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89253,
+          "lowPrice": 0.3,
+          "midPrice": 0.79,
+          "highPrice": 4321,
+          "marketPrice": 0.79,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-53",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/53",
+    "localId": "53",
+    "name": "Slugma",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      218
+    ],
+    "hp": 50,
+    "types": [
+      "Fire"
+    ],
+    "description": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Flare",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": "Magma Ring",
+        "effect": "The Defending Pokémon can't retreat during your opponent's next turn.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274639,
+        "avg": 1.22,
+        "low": 0.02,
+        "trend": 0.66,
+        "avg1": 0.15,
+        "avg7": 0.46,
+        "avg30": 1.1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89336,
+          "lowPrice": 1.22,
+          "midPrice": 1.87,
+          "highPrice": 19.98,
+          "marketPrice": 1.87,
+          "directLowPrice": 5.6
+        },
+        "unlimited": {
+          "productId": 89336,
+          "lowPrice": 0.32,
+          "midPrice": 0.54,
+          "highPrice": 4321,
+          "marketPrice": 0.45,
+          "directLowPrice": 0.42
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-54",
+    "illustrator": "Atsuko Nishida",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/54",
+    "localId": "54",
+    "name": "Smoochum",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      238
+    ],
+    "hp": 30,
+    "types": [
+      "Psychic"
+    ],
+    "description": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Psykiss",
+        "effect": "Flip a coin. If heads, choose a Special Energy card attached to 1 of your opponent's Pokémon. Your opponent shuffles that card into his or her deck."
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274640,
+        "avg": 1.09,
+        "low": 0.02,
+        "trend": 0.36,
+        "avg1": 1.36,
+        "avg7": 0.57,
+        "avg30": 0.89,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89359,
+          "lowPrice": 1.49,
+          "midPrice": 2.96,
+          "highPrice": 95.63,
+          "marketPrice": 4.73,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89359,
+          "lowPrice": 0.49,
+          "midPrice": 1.06,
+          "highPrice": 37.7,
+          "marketPrice": 1.34,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-55",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/55",
+    "localId": "55",
+    "name": "Snubbull",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      209
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "description": "It has an active, playful nature. Many people like to frolic with it because of its affectionate ways.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Bite",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Raging Headbutt",
+        "effect": "Flip a coin. If heads, this attack does 10 damage plus 10 damage times the number of damage counters on Snubbull. If tails, this attack does 10 damage.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274641,
+        "avg": 2.17,
+        "low": 0.02,
+        "trend": 1.87,
+        "avg1": 0.47,
+        "avg7": 1.49,
+        "avg30": 2.18,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89411,
+          "lowPrice": 1.7,
+          "midPrice": 3,
+          "highPrice": 36.22,
+          "marketPrice": 3.22,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89411,
+          "lowPrice": 0.45,
+          "midPrice": 0.96,
+          "highPrice": 21.1,
+          "marketPrice": 1.12,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-56",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/56",
+    "localId": "56",
+    "name": "Staryu",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      120
+    ],
+    "hp": 40,
+    "types": [
+      "Water"
+    ],
+    "description": "At night, the center of its body slowly flickers with the same rhythm as a human heartbeat.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Tackle",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Bubblebeam",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274642,
+        "avg": 0.78,
+        "low": 0.02,
+        "trend": 1.04,
+        "avg1": 0.43,
+        "avg7": 0.64,
+        "avg30": 0.74,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89542,
+          "lowPrice": 1.21,
+          "midPrice": 2.65,
+          "highPrice": 35.1,
+          "marketPrice": 2.53,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89542,
+          "lowPrice": 0.2,
+          "midPrice": 0.69,
+          "highPrice": 4321,
+          "marketPrice": 0.69,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-57",
+    "illustrator": "Miki Tanaka",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/57",
+    "localId": "57",
+    "name": "Swinub",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      220
+    ],
+    "hp": 40,
+    "types": [
+      "Fighting"
+    ],
+    "description": "If it smells something enticing, it dashes headlong off to find the source of the aroma.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Tackle",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Take Down",
+        "effect": "Swinub does 10 damage to itself.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274643,
+        "avg": 0.65,
+        "low": 0.02,
+        "trend": 0.42,
+        "avg1": 0.13,
+        "avg7": 0.27,
+        "avg30": 0.58,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 89697,
+          "lowPrice": 1,
+          "midPrice": 1.83,
+          "highPrice": 19.98,
+          "marketPrice": 1.87,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 89697,
+          "lowPrice": 0.25,
+          "midPrice": 0.55,
+          "highPrice": 19.98,
+          "marketPrice": 0.56,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-58",
+    "illustrator": "CR CG gangs",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/58",
+    "localId": "58",
+    "name": "Unown [K]",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      201
+    ],
+    "hp": 40,
+    "types": [
+      "Psychic"
+    ],
+    "description": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "[Keep]",
+        "effect": "Your opponent's attacks, Pokémon Powers, and Trainer cards can't discard Energy cards from your Pokémon with Unown in their names. (Any other effects of attacks still happen.)"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Hidden Power",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274644,
+        "avg": 0.81,
+        "low": 0.02,
+        "trend": 0.3,
+        "avg1": 0.14,
+        "avg7": 0.44,
+        "avg30": 0.79,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 90217,
+          "lowPrice": 1.46,
+          "midPrice": 2.49,
+          "highPrice": 28.01,
+          "marketPrice": 2.47,
+          "directLowPrice": 19.21
+        },
+        "unlimited": {
+          "productId": 90217,
+          "lowPrice": 0.42,
+          "midPrice": 0.78,
+          "highPrice": 21.02,
+          "marketPrice": 1.02,
+          "directLowPrice": 0.92
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-59",
+    "illustrator": "Yukiko Baba",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/59",
+    "localId": "59",
+    "name": "Zubat",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      41
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "description": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Bite",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Poison Spray",
+        "effect": "The Defending Pokémon is now Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274645,
+        "avg": 0.46,
+        "low": 0.02,
+        "trend": 0.54,
+        "avg1": 0.3,
+        "avg7": 0.42,
+        "avg30": 0.42,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 90766,
+          "lowPrice": 0.6,
+          "midPrice": 2.38,
+          "highPrice": 33.9,
+          "marketPrice": 2.46,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 90766,
+          "lowPrice": 0.28,
+          "midPrice": 0.57,
+          "highPrice": 4321,
+          "marketPrice": 0.57,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "neo3-60",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/60",
+    "localId": "60",
+    "name": "Balloon Berry",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "effect": "Attach Balloon Berry to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it. When the Pokémon Balloon Berry is attached to retreats, discard Balloon Berry instead of discarding Energy cards.",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274646,
+        "avg": 0.59,
+        "low": 0.05,
+        "trend": 0.46,
+        "avg1": 1.23,
+        "avg7": 0.58,
+        "avg30": 0.57,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 83707,
+          "lowPrice": 0.5,
+          "midPrice": 1.19,
+          "highPrice": 4321,
+          "marketPrice": 1.22,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 83707,
+          "lowPrice": 0.19,
+          "midPrice": 0.72,
+          "highPrice": 20.6,
+          "marketPrice": 0.77,
+          "directLowPrice": 1
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "neo3-61",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/61",
+    "localId": "61",
+    "name": "Healing Field",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "effect": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. Once during each player's turn, he or she may flip a coin. If heads, that player removes 2 damage counters from his or her Active Pokémon (1 if it only has 1).",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274647,
+        "avg": 0.89,
+        "low": 0.03,
+        "trend": 0.45,
+        "avg1": 0.53,
+        "avg7": 0.69,
+        "avg30": 0.84,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 86041,
+          "lowPrice": 0.8,
+          "midPrice": 1.38,
+          "highPrice": 19.98,
+          "marketPrice": 1.37,
+          "directLowPrice": 3.15
+        },
+        "unlimited": {
+          "productId": 86041,
+          "lowPrice": 0.4,
+          "midPrice": 0.8,
+          "highPrice": 4321,
+          "marketPrice": 0.93,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "neo3-62",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/62",
+    "localId": "62",
+    "name": "Pokémon Breeder Fields",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "effect": "Flip a coin for 1 or 2 of your non-Baby Pokémon that can evolve. For each heads, search your deck for a later-Stage card that matches that Pokémon. Then put that card into your hand. Shuffle your deck afterward.",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274648,
+        "avg": 3.18,
+        "low": 0.08,
+        "trend": 1.41,
+        "avg1": 0.76,
+        "avg7": 1.39,
+        "avg30": 2.63,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "neo3-63",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/63",
+    "localId": "63",
+    "name": "Rocket's Hideout",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "effect": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. Each Pokémon in play with Dark in its name (even your opponent's) gets +20 HP.",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274649,
+        "avg": 4.48,
+        "low": 0.03,
+        "trend": 2.36,
+        "avg1": 1.98,
+        "avg7": 1.7,
+        "avg30": 4.17,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 88770,
+          "lowPrice": 30,
+          "midPrice": 39,
+          "highPrice": 2500,
+          "marketPrice": 38.88,
+          "directLowPrice": null
+        },
+        "unlimited": {
+          "productId": 88770,
+          "lowPrice": 4,
+          "midPrice": 11.78,
+          "highPrice": 319.49,
+          "marketPrice": 11.8,
+          "directLowPrice": 29.81
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "neo3-64",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/64",
+    "localId": "64",
+    "name": "Old Rod",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "effect": "Flip 2 coins. If both are heads, put a Baby Pokémon, Basic Pokémon, or Evolution card from your discard pile into your hand. If both are tails, put a Trainer card from your discard pile into your hand.",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:41:17+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274650,
+        "avg": 0.41,
+        "low": 0.02,
+        "trend": 0.36,
+        "avg1": 0.33,
+        "avg7": 0.44,
+        "avg30": 0.59,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "1st-edition": {
+          "productId": 87851,
+          "lowPrice": 0.4,
+          "midPrice": 0.86,
+          "highPrice": 10,
+          "marketPrice": 0.82,
+          "directLowPrice": 0.75
+        },
+        "unlimited": {
+          "productId": 87851,
+          "lowPrice": 0.18,
+          "midPrice": 0.39,
+          "highPrice": 20.32,
+          "marketPrice": 0.32,
+          "directLowPrice": 0.25
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-65",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/65",
+    "localId": "65",
+    "name": "Shining Gyarados",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      130
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "description": "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Outrage",
+        "effect": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage for each damage counter on Shining Gyarados. If tails, this attack does nothing.",
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Fire",
+          "Fire"
+        ],
+        "name": "Devastate",
+        "effect": "Discard 2 Energy cards attached to Shining Gyarados or this attack does nothing. This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Then, flip a coin. If heads, choose 1 Energy card attached to each of your opponent's Pokémon that has any Energy cards attached to it and discard those Energy cards.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274651,
+        "avg": 527.72,
+        "low": 100,
+        "trend": 834.49,
+        "avg1": 1300,
+        "avg7": 604.12,
+        "avg30": 719.14,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 73.71,
+        "avg1-holo": 85,
+        "avg7-holo": 100.95,
+        "avg30-holo": 110.06
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "unlimited-holofoil": {
+          "productId": 89164,
+          "lowPrice": 414.99,
+          "midPrice": 666.69,
+          "highPrice": 796.04,
+          "marketPrice": 573.61,
+          "directLowPrice": null
+        },
+        "1st-edition-holofoil": {
+          "productId": 89164,
+          "lowPrice": 999.99,
+          "midPrice": 999.99,
+          "highPrice": 999.99,
+          "marketPrice": null,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "neo3-66",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/neo/neo3/66",
+    "localId": "66",
+    "name": "Shining Magikarp",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 66
+      },
+      "id": "neo3",
+      "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+      "name": "Neo Revelation",
+      "symbol": "https://assets.tcgdex.net/univ/neo/neo3/symbol"
+    },
+    "variants": {
+      "firstEdition": true,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      },
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "1st-edition"
+        ],
+        "variantId": "2fnyg4g532wu2uft0spaa3eefrz"
+      }
+    ],
+    "dexId": [
+      129
+    ],
+    "hp": 30,
+    "types": [
+      "Water"
+    ],
+    "description": "An underpowered, pathetic Pokémon. It may jump high on rare occasions, but never more than seven feet.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Gold Scale",
+        "effect": "Your opponent may draw 2 cards. Either way, you may draw 2 cards."
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Dragon Bond",
+        "effect": "Search your deck for a card named Gyarados, Dark Gyarados, or Shining Gyarados. Show it to your opponent and put it into your hand. Shuffle your deck afterward."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:39:41+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 274652,
+        "avg": 269.69,
+        "low": 80,
+        "trend": 317.69,
+        "avg1": 550,
+        "avg7": 413.88,
+        "avg30": 342.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 85.59,
+        "avg1-holo": 55,
+        "avg7-holo": 120.9,
+        "avg30-holo": 126.4
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.976Z",
+        "unlimited-holofoil": {
+          "productId": 89166,
+          "lowPrice": 241.98,
+          "midPrice": 242.97,
+          "highPrice": 354.98,
+          "marketPrice": 445,
+          "directLowPrice": null
+        }
+      }
+    }
+  }
+]

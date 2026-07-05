@@ -1,0 +1,58 @@
+{
+  "name": "Naclstack",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "me01-083",
+      "name": "Naclstack",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "083",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/083",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sv02-122",
+      "name": "Naclstack",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "122",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/122",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv04.5-177",
+      "name": "Naclstack",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "177",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/177",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv04-103",
+      "name": "Naclstack",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "103",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/103",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    }
+  ]
+}

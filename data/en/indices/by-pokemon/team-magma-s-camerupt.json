@@ -1,0 +1,32 @@
+{
+  "name": "Team Magma's Camerupt",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dc1-2",
+      "name": "Team Magma's Camerupt",
+      "set": "dc1",
+      "setName": "Double Crisis",
+      "number": "2",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/dc1/2",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "ex4-19",
+      "name": "Team Magma's Camerupt",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "19",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/19",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Katsura Tabata"
+    }
+  ]
+}

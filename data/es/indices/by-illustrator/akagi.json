@@ -1,0 +1,432 @@
+{
+  "name": "akagi",
+  "totalCards": 34,
+  "cards": [
+    {
+      "id": "A2-150",
+      "name": "Helio",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "150",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/150",
+      "types": null,
+      "illustrator": "akagi"
+    },
+    {
+      "id": "A2-190",
+      "name": "Helio",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "190",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/190",
+      "types": null,
+      "illustrator": "akagi"
+    },
+    {
+      "id": "A2a-060",
+      "name": "DialgaOrigen",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "060",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/060",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "A2a-075",
+      "name": "Adamas",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "075",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/075",
+      "types": null,
+      "illustrator": "akagi"
+    },
+    {
+      "id": "A2a-090",
+      "name": "Adamas",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "090",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/090",
+      "types": null,
+      "illustrator": "akagi"
+    },
+    {
+      "id": "A3-161",
+      "name": "Turtonator",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "161",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/161",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "me01-041",
+      "name": "Inteleon",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "041",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/041",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "me01-088",
+      "name": "Yveltal",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "088",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me01/088",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "me02.5-048",
+      "name": "Regice ex",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "048",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/048",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "me02.5-129",
+      "name": "Mightyena",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "129",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/129",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "me02.5-183",
+      "name": "Órdenes de Jefes",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "183",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/183",
+      "types": null,
+      "illustrator": "akagi"
+    },
+    {
+      "id": "me02.5-256",
+      "name": "Órdenes de Jefes",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "256",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/256",
+      "types": null,
+      "illustrator": "akagi"
+    },
+    {
+      "id": "me02.5-278",
+      "name": "Mega-Eelektross ex",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "278",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/278",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "me02-018",
+      "name": "Oricorio ex",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "018",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/me/me02/018",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "me02-069",
+      "name": "Eternatus",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "069",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02/069",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "me02-110",
+      "name": "Oricorio ex",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "110",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02/110",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv04.5-225",
+      "name": "Palafin",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "225",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/225",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv05-106",
+      "name": "Mightyena",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "106",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/106",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv06.5-034",
+      "name": "Malamar",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "034",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/034",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv06-094",
+      "name": "Colagrito ex",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "094",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/094",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv06-214",
+      "name": "Greninja ex",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "214",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/214",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv07-016",
+      "name": "Lokix",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "016",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/016",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv08.5-147",
+      "name": "Ceruledge ex",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "147",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/147",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv08-031",
+      "name": "Skeledirge",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "031",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/031",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv08-132",
+      "name": "Ferrotesta",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "132",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/132",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv09-182",
+      "name": "Volcanion ex",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "182",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/182",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv10.5b-147",
+      "name": "Haxorus",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "147",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/147",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv10.5w-061",
+      "name": "Zorua",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "061",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/061",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv10.5w-062",
+      "name": "Zoroark",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "062",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/062",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv10-139",
+      "name": "Mabosstiff ex de Damián",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "139",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/139",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv10-174",
+      "name": "Giovanni del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "174",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/174",
+      "types": null,
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv10-225",
+      "name": "Giovanni del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "225",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/225",
+      "types": null,
+      "illustrator": "akagi"
+    },
+    {
+      "id": "svp-092",
+      "name": "Miraidon",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "092",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/092",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "svp-131",
+      "name": "Kingdra ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "131",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/131",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "akagi"
+    }
+  ]
+}

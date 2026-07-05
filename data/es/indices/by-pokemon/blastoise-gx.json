@@ -1,0 +1,45 @@
+{
+  "name": "Blastoise GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm10-218",
+      "name": "Blastoise GX",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "218",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/218",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sadaji"
+    },
+    {
+      "id": "sm10-35",
+      "name": "Blastoise GX",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "35",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/35",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sadaji"
+    },
+    {
+      "id": "smp-SM189",
+      "name": "Blastoise GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM189",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sadaji"
+    }
+  ]
+}

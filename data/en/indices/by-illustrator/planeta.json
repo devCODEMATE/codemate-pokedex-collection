@@ -1,0 +1,624 @@
+{
+  "name": "PLANETA",
+  "totalCards": 48,
+  "cards": [
+    {
+      "id": "g1-42",
+      "name": "Machamp",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "42",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/g1/42",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "sm1-66",
+      "name": "Lunala GX",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "66",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/66",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "sm1-89",
+      "name": "Solgaleo GX",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "89",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/89",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "sm3-21",
+      "name": "Ho-Oh GX",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "21",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/21",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "sm3-63",
+      "name": "Necrozma GX",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "63",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/63",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "sm3-88",
+      "name": "Darkrai GX",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "88",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/88",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "smp-SM103",
+      "name": "Lunala GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM103",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM103",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "smp-SM104",
+      "name": "Solgaleo GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM104",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM104",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "smp-SM16",
+      "name": "Solgaleo GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM16",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "smp-SM17",
+      "name": "Lunala GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM17",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM17",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "smp-SM32",
+      "name": "Tapu Bulu GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM32",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM32",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy10-25",
+      "name": "Alakazam EX",
+      "set": "xy10",
+      "setName": "Fates Collide",
+      "number": "25",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/25",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy10-43",
+      "name": "Regirock EX",
+      "set": "xy10",
+      "setName": "Fates Collide",
+      "number": "43",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/43",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy10-43a",
+      "name": "Regirock EX",
+      "set": "xy10",
+      "setName": "Fates Collide",
+      "number": "43a",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/43a",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy12-12",
+      "name": "Charizard EX",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "12",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/12",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy2-12",
+      "name": "Charizard EX",
+      "set": "xy2",
+      "setName": "Flashfire",
+      "number": "12",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy2/12",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy2-41",
+      "name": "Toxicroak EX",
+      "set": "xy2",
+      "setName": "Flashfire",
+      "number": "41",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy2/41",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy2-92",
+      "name": "Pal Pad",
+      "set": "xy2",
+      "setName": "Flashfire",
+      "number": "92",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy2/92",
+      "types": null,
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy2-96",
+      "name": "Sacred Ash",
+      "set": "xy2",
+      "setName": "Flashfire",
+      "number": "96",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy2/96",
+      "types": null,
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy2-98",
+      "name": "Trick Shovel",
+      "set": "xy2",
+      "setName": "Flashfire",
+      "number": "98",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy2/98",
+      "types": null,
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy3-11",
+      "name": "Magmortar",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "11",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/11",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy3-14",
+      "name": "Blaziken",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/14",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy3-22",
+      "name": "Beartic",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/22",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy3-30",
+      "name": "Electivire",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "30",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/30",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy3-43",
+      "name": "Golurk",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "43",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/43",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy3-46",
+      "name": "Machamp",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "46",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/46",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy3-58",
+      "name": "Landorus",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "58",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/58",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy3-83",
+      "name": "Slaking",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "83",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/83",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy4-43",
+      "name": "Chandelure",
+      "set": "xy4",
+      "setName": "Phantom Forces",
+      "number": "43",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy4/43",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy4-55",
+      "name": "Spiritomb",
+      "set": "xy4",
+      "setName": "Phantom Forces",
+      "number": "55",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy4/55",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy5-117",
+      "name": "Bidoof",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "117",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/117",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy5-41",
+      "name": "Whiscash",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "41",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/41",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy5-69",
+      "name": "Nidoqueen",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "69",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/69",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy5-97",
+      "name": "Excadrill",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "97",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/97",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy6-46",
+      "name": "Togekiss",
+      "set": "xy6",
+      "setName": "Roaring Skies",
+      "number": "46",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy6/46",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy6-60",
+      "name": "Rayquaza EX",
+      "set": "xy6",
+      "setName": "Roaring Skies",
+      "number": "60",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy6/60",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy7-25",
+      "name": "Kyurem EX",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "25",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/25",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy7-57",
+      "name": "Giratina EX",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "57",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/57",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy8-61",
+      "name": "Mewtwo EX",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "61",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/61",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy8-62",
+      "name": "Mewtwo EX",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "62",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/62",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xyp-XY119",
+      "name": "Genesect",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY119",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY119",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xyp-XY13",
+      "name": "Machamp",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY13",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY13",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xyp-XY196",
+      "name": "Genesect",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY196",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY196",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xyp-XY25",
+      "name": "Krookodile EX",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY25",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY25",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xyp-XY34",
+      "name": "Metagross EX",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY34",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY34",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xyp-XY45",
+      "name": "Gallade EX",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY45",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY45",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xyp-XY62",
+      "name": "Absol EX",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY62",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY62",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xyp-XY73",
+      "name": "Rayquaza EX",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY73",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY73",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "PLANETA"
+    }
+  ]
+}

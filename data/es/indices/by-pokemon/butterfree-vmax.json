@@ -1,0 +1,32 @@
+{
+  "name": "Butterfree VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh3-190",
+      "name": "Butterfree VMAX",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "190",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/190",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "aky CG Works"
+    },
+    {
+      "id": "swsh3-2",
+      "name": "Butterfree VMAX",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "2",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/2",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "aky CG Works"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Houndstone ex",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv03-102",
+      "name": "Houndstone ex",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "102",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/102",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "svp-162",
+      "name": "Houndstone ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "162",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/162",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "takuyoa"
+    }
+  ]
+}

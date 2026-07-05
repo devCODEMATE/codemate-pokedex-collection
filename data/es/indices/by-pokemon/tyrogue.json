@@ -1,0 +1,32 @@
+{
+  "name": "Tyrogue",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "me01-071",
+      "name": "Tyrogue",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "071",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/071",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "OKUBO"
+    },
+    {
+      "id": "sm10-100",
+      "name": "Tyrogue",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "100",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/100",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Mina Nakai"
+    }
+  ]
+}

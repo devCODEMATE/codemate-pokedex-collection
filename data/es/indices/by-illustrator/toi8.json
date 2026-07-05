@@ -1,0 +1,110 @@
+{
+  "name": "toi8",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "me01-062",
+      "name": "Spoink",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "062",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/062",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "toi8"
+    },
+    {
+      "id": "me04-059",
+      "name": "Beldum",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "059",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me04/059",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "toi8"
+    },
+    {
+      "id": "sv05-127",
+      "name": "Noctowl",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "127",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/127",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "toi8"
+    },
+    {
+      "id": "sv06-119",
+      "name": "Skarmory",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "119",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/119",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "toi8"
+    },
+    {
+      "id": "sv08-039",
+      "name": "Tauros de Paldea",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "039",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/039",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "toi8"
+    },
+    {
+      "id": "sv10.5w-129",
+      "name": "Gigalith",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "129",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/129",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "toi8"
+    },
+    {
+      "id": "sv10-120",
+      "name": "Zubat del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "120",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/120",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "toi8"
+    },
+    {
+      "id": "svp-152",
+      "name": "Chien-Pao",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "152",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/152",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "toi8"
+    }
+  ]
+}

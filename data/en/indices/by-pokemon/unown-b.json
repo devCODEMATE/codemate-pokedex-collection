@@ -1,0 +1,32 @@
+{
+  "name": "Unown B",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dp1-66",
+      "name": "Unown B",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "66",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/66",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Nakaoka"
+    },
+    {
+      "id": "neo3-39",
+      "name": "Unown [B]",
+      "set": "neo3",
+      "setName": "Neo Revelation",
+      "number": "39",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/neo/neo3/39",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "CR CG gangs"
+    }
+  ]
+}

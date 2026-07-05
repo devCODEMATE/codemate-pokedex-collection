@@ -1,0 +1,45 @@
+{
+  "name": "Moltres de Galar",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh7-93",
+      "name": "Moltres de Galar",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "93",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/93",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Kazuma Koda"
+    },
+    {
+      "id": "swshp-SWSH125",
+      "name": "Moltres de Galar",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH125",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH125",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swshp-SWSH284",
+      "name": "Moltres de Galar",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH284",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shinji Kanda"
+    }
+  ]
+}

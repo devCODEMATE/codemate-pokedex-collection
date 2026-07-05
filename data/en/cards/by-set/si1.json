@@ -1,0 +1,1865 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "si1-1",
+    "illustrator": "Keiko Fukuyama",
+    "image": "https://assets.tcgdex.net/en/neo/si1/1",
+    "localId": "1",
+    "name": "Mew",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "standard",
+        "variantId": "cm4kqul3x1bwlz1f"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 30,
+    "types": [
+      "Psychic"
+    ],
+    "description": "This Pokémon's body is covered by fine hairs that can be seen only under a microscope.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Rainbow Wave",
+        "effect": "Choose a type of Energy other than Colorless attached to Mew. This attack does 20 damage to each of your opponent's Pokémon of that type (including Benched Pokémon). Don't apply Weakness and Resistance."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:43:16+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275631,
+        "avg": 563.77,
+        "low": 199.99,
+        "trend": 512.81,
+        "avg1": 300,
+        "avg7": 394.87,
+        "avg30": 309.39,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 72.02,
+        "avg1-holo": 30,
+        "avg7-holo": 64.85,
+        "avg30-holo": 41.17
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "reverse-holofoil": {
+          "productId": 46466,
+          "lowPrice": 320,
+          "midPrice": 321.95,
+          "highPrice": 579.99,
+          "marketPrice": 440.82,
+          "directLowPrice": 579.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-2",
+    "illustrator": "Keiko Fukuyama",
+    "image": "https://assets.tcgdex.net/en/neo/si1/2",
+    "localId": "2",
+    "name": "Pidgeot",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      18
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Pidgeotto",
+    "description": "This Pokémon searches for food while flying at Mach 2. Its large claws make fearsome weapons.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Supersonic Flight",
+        "effect": "Flip a coin. If tails, this attack does nothing.",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Slicing Wind",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:43:16+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275632,
+        "avg": 66.68,
+        "low": 12,
+        "trend": 29.3,
+        "avg1": 30,
+        "avg7": 27.11,
+        "avg30": 23.44,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 7,
+        "avg1-holo": 7,
+        "avg7-holo": 7,
+        "avg30-holo": 7
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "normal": {
+          "productId": 46476,
+          "lowPrice": 42.1,
+          "midPrice": 45,
+          "highPrice": 419.9,
+          "marketPrice": 42.53,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-3",
+    "illustrator": "Keiko Fukuyama",
+    "image": "https://assets.tcgdex.net/en/neo/si1/3",
+    "localId": "3",
+    "name": "Onix",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      95
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "description": "This Pokémon burrows through the earth at high speed, looking for food. The tunnels it digs are used by Diglett as nests.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Slam",
+        "effect": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Body Slam",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275633,
+        "avg": 44.87,
+        "low": 32.5,
+        "trend": 47.14,
+        "avg1": 34.96,
+        "avg7": 34.07,
+        "avg30": 30.21,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 4.9,
+        "avg1-holo": 4.9,
+        "avg7-holo": 4.9,
+        "avg30-holo": 4.9
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "normal": {
+          "productId": 46477,
+          "lowPrice": 51.99,
+          "midPrice": 58.99,
+          "highPrice": 629.2,
+          "marketPrice": 51.28,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-4",
+    "illustrator": "Keiko Fukuyama",
+    "image": "https://assets.tcgdex.net/en/neo/si1/4",
+    "localId": "4",
+    "name": "Togepi",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "standard",
+        "variantId": "cm4kqul3x1bwlz1f"
+      }
+    ],
+    "dexId": [
+      175
+    ],
+    "hp": 40,
+    "types": [
+      "Colorless"
+    ],
+    "description": "This Pokémon is still immature. When threatened, it releases poison from its head and tries to drive its enemies away.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Bawl",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+        "damage": 10
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275634,
+        "avg": 87.64,
+        "low": 29.99,
+        "trend": 77.66,
+        "avg1": 19.9,
+        "avg7": 73.11,
+        "avg30": 81.65,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 26.28,
+        "avg1-holo": 20,
+        "avg7-holo": 24.55,
+        "avg30-holo": 19.92
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "reverse-holofoil": {
+          "productId": 46478,
+          "lowPrice": 149.99,
+          "midPrice": 249.99,
+          "highPrice": 1853.1,
+          "marketPrice": 179.82,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-5",
+    "illustrator": "Keiko Fukuyama",
+    "image": "https://assets.tcgdex.net/en/neo/si1/5",
+    "localId": "5",
+    "name": "Ivysaur",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      2
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Bulbasaur",
+    "description": "A sure sign spring is on its way is when the seed on this Pokémon's back flowers.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Strange Scent",
+        "effect": "Each player flips a coin. Each player who gets heads chooses a total of 3 damage counters from among his or her Pokémon and removes them. (If the player's Pokémon have fewer total damage counters than that, he or she removes all of them.)"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": "Razor Leaf",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275635,
+        "avg": 34.49,
+        "low": 25,
+        "trend": 40.3,
+        "avg1": 43.75,
+        "avg7": 34.15,
+        "avg30": 31.85,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "normal": {
+          "productId": 46479,
+          "lowPrice": 39.79,
+          "midPrice": 69.99,
+          "highPrice": 1013,
+          "marketPrice": 56.12,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-6",
+    "illustrator": "Keiko Fukuyama",
+    "image": "https://assets.tcgdex.net/en/neo/si1/6",
+    "localId": "6",
+    "name": "Raticate",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      20
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Rattata",
+    "description": "This Pokémon sometimes hunts for food in rivers, swimming using the small webs between the toes on its rear legs.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Sharp Teeth",
+        "effect": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage; if tails, this attack does 10 damage.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-13T09:43:16+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275636,
+        "avg": 21.16,
+        "low": 14.99,
+        "trend": 21.28,
+        "avg1": 24.99,
+        "avg7": 20.52,
+        "avg30": 18.87,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "normal": {
+          "productId": 46480,
+          "lowPrice": 23.99,
+          "midPrice": 41.55,
+          "highPrice": 96.95,
+          "marketPrice": 30.41,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-7",
+    "illustrator": "Keiko Fukuyama",
+    "image": "https://assets.tcgdex.net/en/neo/si1/7",
+    "localId": "7",
+    "name": "Ledyba",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "standard",
+        "variantId": "cm4kqul3x1bwlz1f"
+      }
+    ],
+    "dexId": [
+      165
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "description": "When it senses enemies approaching, this Pokémon releases an orange fluid from the joints in its legs and flees.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Gnaw",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": "Agility",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Ledyba.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275637,
+        "avg": 24.89,
+        "low": 15.99,
+        "trend": 27.36,
+        "avg1": 23.92,
+        "avg7": 24.75,
+        "avg30": 29.48,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 14.69,
+        "avg1-holo": 12.99,
+        "avg7-holo": 11.18,
+        "avg30-holo": 9.65
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "reverse-holofoil": {
+          "productId": 46481,
+          "lowPrice": 45,
+          "midPrice": 97.48,
+          "highPrice": 562.9,
+          "marketPrice": 59.72,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-8",
+    "illustrator": "Keiko Fukuyama",
+    "image": "https://assets.tcgdex.net/en/neo/si1/8",
+    "localId": "8",
+    "name": "Jigglypuff",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      39
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "description": "After lulling its enemies with its large eyes, this Pokémon sings them to sleep with a relaxing melody.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Tempting Eyes",
+        "effect": "Choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon."
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Sing",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275638,
+        "avg": 38.81,
+        "low": 30,
+        "trend": 44.21,
+        "avg1": 42.5,
+        "avg7": 43.05,
+        "avg30": 34.14,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "normal": {
+          "productId": 46482,
+          "lowPrice": 59,
+          "midPrice": 157.5,
+          "highPrice": 588.05,
+          "marketPrice": 60.17,
+          "directLowPrice": 499.84
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-9",
+    "illustrator": "Keiko Fukuyama",
+    "image": "https://assets.tcgdex.net/en/neo/si1/9",
+    "localId": "9",
+    "name": "Butterfree",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      12
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Metapod",
+    "description": "The poison scales on its wings are waterproof, allowing this Pokémon to be active even on rainy days.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Fly",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Butterfree. If tails, this attack does nothing (not even damage).",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Rainbow Powder",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Poisoned.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275639,
+        "avg": 24.19,
+        "low": 14.99,
+        "trend": 29.84,
+        "avg1": 49.95,
+        "avg7": 28.54,
+        "avg30": 24.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 6.99,
+        "avg1-holo": 6.99,
+        "avg7-holo": 6.99,
+        "avg30-holo": 6.99
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "normal": {
+          "productId": 46483,
+          "lowPrice": 40,
+          "midPrice": 59.49,
+          "highPrice": 360,
+          "marketPrice": 42.1,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-10",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/neo/si1/10",
+    "localId": "10",
+    "name": "Tentacruel",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      73
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Tentacool",
+    "description": "This Pokémon attacks its prey with its eighty toxin-producing tentacles.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Tentacle Grip",
+        "effect": "Flip a number of coins equal to the number of Water Energy cards attached to Tentacruel. For each heads, draw 2 cards."
+      },
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Poison Sting",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Tentacle Grip",
+        "effect": "Flip a number of coins equal to the number of Water Energy cards attached to Tentacruel. For each heads, draw 2 cards."
+      },
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Poison Sting",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275640,
+        "avg": 35.85,
+        "low": 12.99,
+        "trend": 36.48,
+        "avg1": 35.75,
+        "avg7": 36.57,
+        "avg30": 31.43,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3,
+        "avg1-holo": 3,
+        "avg7-holo": 3,
+        "avg30-holo": 3
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "normal": {
+          "productId": 46467,
+          "lowPrice": 49.99,
+          "midPrice": 64.15,
+          "highPrice": 519.9,
+          "marketPrice": 44.5,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-11",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/neo/si1/11",
+    "localId": "11",
+    "name": "Marill",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "standard",
+        "variantId": "cm4kqul3x1bwlz1f"
+      }
+    ],
+    "dexId": [
+      183
+    ],
+    "hp": 40,
+    "types": [
+      "Water"
+    ],
+    "description": "This Pokémon's fur repels water like a duck's feathers, allowing it to stay dry and fluffy even in water.",
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275641,
+        "avg": 101.57,
+        "low": 79.99,
+        "trend": 91.83,
+        "avg1": 97.88,
+        "avg7": 95.41,
+        "avg30": 80.63,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 22.94,
+        "avg1-holo": 18,
+        "avg7-holo": 21.69,
+        "avg30-holo": 12.75
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "reverse-holofoil": {
+          "productId": 46468,
+          "lowPrice": 128.97,
+          "midPrice": 185,
+          "highPrice": 1250,
+          "marketPrice": 132.98,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-12",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/neo/si1/12",
+    "localId": "12",
+    "name": "Lapras",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      131
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "description": "This gentle Pokémon can understand human language and allows people to ride on its back.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Gentle Song",
+        "effect": "If Lapras has any damage counters on it, remove 2 of them from it (1 if it only has 1). If the Defending Pokémon has any damage counters on it, remove 2 of them from it (1 if it only has 1). The Defending Pokémon is now Asleep."
+      },
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Ice Beam",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275642,
+        "avg": 75.11,
+        "low": 42.97,
+        "trend": 72.91,
+        "avg1": 44,
+        "avg7": 74.25,
+        "avg30": 66.68,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "normal": {
+          "productId": 46469,
+          "lowPrice": 50.35,
+          "midPrice": 97.72,
+          "highPrice": 487.8,
+          "marketPrice": 62.97,
+          "directLowPrice": 473.83
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-13",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/neo/si1/13",
+    "localId": "13",
+    "name": "Exeggutor",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      103
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Exeggcute",
+    "description": "This Pokémon has a unique cry, as all three of its heads are always talking independently of one another.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Sharpshooter",
+        "effect": "Choose 1 of your opponent's Pokémon. Flip a number of coins equal to the number of Grass Energy attached to Exeggutor. This attack does 10 damage times the number of heads to that Pokémon. Don't apply Weakness and Resistance."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275643,
+        "avg": 24.22,
+        "low": 11.99,
+        "trend": 35.13,
+        "avg1": 20,
+        "avg7": 22.48,
+        "avg30": 32.57,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "normal": {
+          "productId": 46470,
+          "lowPrice": 39.5,
+          "midPrice": 50.49,
+          "highPrice": 227,
+          "marketPrice": 32.79,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-14",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/neo/si1/14",
+    "localId": "14",
+    "name": "Slowking",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "standard",
+        "variantId": "cm4kqul3x1bwlz1f"
+      }
+    ],
+    "dexId": [
+      199
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Slowpoke",
+    "description": "Its nonchalant reaction to everything somehow gives this Pokémon an imposing presence.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Revelation",
+        "effect": "Flip a coin. If heads, search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Psychic",
+        "effect": "Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275644,
+        "avg": 143.92,
+        "low": 60,
+        "trend": 163.19,
+        "avg1": 119.99,
+        "avg7": 154.5,
+        "avg30": 136.9,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 25.29,
+        "avg1-holo": 17,
+        "avg7-holo": 23.11,
+        "avg30-holo": 20.67
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "reverse-holofoil": {
+          "productId": 46471,
+          "lowPrice": 227.56,
+          "midPrice": 278.01,
+          "highPrice": 2999.9,
+          "marketPrice": 222.3,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-15",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/neo/si1/15",
+    "localId": "15",
+    "name": "Wartortle",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      8
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Squirtle",
+    "description": "When attacked, this Pokémon withdraws into its shell, although it can't quite pull in all of its long tail.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Water Gun",
+        "effect": "Does 20 damage plus 10 more damage for each Water Energy attached to Wartortle but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275645,
+        "avg": 65.32,
+        "low": 20,
+        "trend": 138.67,
+        "avg1": 100,
+        "avg7": 72.88,
+        "avg30": 52.64,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "normal": {
+          "productId": 46472,
+          "lowPrice": 66.18,
+          "midPrice": 129.99,
+          "highPrice": 599.9,
+          "marketPrice": 65.07,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-16",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/neo/si1/16",
+    "localId": "16",
+    "name": "Lickitung",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      108
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "description": "This Pokémon uses its six-foot tongue as if it were a hand. The origin of its anaesthetic properties is still a mystery.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Lick Wounds",
+        "effect": "Flip a coin. If heads, choose 1 Pokémon (yours or your opponent's) with damage counters on it and remove 2 damage counters from it (1 if it only has 1)."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Tongue Stretch",
+        "effect": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. Don't apply Weakness and Resistance."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275646,
+        "avg": 31.93,
+        "low": 24,
+        "trend": 30.71,
+        "avg1": 34,
+        "avg7": 34.29,
+        "avg30": 22.53,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 7,
+        "avg1-holo": 7,
+        "avg7-holo": 7,
+        "avg30-holo": 7
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "normal": {
+          "productId": 46473,
+          "lowPrice": 38.41,
+          "midPrice": 55.99,
+          "highPrice": 359.8,
+          "marketPrice": 37.77,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-17",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/neo/si1/17",
+    "localId": "17",
+    "name": "Vileplume",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "standard",
+        "variantId": "cm4kqul3x1bwlz1f"
+      }
+    ],
+    "dexId": [
+      45
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Gloom",
+    "description": "This Pokémon makes a loud jangling noise when it shakes its petals to spread poison powder.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Paradise Pollen",
+        "effect": "Flip a coin. If heads, remove 2 damage counters from Vileplume (1 if it only has 1). Then, if you have any Benched Pokémon with damage counters on them, choose 1 of them and remove 2 damage counters from it (1 if it only has 1)."
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Horrid Pollen",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Confused.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275647,
+        "avg": 44.53,
+        "low": 11.99,
+        "trend": 40.01,
+        "avg1": 60,
+        "avg7": 46.98,
+        "avg30": 43.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 14.64,
+        "avg1-holo": 14.5,
+        "avg7-holo": 11.71,
+        "avg30-holo": 11.48
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "reverse-holofoil": {
+          "productId": 46474,
+          "lowPrice": 69.96,
+          "midPrice": 103.41,
+          "highPrice": 650,
+          "marketPrice": 93.97,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "si1-18",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/neo/si1/18",
+    "localId": "18",
+    "name": "Primeape",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "si1",
+      "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+      "name": "Southern Islands",
+      "symbol": "https://assets.tcgdex.net/univ/neo/si1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      57
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Mankey",
+    "description": "This Pokémon only calms down when there are no other animals or people around—which means no one has ever seen it when it's not angry.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Low Kick",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Rampage",
+        "effect": "Does 20 damage plus 10 more damage for each damage counter on Primeape. Flip a coin. If tails, Primeape is now Confused (after doing damage).",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-23T17:38:39+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 275648,
+        "avg": 30.82,
+        "low": 23,
+        "trend": 18.49,
+        "avg1": 40,
+        "avg7": 29.43,
+        "avg30": 26.76,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.5,
+        "avg1-holo": 3.5,
+        "avg7-holo": 3.5,
+        "avg30-holo": 3.5
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:38.878Z",
+        "normal": {
+          "productId": 46475,
+          "lowPrice": 37,
+          "midPrice": 47.99,
+          "highPrice": 394,
+          "marketPrice": 34.47,
+          "directLowPrice": null
+        }
+      }
+    }
+  }
+]

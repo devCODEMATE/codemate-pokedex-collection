@@ -1,0 +1,201 @@
+{
+  "name": "Orca",
+  "totalCards": 15,
+  "cards": [
+    {
+      "id": "A2-165",
+      "name": "Drifloon",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "165",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/165",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "A2-166",
+      "name": "Mesprit",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "166",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/166",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "me01-054",
+      "name": "Abra",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "054",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/054",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "me02.5-020",
+      "name": "Charmander",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "020",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/020",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "me02-031",
+      "name": "Boltund",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "031",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/031",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "sv05-045",
+      "name": "Snom",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "045",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/045",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "sv05-180",
+      "name": "Lickitung",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "180",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/180",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "sv06.5-044",
+      "name": "Axew",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "044",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/044",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "sv06-009",
+      "name": "Volbeat",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "009",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/009",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "sv06-010",
+      "name": "Illumise",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "010",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/010",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "sv07-143",
+      "name": "Bulbasaur",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "143",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/143",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "sv08-074",
+      "name": "Azumarill",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "074",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/074",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "sv10.5w-096",
+      "name": "Tepig",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "096",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/096",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "sv10-194",
+      "name": "Lapras de Misty",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "194",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/194",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "svp-107",
+      "name": "Mareep",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "107",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/107",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Orca"
+    }
+  ]
+}

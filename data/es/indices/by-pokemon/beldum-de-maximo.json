@@ -1,0 +1,32 @@
+{
+  "name": "Beldum de Máximo",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv10-143",
+      "name": "Beldum de Máximo",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "143",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/143",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Takeshi Nakamura"
+    },
+    {
+      "id": "svp-207",
+      "name": "Beldum de Máximo",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "207",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "hncl"
+    }
+  ]
+}

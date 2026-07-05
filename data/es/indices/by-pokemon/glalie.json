@@ -1,0 +1,58 @@
+{
+  "name": "Glalie",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm12-48",
+      "name": "Glalie",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "48",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/48",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sm2-32",
+      "name": "Glalie",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "32",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/32",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "so-taro"
+    },
+    {
+      "id": "sv06-052",
+      "name": "Glalie",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "052",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/052",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Oku"
+    },
+    {
+      "id": "swsh12-042",
+      "name": "Glalie",
+      "set": "swsh12",
+      "setName": "Tempestad Plateada",
+      "number": "042",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12/042",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    }
+  ]
+}

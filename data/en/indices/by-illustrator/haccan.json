@@ -1,0 +1,32 @@
+{
+  "name": "HACCAN",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "me03-024",
+      "name": "Aurorus",
+      "set": "me03",
+      "setName": "Perfect Order",
+      "number": "024",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me03/024",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "HACCAN"
+    },
+    {
+      "id": "me04-005",
+      "name": "Chespin",
+      "set": "me04",
+      "setName": "Chaos Rising",
+      "number": "005",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me04/005",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "HACCAN"
+    }
+  ]
+}

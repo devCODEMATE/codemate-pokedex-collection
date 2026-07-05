@@ -1,0 +1,71 @@
+{
+  "name": "Tapu Lele GX",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "cel25-60A",
+      "name": "Tapu Lele GX",
+      "set": "cel25",
+      "setName": "Celebrations",
+      "number": "60A",
+      "rarity": "Classic Collection",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm2-137",
+      "name": "Tapu Lele GX",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "137",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/137",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm2-155",
+      "name": "Tapu Lele GX",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "155",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/155",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm2-60",
+      "name": "Tapu Lele GX",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "60",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/60",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sma-SV94",
+      "name": "Tapu Lele-GX",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV94",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV94",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

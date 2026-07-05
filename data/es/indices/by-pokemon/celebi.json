@@ -1,0 +1,97 @@
+{
+  "name": "Celebi",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "me01-012",
+      "name": "Celebi",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "012",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/012",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "sm11-4",
+      "name": "Celebi",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "4",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/4",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Megumi Mizutani"
+    },
+    {
+      "id": "sm8-19",
+      "name": "Celebi ◇",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "19",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/19",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "smp-SM224",
+      "name": "Celebi",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM224",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "sv07-004",
+      "name": "Celebi",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "004",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/004",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "satoma"
+    },
+    {
+      "id": "swsh4.5-3",
+      "name": "Celebi",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "3",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh4-9",
+      "name": "Celebi",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "9",
+      "rarity": "Increíbles",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/9",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Yuri Umemura",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "bw1-97",
+      "name": "Poké Ball",
+      "set": "bw1",
+      "setName": "Black & White",
+      "number": "97",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw1/97",
+      "types": null,
+      "illustrator": "Yuri Umemura"
+    },
+    {
+      "id": "bw7-131",
+      "name": "Poké Ball",
+      "set": "bw7",
+      "setName": "Boundaries Crossed",
+      "number": "131",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw7/131",
+      "types": null,
+      "illustrator": "Yuri Umemura"
+    },
+    {
+      "id": "col1-SL3",
+      "name": "Entei",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "SL3",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/col/col1/SL3",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Yuri Umemura"
+    },
+    {
+      "id": "col1-SL4",
+      "name": "Groudon",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "SL4",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/col/col1/SL4",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Yuri Umemura"
+    },
+    {
+      "id": "col1-SL6",
+      "name": "Kyogre",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "SL6",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/col/col1/SL6",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yuri Umemura"
+    },
+    {
+      "id": "hgssp-HGSS20",
+      "name": "Entei",
+      "set": "hgssp",
+      "setName": "HGSS Black Star Promos",
+      "number": "HGSS20",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Yuri Umemura"
+    }
+  ]
+}

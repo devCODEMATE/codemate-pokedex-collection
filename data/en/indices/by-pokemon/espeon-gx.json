@@ -1,0 +1,71 @@
+{
+  "name": "Espeon GX",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sm1-140",
+      "name": "Espeon GX",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "140",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/140",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm1-152",
+      "name": "Espeon GX",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "152",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/152",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm1-61",
+      "name": "Espeon GX",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "61",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/61",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sma-SV60",
+      "name": "Espeon-GX",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV60",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV60",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM35",
+      "name": "Espeon GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM35",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM35",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

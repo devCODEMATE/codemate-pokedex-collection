@@ -1,0 +1,32 @@
+{
+  "name": "Rapidash de Galar",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh1-82",
+      "name": "Rapidash de Galar",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "82",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/82",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "You Iribi"
+    },
+    {
+      "id": "swsh4.5-SV048",
+      "name": "Rapidash de Galar",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV048",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV048",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    }
+  ]
+}

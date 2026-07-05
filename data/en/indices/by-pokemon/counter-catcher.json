@@ -1,0 +1,50 @@
+{
+  "name": "Counter Catcher",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm4-120",
+      "name": "Counter Catcher",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "120",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/120",
+      "types": null,
+      "illustrator": "Toyste Beach"
+    },
+    {
+      "id": "sm4-91",
+      "name": "Counter Catcher",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "91",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/91",
+      "types": null,
+      "illustrator": "Toyste Beach"
+    },
+    {
+      "id": "sv04-160",
+      "name": "Counter Catcher",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "160",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/160",
+      "types": null,
+      "illustrator": "Toyste Beach"
+    },
+    {
+      "id": "sv04-264",
+      "name": "Counter Catcher",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "264",
+      "rarity": "Hyper rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/264",
+      "types": null,
+      "illustrator": "Toyste Beach"
+    }
+  ]
+}

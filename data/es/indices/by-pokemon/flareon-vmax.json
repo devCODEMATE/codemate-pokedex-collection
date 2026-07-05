@@ -1,0 +1,32 @@
+{
+  "name": "Flareon VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh7-18",
+      "name": "Flareon VMAX",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "18",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/18",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swshp-SWSH180",
+      "name": "Flareon VMAX",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH180",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH180",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": null
+    }
+  ]
+}

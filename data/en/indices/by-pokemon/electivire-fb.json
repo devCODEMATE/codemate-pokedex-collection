@@ -1,0 +1,32 @@
+{
+  "name": "Electivire FB",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "pl3-144",
+      "name": "Electivire FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "144",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/144",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl3-4",
+      "name": "Electivire FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "4",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/4",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hironobu Yoshida"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Kingdra GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm7.5-18",
+      "name": "Kingdra GX",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "18",
+      "rarity": "Ultra Rara",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm7.5-66",
+      "name": "Kingdra GX",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "66",
+      "rarity": "Ultra Rara",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM155",
+      "name": "Kingdra GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM155",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Quilava",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm8-41",
+      "name": "Quilava",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "41",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/41",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "swsh10-024",
+      "name": "Quilava",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "024",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/024",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy8-19",
+      "name": "Quilava",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "19",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/19",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

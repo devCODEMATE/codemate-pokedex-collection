@@ -1,0 +1,260 @@
+{
+  "name": "aspara",
+  "totalCards": 20,
+  "cards": [
+    {
+      "id": "A1a-072",
+      "name": "Vaporeon",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "072",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/072",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "me01-004",
+      "name": "Exeggcute",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "004",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/004",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "me02.5-037",
+      "name": "Raboot",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "037",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/037",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "me02.5-045",
+      "name": "Weavile",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "045",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/045",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "me03-011",
+      "name": "Dartrix",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "011",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me03/011",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "me04-095",
+      "name": "Sliggoo",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "095",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me04/095",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv03.5-116",
+      "name": "Horsea",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "116",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/116",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv03.5-117",
+      "name": "Seadra",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "117",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/117",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv04.5-021",
+      "name": "Lanturn",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "021",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/021",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv04.5-235",
+      "name": "Damián",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "235",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/235",
+      "types": null,
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv04.5-238",
+      "name": "Mencía",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "238",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/238",
+      "types": null,
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv04.5-239",
+      "name": "Noa",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "239",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/239",
+      "types": null,
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv04-145",
+      "name": "Aipom",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "145",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/145",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv05-112",
+      "name": "Mawile",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "112",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/112",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv06.5-014",
+      "name": "Weavile",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "014",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/014",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv06-055",
+      "name": "Phione",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "055",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/055",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv07-027",
+      "name": "Raboot",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "027",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/027",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv09-065",
+      "name": "Oricorio",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "065",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/065",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv09-086",
+      "name": "Silicobra de Paul",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "086",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/086",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv10.5b-103",
+      "name": "Tympole",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "103",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/103",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "aspara"
+    }
+  ]
+}

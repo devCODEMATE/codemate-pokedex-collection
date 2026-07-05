@@ -1,0 +1,32 @@
+{
+  "name": "Rocket's Zapdos",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "cel25-15A3",
+      "name": "Rocket's Zapdos",
+      "set": "cel25",
+      "setName": "Celebrations",
+      "number": "15A3",
+      "rarity": "Classic Collection",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shin-ichi Yoshida"
+    },
+    {
+      "id": "gym2-15",
+      "name": "Rocket's Zapdos",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "15",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/15",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shin-ichi Yoshida"
+    }
+  ]
+}

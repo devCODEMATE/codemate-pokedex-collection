@@ -1,0 +1,58 @@
+{
+  "name": "Corsola",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm1-36",
+      "name": "Corsola",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "36",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/36",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Satoshi Shirai"
+    },
+    {
+      "id": "sm7.5-27",
+      "name": "Corsola",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "27",
+      "rarity": "Común",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "xy1-36",
+      "name": "Corsola",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "36",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/36",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "xy9-29",
+      "name": "Corsola",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "29",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/29",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kanako Eo"
+    }
+  ]
+}

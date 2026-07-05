@@ -1,0 +1,591 @@
+{
+  "name": "Colección de McDonald's",
+  "totalCards": 45,
+  "cards": [
+    {
+      "id": "2022swsh-1",
+      "name": "Ledyba",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "1",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "2022swsh-10",
+      "name": "Tynamo",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "10",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "2022swsh-11",
+      "name": "Cutiefly",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "11",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "2022swsh-12",
+      "name": "Bewear",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "12",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "2022swsh-13",
+      "name": "Pangoro",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "13",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "2022swsh-14",
+      "name": "Drampa",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "14",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "2022swsh-15",
+      "name": "Smeargle",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "15",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "2022swsh-2",
+      "name": "Rowlet",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "2",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "2022swsh-3",
+      "name": "Gossifleur",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "3",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "2022swsh-4",
+      "name": "Growlithe",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "4",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Narumi Sato"
+    },
+    {
+      "id": "2022swsh-5",
+      "name": "Victini",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "5",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "2022swsh-6",
+      "name": "Lapras",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "6",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsushi Furusawa"
+    },
+    {
+      "id": "2022swsh-7",
+      "name": "Pikachu",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "7",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "2022swsh-8",
+      "name": "Chinchou",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "8",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "2022swsh-9",
+      "name": "Flaaffy",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "9",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "2023sv-1",
+      "name": "Sprigatito",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "1",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "2023sv-10",
+      "name": "Sandaconda",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "10",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "2023sv-11",
+      "name": "Klawf",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "11",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "2023sv-12",
+      "name": "Blissey",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "12",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "2023sv-13",
+      "name": "Tandemaus",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "13",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "yuu"
+    },
+    {
+      "id": "2023sv-14",
+      "name": "Cyclizar",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "14",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "2023sv-15",
+      "name": "Kirlia",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "15",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "2023sv-2",
+      "name": "Fuecoco",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "2",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "2023sv-3",
+      "name": "Quaxly",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "3",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "2023sv-4",
+      "name": "Cetoddle",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "4",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "2023sv-5",
+      "name": "Cetitan",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "5",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "2023sv-6",
+      "name": "Pikachu",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "6",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "2023sv-7",
+      "name": "Pawmi",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "7",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "kantaro"
+    },
+    {
+      "id": "2023sv-8",
+      "name": "Kilowattrel",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "8",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "2023sv-9",
+      "name": "Flittle",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "9",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "2024sv-1",
+      "name": "Charizard",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "1",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "2024sv-10",
+      "name": "Hydreigon",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "10",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "2024sv-11",
+      "name": "Bramaluna",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "11",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "2024sv-12",
+      "name": "Dragonite",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "12",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "2024sv-13",
+      "name": "Eevee",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "13",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "0313"
+    },
+    {
+      "id": "2024sv-14",
+      "name": "Rayquaza",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "14",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "so-taro"
+    },
+    {
+      "id": "2024sv-15",
+      "name": "Drampa",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "15",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "2024sv-2",
+      "name": "Pikachu",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "2",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "2024sv-3",
+      "name": "Miraidon",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "3",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "2024sv-4",
+      "name": "Jigglypuff",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "4",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "2024sv-5",
+      "name": "Hatenna",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "5",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "2024sv-6",
+      "name": "Dragapult",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "6",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "2024sv-7",
+      "name": "Quagsire",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "7",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "2024sv-8",
+      "name": "Koraidon",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "8",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "2024sv-9",
+      "name": "Umbreon",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "9",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    }
+  ]
+}

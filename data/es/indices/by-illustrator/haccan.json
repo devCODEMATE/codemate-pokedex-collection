@@ -1,0 +1,32 @@
+{
+  "name": "HACCAN",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "me03-024",
+      "name": "Aurorus",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "024",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me03/024",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "HACCAN"
+    },
+    {
+      "id": "me04-005",
+      "name": "Chespin",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "005",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me04/005",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "HACCAN"
+    }
+  ]
+}

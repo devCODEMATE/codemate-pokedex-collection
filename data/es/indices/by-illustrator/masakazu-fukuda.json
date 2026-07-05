@@ -1,0 +1,2883 @@
+{
+  "name": "Masakazu Fukuda",
+  "totalCards": 223,
+  "cards": [
+    {
+      "id": "A1-134",
+      "name": "Swoobat",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "134",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/134",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A1-157",
+      "name": "Rhydon",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "157",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/157",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A1-173",
+      "name": "Golbat",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "173",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/173",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A1a-002",
+      "name": "Exeggutor",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "002",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/002",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A1a-045",
+      "name": "Golem",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "045",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/045",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A2-009",
+      "name": "Roserade",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "009",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/009",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A2-028",
+      "name": "Monferno",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "028",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/028",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A2-107",
+      "name": "Croagunk",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "107",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/107",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A2-142",
+      "name": "Rotom Ventilador",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "142",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/142",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A2a-067",
+      "name": "Staravia",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "067",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/067",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A2b-023",
+      "name": "Voltorb",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "023",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/023",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A3-029",
+      "name": "Talonflame",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "029",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/029",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A3-043",
+      "name": "Cloyster",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "043",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/043",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A3-055",
+      "name": "Bruxish",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "055",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/055",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "A3-088",
+      "name": "Necrozma",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "088",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/088",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-24",
+      "name": "Darumaka",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "24",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/24",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-27",
+      "name": "Oshawott",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "27",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/27",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-29",
+      "name": "Dewott",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "29",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/29",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-31",
+      "name": "Samurott",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "31",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/31",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-43",
+      "name": "Zebstrika",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "43",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/43",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-45",
+      "name": "Joltik",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "45",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/45",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-49",
+      "name": "Musharna",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "49",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/49",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-52",
+      "name": "Venipede",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "52",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/52",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-53",
+      "name": "Whirlipede",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "53",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/53",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-54",
+      "name": "Scolipede",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "54",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/54",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-59",
+      "name": "Timburr",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "59",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/59",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-65",
+      "name": "Krookodile",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "65",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/65",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-68",
+      "name": "Scraggy",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "68",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/68",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-74",
+      "name": "Klink",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "74",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/74",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-78",
+      "name": "Patrat",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "78",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/78",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-8",
+      "name": "Simisage",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "8",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-80",
+      "name": "Lillipup",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "80",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/80",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw1-84",
+      "name": "Pidove",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "84",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/84",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw2-18",
+      "name": "Pansear",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "18",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/18",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw2-36",
+      "name": "Woobat",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "36",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/36",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw2-50",
+      "name": "Roggenrola",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "50",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/50",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw2-52",
+      "name": "Boldore",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "52",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/52",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw2-73",
+      "name": "Ferrothorn",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "73",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/73",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw2-78",
+      "name": "Patrat",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "78",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/78",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw2-8",
+      "name": "Leavanny",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "8",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw2-88",
+      "name": "Braviary",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "88",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/88",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw3-24",
+      "name": "Seismitoad",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "24",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/24",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw3-32",
+      "name": "Cryogonal",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "32",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/32",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw3-41",
+      "name": "Eelektross",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "41",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/41",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw3-57",
+      "name": "Litwick",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "57",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/57",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw3-71",
+      "name": "Golett",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "71",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/71",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw3-78",
+      "name": "Zweilous",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "78",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/78",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw3-83",
+      "name": "Durant",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "83",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/83",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw3-89",
+      "name": "Druddigon",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "89",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/89",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw4-1",
+      "name": "Pinsir",
+      "set": "bw4",
+      "setName": "Próximos Destinos",
+      "number": "1",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw4/1",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw4-10",
+      "name": "Growlithe",
+      "set": "bw4",
+      "setName": "Próximos Destinos",
+      "number": "10",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw4/10",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw4-69",
+      "name": "Sneasel",
+      "set": "bw4",
+      "setName": "Próximos Destinos",
+      "number": "69",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw4/69",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw4-8",
+      "name": "Foongus",
+      "set": "bw4",
+      "setName": "Próximos Destinos",
+      "number": "8",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw4/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw5-14",
+      "name": "Torchic",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "14",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/14",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw5-18",
+      "name": "Torkoal",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "18",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/18",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw5-3",
+      "name": "Venusaur",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "3",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw5-57",
+      "name": "Excadrill",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "57",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/57",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw5-69",
+      "name": "Zorua",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "69",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/69",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw5-72",
+      "name": "Bisharp",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "72",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/72",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw5-74",
+      "name": "Escavalier",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "74",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/74",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw5-95",
+      "name": "Pandilleros Tim y Rick",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "95",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/95",
+      "types": null,
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw6-105",
+      "name": "Swablu",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "105",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/105",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw6-11",
+      "name": "Ninjask",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "11",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/11",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw6-42",
+      "name": "Electrike",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "42",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/42",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw6-44",
+      "name": "Manectric",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "44",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/44",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw6-48",
+      "name": "Shedinja",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "48",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/48",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw6-69",
+      "name": "Sawk",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "69",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/69",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw6-80",
+      "name": "Aggron",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "80",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/80",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw6-86",
+      "name": "Gible",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "86",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/86",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw7-121",
+      "name": "Herdier",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "121",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/121",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw7-19",
+      "name": "Charmeleon",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "19",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/19",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw7-23",
+      "name": "Victini",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "23",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/23",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw7-33",
+      "name": "Psyduck",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "33",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/33",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw7-37",
+      "name": "Azumarill",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "37",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/37",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw7-87",
+      "name": "Mienfoo",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "87",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/87",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw7-95",
+      "name": "Skarmory",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "95",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/95",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw8-109",
+      "name": "Skitty",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "109",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/109",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw8-16",
+      "name": "Monferno",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "16",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/16",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw8-80",
+      "name": "Gurdurr",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "80",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/80",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw8-83",
+      "name": "Purrloin",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "83",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/83",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw9-25",
+      "name": "Palpitoad",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "25",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/25",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw9-43",
+      "name": "Nidoran♂",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "43",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/43",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw9-54",
+      "name": "Yamask",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "54",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/54",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw9-87",
+      "name": "Rattata",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "87",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/87",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "P-A-055",
+      "name": "Machamp",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "055",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/055",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm10-185",
+      "name": "Gabriel Oak",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "185",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/185",
+      "types": null,
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm10-188",
+      "name": "Kartanista del Ultrabosque",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "188",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/188",
+      "types": null,
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm10-197",
+      "name": "Muk y Muk de Alola GX",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "197",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/197",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm10-212",
+      "name": "Lario",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "212",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/212",
+      "types": null,
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm11-101",
+      "name": "Necrozma",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "101",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/101",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm11-24",
+      "name": "Camerupt",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "24",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/24",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm11-51",
+      "name": "Golisopod",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "51",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/51",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm11-75",
+      "name": "Marowak de Alola",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "75",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/75",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm11-99",
+      "name": "Salazzle",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "99",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/99",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm12-100",
+      "name": "Cosmog",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "100",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/100",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm12-125",
+      "name": "Passimian",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "125",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/125",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm12-141",
+      "name": "Probopass",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "141",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/141",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm12-176",
+      "name": "Stoutland",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "176",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/176",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm12-56",
+      "name": "Empoleon",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "56",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/56",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm1-50",
+      "name": "Lanturn",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "50",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/50",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm1-55",
+      "name": "Golbat",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "55",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/55",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm2-24",
+      "name": "Tentacruel",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "24",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/24",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm2-43",
+      "name": "Helioptile",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "43",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/43",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm2-63",
+      "name": "Machop",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "63",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/63",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm2-71",
+      "name": "Whiscash",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "71",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/71",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm3-100",
+      "name": "Zygarde",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "100",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/100",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm3-143",
+      "name": "Guzmán",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "143",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/143",
+      "types": null,
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm3-38",
+      "name": "Bruxish",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "38",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/38",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm3-61",
+      "name": "Sandygast",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "61",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/61",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm3-69",
+      "name": "Solrock",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "69",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/69",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm3-76",
+      "name": "Lycanroc",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "76",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/76",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm4-24",
+      "name": "Corphish",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "24",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/24",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm4-28",
+      "name": "Regice",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "28",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/28",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm4-76",
+      "name": "Hakamo-o",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "76",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/76",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm5-110",
+      "name": "Rotom Ventilador",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "110",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/110",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm5-120",
+      "name": "Helio ◇",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "120",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/120",
+      "types": null,
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm5-38",
+      "name": "Abomasnow",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "38",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/38",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm5-58",
+      "name": "Giratina ◇",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "58",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/58",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm5-73",
+      "name": "Sneasel",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "73",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/73",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm6-4",
+      "name": "Abomasnow",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "4",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/4",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm6-77",
+      "name": "Buzzwole",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "77",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/77",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm6-96",
+      "name": "Arceus ◇",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "96",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/96",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm7.5-33",
+      "name": "Hydreigon",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "33",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm7.5-9",
+      "name": "Darmanitan",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "9",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm7-118",
+      "name": "Loudred",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "118",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/118",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm7-130",
+      "name": "Pescador",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "130",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/130",
+      "types": null,
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm7-67",
+      "name": "Deoxys",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "67",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/67",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm7-81",
+      "name": "Groudon",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "81",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/81",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm7-98",
+      "name": "Heatran",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "98",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/98",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm8-131",
+      "name": "Magearna",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "131",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/131",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm8-14",
+      "name": "Jumpluff",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "14",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/14",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm8-16",
+      "name": "Shuckle",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "16",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/16",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm8-19",
+      "name": "Celebi ◇",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "19",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/19",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm8-90",
+      "name": "Unown",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "90",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/90",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm9-104",
+      "name": "Pawniard",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "104",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/104",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm9-14",
+      "name": "Charizard",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "14",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/14",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm9-27",
+      "name": "Golduck",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "27",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/27",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm9-91",
+      "name": "Zoroark",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "91",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/91",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "smp-SM131",
+      "name": "Celesteela",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM131",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "smp-SM153",
+      "name": "Rowlet",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM153",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "smp-SM48",
+      "name": "Zygarde",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM48",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sv03-063",
+      "name": "Magnemite",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "063",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/063",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sv03-069",
+      "name": "Eelektross",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "069",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/069",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sv04.5-114",
+      "name": "Charcadet",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "114",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/114",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sv04.5-134",
+      "name": "Electrode",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "134",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/134",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sv04.5-192",
+      "name": "Varoom",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "192",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/192",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sv04.5-204",
+      "name": "Pelipper",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "204",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/204",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sv04-151",
+      "name": "Spinda",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "151",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/151",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sv05-031",
+      "name": "Heatmor",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "031",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/031",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh1-106",
+      "name": "Mudsdale",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "106",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/106",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh1-122",
+      "name": "Drapion",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "122",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/122",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh1-141",
+      "name": "Snorlax V",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "141",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/141",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh2-10",
+      "name": "Surskit",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "10",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/10",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh2-65",
+      "name": "Charjabug",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "65",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/65",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh2-9",
+      "name": "Ludicolo",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "9",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/9",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh3.5-31",
+      "name": "Rolycoly",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "31",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/31",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh3-108",
+      "name": "Deino",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "108",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/108",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh3-44",
+      "name": "Darmanitan de Galar",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "44",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/44",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh3-49",
+      "name": "Beartic",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "49",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/49",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh3-5",
+      "name": "Carnivine",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "5",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/5",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh3-52",
+      "name": "Toxapex",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "52",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/52",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh4.5-27",
+      "name": "Drednaw",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "27",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/27",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh4.5-SV002",
+      "name": "Dartrix",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV002",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV002",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh4.5-SV020",
+      "name": "Mr. Mime de Galar",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV020",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV020",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh4.5-SV037",
+      "name": "Arctovish",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV037",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV037",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh4.5-SV060",
+      "name": "Dreepy",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV060",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV060",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh4.5-SV073",
+      "name": "Grapploct",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV073",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV073",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh4.5-SV102",
+      "name": "Corvisquire",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV102",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV102",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh4-142",
+      "name": "Tornadus",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "142",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/142",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh4-19",
+      "name": "Dhelmise",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "19",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/19",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh4-28",
+      "name": "Magcargo",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "28",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/28",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh4-58",
+      "name": "Eelektrik",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "58",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/58",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh5-17",
+      "name": "Blipbug",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "17",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/17",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh5-84",
+      "name": "Stonjourner",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "84",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/84",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh7-88",
+      "name": "Gigalith",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "88",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/88",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh7-97",
+      "name": "Shiftry",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "97",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/97",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh8-136",
+      "name": "Graveler",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "136",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/136",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh8-166",
+      "name": "Toxicroak",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "166",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/166",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh8-64",
+      "name": "Swampert",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "64",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/64",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swshp-SWSH144",
+      "name": "Greninja {star}",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH144",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH144",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "tk-bw-z-14",
+      "name": "Pidove",
+      "set": "tk-bw-z",
+      "setName": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "number": "14",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/14",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "tk-bw-z-21",
+      "name": "Pidove",
+      "set": "tk-bw-z",
+      "setName": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "number": "21",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/21",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "tk-xy-latia-14",
+      "name": "Latias",
+      "set": "tk-xy-latia",
+      "setName": "Kit de Entrenador XY (Latias)",
+      "number": "14",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-latia/14",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "tk-xy-latia-30",
+      "name": "Latias",
+      "set": "tk-xy-latia",
+      "setName": "Kit de Entrenador XY (Latias)",
+      "number": "30",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-latia/30",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "tk-xy-latio-13",
+      "name": "Latios",
+      "set": "tk-xy-latio",
+      "setName": "Kit de Entrenador XY (Latios)",
+      "number": "13",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-latio/13",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "tk-xy-latio-30",
+      "name": "Latios",
+      "set": "tk-xy-latio",
+      "setName": "Kit de Entrenador XY (Latios)",
+      "number": "30",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-latio/30",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy10-41",
+      "name": "Larvitar",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "41",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/41",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy10-58",
+      "name": "Mandibuzz",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "58",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/58",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy10-75",
+      "name": "Kangaskhan",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "75",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/75",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy10-82",
+      "name": "Exploud",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "82",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/82",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy1-115",
+      "name": "Olivier",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "115",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/115",
+      "types": null,
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy11-53",
+      "name": "Primeape",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "53",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/53",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy11-58",
+      "name": "Croagunk",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "58",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/58",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy11-88",
+      "name": "Meowth",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "88",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/88",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy1-32",
+      "name": "Cloyster",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "32",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/32",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy1-67",
+      "name": "Conkeldurr",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "67",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/67",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy2-54",
+      "name": "Stunky",
+      "set": "xy2",
+      "setName": "Destellos de Fuego",
+      "number": "54",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy2/54",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy2-56",
+      "name": "Sandile",
+      "set": "xy2",
+      "setName": "Destellos de Fuego",
+      "number": "56",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy2/56",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy2-88",
+      "name": "Herrero",
+      "set": "xy2",
+      "setName": "Destellos de Fuego",
+      "number": "88",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy2/88",
+      "types": null,
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy2-88a",
+      "name": "Herrero",
+      "set": "xy2",
+      "setName": "Destellos de Fuego",
+      "number": "88a",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy2/88a",
+      "types": null,
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy2-9",
+      "name": "Roserade",
+      "set": "xy2",
+      "setName": "Destellos de Fuego",
+      "number": "9",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy2/9",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy3-51",
+      "name": "Makuhita",
+      "set": "xy3",
+      "setName": "Puños Furiosos",
+      "number": "51",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy3/51",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy3-76",
+      "name": "Flygon",
+      "set": "xy3",
+      "setName": "Puños Furiosos",
+      "number": "76",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy3/76",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy3-78",
+      "name": "Lickitung",
+      "set": "xy3",
+      "setName": "Puños Furiosos",
+      "number": "78",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy3/78",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy4-119",
+      "name": "Xero",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "119",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/119",
+      "types": null,
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy4-21",
+      "name": "Jellicent",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "21",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/21",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy4-27",
+      "name": "Galvantula",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "27",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/27",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy5-47",
+      "name": "Sealeo",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "47",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/47",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy5-50",
+      "name": "Huntail",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "50",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/50",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy5-68",
+      "name": "Nidoqueen",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "68",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/68",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy6-15",
+      "name": "Talonflame",
+      "set": "xy6",
+      "setName": "Cielos Rugientes",
+      "number": "15",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy6/15",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy6-65",
+      "name": "Spearow",
+      "set": "xy6",
+      "setName": "Cielos Rugientes",
+      "number": "65",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy6/65",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy7-2",
+      "name": "Gloom",
+      "set": "xy7",
+      "setName": "Antiguos Orígenes",
+      "number": "2",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy7/2",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy7-46",
+      "name": "Malamar",
+      "set": "xy7",
+      "setName": "Antiguos Orígenes",
+      "number": "46",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy7/46",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy8-17",
+      "name": "Gogoat",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "17",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/17",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy8-42",
+      "name": "Simipour",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "42",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/42",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy8-46",
+      "name": "Froakie",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "46",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/46",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy8-47",
+      "name": "Frogadier",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "47",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/47",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy8-49",
+      "name": "Raichu",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "49",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/49",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy8-82",
+      "name": "Mamoswine",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "82",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/82",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy9-46",
+      "name": "Luxray",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "46",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/46",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy9-55",
+      "name": "Sigilyph",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "55",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/55",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy9-95",
+      "name": "Furfrou",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "95",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/95",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    }
+  ]
+}

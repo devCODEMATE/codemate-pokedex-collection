@@ -1,0 +1,71 @@
+{
+  "name": "Corvisquire",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sv02-165",
+      "name": "Corvisquire",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "165",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/165",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh1-151",
+      "name": "Corvisquire",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "151",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/151",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh3-155",
+      "name": "Corvisquire",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "155",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/155",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "swsh4.5-SV102",
+      "name": "Corvisquire",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV102",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV102",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh8-220",
+      "name": "Corvisquire",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "220",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/220",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Naoyo Kimura"
+    }
+  ]
+}

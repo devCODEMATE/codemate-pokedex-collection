@@ -1,0 +1,58 @@
+{
+  "name": "Izucch",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "me02.5-052",
+      "name": "Snom",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "052",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/052",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Izucch"
+    },
+    {
+      "id": "sv09-061",
+      "name": "Beldum",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "061",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/061",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Izucch"
+    },
+    {
+      "id": "sv10-076",
+      "name": "Manectric",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "076",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/076",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Izucch"
+    },
+    {
+      "id": "sv10-095",
+      "name": "Pupitar del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "095",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/095",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Izucch"
+    }
+  ]
+}

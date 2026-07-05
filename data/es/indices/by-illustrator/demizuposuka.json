@@ -1,0 +1,58 @@
+{
+  "name": "DemizuPosuka",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm1-56",
+      "name": "Crobat",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "56",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/56",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "DemizuPosuka"
+    },
+    {
+      "id": "sm1-6",
+      "name": "Pinsir",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "6",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/6",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "DemizuPosuka"
+    },
+    {
+      "id": "sm3.5-36",
+      "name": "Ekans",
+      "set": "sm3.5",
+      "setName": "Leyendas Luminosas",
+      "number": "36",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm3.5/36",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "DemizuPosuka"
+    },
+    {
+      "id": "xy11-27",
+      "name": "Mantine",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "27",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/27",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "DemizuPosuka"
+    }
+  ]
+}

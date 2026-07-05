@@ -1,0 +1,45 @@
+{
+  "name": "Iron Jugulis",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv04-158",
+      "name": "Iron Jugulis",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "158",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/158",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "sv04-216",
+      "name": "Iron Jugulis",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "216",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/216",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv05-139",
+      "name": "Iron Jugulis",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "139",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/139",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    }
+  ]
+}

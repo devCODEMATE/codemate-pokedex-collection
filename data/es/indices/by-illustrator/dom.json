@@ -1,0 +1,510 @@
+{
+  "name": "DOM",
+  "totalCards": 40,
+  "cards": [
+    {
+      "id": "A1-235",
+      "name": "Electrode",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "235",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/235",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "A1a-014",
+      "name": "Volcarona",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "014",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/014",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "A2a-065",
+      "name": "Noctowl",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "065",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/065",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-097",
+      "name": "Mimikyu del Team Rocket",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "097",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/097",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-204",
+      "name": "Giovanni del Team Rocket",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "204",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/204",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-266",
+      "name": "Mega-Eelektross ex",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "266",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/266",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-267",
+      "name": "Mega-Diancie ex",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "267",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/267",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-271",
+      "name": "Mega-Dragonite ex",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "271",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/271",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-290",
+      "name": "Mega-Dragonite ex",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "290",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/290",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02-068",
+      "name": "Toxtricity",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "068",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02/068",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02-103",
+      "name": "Toxtricity",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "103",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02/103",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me03-079",
+      "name": "Acris",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "079",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me03/079",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me03-112",
+      "name": "Acris",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "112",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me03/112",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv01-006",
+      "name": "Cacturne",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "006",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv02-141",
+      "name": "Maschiff",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "141",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/141",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv02-268",
+      "name": "Grusha",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "268",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/268",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv03.5-107",
+      "name": "Hitmonchan",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "107",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/107",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv03-026",
+      "name": "Charmander",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "026",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/026",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv03-226",
+      "name": "Ságita",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "226",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/226",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv04.5-026",
+      "name": "Xatu",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "026",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/026",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv04.5-056",
+      "name": "Haunter",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "056",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/056",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv04.5-062",
+      "name": "Maschiff",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "062",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/062",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv05-049",
+      "name": "Palafin",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "049",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/049",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv05-098",
+      "name": "Pelarena",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "098",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/098",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv05-210",
+      "name": "Erin",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "210",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/210",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv06.5-005",
+      "name": "Decidueye",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "005",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/005",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv06-093",
+      "name": "Enamorus",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "093",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/093",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv07-018",
+      "name": "Toedscruel",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "018",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/018",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv07-171",
+      "name": "Brie",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "171",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/171",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv08-034",
+      "name": "Armarouge",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "034",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/034",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv08-158",
+      "name": "Maushold",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "158",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/158",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv08-244",
+      "name": "Levi",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "244",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/244",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv09-186",
+      "name": "Zacian ex de Paul",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "186",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/186",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv10.5b-009",
+      "name": "Karrablast",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "009",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/009",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv10.5b-060",
+      "name": "Escavalier",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "060",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/060",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv10.5w-107",
+      "name": "Samurott",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "107",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/107",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv10-087",
+      "name": "Mimikyu del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "087",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/087",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "svp-008",
+      "name": "Revavroom",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "008",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/008",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "svp-140",
+      "name": "Tinkaton",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "140",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/140",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "svp-182",
+      "name": "Kilowattrel de e-Nigma",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "182",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "DOM"
+    }
+  ]
+}

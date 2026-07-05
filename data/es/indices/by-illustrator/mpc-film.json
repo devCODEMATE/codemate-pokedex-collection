@@ -1,0 +1,188 @@
+{
+  "name": "MPC Film",
+  "totalCards": 14,
+  "cards": [
+    {
+      "id": "det1-1",
+      "name": "Bulbasaur",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "1",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/det1/1",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "det1-10",
+      "name": "Detective Pikachu",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "10",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/det1/10",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "det1-11",
+      "name": "Mr. Mime",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "11",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/det1/11",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "det1-12",
+      "name": "Mewtwo",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "12",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/det1/12",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "det1-13",
+      "name": "Machamp",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "13",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/det1/13",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "det1-16",
+      "name": "Lickitung",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "16",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/det1/16",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "det1-17",
+      "name": "Ditto",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "17",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/det1/17",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "det1-3",
+      "name": "Morelull",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "3",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/det1/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "det1-4",
+      "name": "Charmander",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "4",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/det1/4",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "det1-6",
+      "name": "Arcanine",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "6",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/det1/6",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "det1-9",
+      "name": "Greninja",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "9",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/det1/9",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "smp-SM194",
+      "name": "Detective Pikachu",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM194",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "smp-SM196",
+      "name": "Mewtwo GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM196",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "smp-SM197",
+      "name": "Greninja GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM197",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "MPC Film"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Sabrina's Mr. Mime",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym1-94",
+      "name": "Sabrina's Mr. Mime",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "94",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/94",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym2-59",
+      "name": "Sabrina's Mr. Mime",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "59",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/59",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

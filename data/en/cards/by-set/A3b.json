@@ -1,0 +1,7101 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "A3b-001",
+    "illustrator": "Oswaldo KATO",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/001",
+    "localId": "001",
+    "name": "Tropius",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      357
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "description": "It lives in tropical jungles. The bunch of fruit\naround its neck is delicious. The fruit grows\ntwice a year.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Cutting Wind",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-002",
+    "illustrator": "chibi",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/002",
+    "localId": "002",
+    "name": "Leafeon",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      470
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "When you see Leafeon asleep in a patch of\nsunshine, you'll know it is using photosynthesis\nto produce clean air.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Leaf Blast",
+        "effect": "This attack does 20 more damage for each {G} Energy attached to this Pokémon.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-003",
+    "illustrator": "Yuka Morii",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/003",
+    "localId": "003",
+    "name": "Bounsweet",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      761
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "Its sweat is sweet, like syrup made from boiled-down\nfruit. Because of this, Bounsweet was highly valued in\nthe past, when sweeteners were scarce.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Flop",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-004",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/004",
+    "localId": "004",
+    "name": "Steenee",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      762
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Bounsweet",
+    "description": "Steenee spreads a sweet scent that\nmakes others feel invigorated. This same\nscent is popular for antiperspirants.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Leaf Step",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-005",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/005",
+    "localId": "005",
+    "name": "Tsareena",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      763
+    ],
+    "hp": 140,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Steenee",
+    "description": "This Pokémon is proud and aggressive. However, it is\nsaid that a Tsareena will instantly become calm if\nsomeone touches the crown on its calyx.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Kick Down",
+        "effect": "Your opponent reveals a random card from their hand and shuffles it into their deck.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-006",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/006",
+    "localId": "006",
+    "name": "Applin",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      840
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "description": "It grows by eating the flesh of an apple.\nApplin uses its own body fluid to strengthen\nthe apple's skin and prevent it from rotting.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Ram",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-007",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/007",
+    "localId": "007",
+    "name": "Appletun",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      842
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Applin",
+    "description": "It feeds mainly on sweet apples. It will also eat\nsmall bug Pokémon that are attracted by its\nsweet nectar.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Sweets Relay",
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-008",
+    "illustrator": "Eri Yamaki",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/008",
+    "localId": "008",
+    "name": "Flareon",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      136
+    ],
+    "hp": 110,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Assisting Heater",
+        "effect": "Take a {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-009",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/009",
+    "localId": "009",
+    "name": "Flareon ex",
+    "rarity": "Four Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      136
+    ],
+    "hp": 150,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Combust",
+        "effect": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Fire Spin",
+        "effect": "Discard 2 {R} Energy from this Pokémon.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-010",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/010",
+    "localId": "010",
+    "name": "Torkoal",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      324
+    ],
+    "hp": 100,
+    "types": [
+      "Fire"
+    ],
+    "description": "It burns coal inside its shell for energy. It blows\nout black soot if it is endangered.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": "Flamethrower",
+        "effect": "Discard a {R} Energy from this Pokémon.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-011",
+    "illustrator": "0313",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/011",
+    "localId": "011",
+    "name": "Litten",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      725
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "description": "If you try too hard to get close to it, it won't\nopen up to you. Even if you do grow close,\ngiving it too much affection is still a no-no.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Flare",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-012",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/012",
+    "localId": "012",
+    "name": "Torracat",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      726
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Litten",
+    "description": "Torracat will let its Trainer coddle it once they've\ngrown close, but it's a powerful, sharp-clawed\nPokémon, so its Trainer gets covered in scratches.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Claw Slash",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-013",
+    "illustrator": "Hitoshi Ariga",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/013",
+    "localId": "013",
+    "name": "Incineroar",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      727
+    ],
+    "hp": 150,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Torracat",
+    "description": "Although it's rough mannered and egotistical, it\nfinds beating down unworthy opponents boring.\nIt gets motivated for stronger opponents.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Darkest Lariat",
+        "effect": "Flip 2 coins. This attack does 100 damage for each heads.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-014",
+    "illustrator": "tetsuya koizumi",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/014",
+    "localId": "014",
+    "name": "Salandit",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      757
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "description": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Ember",
+        "effect": "Discard a {R} Energy from this Pokémon.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-015",
+    "illustrator": "Shibuzoh.",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/015",
+    "localId": "015",
+    "name": "Salazzle",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      758
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Salandit",
+    "description": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Combustion",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-016",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/016",
+    "localId": "016",
+    "name": "Vaporeon",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      134
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Hyper Whirlpool",
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-017",
+    "illustrator": "Mizue",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/017",
+    "localId": "017",
+    "name": "Glaceon",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      471
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Ice Blade",
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-018",
+    "illustrator": "MAHOU",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/018",
+    "localId": "018",
+    "name": "Vanillite",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      582
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "Unable to survive in hot areas, it makes itself\ncomfortable by breathing out air cold enough to\ncause snow. It burrows into the snow to sleep.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Sweets Relay",
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-019",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/019",
+    "localId": "019",
+    "name": "Vanillish",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      583
+    ],
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Vanillite",
+    "description": "By drinking pure water, it grows its icy body.\nThis Pokémon can be hard to find on days with\nwarm, sunny weather.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Sweets Relay",
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-020",
+    "illustrator": "Ayaka Yoshida",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/020",
+    "localId": "020",
+    "name": "Vanilluxe",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      584
+    ],
+    "hp": 140,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Vanillish",
+    "description": "When its anger reaches a breaking point, this\nPokémon unleashes a fierce blizzard that freezes\nevery creature around it, be they friend or foe.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Double Spin",
+        "effect": "Flip 2 coins. This attack does 80 damage for each heads.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-021",
+    "illustrator": "Miki Tanaka",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/021",
+    "localId": "021",
+    "name": "Alomomola",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      594
+    ],
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "description": "It gently holds injured and weak Pokémon in its\nfins. Its special membrane heals their wounds.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Water Pulse",
+        "effect": "Your opponent's Active Pokémon is now Asleep.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-022",
+    "illustrator": "match",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/022",
+    "localId": "022",
+    "name": "Popplio",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      728
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "description": "The balloons it inflates with its nose grow\nlarger and larger as it practices day by day.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Watering",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-023",
+    "illustrator": "Atsuko Nishida",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/023",
+    "localId": "023",
+    "name": "Brionne",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      729
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Popplio",
+    "description": "It gets excited when it sees a dance it\ndoesn't know. This hard worker practices\ndiligently until it can learn that dance.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Water Gun",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-024",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/024",
+    "localId": "024",
+    "name": "Primarina ex",
+    "rarity": "Four Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      730
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Brionne",
+    "stage": "Stage2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Hydro Pump",
+        "effect": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Sparkling Aria",
+        "effect": "Heal 20 damage from this Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-025",
+    "illustrator": "Sanosuke Sakuma",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/025",
+    "localId": "025",
+    "name": "Jolteon",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      135
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Beginning Bolt",
+        "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-026",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/026",
+    "localId": "026",
+    "name": "Joltik",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      595
+    ],
+    "hp": 40,
+    "types": [
+      "Lightning"
+    ],
+    "description": "Joltik can be found clinging to other Pokémon.\nIt's soaking up static electricity because it can't\nproduce a charge on its own.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Jolt",
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-027",
+    "illustrator": "otumami",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/027",
+    "localId": "027",
+    "name": "Galvantula",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      596
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Joltik",
+    "description": "It launches electrified fur from its abdomen as its\nmeans of attack. Opponents hit by the fur could\nbe in for three full days and nights of paralysis.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Electric Shock",
+        "effect": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-028",
+    "illustrator": "Ryota Murayama",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/028",
+    "localId": "028",
+    "name": "Espeon",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      196
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "The tip of its forked tail quivers when it is\npredicting its opponent's next move.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Energy Crush",
+        "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-029",
+    "illustrator": "match",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/029",
+    "localId": "029",
+    "name": "Woobat",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      527
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "While inside a cave, if you look up and see lots\nof heart-shaped marks lining the walls, it's\nevidence that Woobat live there.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Gust",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-030",
+    "illustrator": "Shigenori Negishi",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/030",
+    "localId": "030",
+    "name": "Swoobat",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      528
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Woobat",
+    "description": "Emitting powerful sound waves tires it out.\nAfterward, it won't be able to fly for a\nlittle while.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Psyshot",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-031",
+    "illustrator": "MAHOU",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/031",
+    "localId": "031",
+    "name": "Swirlix",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      684
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "It eats its own weight in sugar every day.\nIf it doesn't get enough sugar, it becomes\nincredibly grumpy.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Sweets Relay",
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-032",
+    "illustrator": "Kyoko Umemoto",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/032",
+    "localId": "032",
+    "name": "Slurpuff",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      685
+    ],
+    "hp": 120,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Swirlix",
+    "description": "By taking in a person's scent, it can sniff out their\nmental and physical condition. It's hoped that\nthis skill will have many medical applications.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Sweets Relay",
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-033",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/033",
+    "localId": "033",
+    "name": "Sylveon",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      700
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Evoharmony",
+        "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-034",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/034",
+    "localId": "034",
+    "name": "Sylveon ex",
+    "rarity": "Four Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      700
+    ],
+    "hp": 140,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Happy Ribbon",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Fairy Wind",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-035",
+    "illustrator": "Eri Yamaki",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/035",
+    "localId": "035",
+    "name": "Mimikyu",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      778
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "description": "This Pokémon lives in dark places untouched by\nsunlight. When it appears before humans, it hides\nitself under a cloth that resembles a Pikachu.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": "Try to Imitate",
+        "effect": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-036",
+    "illustrator": "Mina Nakai",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/036",
+    "localId": "036",
+    "name": "Milcery",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      868
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "description": "This Pokémon was born from sweet-smelling\nparticles in the air. Its body is made of cream.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Sweets Relay",
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-037",
+    "illustrator": "Mizue",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/037",
+    "localId": "037",
+    "name": "Alcremie",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      869
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Milcery",
+    "description": "When it trusts a Trainer, it will treat them\nto berries it's decorated with cream.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Sweets Overload",
+        "effect": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-038",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/038",
+    "localId": "038",
+    "name": "Barboach",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      339
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "description": "Its two whiskers provide a sensitive radar. Even in\nmuddy waters, it can detect its prey's location.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Mud Shot",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-039",
+    "illustrator": "Shinji Kanda",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/039",
+    "localId": "039",
+    "name": "Whiscash",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      340
+    ],
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Barboach",
+    "description": "It is extremely protective of its territory. If any\nfoe approaches, it attacks using vicious tremors.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Earthquake",
+        "effect": "This attack also does 10 damage to each of your Benched Pokémon.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-040",
+    "illustrator": "Shigenori Negishi",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/040",
+    "localId": "040",
+    "name": "Mienfoo",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      619
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "description": "In one minute, a well-trained Mienfoo can chop\nwith its arms more than 100 times.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Kick Shot",
+        "effect": "Flip a coin. If tails, this attack does nothing.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-041",
+    "illustrator": "Shibuzoh.",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/041",
+    "localId": "041",
+    "name": "Mienshao",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      620
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Mienfoo",
+    "description": "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Low Kick",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-042",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/042",
+    "localId": "042",
+    "name": "Carbink",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      703
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "description": "When beset by attackers, Carbink wipes them all\nout by firing high-energy beams from the gems\nembedded in its body.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Hard Roll",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-043",
+    "illustrator": "Ryota Murayama",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/043",
+    "localId": "043",
+    "name": "Umbreon",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      197
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "When exposed to the moon's aura, the rings on its\nbody glow faintly and it gains a mysterious power.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Dark Binding",
+        "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-044",
+    "illustrator": "Yukiko Baba",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/044",
+    "localId": "044",
+    "name": "Sableye",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      302
+    ],
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "description": "Materials from gems it has eaten float to the\nsurface of its body and can form an infinite\nnumber of patterns among individuals.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Scratch",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-045",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/045",
+    "localId": "045",
+    "name": "Purrloin",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      509
+    ],
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "description": "Opponents that get drawn in by its adorable\nbehavior come away with stinging scratches from\nits claws and stinging pride from its laughter.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Playful Knockdown",
+        "effect": "Discard all Pokémon Tools from your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-046",
+    "illustrator": "kawayoo",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/046",
+    "localId": "046",
+    "name": "Liepard",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      510
+    ],
+    "hp": 90,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Purrloin",
+    "description": "Don't be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": "Slashing Claw",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-047",
+    "illustrator": "AKIRA EGAWA",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/047",
+    "localId": "047",
+    "name": "Mawile",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      303
+    ],
+    "hp": 70,
+    "types": [
+      "Metal"
+    ],
+    "description": "It uses its docile-looking face to lull foes into\ncomplacency, then bites with its huge,\nrelentless jaws.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": "Powerful Vise",
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-048",
+    "illustrator": "Oswaldo KATO",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/048",
+    "localId": "048",
+    "name": "Togedemaru",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      777
+    ],
+    "hp": 80,
+    "types": [
+      "Metal"
+    ],
+    "description": "With the long hairs on its back, this Pokémon\ntakes in electricity from other electric Pokémon.\nIt stores what it absorbs in an electric sac.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Metal"
+        ],
+        "name": "Bristling Spikes",
+        "effect": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-049",
+    "illustrator": "HYOGONOSUKE",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/049",
+    "localId": "049",
+    "name": "Meltan",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      808
+    ],
+    "hp": 60,
+    "types": [
+      "Metal"
+    ],
+    "description": "It dissolves and eats metal. Circulating liquid\nmetal within its body is how it generates energy.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": "Headbutt",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-050",
+    "illustrator": "NC Empire",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/050",
+    "localId": "050",
+    "name": "Melmetal",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      809
+    ],
+    "hp": 140,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Meltan",
+    "description": "At the end of its life-span, Melmetal will rust and\nfall apart. The small shards left behind will\neventually be reborn as Meltan.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "name": "Mega Punch",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-051",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/051",
+    "localId": "051",
+    "name": "Dratini",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      147
+    ],
+    "hp": 60,
+    "types": [
+      "Dragon"
+    ],
+    "description": "It sheds many layers of skin as it grows larger.\nDuring this process, it is protected by a rapid\nwaterfall.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Beat",
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-052",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/052",
+    "localId": "052",
+    "name": "Dragonair",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      148
+    ],
+    "hp": 90,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": "Dratini",
+    "description": "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Lightning"
+        ],
+        "name": "Waterfall",
+        "damage": 60
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-053",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/053",
+    "localId": "053",
+    "name": "Dragonite ex",
+    "rarity": "Four Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      149
+    ],
+    "hp": 180,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": "Dragonair",
+    "stage": "Stage2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Giga Impact",
+        "effect": "During your next turn, this Pokémon can't attack.",
+        "damage": 180
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-054",
+    "illustrator": "Sanosuke Sakuma",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/054",
+    "localId": "054",
+    "name": "Drampa",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      780
+    ],
+    "hp": 100,
+    "types": [
+      "Dragon"
+    ],
+    "description": "The mountains it calls home are nearly two miles\nin height. On rare occasions, it descends to play\nwith the children living in the towns below.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Dragon Breath",
+        "effect": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "damage": 70
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-055",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/055",
+    "localId": "055",
+    "name": "Eevee",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Collect",
+        "effect": "Draw a card."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-056",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/056",
+    "localId": "056",
+    "name": "Eevee ex",
+    "rarity": "Four Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Veevee 'volve",
+        "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Bite",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-057",
+    "illustrator": "PLANETA Tsuji",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/057",
+    "localId": "057",
+    "name": "Snorlax ex",
+    "rarity": "Four Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      143
+    ],
+    "hp": 160,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Full-Mouth Manner",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Flop-Down Punch",
+        "effect": "This Pokémon is now Asleep.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-058",
+    "illustrator": "Shibuzoh.",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/058",
+    "localId": "058",
+    "name": "Aipom",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      190
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "description": "As it did more and more with its tail, its hands\nbecame clumsy. It makes its nest high in\nthe treetops.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Double Hit",
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-059",
+    "illustrator": "Sumiyoshi Kizuki",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/059",
+    "localId": "059",
+    "name": "Ambipom",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      424
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Aipom",
+    "description": "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat's proof it really likes you.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Catching Tail",
+        "effect": "Once during your turn, you may put a random Pokémon Tool card from your deck into your hand."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Corkscrew Punch",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-060",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/060",
+    "localId": "060",
+    "name": "Chatot",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      441
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "description": "It mimics the cries of other Pokémon to trick them\ninto thinking it's one of them. This way they won't\nattack it.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Tone-Deaf",
+        "effect": "Your opponent's Active Pokémon is now Confused.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-061",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/061",
+    "localId": "061",
+    "name": "Audino",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      531
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "description": "This Pokémon has a kind heart. By touching with its feelers,\nAudino can gauge other creatures' feelings and physical conditions.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Do the Wave",
+        "effect": "This attack does 20 damage for each of your Benched Pokémon.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-062",
+    "illustrator": "Sekio",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/062",
+    "localId": "062",
+    "name": "Minccino",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      572
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "description": "The way it brushes away grime with its tail\ncan be helpful when cleaning. But its focus on\nspotlessness can make cleaning more of a hassle.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Pound",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-063",
+    "illustrator": "Mizue",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/063",
+    "localId": "063",
+    "name": "Cinccino",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      573
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Minccino",
+    "description": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won't tolerate even a speck of the stuff.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Slap",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-064",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/064",
+    "localId": "064",
+    "name": "Skwovet",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      819
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "description": "It stores berries in its cheeks. When there are no\nberries to be found, Skwovet will stuff pebbles\ninto its cheeks to stave off its cravings.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Bite",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-065",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/065",
+    "localId": "065",
+    "name": "Greedent",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      820
+    ],
+    "hp": 120,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Skwovet",
+    "description": "This Pokémon makes off with heaps of fallen berries by wrapping\nthem in its tail, which is roughly twice the length of its body.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Enhanced Fang",
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "A3b-066",
+    "illustrator": "AYUMI ODASHIMA",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/066",
+    "localId": "066",
+    "name": "Eevee Bag",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Choose 1:\n\nDuring this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.\n\nHeal 20 damage from each of your Pokémon that evolves from Eevee.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-11-14T00:04:06+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "A3b-067",
+    "illustrator": "Studio Bora Inc.",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/067",
+    "localId": "067",
+    "name": "Leftovers",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "At the end of your turn, if the Pokémon this card is attached to is in the Active Spot, heal 10 damage from that Pokémon.",
+    "trainerType": "Tool",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-11-14T00:04:06+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "A3b-068",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/068",
+    "localId": "068",
+    "name": "Hau",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-11-14T00:04:06+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "A3b-069",
+    "illustrator": "Susumu Maeya",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/069",
+    "localId": "069",
+    "name": "Penny",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-070",
+    "illustrator": "Ryota Murayama",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/070",
+    "localId": "070",
+    "name": "Leafeon",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      470
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "When you see Leafeon asleep in a patch of\nsunshine, you'll know it is using photosynthesis\nto produce clean air.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Leaf Blast",
+        "effect": "This attack does 20 more damage for each {G} Energy attached to this Pokémon.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-071",
+    "illustrator": "Teeziro",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/071",
+    "localId": "071",
+    "name": "Flareon",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      136
+    ],
+    "hp": 110,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Assisting Heater",
+        "effect": "Take a {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-072",
+    "illustrator": "chibi",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/072",
+    "localId": "072",
+    "name": "Vaporeon",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      134
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Hyper Whirlpool",
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-073",
+    "illustrator": "Fujimoto Gold",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/073",
+    "localId": "073",
+    "name": "Glaceon",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      471
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Ice Blade",
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-074",
+    "illustrator": "Nisota Niso",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/074",
+    "localId": "074",
+    "name": "Jolteon",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      135
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Beginning Bolt",
+        "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-075",
+    "illustrator": "rika",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/075",
+    "localId": "075",
+    "name": "Espeon",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      196
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "The tip of its forked tail quivers when it is\npredicting its opponent's next move.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Energy Crush",
+        "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-076",
+    "illustrator": "saino misaki",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/076",
+    "localId": "076",
+    "name": "Sylveon",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      700
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Evoharmony",
+        "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-077",
+    "illustrator": "kawayoo",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/077",
+    "localId": "077",
+    "name": "Umbreon",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      197
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "When exposed to the moon's aura, the rings on its\nbody glow faintly and it gains a mysterious power.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Dark Binding",
+        "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-078",
+    "illustrator": "Narumi Sato",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/078",
+    "localId": "078",
+    "name": "Eevee",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "description": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Collect",
+        "effect": "Draw a card."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-079",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/079",
+    "localId": "079",
+    "name": "Flareon ex",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      136
+    ],
+    "hp": 150,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Combust",
+        "effect": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Fire Spin",
+        "effect": "Discard 2 {R} Energy from this Pokémon.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-080",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/080",
+    "localId": "080",
+    "name": "Primarina ex",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      730
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Brionne",
+    "stage": "Stage2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Hydro Pump",
+        "effect": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Sparkling Aria",
+        "effect": "Heal 20 damage from this Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-081",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/081",
+    "localId": "081",
+    "name": "Sylveon ex",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      700
+    ],
+    "hp": 140,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Happy Ribbon",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Fairy Wind",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-082",
+    "illustrator": "PLANETA Mochizuki",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/082",
+    "localId": "082",
+    "name": "Dragonite ex",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      149
+    ],
+    "hp": 180,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": "Dragonair",
+    "stage": "Stage2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Giga Impact",
+        "effect": "During your next turn, this Pokémon can't attack.",
+        "damage": 180
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-083",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/083",
+    "localId": "083",
+    "name": "Eevee ex",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Veevee 'volve",
+        "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Bite",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-084",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/084",
+    "localId": "084",
+    "name": "Snorlax ex",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      143
+    ],
+    "hp": 160,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Full-Mouth Manner",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Flop-Down Punch",
+        "effect": "This Pokémon is now Asleep.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "A3b-085",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/085",
+    "localId": "085",
+    "name": "Hau",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-11-14T00:04:06+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "A3b-086",
+    "illustrator": "Susumu Maeya",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/086",
+    "localId": "086",
+    "name": "Penny",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-087",
+    "illustrator": "Kuroimori",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/087",
+    "localId": "087",
+    "name": "Flareon ex",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      136
+    ],
+    "hp": 150,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Combust",
+        "effect": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Fire Spin",
+        "effect": "Discard 2 {R} Energy from this Pokémon.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-088",
+    "illustrator": "DOM",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/088",
+    "localId": "088",
+    "name": "Primarina ex",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      730
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Brionne",
+    "stage": "Stage2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Hydro Pump",
+        "effect": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Sparkling Aria",
+        "effect": "Heal 20 damage from this Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-089",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/089",
+    "localId": "089",
+    "name": "Sylveon ex",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      700
+    ],
+    "hp": 140,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Happy Ribbon",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Fairy Wind",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-090",
+    "illustrator": "Mori Yuu",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/090",
+    "localId": "090",
+    "name": "Dragonite ex",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      149
+    ],
+    "hp": 180,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": "Dragonair",
+    "stage": "Stage2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Giga Impact",
+        "effect": "During your next turn, this Pokémon can't attack.",
+        "damage": 180
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-091",
+    "illustrator": "Mékayu",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/091",
+    "localId": "091",
+    "name": "Snorlax ex",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      143
+    ],
+    "hp": 160,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Full-Mouth Manner",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Flop-Down Punch",
+        "effect": "This Pokémon is now Asleep.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-092",
+    "illustrator": "kurumitsu",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/092",
+    "localId": "092",
+    "name": "Eevee ex",
+    "rarity": "Three Star",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Veevee 'volve",
+        "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Bite",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-093",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/093",
+    "localId": "093",
+    "name": "Pinsir",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      127
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "description": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Guillotine Rush",
+        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-094",
+    "illustrator": "Nelnal",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/094",
+    "localId": "094",
+    "name": "Lapras",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      131
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "description": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Hydro Pump",
+        "effect": "If this Pokémon has at least 3 extra {W} Energy attached, this attack does 70 more damage.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-095",
+    "illustrator": "Scav",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/095",
+    "localId": "095",
+    "name": "Voltorb",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      100
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "description": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Big Explosion",
+        "effect": "This Pokémon also does 10 damage to itself.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-096",
+    "illustrator": "Scav",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/096",
+    "localId": "096",
+    "name": "Electrode",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      101
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Voltorb",
+    "description": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Rolling Attack",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-097",
+    "illustrator": "Sanosuke Sakuma",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/097",
+    "localId": "097",
+    "name": "Ralts",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      280
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "The horns on its head provide a strong power\nthat enables it to sense people's emotions.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Teleport",
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-098",
+    "illustrator": "Sanosuke Sakuma",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/098",
+    "localId": "098",
+    "name": "Kirlia",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      281
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Ralts",
+    "description": "It has a psychic power that enables it to distort\nthe space around it and see into the future.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Slap",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-099",
+    "illustrator": "Sanosuke Sakuma",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/099",
+    "localId": "099",
+    "name": "Gardevoir",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      282
+    ],
+    "hp": 110,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Kirlia",
+    "description": "To protect its Trainer, it will expend all its psychic\npower to create a small black hole.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Psy Shadow",
+        "effect": "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to the {P} Pokémon in the Active Spot."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Psyshot",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-100",
+    "illustrator": "SATOSHI NAKAI",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/100",
+    "localId": "100",
+    "name": "Ekans",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      23
+    ],
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "description": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Bite",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-101",
+    "illustrator": "SATOSHI NAKAI",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/101",
+    "localId": "101",
+    "name": "Arbok",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      24
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Ekans",
+    "description": "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Corner",
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-102",
+    "illustrator": "MAHOU",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/102",
+    "localId": "102",
+    "name": "Farfetch'd",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      83
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "description": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Leek Slap",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-103",
+    "illustrator": "PLANETA Saito",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/103",
+    "localId": "103",
+    "name": "Moltres ex",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      146
+    ],
+    "hp": 140,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Inferno Dance",
+        "effect": "Flip 3 coins. Take an amount of {R} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {R} Pokémon in any way you like."
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Heat Blast",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-104",
+    "illustrator": "PLANETA Saito",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/104",
+    "localId": "104",
+    "name": "Articuno ex",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      144
+    ],
+    "hp": 140,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Ice Wing",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Blizzard",
+        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-105",
+    "illustrator": "PLANETA Saito",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/105",
+    "localId": "105",
+    "name": "Zapdos ex",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      145
+    ],
+    "hp": 130,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Peck",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Thundering Hurricane",
+        "effect": "Flip 4 coins. This attack does 50 damage for each heads.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "A3b-106",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/106",
+    "localId": "106",
+    "name": "Gallade ex",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      475
+    ],
+    "hp": 170,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Kirlia",
+    "stage": "Stage2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Energized Blade",
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "A3b-107",
+    "illustrator": "AYUMI ODASHIMA",
+    "image": "https://assets.tcgdex.net/en/tcgp/A3b/107",
+    "localId": "107",
+    "name": "Eevee Bag",
+    "rarity": "Crown",
+    "set": {
+      "cardCount": {
+        "official": 69,
+        "total": 107
+      },
+      "id": "A3b",
+      "name": "Eevee Grove"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Choose 1:\n\nDuring this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.\n\nHeal 20 damage from each of your Pokémon that evolves from Eevee.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-11-14T00:04:06+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

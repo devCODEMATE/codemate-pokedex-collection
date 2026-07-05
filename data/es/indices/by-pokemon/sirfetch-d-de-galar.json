@@ -1,0 +1,58 @@
+{
+  "name": "Sirfetch'd de Galar",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "swsh2-95",
+      "name": "Sirfetch'd de Galar",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "95",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/95",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "You Iribi"
+    },
+    {
+      "id": "swsh3-98",
+      "name": "Sirfetch'd de Galar",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "98",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/98",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh4.5-SV064",
+      "name": "Sirfetch'd de Galar",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV064",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV064",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh6-79",
+      "name": "Sirfetch'd de Galar",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "79",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/79",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    }
+  ]
+}

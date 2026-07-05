@@ -1,0 +1,45 @@
+{
+  "name": "Basculin de Hisui",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh10-043",
+      "name": "Basculin de Hisui",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "043",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/043",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh11-044",
+      "name": "Basculin de Hisui",
+      "set": "swsh11",
+      "setName": "Origen Perdido",
+      "number": "044",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh11/044",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH273",
+      "name": "Basculin de Hisui",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH273",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    }
+  ]
+}

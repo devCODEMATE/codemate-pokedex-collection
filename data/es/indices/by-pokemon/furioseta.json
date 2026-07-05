@@ -1,0 +1,45 @@
+{
+  "name": "Furioseta",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv04-123",
+      "name": "Furioseta",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "123",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/123",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv04-207",
+      "name": "Furioseta",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "207",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/207",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "sv06-118",
+      "name": "Furioseta",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "118",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/118",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "danciao"
+    }
+  ]
+}

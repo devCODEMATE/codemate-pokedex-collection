@@ -1,0 +1,45 @@
+{
+  "name": "Quilladin",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "me04-006",
+      "name": "Quilladin",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "006",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me04/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hideki Ishikawa"
+    },
+    {
+      "id": "xy1-13",
+      "name": "Quilladin",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "13",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/13",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "xy8-10",
+      "name": "Quilladin",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "10",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/10",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Miki Tanaka"
+    }
+  ]
+}

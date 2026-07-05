@@ -1,0 +1,45 @@
+{
+  "name": "Tapu Bulu GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm3-130",
+      "name": "Tapu Bulu GX",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "130",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/130",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm3-149",
+      "name": "Tapu Bulu GX",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "149",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/149",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM32",
+      "name": "Tapu Bulu GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM32",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA"
+    }
+  ]
+}

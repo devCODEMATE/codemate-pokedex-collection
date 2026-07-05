@@ -1,0 +1,435 @@
+{
+  "name": "Houndoom",
+  "totalCards": 33,
+  "cards": [
+    {
+      "id": "A2a-012",
+      "name": "Houndoom",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "012",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/012",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "A2a-076",
+      "name": "Houndoom",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "076",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/076",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "matazo"
+    },
+    {
+      "id": "A4-118",
+      "name": "Houndoom",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "118",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/118",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "B1a-016",
+      "name": "Houndoom",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "016",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/016",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "bw10-56",
+      "name": "Houndoom",
+      "set": "bw10",
+      "setName": "Plasma Blast",
+      "number": "56",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw10/56",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "bw6-75",
+      "name": "Houndoom",
+      "set": "bw6",
+      "setName": "Dragons Exalted",
+      "number": "75",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw6/75",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "col1-10",
+      "name": "Houndoom",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "10",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/col/col1/10",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "dp4-18",
+      "name": "Houndoom",
+      "set": "dp4",
+      "setName": "Great Encounters",
+      "number": "18",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/dp/dp4/18",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "dp6-57",
+      "name": "Houndoom",
+      "set": "dp6",
+      "setName": "Legends Awakened",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp6/57",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ecard2-14",
+      "name": "Houndoom",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/14",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "ecard2-15",
+      "name": "Houndoom",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/15",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ecard2-H11",
+      "name": "Houndoom",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "H11",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ecard3-12",
+      "name": "Houndoom",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "12",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/12",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kimiya Masago"
+    },
+    {
+      "id": "ecard3-H11",
+      "name": "Houndoom",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "H11",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kimiya Masago"
+    },
+    {
+      "id": "ex10-7",
+      "name": "Houndoom",
+      "set": "ex10",
+      "setName": "Unseen Forces",
+      "number": "7",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex10/7",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ex3-34",
+      "name": "Houndoom",
+      "set": "ex3",
+      "setName": "Dragon",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex3/34",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "hgss3-5",
+      "name": "Houndoom",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "5",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/5",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "hgss3-82",
+      "name": "Houndoom",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "82",
+      "rarity": "Rare PRIME",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/82",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Hideaki Hakozaki"
+    },
+    {
+      "id": "neo2-23",
+      "name": "Houndoom",
+      "set": "neo2",
+      "setName": "Neo Discovery",
+      "number": "23",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo2/23",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shin-ichi Yoshida"
+    },
+    {
+      "id": "neo2-4",
+      "name": "Houndoom",
+      "set": "neo2",
+      "setName": "Neo Discovery",
+      "number": "4",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo2/4",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shin-ichi Yoshida"
+    },
+    {
+      "id": "neo3-8",
+      "name": "Houndoom",
+      "set": "neo3",
+      "setName": "Neo Revelation",
+      "number": "8",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo3/8",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "P-A-096",
+      "name": "Houndoom",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "096",
+      "rarity": "One Diamond",
+      "image": null,
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sm4-59",
+      "name": "Houndoom",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "59",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/59",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sm8-46",
+      "name": "Houndoom",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "46",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/46",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "sv01-034",
+      "name": "Houndoom",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "034",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/034",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv03-133",
+      "name": "Houndoom",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "133",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/133",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Haru Akasaka"
+    },
+    {
+      "id": "sv06.5-008",
+      "name": "Houndoom",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "008",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/008",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "burari"
+    },
+    {
+      "id": "sv06.5-066",
+      "name": "Houndoom",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "066",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/066",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Taiga Kasai"
+    },
+    {
+      "id": "sv08.5-063",
+      "name": "Houndoom",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "063",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/063",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "swsh5-179",
+      "name": "Houndoom",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "179",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/179",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "PLANETA Mochizuki"
+    },
+    {
+      "id": "swsh5-96",
+      "name": "Houndoom",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "96",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/96",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh9-TG10",
+      "name": "Houndoom",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "TG10",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/TG10",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH090",
+      "name": "Houndoom",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH090",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH090",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Uta"
+    }
+  ]
+}

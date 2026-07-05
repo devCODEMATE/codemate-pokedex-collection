@@ -1,0 +1,97 @@
+{
+  "name": "Capsakid",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "B2a-012",
+      "name": "Capsakid",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "012",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv01-027",
+      "name": "Capsakid",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "027",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/027",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv01-028",
+      "name": "Capsakid",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "028",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/028",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv03-023",
+      "name": "Capsakid",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "023",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/023",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sv03-024",
+      "name": "Capsakid",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "024",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/024",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Pani Kobayashi"
+    },
+    {
+      "id": "sv04.5-106",
+      "name": "Capsakid",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "106",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/106",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "sv08-012",
+      "name": "Capsakid",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "012",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/012",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Julie Hang"
+    }
+  ]
+}

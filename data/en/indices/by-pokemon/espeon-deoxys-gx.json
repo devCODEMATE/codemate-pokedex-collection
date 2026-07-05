@@ -1,0 +1,32 @@
+{
+  "name": "Espeon & Deoxys GX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sm11-72",
+      "name": "Espeon & Deoxys GX",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "72",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/72",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "smp-SM240",
+      "name": "Espeon & Deoxys GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM240",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    }
+  ]
+}

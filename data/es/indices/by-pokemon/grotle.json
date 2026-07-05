@@ -1,0 +1,84 @@
+{
+  "name": "Grotle",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A2-011",
+      "name": "Grotle",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "011",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/011",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "bw8-2",
+      "name": "Grotle",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "2",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/2",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "sm5-8",
+      "name": "Grotle",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "8",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "sv05-011",
+      "name": "Grotle",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "011",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/011",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv05-164",
+      "name": "Grotle",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "164",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/164",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "swsh9-007",
+      "name": "Grotle",
+      "set": "swsh9",
+      "setName": "Astros Brillantes",
+      "number": "007",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh9/007",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    }
+  ]
+}

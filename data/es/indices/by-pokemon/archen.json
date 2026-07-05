@@ -1,0 +1,71 @@
+{
+  "name": "Archen",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "bw3-66",
+      "name": "Archen",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "66",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/66",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sm11-120",
+      "name": "Archen",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "120",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/120",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "0313"
+    },
+    {
+      "id": "sv10.5w-050",
+      "name": "Archen",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "050",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/050",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Haru Akasaka"
+    },
+    {
+      "id": "sv10.5w-131",
+      "name": "Archen",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "131",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/131",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Ounishi"
+    },
+    {
+      "id": "swsh12-146",
+      "name": "Archen",
+      "set": "swsh12",
+      "setName": "Tempestad Plateada",
+      "number": "146",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12/146",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": null
+    }
+  ]
+}

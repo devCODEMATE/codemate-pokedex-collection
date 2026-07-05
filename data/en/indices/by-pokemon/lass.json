@@ -1,0 +1,28 @@
+{
+  "name": "Lass",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "base1-75",
+      "name": "Lass",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "75",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base1/75",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base4-104",
+      "name": "Lass",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "104",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base4/104",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

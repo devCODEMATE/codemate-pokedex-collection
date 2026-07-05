@@ -1,0 +1,45 @@
+{
+  "name": "Galarian Articuno",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh7-63",
+      "name": "Galarian Articuno",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "63",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/63",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "swshp-SWSH123",
+      "name": "Galarian Articuno",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH123",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH123",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swshp-SWSH282",
+      "name": "Galarian Articuno",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH282",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shiburingaru"
+    }
+  ]
+}

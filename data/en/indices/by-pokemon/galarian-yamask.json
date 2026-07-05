@@ -1,0 +1,45 @@
+{
+  "name": "Galarian Yamask",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh2-101",
+      "name": "Galarian Yamask",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "101",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/101",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "swsh4.5-SV065",
+      "name": "Galarian Yamask",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV065",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV065",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "swsh6-82",
+      "name": "Galarian Yamask",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "82",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/82",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    }
+  ]
+}

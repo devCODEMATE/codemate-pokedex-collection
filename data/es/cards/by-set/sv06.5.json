@@ -1,0 +1,7666 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-001",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/001",
+    "localId": "001",
+    "name": "Joltik",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      595
+    ],
+    "hp": 40,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Esquivo Chapoteo",
+        "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, se evitan todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
+        "damage": 10
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780889,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.08,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "avg-holo": 0.09,
+        "low-holo": 0.02,
+        "trend-holo": 0.13,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.09
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-002",
+    "illustrator": "mashu",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/002",
+    "localId": "002",
+    "name": "Galvantula",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      596
+    ],
+    "hp": 100,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Joltik",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Ojo Compuesto",
+        "effect": "Los ataques usados por este Pokémon hacen 50 puntos de daño más al Pokémon Activo de tu rival que tenga una habilidad (antes de aplicar Debilidad y Resistencia)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Tela Electrizante",
+        "effect": "Si este Pokémon tiene alguna Energía {L} unida, este ataque hace 80 puntos de daño más.",
+        "damage": "50+"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780890,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.04,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "avg-holo": 0.08,
+        "low-holo": 0.02,
+        "trend-holo": 0.11,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.08
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-003",
+    "illustrator": "Yoshimi Miyoshi",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/003",
+    "localId": "003",
+    "name": "Rowlet",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      722
+    ],
+    "hp": 70,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Sumar",
+        "effect": "Roba 1 carta."
+      },
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Follaje",
+        "damage": 10
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780891,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.04,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "avg-holo": 0.11,
+        "low-holo": 0.02,
+        "trend-holo": 0.14,
+        "avg1-holo": 0.28,
+        "avg7-holo": 0.16,
+        "avg30-holo": 0.11
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-004",
+    "illustrator": "Tetsu Kayama",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/004",
+    "localId": "004",
+    "name": "Dartrix",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      723
+    ],
+    "hp": 90,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Rowlet",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Alas Unidas",
+        "effect": "Este ataque hace 20 puntos de daño por cada Pokémon en tu pila de descartes que tenga el ataque Alas Unidas.",
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Viento Helado",
+        "damage": 30
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780892,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.02,
+        "avg30": 0.04,
+        "avg-holo": 0.11,
+        "low-holo": 0.02,
+        "trend-holo": 0.1,
+        "avg1-holo": 0.14,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.11
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-005",
+    "illustrator": "DOM",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/005",
+    "localId": "005",
+    "name": "Decidueye",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      724
+    ],
+    "hp": 150,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Dartrix",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Acopio de Plumas",
+        "effect": "Roba cartas hasta que tengas 7 cartas en tu mano."
+      },
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Disparo Poderoso",
+        "effect": "Descarta 1 carta de Energía {G} Básica de tu mano. Si no puedes, este ataque no hace nada.",
+        "damage": 170
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780893,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.07,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "avg-holo": 0.09,
+        "low-holo": 0.02,
+        "trend-holo": 0.09,
+        "avg1-holo": 0.09,
+        "avg7-holo": 0.1,
+        "avg30-holo": 0.1
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-006",
+    "illustrator": "GOSSAN",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/006",
+    "localId": "006",
+    "name": "Tapu Bulu",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      787
+    ],
+    "hp": 140,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Mazazo",
+        "effect": "Este Pokémon también se hace 30 puntos de daño a sí mismo.",
+        "damage": 220
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780894,
+        "avg": 0.1,
+        "low": 0.02,
+        "trend": 0.11,
+        "avg1": 0.08,
+        "avg7": 0.07,
+        "avg30": 0.08,
+        "avg-holo": 0.15,
+        "low-holo": 0.02,
+        "trend-holo": 0.2,
+        "avg1-holo": 0.09,
+        "avg7-holo": 0.16,
+        "avg30-holo": 0.15
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-007",
+    "illustrator": "REND",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/007",
+    "localId": "007",
+    "name": "Houndour",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      228
+    ],
+    "hp": 70,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Roer",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Patada Trasera",
+        "damage": 50
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780895,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "avg-holo": 0.09,
+        "low-holo": 0.02,
+        "trend-holo": 0.12,
+        "avg1-holo": 0.11,
+        "avg7-holo": 0.1,
+        "avg30-holo": 0.11
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-008",
+    "illustrator": "burari",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/008",
+    "localId": "008",
+    "name": "Houndoom",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      229
+    ],
+    "hp": 120,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Houndour",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Mordisco",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Alarido",
+        "effect": "Durante el próximo turno de tu rival, los ataques usados por el Pokémon Defensor hacen 100 puntos de daño menos (antes de aplicar Debilidad y Resistencia).",
+        "damage": 100
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.420Z",
+        "unit": "EUR",
+        "idProduct": 780896,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.05,
+        "avg-holo": 0.13,
+        "low-holo": 0.02,
+        "trend-holo": 0.09,
+        "avg1-holo": 0.06,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.12
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-009",
+    "illustrator": "Shinji Kanda",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/009",
+    "localId": "009",
+    "name": "Ferropolilla",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      994
+    ],
+    "hp": 120,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Succión",
+        "effect": "Cura a este Pokémon la misma cantidad de puntos de daño que hayas infligido al Pokémon Activo de tu rival.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Antianacronismos",
+        "effect": "Durante el próximo turno de tu rival, se evita todo el daño infligido a este Pokémon por ataques de Pokémon del pasado.",
+        "damage": 120
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780898,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.1,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "avg-holo": 0.15,
+        "low-holo": 0.02,
+        "trend-holo": 0.15,
+        "avg1-holo": 0.14,
+        "avg7-holo": 0.21,
+        "avg30-holo": 0.16
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-010",
+    "illustrator": "Shimaris Yukichi",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/010",
+    "localId": "010",
+    "name": "Horsea",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      116
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Permanecer Inmóvil",
+        "effect": "Cura 30 puntos de daño a este Pokémon."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Aleta Afilada",
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780900,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.07,
+        "avg7": 0.04,
+        "avg30": 0.03,
+        "avg-holo": 0.1,
+        "low-holo": 0.02,
+        "trend-holo": 0.07,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.11
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-011",
+    "illustrator": "Yuya Oka",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/011",
+    "localId": "011",
+    "name": "Seadra",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      117
+    ],
+    "hp": 90,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Horsea",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Pedir Refuerzos",
+        "effect": "Busca en tu baraja hasta 3 Pokémon, enséñalos y ponlos en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cortaleta",
+        "damage": 40
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780901,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.06,
+        "avg30": 0.05,
+        "avg-holo": 0.11,
+        "low-holo": 0.02,
+        "trend-holo": 0.09,
+        "avg1-holo": 0.16,
+        "avg7-holo": 0.13,
+        "avg30-holo": 0.11
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-012",
+    "illustrator": "toriyufu",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/012",
+    "localId": "012",
+    "name": "Kingdra ex",
+    "rarity": "Rara Doble",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      230
+    ],
+    "hp": 310,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Seadra",
+    "stage": "Fase 2",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Mandato Real",
+        "effect": "Pon hasta 3 Pokémon {W} de tu pila de descartes en tu Banca."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Hidrobomba",
+        "effect": "Este ataque hace 50 puntos de daño más por cada Energía {W} unida a este Pokémon.",
+        "damage": "50+"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780902,
+        "avg": 0.62,
+        "low": 0.05,
+        "trend": 0.58,
+        "avg1": 0.38,
+        "avg7": 0.46,
+        "avg30": 0.62,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-013",
+    "illustrator": "Krgc",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/013",
+    "localId": "013",
+    "name": "Sneasel",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      215
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Corte",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "name": "Acorralar",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 30
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780903,
+        "avg": 0.02,
+        "low": 0.02,
+        "trend": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.02,
+        "avg-holo": 0.08,
+        "low-holo": 0.02,
+        "trend-holo": 0.1,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.08
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-014",
+    "illustrator": "aspara",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/014",
+    "localId": "014",
+    "name": "Weavile",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      461
+    ],
+    "hp": 100,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Sneasel",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Cuchillada",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "name": "Garra Granizo",
+        "effect": "Descarta todas las Energías de este Pokémon. El Pokémon Activo de tu rival pasa a estar Paralizado.",
+        "damage": 70
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780904,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "avg-holo": 0.08,
+        "low-holo": 0.02,
+        "trend-holo": 0.08,
+        "avg1-holo": 0.07,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.09
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-015",
+    "illustrator": "PLANETA Mochizuki",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/015",
+    "localId": "015",
+    "name": "Revavroom ex",
+    "rarity": "Rara Doble",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      966
+    ],
+    "hp": 280,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Varoom",
+    "stage": "Fase 1",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Destello Acelerador",
+        "effect": "Si este Pokémon se ha movido de tu Banca al Puesto Activo en este turno, este ataque hace 120 puntos de daño más.",
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Metálica"
+        ],
+        "name": "Velocidad Demoledora",
+        "effect": "Descarta este Pokémon y todas las cartas unidas a él.",
+        "damage": 250
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780905,
+        "avg": 0.53,
+        "low": 0.02,
+        "trend": 0.4,
+        "avg1": 0.72,
+        "avg7": 0.54,
+        "avg30": 0.54,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-016",
+    "illustrator": "OKUBO",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/016",
+    "localId": "016",
+    "name": "Drowzee",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      96
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Mirada Inquietante",
+        "effect": "Tu rival enseña las cartas de su mano.",
+        "damage": 10
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780907,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "avg-holo": 0.1,
+        "low-holo": 0.02,
+        "trend-holo": 0.09,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.1
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-017",
+    "illustrator": "Masako Tomii",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/017",
+    "localId": "017",
+    "name": "Hypno",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      97
+    ],
+    "hp": 110,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Drowzee",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Ensoñación",
+        "effect": "Durante el próximo turno de tu rival, si une una carta de Energía de su mano al Pokémon Defensor, su turno termina.",
+        "damage": 80
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780908,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.04,
+        "avg-holo": 0.1,
+        "low-holo": 0.02,
+        "trend-holo": 0.13,
+        "avg1-holo": 0.07,
+        "avg7-holo": 0.12,
+        "avg30-holo": 0.1
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-018",
+    "illustrator": "IKEDA Saki",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/018",
+    "localId": "018",
+    "name": "Duskull",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      355
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Voy a por Ti",
+        "effect": "Pon hasta 3 Duskull de tu pila de descartes en tu Banca."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Farfullar",
+        "damage": 30
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780910,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.11,
+        "avg1": 0.65,
+        "avg7": 0.09,
+        "avg30": 0.08,
+        "avg-holo": 0.14,
+        "low-holo": 0.02,
+        "trend-holo": 0.13,
+        "avg1-holo": 0.06,
+        "avg7-holo": 0.21,
+        "avg30-holo": 0.15
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-019",
+    "illustrator": "Aya Kusube",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/019",
+    "localId": "019",
+    "name": "Dusclops",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      356
+    ],
+    "hp": 90,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Duskull",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Estallido Maldito",
+        "effect": "Una vez durante tu turno, puedes poner 5 contadores de daño en uno de los Pokémon de tu rival. Si usas esta habilidad, este Pokémon queda Fuera de Combate."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Fuego Fatuo",
+        "damage": 50
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780912,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.07,
+        "avg7": 0.06,
+        "avg30": 0.08,
+        "avg-holo": 0.17,
+        "low-holo": 0.02,
+        "trend-holo": 0.23,
+        "avg1-holo": 0.52,
+        "avg7-holo": 0.32,
+        "avg30-holo": 0.19
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-020",
+    "illustrator": "danciao",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/020",
+    "localId": "020",
+    "name": "Dusknoir",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      477
+    ],
+    "hp": 160,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Dusclops",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Estallido Maldito",
+        "effect": "Una vez durante tu turno, puedes poner 13 contadores de daño en uno de los Pokémon de tu rival. Si usas esta habilidad, este Pokémon queda Fuera de Combate."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Atadura Sombría",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 150
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780914,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.1,
+        "avg1": 0.2,
+        "avg7": 0.07,
+        "avg30": 0.11,
+        "avg-holo": 0.19,
+        "low-holo": 0.02,
+        "trend-holo": 0.17,
+        "avg1-holo": 0.52,
+        "avg7-holo": 0.32,
+        "avg30-holo": 0.2
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-021",
+    "illustrator": "matazo",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/021",
+    "localId": "021",
+    "name": "Cresselia",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      488
+    ],
+    "hp": 120,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Pirueta Curativa",
+        "effect": "Cura 20 puntos de daño a cada uno de tus Pokémon."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Purga Creciente",
+        "effect": "Puedes poner 1 de tus cartas de Premio que están boca abajo boca arriba. Si lo haces, este ataque hace 80 puntos de daño más. (Esa carta de Premio permanecerá boca arriba durante el resto de la partida).",
+        "damage": "80+"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780916,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.08,
+        "avg1": 0.07,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "avg-holo": 0.12,
+        "low-holo": 0.02,
+        "trend-holo": 0.12,
+        "avg1-holo": 0.23,
+        "avg7-holo": 0.17,
+        "avg30-holo": 0.12
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-022",
+    "illustrator": "Kuroimori",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/022",
+    "localId": "022",
+    "name": "Sylveon",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      700
+    ],
+    "hp": 120,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Retorno Místico",
+        "effect": "Lanza 1 moneda. Si sale cara, elige 1 de los Pokémon en Banca de tu rival. Pon ese Pokémon y todas las cartas unidas a él en su baraja y barájalas todas."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Voz Cautivadora",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido.",
+        "damage": 90
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780917,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.07,
+        "avg7": 0.05,
+        "avg30": 0.06,
+        "avg-holo": 0.2,
+        "low-holo": 0.02,
+        "trend-holo": 0.26,
+        "avg1-holo": 0.41,
+        "avg7-holo": 0.26,
+        "avg30-holo": 0.2
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-023",
+    "illustrator": "Aliya Chen",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/023",
+    "localId": "023",
+    "name": "Croagunk",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      453
+    ],
+    "hp": 70,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Puño Ligero",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Salto de la Rana",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 20 puntos de daño más.",
+        "damage": "20+"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780918,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "avg-holo": 0.07,
+        "low-holo": 0.02,
+        "trend-holo": 0.08,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.08
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-024",
+    "illustrator": "Anesaki Dynamic",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/024",
+    "localId": "024",
+    "name": "Toxicroak",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      454
+    ],
+    "hp": 130,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Croagunk",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Puño Tirabuzón",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Impacto Limpio",
+        "effect": "Si el Pokémon Activo de tu rival es un Pokémon Evolución, este ataque hace 90 puntos de daño más.",
+        "damage": "90+"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780919,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "avg-holo": 0.09,
+        "low-holo": 0.02,
+        "trend-holo": 0.11,
+        "avg1-holo": 0.12,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.09
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-025",
+    "illustrator": "Souichirou Gunjima",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/025",
+    "localId": "025",
+    "name": "Ursaluna Luna Carmesí",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      901
+    ],
+    "hp": 150,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Veteranía en Combate",
+        "effect": "Cuando juegas este Pokémon de tu mano a tu Banca durante tu turno, puedes unir hasta 2 cartas de Energía {F} Básica de tu mano a este Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Mordisco Enloquecido",
+        "effect": "Este ataque hace 30 puntos de daño más por cada contador de daño en el Pokémon Activo de tu rival.",
+        "damage": "100+"
+      }
+    ],
+    "retreat": 4,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780920,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.07,
+        "avg-holo": 0.11,
+        "low-holo": 0.02,
+        "trend-holo": 0.15,
+        "avg1-holo": 0.11,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.11
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-026",
+    "illustrator": "Shinji Kanda",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/026",
+    "localId": "026",
+    "name": "Reptalada",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      988
+    ],
+    "hp": 140,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Golpe Férreo",
+        "effect": "Si tu rival tiene algún Pokémon del futuro en juego, este ataque hace 120 puntos de daño más.",
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Ala Devastadora",
+        "effect": "Descarta 2 Energías de este Pokémon.",
+        "damage": 130
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780921,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.03,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "avg-holo": 0.13,
+        "low-holo": 0.02,
+        "trend-holo": 0.14,
+        "avg1-holo": 0.12,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.14
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-027",
+    "illustrator": "osare",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/027",
+    "localId": "027",
+    "name": "Zubat",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      41
+    ],
+    "hp": 50,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Liderazgo",
+        "effect": "Busca en tu baraja 1 carta de Partidario, enséñala y ponla en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Colmillo de Oscuridad",
+        "damage": 10
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780922,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "avg-holo": 0.1,
+        "low-holo": 0.02,
+        "trend-holo": 0.1,
+        "avg1-holo": 0.14,
+        "avg7-holo": 0.16,
+        "avg30-holo": 0.11
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-028",
+    "illustrator": "Teeziro",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/028",
+    "localId": "028",
+    "name": "Golbat",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      42
+    ],
+    "hp": 80,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Zubat",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Picado Rápido",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Tajo Oscuridad",
+        "effect": "Durante tu próximo turno, este Pokémon no puede atacar.",
+        "damage": 80
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780923,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.04,
+        "avg7": 0.05,
+        "avg30": 0.04,
+        "avg-holo": 0.12,
+        "low-holo": 0.02,
+        "trend-holo": 0.08,
+        "avg1-holo": 0.14,
+        "avg7-holo": 0.13,
+        "avg30-holo": 0.13
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-029",
+    "illustrator": "Nisota Niso",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/029",
+    "localId": "029",
+    "name": "Crobat",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      169
+    ],
+    "hp": 130,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Golbat",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Emisario Sombrío",
+        "effect": "Una vez durante tu turno, si has jugado Artes Secretas de Sachiko de tu mano durante este turno, puedes robar cartas hasta que tengas 8 cartas en tu mano."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Colmillo Veneno",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado. Durante el Chequeo Pokémon, pon 2 contadores de daño en vez de uno en ese Pokémon.",
+        "damage": 120
+      }
+    ],
+    "retreat": 0,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780924,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.04,
+        "avg-holo": 0.13,
+        "low-holo": 0.02,
+        "trend-holo": 0.07,
+        "avg1-holo": 0.09,
+        "avg7-holo": 0.13,
+        "avg30-holo": 0.13
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-030",
+    "illustrator": "rika",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/030",
+    "localId": "030",
+    "name": "Absol",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      359
+    ],
+    "hp": 110,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Caída Oscura",
+        "effect": "Si tienes por lo menos 3 Energías {D} en juego, este ataque hace 50 puntos de daño más.",
+        "damage": "20+"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780925,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "avg-holo": 0.13,
+        "low-holo": 0.02,
+        "trend-holo": 0.13,
+        "avg1-holo": 0.08,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.14
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-031",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/031",
+    "localId": "031",
+    "name": "Zorua",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      570
+    ],
+    "hp": 70,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Estampida",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Arañazo Doble",
+        "effect": "Lanza 2 monedas. Este ataque hace 20 puntos de daño por cada cara.",
+        "damage": "20×"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780926,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.03,
+        "avg-holo": 0.1,
+        "low-holo": 0.02,
+        "trend-holo": 0.12,
+        "avg1-holo": 0.07,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.1
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-032",
+    "illustrator": "nagimiso",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/032",
+    "localId": "032",
+    "name": "Zoroark",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      571
+    ],
+    "hp": 120,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Zorua",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Secuestro Ilusorio",
+        "effect": "Este ataque hace 60 puntos de daño por cada uno de los Pokémon ex y Pokémon V en juego de tu rival.",
+        "damage": "60×"
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cuchillada Garra",
+        "damage": 110
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780927,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.08,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "avg-holo": 0.12,
+        "low-holo": 0.02,
+        "trend-holo": 0.1,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.12
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-033",
+    "illustrator": "Mori Yuu",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/033",
+    "localId": "033",
+    "name": "Inkay",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      686
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Tentáculos Traviesos",
+        "effect": "Mira la primera carta de la baraja de tu rival. Puedes hacer que tu rival baraje las cartas de su baraja."
+      },
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Picotazo",
+        "damage": 10
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780928,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.04,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "avg-holo": 0.09,
+        "low-holo": 0.02,
+        "trend-holo": 0.11,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.09
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-034",
+    "illustrator": "akagi",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/034",
+    "localId": "034",
+    "name": "Malamar",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      687
+    ],
+    "hp": 120,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Inkay",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Tentáculos Confabuladores",
+        "effect": "Cambia 1 de los Pokémon en Banca de tu rival por el Pokémon que esté en el Puesto Activo. Si lo haces, este ataque hace 120 puntos de daño al nuevo Pokémon Activo. Si no has jugado Maquinaciones de Xero de tu mano durante este turno, este ataque no hace nada."
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ataque Giratorio",
+        "damage": 90
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780929,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "avg-holo": 0.09,
+        "low-holo": 0.02,
+        "trend-holo": 0.1,
+        "avg1-holo": 0.07,
+        "avg7-holo": 0.13,
+        "avg30-holo": 0.09
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-035",
+    "illustrator": "SIE NANAHARA",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/035",
+    "localId": "035",
+    "name": "Yveltal",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      717
+    ],
+    "hp": 120,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Vientos Corrosivos",
+        "effect": "Pon 2 contadores de daño en cada uno de los Pokémon de tu rival que tenga algún contador de daño sobre él."
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Rayo Exterminador",
+        "effect": "Lanza 1 moneda. Si sale cara, descarta 1 Energía del Pokémon Activo de tu rival.",
+        "damage": 100
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780930,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.06,
+        "avg-holo": 0.11,
+        "low-holo": 0.02,
+        "trend-holo": 0.12,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.12,
+        "avg30-holo": 0.1
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-036",
+    "illustrator": "takuyoa",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/036",
+    "localId": "036",
+    "name": "Okidogi ex",
+    "rarity": "Rara Doble",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1014
+    ],
+    "hp": 250,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Musculatura Venenosa",
+        "effect": "Busca en tu baraja hasta 2 cartas de Energía {D} Básica y únelas a este Pokémon. Después, baraja las cartas de tu baraja. Si has unido Energía a un Pokémon de esta manera, este Pokémon pasa a estar Envenenado."
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Cadena Enloquecida",
+        "effect": "Si este Pokémon está Envenenado, este ataque hace 130 puntos de daño más.",
+        "damage": "130+"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780931,
+        "avg": 0.66,
+        "low": 0.09,
+        "trend": 0.58,
+        "avg1": 0.6,
+        "avg7": 0.6,
+        "avg30": 0.66,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-037",
+    "illustrator": "takuyoa",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/037",
+    "localId": "037",
+    "name": "Munkidori ex",
+    "rarity": "Rara Doble",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1015
+    ],
+    "hp": 210,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Va a Ser que No",
+        "effect": "Si este Pokémon queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival y tienes algún Pecharunt ex en juego, tu rival coge 1 carta de Premio menos."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Cabezazo Sucio",
+        "effect": "Durante tu próximo turno, este Pokémon no puede usar Cabezazo Sucio.",
+        "damage": 190
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780932,
+        "avg": 0.54,
+        "low": 0.05,
+        "trend": 0.49,
+        "avg1": 0.45,
+        "avg7": 0.5,
+        "avg30": 0.55,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-038",
+    "illustrator": "takuyoa",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/038",
+    "localId": "038",
+    "name": "Fezandipiti ex",
+    "rarity": "Rara Doble",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1016
+    ],
+    "hp": 210,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Giro de Guion",
+        "effect": "Una vez durante tu turno, si alguno de tus Pokémon quedó Fuera de Combate durante el último turno de tu rival, puedes robar 3 cartas. No puedes usar más de una habilidad Giro de Guion en cada turno."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Flecha Cruel",
+        "effect": "Este ataque hace 100 puntos de daño a uno de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780933,
+        "avg": 2.62,
+        "low": 1,
+        "trend": 2.74,
+        "avg1": 2.03,
+        "avg7": 2.58,
+        "avg30": 2.64,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-039",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/039",
+    "localId": "039",
+    "name": "Pecharunt ex",
+    "rarity": "Rara Doble",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1025
+    ],
+    "hp": 190,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cadenas Controladoras",
+        "effect": "Una vez durante tu turno, puedes cambiar 1 de tus Pokémon {D} en Banca, excepto Pecharunt ex, por tu Pokémon Activo. Si lo haces, el nuevo Pokémon Activo pasa a estar Envenenado. No puedes usar más de una habilidad Cadenas Controladoras en cada turno."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Estallido de Rabia",
+        "effect": "Este ataque hace 60 puntos de daño por cada carta de Premio que haya cogido tu rival.",
+        "damage": "60×"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780934,
+        "avg": 1.61,
+        "low": 0.48,
+        "trend": 1.51,
+        "avg1": 1.18,
+        "avg7": 1.68,
+        "avg30": 1.6,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-040",
+    "illustrator": "Kazumasa Yasukuni",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/040",
+    "localId": "040",
+    "name": "Genesect",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      649
+    ],
+    "hp": 110,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Inhibidor AS",
+        "effect": "Si este Pokémon tiene una Herramienta Pokémon unida, tu rival no puede jugar ninguna carta de AS TÁCTICO de su mano."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Explosión Magnética",
+        "damage": 100
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780936,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.03,
+        "avg7": 0.06,
+        "avg30": 0.08,
+        "avg-holo": 0.18,
+        "low-holo": 0.02,
+        "trend-holo": 0.26,
+        "avg1-holo": 0.16,
+        "avg7-holo": 0.2,
+        "avg30-holo": 0.18
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-041",
+    "illustrator": "Shinya Mizuno",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/041",
+    "localId": "041",
+    "name": "Cufant",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      878
+    ],
+    "hp": 100,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Placaje",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Confrontar",
+        "damage": 70
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780937,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.2,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "avg-holo": 0.08,
+        "low-holo": 0.02,
+        "trend-holo": 0.08,
+        "avg1-holo": 0.06,
+        "avg7-holo": 0.1,
+        "avg30-holo": 0.08
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-042",
+    "illustrator": "kawayoo",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/042",
+    "localId": "042",
+    "name": "Copperajah",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      879
+    ],
+    "hp": 200,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Cufant",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cuerpo Masivo",
+        "effect": "Mientras este Pokémon esté en el Puesto Activo, tu rival no puede jugar ninguna carta de Estadio de su mano."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Lazo Nasal",
+        "effect": "Puedes hacer 100 puntos de daño más. Si lo haces, durante tu próximo turno, este Pokémon no puede atacar.",
+        "damage": "130+"
+      }
+    ],
+    "retreat": 4,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780938,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.04,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "avg-holo": 0.12,
+        "low-holo": 0.02,
+        "trend-holo": 0.11,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.12
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-043",
+    "illustrator": "HAGIYA Kaoru",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/043",
+    "localId": "043",
+    "name": "Varoom",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      965
+    ],
+    "hp": 70,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Rigidez",
+        "effect": "Durante el próximo turno de tu rival, los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+      },
+      {
+        "cost": [
+          "Metálica",
+          "Metálica"
+        ],
+        "name": "Bote Cabezazo",
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780939,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "avg-holo": 0.08,
+        "low-holo": 0.02,
+        "trend-holo": 0.1,
+        "avg1-holo": 0.07,
+        "avg7-holo": 0.1,
+        "avg30-holo": 0.09
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-044",
+    "illustrator": "Orca",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/044",
+    "localId": "044",
+    "name": "Axew",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      610
+    ],
+    "hp": 70,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Arañazo",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Metálica"
+        ],
+        "name": "Colmillo Afilado",
+        "damage": 30
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780940,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.02,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "avg-holo": 0.07,
+        "low-holo": 0.02,
+        "trend-holo": 0.08,
+        "avg1-holo": 0.04,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.07
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-045",
+    "illustrator": "Uninori",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/045",
+    "localId": "045",
+    "name": "Fraxure",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      611
+    ],
+    "hp": 100,
+    "types": [
+      "Dragón"
+    ],
+    "evolveFrom": "Axew",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Nerviosismo",
+        "effect": "Cada vez que tu rival juegue una carta de Objeto o de Partidario de su mano, se evitan todos los efectos de esa carta infligidos a este Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Metálica"
+        ],
+        "name": "Pulso Dragón",
+        "effect": "Descarta la primera carta de tu baraja.",
+        "damage": 80
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780941,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "avg-holo": 0.08,
+        "low-holo": 0.02,
+        "trend-holo": 0.09,
+        "avg1-holo": 0.07,
+        "avg7-holo": 0.09,
+        "avg30-holo": 0.08
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-046",
+    "illustrator": "Tsuyoshi Nagano",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/046",
+    "localId": "046",
+    "name": "Haxorus",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      612
+    ],
+    "hp": 170,
+    "types": [
+      "Dragón"
+    ],
+    "evolveFrom": "Fraxure",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Hundir el Hacha",
+        "effect": "Si el Pokémon Activo de tu rival tiene alguna Energía Especial unida, queda Fuera de Combate."
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Metálica"
+        ],
+        "name": "Pulso Dragón",
+        "effect": "Descarta las 3 primeras cartas de tu baraja.",
+        "damage": 230
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780942,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.08,
+        "avg1": 0.04,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "avg-holo": 0.12,
+        "low-holo": 0.02,
+        "trend-holo": 0.16,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.12
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-047",
+    "illustrator": "Shiburingaru",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/047",
+    "localId": "047",
+    "name": "Kyurem",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      646
+    ],
+    "hp": 130,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Azote Plasma",
+        "effect": "Si tu rival tiene alguna carta en su pila de descartes que tenga \"Acromo\" en el nombre, este Pokémon puede usar el ataque Triple Escarcha por Colorless."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Triple Escarcha",
+        "effect": "Descarta todas las Energías de este Pokémon. Este ataque hace 110 puntos de daño a 3 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780943,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.1,
+        "avg1": 0.04,
+        "avg7": 0.05,
+        "avg30": 0.08,
+        "avg-holo": 0.18,
+        "low-holo": 0.02,
+        "trend-holo": 0.14,
+        "avg1-holo": 0.09,
+        "avg7-holo": 0.2,
+        "avg30-holo": 0.18
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-048",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/048",
+    "localId": "048",
+    "name": "Meowth",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      52
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpes Furia",
+        "effect": "Lanza 3 monedas. Este ataque hace 20 puntos de daño por cada cara.",
+        "damage": "20×"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780944,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "avg-holo": 0.13,
+        "low-holo": 0.02,
+        "trend-holo": 0.11,
+        "avg1-holo": 0.14,
+        "avg7-holo": 0.12,
+        "avg30-holo": 0.13
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-049",
+    "illustrator": "NC Empire",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/049",
+    "localId": "049",
+    "name": "Persian",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      53
+    ],
+    "hp": 110,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Meowth",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpes Furia",
+        "effect": "Lanza 3 monedas. Este ataque hace 50 puntos de daño por cada cara.",
+        "damage": "50×"
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Garra Cuchillazo",
+        "damage": 100
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780945,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.04,
+        "avg-holo": 0.12,
+        "low-holo": 0.02,
+        "trend-holo": 0.13,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.14,
+        "avg30-holo": 0.12
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-050",
+    "illustrator": "Susumu Maeya",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/050",
+    "localId": "050",
+    "name": "Eevee",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Captura Colorida",
+        "effect": "Busca en tu baraja hasta 3 cartas de Energía Básica de diferentes tipos, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpe Cabeza",
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780946,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.04,
+        "avg7": 0.06,
+        "avg30": 0.06,
+        "avg-holo": 0.17,
+        "low-holo": 0.02,
+        "trend-holo": 0.2,
+        "avg1-holo": 0.08,
+        "avg7-holo": 0.16,
+        "avg30-holo": 0.17
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-051",
+    "illustrator": "Shinya Komatsu",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/051",
+    "localId": "051",
+    "name": "Furfrou",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      676
+    ],
+    "hp": 100,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Asistencia de Energía",
+        "effect": "Une 1 carta de Energía Básica de tu pila de descartes a uno de tus Pokémon en Banca.",
+        "damage": 30
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780947,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "avg-holo": 0.07,
+        "low-holo": 0.02,
+        "trend-holo": 0.08,
+        "avg1-holo": 0.07,
+        "avg7-holo": 0.07,
+        "avg30-holo": 0.07
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-052",
+    "illustrator": "ryoma uratsuka",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/052",
+    "localId": "052",
+    "name": "Stufful",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      759
+    ],
+    "hp": 80,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Derribo",
+        "effect": "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
+        "damage": 30
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780948,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "avg-holo": 0.09,
+        "low-holo": 0.02,
+        "trend-holo": 0.05,
+        "avg1-holo": 0.07,
+        "avg7-holo": 0.1,
+        "avg30-holo": 0.09
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-053",
+    "illustrator": "Takeshi Nakamura",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/053",
+    "localId": "053",
+    "name": "Bewear",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      760
+    ],
+    "hp": 130,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Stufful",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Cargador de Poder",
+        "effect": "Busca en tu baraja 1 carta de Energía Básica y únela a este Pokémon. Después, baraja las cartas de tu baraja.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Martillear",
+        "damage": 130
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780949,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.06,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "avg-holo": 0.11,
+        "low-holo": 0.02,
+        "trend-holo": 0.12,
+        "avg1-holo": 0.14,
+        "avg7-holo": 0.12,
+        "avg30-holo": 0.1
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-054",
+    "illustrator": "AYUMI ODASHIMA",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/054",
+    "localId": "054",
+    "name": "Academia de Noche",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Una vez durante el turno de cada jugador, ese jugador puede poner 1 carta de su mano en la parte superior de su baraja.",
+    "trainerType": "Estadio",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780950,
+        "avg": 0.1,
+        "low": 0.02,
+        "trend": 0.1,
+        "avg1": 0.06,
+        "avg7": 0.08,
+        "avg30": 0.1,
+        "avg-holo": 0.18,
+        "low-holo": 0.02,
+        "trend-holo": 0.15,
+        "avg1-holo": 0.09,
+        "avg7-holo": 0.22,
+        "avg30-holo": 0.17
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-055",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/055",
+    "localId": "055",
+    "name": "Mochi Cadena",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Los ataques usados por el Pokémon Envenenado al que esté unida esta carta hacen 40 puntos de daño más al Pokémon Activo de tu rival (antes de aplicar Debilidad y Resistencia).",
+    "trainerType": "Herramienta",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780951,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.1,
+        "avg1": 0.02,
+        "avg7": 0.08,
+        "avg30": 0.05,
+        "avg-holo": 0.15,
+        "low-holo": 0.02,
+        "trend-holo": 0.21,
+        "avg1-holo": 0.22,
+        "avg7-holo": 0.19,
+        "avg30-holo": 0.12
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-056",
+    "illustrator": "Atsushi Furusawa",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/056",
+    "localId": "056",
+    "name": "Casiopea",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Puedes usar esta carta solo cuando sea la última carta en tu mano.\nBusca en tu baraja hasta 2 cartas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780952,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.02,
+        "avg7": 0.02,
+        "avg30": 0.04,
+        "avg-holo": 0.09,
+        "low-holo": 0.02,
+        "trend-holo": 0.06,
+        "avg1-holo": 0.05,
+        "avg7-holo": 0.11,
+        "avg30-holo": 0.09
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-057",
+    "illustrator": "hncl",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/057",
+    "localId": "057",
+    "name": "Tenacidad de Acromo",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Busca en tu baraja 1 carta de Estadio y 1 carta de Energía, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780953,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.11,
+        "avg1": 0.07,
+        "avg7": 0.12,
+        "avg30": 0.11,
+        "avg-holo": 0.19,
+        "low-holo": 0.02,
+        "trend-holo": 0.16,
+        "avg1-holo": 0.12,
+        "avg7-holo": 0.19,
+        "avg30-holo": 0.2
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-058",
+    "illustrator": "inose yukie",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/058",
+    "localId": "058",
+    "name": "Láser Peligroso",
+    "rarity": "Rara AS TÁCTICO",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "effect": "El Pokémon Activo de tu rival pasa a estar Confundido y Quemado.",
+    "trainerType": "Objeto",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780954,
+        "avg": 0.49,
+        "low": 0.08,
+        "trend": 0.63,
+        "avg1": 0.52,
+        "avg7": 0.42,
+        "avg30": 0.47,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-059",
+    "illustrator": "Taira Akitsu",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/059",
+    "localId": "059",
+    "name": "Artes Secretas de Sachiko",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Elige hasta 2 de tus Pokémon {D}. Para cada uno de esos Pokémon, busca en tu baraja 1 carta de Energía {D} Básica y únela a ese Pokémon. Después, baraja las cartas de tu baraja. Si has unido Energía a tu Pokémon Activo de esta manera, pasa a estar Envenenado.",
+    "trainerType": "Partidario",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780955,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.02,
+        "avg7": 0.11,
+        "avg30": 0.07,
+        "avg-holo": 0.11,
+        "low-holo": 0.02,
+        "trend-holo": 0.1,
+        "avg1-holo": 0.11,
+        "avg7-holo": 0.13,
+        "avg30-holo": 0.12
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-060",
+    "illustrator": "imoniii",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/060",
+    "localId": "060",
+    "name": "Zona de Neutralización",
+    "rarity": "Rara AS TÁCTICO",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "effect": "Se evita todo el daño infligido a los Pokémon que no tengan un recuadro de regla (tanto tuyos como de tu rival) por ataques de los Pokémon ex y Pokémon V de tu rival. (Pokémon ex, Pokémon V, etc. tienen recuadros de regla).\n\nEsta carta no puede ponerse ni en tu baraja ni en tu mano desde la pila de descartes.",
+    "trainerType": "Estadio",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780956,
+        "avg": 0.66,
+        "low": 0.1,
+        "trend": 0.7,
+        "avg1": 0.62,
+        "avg7": 0.52,
+        "avg30": 0.65,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-061",
+    "illustrator": "Toyste Beach",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/061",
+    "localId": "061",
+    "name": "Camilla Nocturna",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Pon 1 Pokémon o 1 carta de Energía Básica de tu pila de descartes en tu mano.",
+    "trainerType": "Objeto",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780957,
+        "avg": 0.3,
+        "low": 0.02,
+        "trend": 0.24,
+        "avg1": 0.09,
+        "avg7": 0.19,
+        "avg30": 0.3,
+        "avg-holo": 0.55,
+        "low-holo": 0.02,
+        "trend-holo": 0.42,
+        "avg1-holo": 0.38,
+        "avg7-holo": 0.4,
+        "avg30-holo": 0.54
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-062",
+    "illustrator": "Toyste Beach",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/062",
+    "localId": "062",
+    "name": "Poké Vital A",
+    "rarity": "Rara AS TÁCTICO",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "effect": "Cura 150 puntos de daño a uno de tus Pokémon.\n\nEsta carta no puede ponerse ni en tu baraja ni en tu mano desde la pila de descartes.",
+    "trainerType": "Objeto",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780958,
+        "avg": 0.63,
+        "low": 0.07,
+        "trend": 0.6,
+        "avg1": 0.73,
+        "avg7": 0.58,
+        "avg30": 0.61,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-063",
+    "illustrator": "Studio Bora Inc.",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/063",
+    "localId": "063",
+    "name": "Reloj de Arena Potenciador",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Al final de tu turno (después de tu ataque), si el Pokémon al que está unida esta carta está en el Puesto Activo, puedes unirle 1 carta de Energía Básica de tu pila de descartes.",
+    "trainerType": "Herramienta",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780959,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.08,
+        "avg1": 0.06,
+        "avg7": 0.08,
+        "avg30": 0.08,
+        "avg-holo": 0.15,
+        "low-holo": 0.02,
+        "trend-holo": 0.12,
+        "avg1-holo": 0.13,
+        "avg7-holo": 0.13,
+        "avg30-holo": 0.16
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-064",
+    "illustrator": "GOSSAN",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/064",
+    "localId": "064",
+    "name": "Maquinaciones de Xero",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Tu rival descarta cartas de su mano hasta que tenga 3 cartas en su mano.",
+    "trainerType": "Partidario",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 781841,
+        "avg": 0.1,
+        "low": 0.02,
+        "trend": 0.14,
+        "avg1": 0.09,
+        "avg7": 0.1,
+        "avg30": 0.1,
+        "avg-holo": 0.17,
+        "low-holo": 0.02,
+        "trend-holo": 0.14,
+        "avg1-holo": 0.12,
+        "avg7-holo": 0.21,
+        "avg30-holo": 0.16
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-065",
+    "illustrator": "IKEDA Saki",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/065",
+    "localId": "065",
+    "name": "Tapu Bulu",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      787
+    ],
+    "hp": 140,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Mazazo",
+        "effect": "Este Pokémon también se hace 30 puntos de daño a sí mismo.",
+        "damage": 220
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780960,
+        "avg": 6.31,
+        "low": 3.9,
+        "trend": 6.04,
+        "avg1": 5.75,
+        "avg7": 6.38,
+        "avg30": 6.35,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-066",
+    "illustrator": "Taiga Kasai",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/066",
+    "localId": "066",
+    "name": "Houndoom",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      229
+    ],
+    "hp": 120,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Houndour",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Mordisco",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Alarido",
+        "effect": "Durante el próximo turno de tu rival, los ataques usados por el Pokémon Defensor hacen 100 puntos de daño menos (antes de aplicar Debilidad y Resistencia).",
+        "damage": 100
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780961,
+        "avg": 31.07,
+        "low": 14.75,
+        "trend": 30.76,
+        "avg1": 26.75,
+        "avg7": 31.71,
+        "avg30": 30.49,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-067",
+    "illustrator": "Shinya Komatsu",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/067",
+    "localId": "067",
+    "name": "Horsea",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      116
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Permanecer Inmóvil",
+        "effect": "Cura 30 puntos de daño a este Pokémon."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Aleta Afilada",
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780962,
+        "avg": 29.17,
+        "low": 11.91,
+        "trend": 35.86,
+        "avg1": 32.94,
+        "avg7": 27.79,
+        "avg30": 28.92,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-068",
+    "illustrator": "James Turner",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/068",
+    "localId": "068",
+    "name": "Duskull",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      355
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Voy a por Ti",
+        "effect": "Pon hasta 3 Duskull de tu pila de descartes en tu Banca."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Farfullar",
+        "damage": 30
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780963,
+        "avg": 31.41,
+        "low": 17,
+        "trend": 28.94,
+        "avg1": 22.99,
+        "avg7": 44.75,
+        "avg30": 30.96,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-069",
+    "illustrator": "James Turner",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/069",
+    "localId": "069",
+    "name": "Dusclops",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      356
+    ],
+    "hp": 90,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Duskull",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Estallido Maldito",
+        "effect": "Una vez durante tu turno, puedes poner 5 contadores de daño en uno de los Pokémon de tu rival. Si usas esta habilidad, este Pokémon queda Fuera de Combate."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Fuego Fatuo",
+        "damage": 50
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780964,
+        "avg": 21.47,
+        "low": 10,
+        "trend": 24.86,
+        "avg1": 18.66,
+        "avg7": 27.63,
+        "avg30": 21.1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-070",
+    "illustrator": "James Turner",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/070",
+    "localId": "070",
+    "name": "Dusknoir",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      477
+    ],
+    "hp": 160,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Dusclops",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Estallido Maldito",
+        "effect": "Una vez durante tu turno, puedes poner 13 contadores de daño en uno de los Pokémon de tu rival. Si usas esta habilidad, este Pokémon queda Fuera de Combate."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Atadura Sombría",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 150
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780965,
+        "avg": 22.07,
+        "low": 10,
+        "trend": 26.62,
+        "avg1": 18,
+        "avg7": 25.52,
+        "avg30": 21.9,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-071",
+    "illustrator": "satoma",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/071",
+    "localId": "071",
+    "name": "Cresselia",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      488
+    ],
+    "hp": 120,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Pirueta Curativa",
+        "effect": "Cura 20 puntos de daño a cada uno de tus Pokémon."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Purga Creciente",
+        "effect": "Puedes poner 1 de tus cartas de Premio que están boca abajo boca arriba. Si lo haces, este ataque hace 80 puntos de daño más. (Esa carta de Premio permanecerá boca arriba durante el resto de la partida).",
+        "damage": "80+"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780966,
+        "avg": 17.24,
+        "low": 9.98,
+        "trend": 17.46,
+        "avg1": 16.11,
+        "avg7": 15.72,
+        "avg30": 17.12,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-072",
+    "illustrator": "Teeziro",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/072",
+    "localId": "072",
+    "name": "Munkidori",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1015
+    ],
+    "hp": 110,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Adrenalina Mental",
+        "effect": "Una vez durante tu turno, si este Pokémon tiene alguna Energía {D} unida, puedes mover hasta 3 contadores de daño de uno de tus Pokémon a uno de los Pokémon de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Fusión Mental",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido.",
+        "damage": 60
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780967,
+        "avg": 22.3,
+        "low": 17.99,
+        "trend": 23.54,
+        "avg1": 29.95,
+        "avg7": 24.16,
+        "avg30": 22.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-073",
+    "illustrator": "KEIICHIRO ITO",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/073",
+    "localId": "073",
+    "name": "Fezandipiti",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1016
+    ],
+    "hp": 120,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Adrenalina Feromona",
+        "effect": "Si este Pokémon tiene alguna Energía {D} unida y resulta dañado por un ataque, lanza 1 moneda. Si sale cara, se evita ese daño."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Pluma Energía",
+        "effect": "Este ataque hace 30 puntos de daño por cada Energía unida a este Pokémon.",
+        "damage": "30×"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780968,
+        "avg": 8.54,
+        "low": 4,
+        "trend": 8.59,
+        "avg1": 9.01,
+        "avg7": 10.49,
+        "avg30": 8.51,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-074",
+    "illustrator": "AKIRA EGAWA",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/074",
+    "localId": "074",
+    "name": "Okidogi",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1014
+    ],
+    "hp": 130,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Adrenalina Poderosa",
+        "effect": "Si este Pokémon tiene alguna Energía {D} unida, obtiene 100 PS más, y los ataques que use hacen 100 puntos de daño más al Pokémon Activo de tu rival (antes de aplicar Debilidad y Resistencia)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Puño Bueno",
+        "damage": 70
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780969,
+        "avg": 8.49,
+        "low": 4.89,
+        "trend": 9.18,
+        "avg1": 8.96,
+        "avg7": 7.99,
+        "avg30": 8.46,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-075",
+    "illustrator": "REND",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/075",
+    "localId": "075",
+    "name": "Zorua",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      570
+    ],
+    "hp": 70,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Estampida",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Arañazo Doble",
+        "effect": "Lanza 2 monedas. Este ataque hace 20 puntos de daño por cada cara.",
+        "damage": "20×"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780970,
+        "avg": 14.12,
+        "low": 5,
+        "trend": 13.42,
+        "avg1": 14.61,
+        "avg7": 14.37,
+        "avg30": 14.05,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-076",
+    "illustrator": "Mina Nakai",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/076",
+    "localId": "076",
+    "name": "Cufant",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      878
+    ],
+    "hp": 100,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Placaje",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Confrontar",
+        "damage": 70
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780971,
+        "avg": 9.78,
+        "low": 3.6,
+        "trend": 10.28,
+        "avg1": 10.5,
+        "avg7": 9.94,
+        "avg30": 9.74,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-077",
+    "illustrator": "MINAMINAMI Take",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/077",
+    "localId": "077",
+    "name": "Fraxure",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      611
+    ],
+    "hp": 100,
+    "types": [
+      "Dragón"
+    ],
+    "evolveFrom": "Axew",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Nerviosismo",
+        "effect": "Cada vez que tu rival juegue una carta de Objeto o de Partidario de su mano, se evitan todos los efectos de esa carta infligidos a este Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Metálica"
+        ],
+        "name": "Pulso Dragón",
+        "effect": "Descarta la primera carta de tu baraja.",
+        "damage": 80
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780972,
+        "avg": 9.09,
+        "low": 4,
+        "trend": 9.2,
+        "avg1": 7.24,
+        "avg7": 8.67,
+        "avg30": 9.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-078",
+    "illustrator": "Whisker",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/078",
+    "localId": "078",
+    "name": "Persian",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      53
+    ],
+    "hp": 110,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Meowth",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpes Furia",
+        "effect": "Lanza 3 monedas. Este ataque hace 50 puntos de daño por cada cara.",
+        "damage": "50×"
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Garra Cuchillazo",
+        "damage": 100
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780973,
+        "avg": 53.92,
+        "low": 28.5,
+        "trend": 40,
+        "avg1": 57.32,
+        "avg7": 45.18,
+        "avg30": 54.16,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-079",
+    "illustrator": "Takeshi Nakamura",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/079",
+    "localId": "079",
+    "name": "Bewear",
+    "rarity": "Rara Ilustración",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      760
+    ],
+    "hp": 130,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Stufful",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Cargador de Poder",
+        "effect": "Busca en tu baraja 1 carta de Energía Básica y únela a este Pokémon. Después, baraja las cartas de tu baraja.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Martillear",
+        "damage": 130
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:10:22+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780974,
+        "avg": 8.85,
+        "low": 2.99,
+        "trend": 9.81,
+        "avg1": 10.06,
+        "avg7": 9.37,
+        "avg30": 8.87,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-080",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/080",
+    "localId": "080",
+    "name": "Kingdra ex",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      230
+    ],
+    "hp": 310,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Seadra",
+    "stage": "Fase 2",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Mandato Real",
+        "effect": "Pon hasta 3 Pokémon {W} de tu pila de descartes en tu Banca."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Hidrobomba",
+        "effect": "Este ataque hace 50 puntos de daño más por cada Energía {W} unida a este Pokémon.",
+        "damage": "50+"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780975,
+        "avg": 2.73,
+        "low": 1,
+        "trend": 2.61,
+        "avg1": 2.9,
+        "avg7": 2.81,
+        "avg30": 2.77,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-081",
+    "illustrator": "PLANETA Mochizuki",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/081",
+    "localId": "081",
+    "name": "Revavroom ex",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      966
+    ],
+    "hp": 280,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Varoom",
+    "stage": "Fase 1",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Destello Acelerador",
+        "effect": "Si este Pokémon se ha movido de tu Banca al Puesto Activo en este turno, este ataque hace 120 puntos de daño más.",
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Metálica"
+        ],
+        "name": "Velocidad Demoledora",
+        "effect": "Descarta este Pokémon y todas las cartas unidas a él.",
+        "damage": 250
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780976,
+        "avg": 1.71,
+        "low": 0.55,
+        "trend": 1.45,
+        "avg1": 1.71,
+        "avg7": 1.82,
+        "avg30": 1.74,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-082",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/082",
+    "localId": "082",
+    "name": "Okidogi ex",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1014
+    ],
+    "hp": 250,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Musculatura Venenosa",
+        "effect": "Busca en tu baraja hasta 2 cartas de Energía {D} Básica y únelas a este Pokémon. Después, baraja las cartas de tu baraja. Si has unido Energía a un Pokémon de esta manera, este Pokémon pasa a estar Envenenado."
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Cadena Enloquecida",
+        "effect": "Si este Pokémon está Envenenado, este ataque hace 130 puntos de daño más.",
+        "damage": "130+"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780977,
+        "avg": 2.08,
+        "low": 1,
+        "trend": 2.02,
+        "avg1": 1.94,
+        "avg7": 2.09,
+        "avg30": 2.08,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-083",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/083",
+    "localId": "083",
+    "name": "Munkidori ex",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1015
+    ],
+    "hp": 210,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Va a Ser que No",
+        "effect": "Si este Pokémon queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival y tienes algún Pecharunt ex en juego, tu rival coge 1 carta de Premio menos."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Cabezazo Sucio",
+        "effect": "Durante tu próximo turno, este Pokémon no puede usar Cabezazo Sucio.",
+        "damage": 190
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780978,
+        "avg": 1.83,
+        "low": 0.89,
+        "trend": 1.88,
+        "avg1": 1.83,
+        "avg7": 1.71,
+        "avg30": 1.87,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-084",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/084",
+    "localId": "084",
+    "name": "Fezandipiti ex",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1016
+    ],
+    "hp": 210,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Giro de Guion",
+        "effect": "Una vez durante tu turno, si alguno de tus Pokémon quedó Fuera de Combate durante el último turno de tu rival, puedes robar 3 cartas. No puedes usar más de una habilidad Giro de Guion en cada turno."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Flecha Cruel",
+        "effect": "Este ataque hace 100 puntos de daño a uno de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780979,
+        "avg": 6.71,
+        "low": 4.9,
+        "trend": 6.18,
+        "avg1": 6.71,
+        "avg7": 6.49,
+        "avg30": 6.76,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-085",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/085",
+    "localId": "085",
+    "name": "Pecharunt ex",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1025
+    ],
+    "hp": 190,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cadenas Controladoras",
+        "effect": "Una vez durante tu turno, puedes cambiar 1 de tus Pokémon {D} en Banca, excepto Pecharunt ex, por tu Pokémon Activo. Si lo haces, el nuevo Pokémon Activo pasa a estar Envenenado. No puedes usar más de una habilidad Cadenas Controladoras en cada turno."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Estallido de Rabia",
+        "effect": "Este ataque hace 60 puntos de daño por cada carta de Premio que haya cogido tu rival.",
+        "damage": "60×"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780980,
+        "avg": 3.22,
+        "low": 1.44,
+        "trend": 2.97,
+        "avg1": 3.98,
+        "avg7": 2.95,
+        "avg30": 3.24,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-086",
+    "illustrator": "Atsushi Furusawa",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/086",
+    "localId": "086",
+    "name": "Casiopea",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "effect": "Puedes usar esta carta solo cuando sea la última carta en tu mano.\nBusca en tu baraja hasta 2 cartas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780981,
+        "avg": 2.46,
+        "low": 0.8,
+        "trend": 2.43,
+        "avg1": 2.66,
+        "avg7": 2.52,
+        "avg30": 2.47,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-087",
+    "illustrator": "hncl",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/087",
+    "localId": "087",
+    "name": "Tenacidad de Acromo",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "effect": "Busca en tu baraja 1 carta de Estadio y 1 carta de Energía, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780982,
+        "avg": 3.43,
+        "low": 1.9,
+        "trend": 3.39,
+        "avg1": 5.49,
+        "avg7": 3.42,
+        "avg30": 3.35,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-088",
+    "illustrator": "Taira Akitsu",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/088",
+    "localId": "088",
+    "name": "Artes Secretas de Sachiko",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "effect": "Elige hasta 2 de tus Pokémon {D}. Para cada uno de esos Pokémon, busca en tu baraja 1 carta de Energía {D} Básica y únela a ese Pokémon. Después, baraja las cartas de tu baraja. Si has unido Energía a tu Pokémon Activo de esta manera, pasa a estar Envenenado.",
+    "trainerType": "Partidario",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780983,
+        "avg": 3.37,
+        "low": 1.95,
+        "trend": 3.1,
+        "avg1": 2.81,
+        "avg7": 3.61,
+        "avg30": 3.37,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-089",
+    "illustrator": "GOSSAN",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/089",
+    "localId": "089",
+    "name": "Maquinaciones de Xero",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "effect": "Tu rival descarta cartas de su mano hasta que tenga 3 cartas en su mano.",
+    "trainerType": "Partidario",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780984,
+        "avg": 3.65,
+        "low": 1.5,
+        "trend": 3.44,
+        "avg1": 4.83,
+        "avg7": 3.83,
+        "avg30": 3.66,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-090",
+    "illustrator": "kantaro",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/090",
+    "localId": "090",
+    "name": "Okidogi ex",
+    "rarity": "Rara Ilustración Especial",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1014
+    ],
+    "hp": 250,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Musculatura Venenosa",
+        "effect": "Busca en tu baraja hasta 2 cartas de Energía {D} Básica y únelas a este Pokémon. Después, baraja las cartas de tu baraja. Si has unido Energía a un Pokémon de esta manera, este Pokémon pasa a estar Envenenado."
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Cadena Enloquecida",
+        "effect": "Si este Pokémon está Envenenado, este ataque hace 130 puntos de daño más.",
+        "damage": "130+"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780985,
+        "avg": 17.78,
+        "low": 10,
+        "trend": 15.72,
+        "avg1": 19.98,
+        "avg7": 15.94,
+        "avg30": 18.15,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-091",
+    "illustrator": "kantaro",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/091",
+    "localId": "091",
+    "name": "Munkidori ex",
+    "rarity": "Rara Ilustración Especial",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1015
+    ],
+    "hp": 210,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Va a Ser que No",
+        "effect": "Si este Pokémon queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival y tienes algún Pecharunt ex en juego, tu rival coge 1 carta de Premio menos."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Cabezazo Sucio",
+        "effect": "Durante tu próximo turno, este Pokémon no puede usar Cabezazo Sucio.",
+        "damage": 190
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780986,
+        "avg": 16.65,
+        "low": 12.95,
+        "trend": 17.56,
+        "avg1": 20.59,
+        "avg7": 17.6,
+        "avg30": 17.16,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-092",
+    "illustrator": "kantaro",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/092",
+    "localId": "092",
+    "name": "Fezandipiti ex",
+    "rarity": "Rara Ilustración Especial",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1016
+    ],
+    "hp": 210,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Giro de Guion",
+        "effect": "Una vez durante tu turno, si alguno de tus Pokémon quedó Fuera de Combate durante el último turno de tu rival, puedes robar 3 cartas. No puedes usar más de una habilidad Giro de Guion en cada turno."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Flecha Cruel",
+        "effect": "Este ataque hace 100 puntos de daño a uno de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780987,
+        "avg": 27.33,
+        "low": 22.98,
+        "trend": 26.35,
+        "avg1": 33,
+        "avg7": 27.78,
+        "avg30": 27.42,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-093",
+    "illustrator": "kantaro",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/093",
+    "localId": "093",
+    "name": "Pecharunt ex",
+    "rarity": "Rara Ilustración Especial",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1025
+    ],
+    "hp": 190,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cadenas Controladoras",
+        "effect": "Una vez durante tu turno, puedes cambiar 1 de tus Pokémon {D} en Banca, excepto Pecharunt ex, por tu Pokémon Activo. Si lo haces, el nuevo Pokémon Activo pasa a estar Envenenado. No puedes usar más de una habilidad Cadenas Controladoras en cada turno."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Estallido de Rabia",
+        "effect": "Este ataque hace 60 puntos de daño por cada carta de Premio que haya cogido tu rival.",
+        "damage": "60×"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780988,
+        "avg": 20.84,
+        "low": 10,
+        "trend": 21.35,
+        "avg1": 21.98,
+        "avg7": 21.31,
+        "avg30": 21.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-094",
+    "illustrator": "burari",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/094",
+    "localId": "094",
+    "name": "Casiopea",
+    "rarity": "Rara Ilustración Especial",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "effect": "Puedes usar esta carta solo cuando sea la última carta en tu mano.\nBusca en tu baraja hasta 2 cartas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780989,
+        "avg": 25.14,
+        "low": 17.99,
+        "trend": 26.4,
+        "avg1": 25.74,
+        "avg7": 25.88,
+        "avg30": 25.7,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "sv06.5-095",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/095",
+    "localId": "095",
+    "name": "Pecharunt ex",
+    "rarity": "Rara Híper",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      1025
+    ],
+    "hp": 190,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cadenas Controladoras",
+        "effect": "Una vez durante tu turno, puedes cambiar 1 de tus Pokémon {D} en Banca, excepto Pecharunt ex, por tu Pokémon Activo. Si lo haces, el nuevo Pokémon Activo pasa a estar Envenenado. No puedes usar más de una habilidad Cadenas Controladoras en cada turno."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Estallido de Rabia",
+        "effect": "Este ataque hace 60 puntos de daño por cada carta de Premio que haya cogido tu rival.",
+        "damage": "60×"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780990,
+        "avg": 29.94,
+        "low": 17.9,
+        "trend": 27.51,
+        "avg1": 25,
+        "avg7": 27.06,
+        "avg30": 31.08,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-096",
+    "illustrator": "AYUMI ODASHIMA",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/096",
+    "localId": "096",
+    "name": "Vasija Terrestre",
+    "rarity": "Rara Híper",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "effect": "Puedes usar esta carta solo si descartas otra carta de tu mano.\nBusca en tu baraja hasta 2 cartas de Energía Básica, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Objeto",
+    "regulationMark": "G",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780991,
+        "avg": 23.58,
+        "low": 13.99,
+        "trend": 22.85,
+        "avg1": 25.83,
+        "avg7": 24.75,
+        "avg30": 22.96,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "sv06.5-097",
+    "illustrator": "Studio Bora Inc.",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/097",
+    "localId": "097",
+    "name": "Reloj de Arena Potenciador",
+    "rarity": "Rara Híper",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "effect": "Al final de tu turno (después de tu ataque), si el Pokémon al que está unida esta carta está en el Puesto Activo, puedes unirle 1 carta de Energía Básica de tu pila de descartes.",
+    "trainerType": "Herramienta",
+    "regulationMark": "H",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-14T00:04:19+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780992,
+        "avg": 24.5,
+        "low": 14.95,
+        "trend": 27.15,
+        "avg1": 28.84,
+        "avg7": 24.95,
+        "avg30": 24.91,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "sv06.5-098",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/098",
+    "localId": "098",
+    "name": "Energía Darkness Básica",
+    "rarity": "Rara Híper",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "types": [
+      "Oscura"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780993,
+        "avg": 50.53,
+        "low": 30,
+        "trend": 49.51,
+        "avg1": 49.35,
+        "avg7": 49.3,
+        "avg30": 46.8,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "sv06.5-099",
+    "image": "https://assets.tcgdex.net/es/sv/sv06.5/099",
+    "localId": "099",
+    "name": "Energía Metal Básica",
+    "rarity": "Rara Híper",
+    "set": {
+      "cardCount": {
+        "official": 64,
+        "total": 99
+      },
+      "id": "sv06.5",
+      "logo": "https://assets.tcgdex.net/es/sv/sv06.5/logo",
+      "name": "Fabula Sombría",
+      "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "types": [
+      "Metálica"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 780994,
+        "avg": 34.17,
+        "low": 20,
+        "trend": 33.48,
+        "avg1": 21.9,
+        "avg7": 32.57,
+        "avg30": 33.38,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "name": "Dialga",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "cel25-20",
+      "name": "Dialga",
+      "set": "cel25",
+      "setName": "Celebraciones",
+      "number": "20",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/cel25/20",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "me01-095",
+      "name": "Dialga",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "095",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me01/095",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sm8-127",
+      "name": "Dialga",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "127",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/127",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv08-135",
+      "name": "Dialga",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "135",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/135",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Takumi Wada"
+    },
+    {
+      "id": "swsh4-121",
+      "name": "Dialga",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "121",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/121",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh7-112",
+      "name": "Dialga",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "112",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/112",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Ryuta Fuse"
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "name": "Haunter",
+  "totalCards": 33,
+  "cards": [
+    {
+      "id": "A1-121",
+      "name": "Haunter",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "121",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/121",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "A2a-032",
+      "name": "Haunter",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "032",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/032",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Eri Yamaki"
+    },
+    {
+      "id": "A3-221",
+      "name": "Haunter",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "221",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/221",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "base1-29",
+      "name": "Haunter",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "29",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base1/29",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "base3-21",
+      "name": "Haunter",
+      "set": "base3",
+      "setName": "Fossil",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base3/21",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base3-6",
+      "name": "Haunter",
+      "set": "base3",
+      "setName": "Fossil",
+      "number": "6",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base3/6",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base4-43",
+      "name": "Haunter",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "43",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base4/43",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "dp1-50",
+      "name": "Haunter",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/50",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "dp7-40",
+      "name": "Haunter",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "40",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/40",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "ecard1-80",
+      "name": "Haunter",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "80",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/80",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "ecard3-63",
+      "name": "Haunter",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/63",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex12-35",
+      "name": "Haunter",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "35",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/35",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "ex6-34",
+      "name": "Haunter",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/34",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "g1-34",
+      "name": "Haunter",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/g1/34",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "hgss4-35",
+      "name": "Haunter",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "35",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/35",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Takashi Yamaguchi"
+    },
+    {
+      "id": "lc-46",
+      "name": "Haunter",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "46",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/lc/lc/46",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "me02.5-124",
+      "name": "Haunter",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "124",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/124",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Rianti Hidayat"
+    },
+    {
+      "id": "me02-055",
+      "name": "Haunter",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "055",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02/055",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Rianti Hidayat"
+    },
+    {
+      "id": "me03-049",
+      "name": "Haunter",
+      "set": "me03",
+      "setName": "Perfect Order",
+      "number": "049",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me03/049",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kedamahadaitai Yawarakai"
+    },
+    {
+      "id": "mep-027",
+      "name": "Haunter",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "027",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Arai Kiriko"
+    },
+    {
+      "id": "P-A-020",
+      "name": "Haunter",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "020",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/tcgp/P-A/020",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mékayu"
+    },
+    {
+      "id": "pl4-41",
+      "name": "Haunter",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "41",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/41",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl4-42",
+      "name": "Haunter",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/42",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sm10-69",
+      "name": "Haunter",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "69",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/69",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "sm4-37",
+      "name": "Haunter",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "37",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/37",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Eri Yamaki"
+    },
+    {
+      "id": "sv03.5-093",
+      "name": "Haunter",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "093",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/093",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "sv04.5-056",
+      "name": "Haunter",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "056",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv05-103",
+      "name": "Haunter",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "103",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/103",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "swsh11-065",
+      "name": "Haunter",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "065",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/065",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh1-84",
+      "name": "Haunter",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "84",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/84",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "swsh6-56",
+      "name": "Haunter",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "56",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/56",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "xy12-48",
+      "name": "Haunter",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/48",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "xy8-59",
+      "name": "Haunter",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "59",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/59",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Midori Harada"
+    }
+  ]
+}

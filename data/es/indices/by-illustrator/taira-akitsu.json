@@ -1,0 +1,668 @@
+{
+  "name": "Taira Akitsu",
+  "totalCards": 54,
+  "cards": [
+    {
+      "id": "A1-224",
+      "name": "Brock",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "224",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/224",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "A1-231",
+      "name": "Rapidash",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "231",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/231",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "A1-232",
+      "name": "Squirtle",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "232",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/232",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "me01-039",
+      "name": "Sobble",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "039",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/039",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "me02.5-110",
+      "name": "Gabite de Cintia",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "110",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/110",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "me02-022",
+      "name": "Dewgong",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "022",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/022",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "me02-097",
+      "name": "Dewgong",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "097",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02/097",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv01-002",
+      "name": "Heracross",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "002",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/002",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv01-089",
+      "name": "Drifloon",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "089",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/089",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv02-007",
+      "name": "Tropius",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "007",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/007",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv02-010",
+      "name": "Snover",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "010",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/010",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv03.5-054",
+      "name": "Psyduck",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "054",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/054",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv03.5-055",
+      "name": "Golduck",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "055",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/055",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv04.5-116",
+      "name": "Slowpoke",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "116",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/116",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv04.5-128",
+      "name": "Frigibax",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "128",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/128",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv04-065",
+      "name": "Galvantula",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "065",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/065",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv04-200",
+      "name": "Mienshao",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "200",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/200",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv05-145",
+      "name": "Ciberentusiasta Descifracódigos",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "145",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/145",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv05-198",
+      "name": "Ciberentusiasta Descifracódigos",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "198",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/198",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv06.5-059",
+      "name": "Artes Secretas de Sachiko",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "059",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/059",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv06.5-088",
+      "name": "Artes Secretas de Sachiko",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "088",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/088",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv06-050",
+      "name": "Milotic",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "050",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/050",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv08.5-104",
+      "name": "Ciberentusiasta Descifracódigos",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "104",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/104",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv08.5-112",
+      "name": "Artes Secretas de Sachiko",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "112",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/112",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv08-178",
+      "name": "Mirada de Yasmina",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "178",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/178",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv08-233",
+      "name": "Mirada de Yasmina",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "233",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/233",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv09-155",
+      "name": "Investigación de Profesores",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "155",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/155",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv10.5b-085",
+      "name": "Investigación de Profesores",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "085",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/085",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv10.5w-106",
+      "name": "Dewott",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "106",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/106",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv10-103",
+      "name": "Gabite de Cintia",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "103",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/103",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "svp-168",
+      "name": "Vaporeon",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "168",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/168",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "svp-223",
+      "name": "Investigación de Profesores",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "223",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh1-22",
+      "name": "Vulpix",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "22",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/22",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh1-83",
+      "name": "Gastly",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "83",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/83",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh2-3",
+      "name": "Butterfree",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "3",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh2-33",
+      "name": "Chandelure",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "33",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/33",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh3.5-49",
+      "name": "Altaria",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "49",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/49",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh3.5-7",
+      "name": "Victini",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "7",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/7",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh3-149",
+      "name": "Swanna",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "149",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/149",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh4.5-20",
+      "name": "Horsea",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "20",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/20",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh4-39",
+      "name": "Drednaw",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "39",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/39",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh5-160",
+      "name": "Enfoque de Corelia",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "160",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/160",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh5-174",
+      "name": "Enfoque de Corelia",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "174",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/174",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh5-77",
+      "name": "Mienshao",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "77",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/77",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh6-195",
+      "name": "Mel",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "195",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/195",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh6-218",
+      "name": "Mel",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "218",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/218",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh6-31",
+      "name": "Weavile",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "31",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/31",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh7-164",
+      "name": "Decisión de Tristana",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "164",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/164",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh7-203",
+      "name": "Decisión de Tristana",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "203",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/203",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh7-212",
+      "name": "Sylveon VMAX",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "212",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/212",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh7-225",
+      "name": "Decisión de Tristana",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "225",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/225",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh8-216",
+      "name": "Hawlucha",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "216",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/216",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh8-224",
+      "name": "Descubrimiento de Aventurera",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "224",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/224",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swshp-SWSH037",
+      "name": "Hydreigon",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH037",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH037",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Taira Akitsu"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Zarude",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "sv08-011",
+      "name": "Zarude",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "011",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/011",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "svp-199",
+      "name": "Zarude",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "199",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "swsh12.5-016",
+      "name": "Zarude",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "016",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/016",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh4.5-16",
+      "name": "Zarude",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "16",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/16",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh6-19",
+      "name": "Zarude",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "19",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/19",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh8-27",
+      "name": "Zarude",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "27",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/27",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    }
+  ]
+}

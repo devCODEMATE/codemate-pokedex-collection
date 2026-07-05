@@ -1,0 +1,33 @@
+{
+  "name": "Dark Slowking",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "ex7-9",
+      "name": "Dark Slowking",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "9",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/9",
+      "types": [
+        "Psychic",
+        "Darkness"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "neo4-20",
+      "name": "Dark Slowking",
+      "set": "neo4",
+      "setName": "Neo Destiny",
+      "number": "20",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo4/20",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    }
+  ]
+}

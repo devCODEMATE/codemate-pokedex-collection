@@ -1,0 +1,110 @@
+{
+  "name": "Pincurchin",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "A1-112",
+      "name": "Pincurchin",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "112",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/112",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Tika Matsuno"
+    },
+    {
+      "id": "sv02-072",
+      "name": "Pincurchin",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "072",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/072",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "sv02-073",
+      "name": "Pincurchin",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "073",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/073",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "miki kudo"
+    },
+    {
+      "id": "swsh12.5-056",
+      "name": "Pincurchin",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "056",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/056",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh1-77",
+      "name": "Pincurchin",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "77",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/77",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "swsh3-64",
+      "name": "Pincurchin",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "64",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/64",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh4.5-SV043",
+      "name": "Pincurchin",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV043",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV043",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Motofumi Fujiwara"
+    },
+    {
+      "id": "swsh4-62",
+      "name": "Pincurchin",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "62",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/62",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

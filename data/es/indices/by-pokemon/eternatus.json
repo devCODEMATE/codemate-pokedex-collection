@@ -1,0 +1,32 @@
+{
+  "name": "Eternatus",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "me02-069",
+      "name": "Eternatus",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "069",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02/069",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv08-141",
+      "name": "Eternatus",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "141",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/141",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    }
+  ]
+}

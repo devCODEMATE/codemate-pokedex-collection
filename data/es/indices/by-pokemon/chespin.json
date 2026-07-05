@@ -1,0 +1,84 @@
+{
+  "name": "Chespin",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "me04-005",
+      "name": "Chespin",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "005",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me04/005",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "HACCAN"
+    },
+    {
+      "id": "me04-087",
+      "name": "Chespin",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "087",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me04/087",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsushi Furusawa"
+    },
+    {
+      "id": "xy1-12",
+      "name": "Chespin",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "12",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/12",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "xy8-7",
+      "name": "Chespin",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "7",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/7",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Megumi Mizutani"
+    },
+    {
+      "id": "xy8-8",
+      "name": "Chespin",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "8",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Megumi Mizutani"
+    },
+    {
+      "id": "xy8-9",
+      "name": "Chespin",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "9",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/9",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

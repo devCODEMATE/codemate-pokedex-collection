@@ -1,0 +1,39 @@
+{
+  "name": "Nobusawa/Mochipuyo",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "me04-081",
+      "name": "Actuación de Hiedra",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "081",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me04/081",
+      "types": null,
+      "illustrator": "Nobusawa/Mochipuyo"
+    },
+    {
+      "id": "me04-112",
+      "name": "Actuación de Hiedra",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "112",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me04/112",
+      "types": null,
+      "illustrator": "Nobusawa/Mochipuyo"
+    },
+    {
+      "id": "sv08-246",
+      "name": "Atracción de Ariana",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "246",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/246",
+      "types": null,
+      "illustrator": "Nobusawa/Mochipuyo"
+    }
+  ]
+}

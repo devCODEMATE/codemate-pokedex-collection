@@ -1,0 +1,71 @@
+{
+  "name": "Carracosta",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "bw3-26",
+      "name": "Carracosta",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "26",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/26",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "sm11-45",
+      "name": "Carracosta",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "45",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/45",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv07-038",
+      "name": "Carracosta",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "038",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/038",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "LINNE"
+    },
+    {
+      "id": "sv10.5b-023",
+      "name": "Carracosta",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "023",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/023",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Gemi"
+    },
+    {
+      "id": "sv10.5b-107",
+      "name": "Carracosta",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "107",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/107",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Takeshi Nakamura"
+    }
+  ]
+}

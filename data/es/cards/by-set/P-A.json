@@ -1,0 +1,6286 @@
+[
+  {
+    "category": "Entrenador",
+    "id": "P-A-001",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/001",
+    "localId": "001",
+    "name": "Poción",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 20 puntos de daño a 1 de tus Pokémon.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2025-05-18T00:53:26+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "P-A-002",
+    "illustrator": "Toyste Beach",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/002",
+    "localId": "002",
+    "name": "Velocidad X",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante este turno, el Coste de Retirada de tu Pokémon Activo es de 1 menos.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2025-05-18T00:53:26+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "P-A-003",
+    "illustrator": "Toyste Beach",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/003",
+    "localId": "003",
+    "name": "Periscopio",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Tu rival enseña las cartas de su mano.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2025-05-18T00:53:26+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "P-A-004",
+    "illustrator": "Ryo Ueda",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/004",
+    "localId": "004",
+    "name": "Pokédex",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Mira la primera carta de tu baraja.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2025-05-18T00:53:26+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "P-A-005",
+    "illustrator": "Ryo Ueda",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/005",
+    "localId": "005",
+    "name": "Poké Ball",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Pon 1 Pokémon Básico aleatorio de tu baraja en tu mano.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2025-05-18T00:53:26+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "P-A-006",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/006",
+    "localId": "006",
+    "name": "Tarjeta Roja",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Tu rival pone las cartas de su mano en su baraja, las baraja todas y roba 3 cartas.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2025-05-18T00:53:26+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "P-A-007",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/007",
+    "localId": "007",
+    "name": "Investigación de Profesores",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Roba 2 cartas.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2025-05-18T00:53:26+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "P-A-008",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/008",
+    "localId": "008",
+    "name": "Pokédex",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Mira la primera carta de tu baraja.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2025-05-18T00:53:26+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-009",
+    "illustrator": "Atsushi Furusawa",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/009",
+    "localId": "009",
+    "name": "Pikachu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Roer",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-010",
+    "illustrator": "Krgc",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/010",
+    "localId": "010",
+    "name": "Mewtwo",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      150
+    ],
+    "hp": 120,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Fue creado por un científico tras años de\nhorribles experimentos de ingeniería genética.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Estallido Vigoroso",
+        "effect": "Descarta 2 Energías {P} de este Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-011",
+    "illustrator": "sowsow",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/011",
+    "localId": "011",
+    "name": "Chansey",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      113
+    ],
+    "hp": 120,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Un generoso Pokémon que pone huevos muy\nnutritivos y se los da a personas o Pokémon heridos.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Bofetada Gentil",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-012",
+    "illustrator": "Shigenori Negishi",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/012",
+    "localId": "012",
+    "name": "Meowth",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      52
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Durante el día, se dedica a dormir.\nDe noche, vigila su territorio con un brillo en los ojos.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Día de Pago",
+        "effect": "Roba 1 carta.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-013",
+    "illustrator": "miki kudo",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/013",
+    "localId": "013",
+    "name": "Butterfree",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      12
+    ],
+    "hp": 120,
+    "types": [
+      "Planta"
+    ],
+    "description": "Aletea a gran velocidad para lanzar al aire\nsus escamas extremadamente tóxicas.",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Polvo Sanador",
+        "effect": "Una vez durante tu turno, puedes curar 20 puntos de daño a cada uno de tus Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Tornado",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol1"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-014",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/014",
+    "localId": "014",
+    "name": "Lapras ex",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      131
+    ],
+    "hp": 140,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Drenaje Burbujas",
+        "effect": "Cura 20 puntos de daño a este Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol1"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-015",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/015",
+    "localId": "015",
+    "name": "Pikachu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Roer",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol1"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-016",
+    "illustrator": "Shibuzoh.",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/016",
+    "localId": "016",
+    "name": "Clefairy",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      35
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Se dice que la felicidad llegará\na quien vea un grupo de Clefairy\nbailando a la luz de la luna llena.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Bofetón",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol1"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-017",
+    "illustrator": "Souichirou Gunjima",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/017",
+    "localId": "017",
+    "name": "Mankey",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      56
+    ],
+    "hp": 50,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Vive en grupos en las copas de\nlos árboles. Si pierde de vista a su\nmanada, se siente solo y se enfada.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Carga Descuidada",
+        "effect": "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol1"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-018",
+    "illustrator": "Kuroimori",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/018",
+    "localId": "018",
+    "name": "Venusaur",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      3
+    ],
+    "hp": 160,
+    "types": [
+      "Planta"
+    ],
+    "description": "La planta florece cuando absorbe energía solar,\nlo cual le obliga a buscar siempre la luz del sol.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Megaagotar",
+        "effect": "Cura 30 puntos de daño a este Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol2"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-019",
+    "illustrator": "Sanosuke Sakuma",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/019",
+    "localId": "019",
+    "name": "Greninja",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      658
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "description": "Comprime el agua y crea estrellas ninja con\nlas que ataca al enemigo. Cuando las hace girar\na gran velocidad, cortan en dos hasta el metal.",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Shuriken de Agua",
+        "effect": "Una vez durante tu turno, puedes hacer 20 puntos de daño a 1 de los Pokémon de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Golpe Niebla",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol2"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-020",
+    "illustrator": "Mékayu",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/020",
+    "localId": "020",
+    "name": "Haunter",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      93
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Le gusta acechar en la oscuridad y tocarles el\nhombro a sus víctimas con su mano gaseosa.\nEstas se quedan temblando para siempre.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Ataque Sorpresa",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol2"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-021",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/021",
+    "localId": "021",
+    "name": "Onix",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      95
+    ],
+    "hp": 110,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Al abrirse paso bajo tierra, va absorbiendo todo lo que\nencuentra. Eso hace que su cuerpo sea así de sólido.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Aterrizaje",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol2"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-022",
+    "illustrator": "Kurata So",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/022",
+    "localId": "022",
+    "name": "Jigglypuff",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      39
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Cuando le tiemblan sus redondos y adorables\nojos, entona una melodía agradable y misteriosa\ncon la que duerme a sus enemigos.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Canto",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol2"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-023",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/023",
+    "localId": "023",
+    "name": "Bulbasaur",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1
+    ],
+    "hp": 70,
+    "types": [
+      "Planta"
+    ],
+    "description": "Este Pokémon nace con una semilla en el\nlomo, que brota con el paso del tiempo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Látigo Cepa",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-024",
+    "illustrator": "Miki Tanaka",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/024",
+    "localId": "024",
+    "name": "Magnemite",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      81
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Las unidades laterales crean ondas\nelectromagnéticas que contrarrestan\nla gravedad y le permiten flotar.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Bola Relámpago",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-025",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/025",
+    "localId": "025",
+    "name": "Moltres ex",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      146
+    ],
+    "hp": 140,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Danza Infernal",
+        "effect": "Lanza 3 monedas. Une a tus Pokémon {R} en Banca, de la manera que desees, tantas Energías {R} de tu área de Energía como caras hayan salido."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Explosión de Calor",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-026",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/026",
+    "localId": "026",
+    "name": "Pikachu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Roer",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-027",
+    "illustrator": "Yoriyuki Ikegami",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/027",
+    "localId": "027",
+    "name": "Snivy",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      495
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "description": "Cuando recibe los rayos de sol, se mueve\nmucho más rápido que de costumbre.\nUsa mejor sus lianas que sus manos.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Placaje",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol3"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-028",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/028",
+    "localId": "028",
+    "name": "Volcarona",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      637
+    ],
+    "hp": 120,
+    "types": [
+      "Fuego"
+    ],
+    "description": "El calor que irradia le granjea pocas simpatías en\ntierras cálidas. Por el contrario, en las regiones\nmás frías lo veneran como encarnación del sol.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Ceniza Volcánica",
+        "effect": "Descarta 2 Energías {R} de este Pokémon. Este ataque hace 80 puntos de daño a 1 de los Pokémon de tu rival."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol3"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-029",
+    "illustrator": "danciao",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/029",
+    "localId": "029",
+    "name": "Blastoise",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      9
+    ],
+    "hp": 150,
+    "types": [
+      "Agua"
+    ],
+    "description": "Para acabar con su enemigo, lo aplasta\ncon el peso de su cuerpo. En momentos\nde apuro, se esconde en el caparazón.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Hidrobomba",
+        "effect": "Si este Pokémon tiene por lo menos 2 Energías {W} adicionales unidas a él, este ataque hace 60 puntos de daño más.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol3"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-030",
+    "illustrator": "En Morikura",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/030",
+    "localId": "030",
+    "name": "Eevee",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Es capaz de evolucionar de muchas maneras\npara adaptarse sin problemas a cualquier medio.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Gruñido",
+        "effect": "Durante el próximo turno de tu rival, los ataques del Pokémon Defensor hacen -20 puntos de daño."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol3"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-031",
+    "illustrator": "MAHOU",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/031",
+    "localId": "031",
+    "name": "Cinccino",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      573
+    ],
+    "hp": 90,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Es tan sumamente pulcro que no puede ver\nni una mota de polvo. La grasa que exuda\npor el cuerpo le sirve de película protectora.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Hacer la Ola",
+        "effect": "Este ataque hace 30 puntos de daño por cada uno de tus Pokémon en Banca.",
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol3"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-032",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/032",
+    "localId": "032",
+    "name": "Charmander",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      4
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Prefiere las cosas calientes. Dicen que cuando\nllueve le sale vapor de la punta de la cola.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Ascuas",
+        "effect": "Descarta 1 Energía {R} de este Pokémon.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-033",
+    "illustrator": "Kanako Eo",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/033",
+    "localId": "033",
+    "name": "Squirtle",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      7
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "description": "Cuando retrae su largo cuello en el caparazón,\ndispara agua a una presión increíble.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Pistola Agua",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-034",
+    "illustrator": "Kariya",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/034",
+    "localId": "034",
+    "name": "Piplup",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      393
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "description": "No le gusta que lo cuiden. Como no aprecia el apoyo\nde su Entrenador, le cuesta coger confianza con él.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Siesta",
+        "effect": "Cura 20 puntos de daño a este Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-035",
+    "illustrator": "Atsuko Nishida",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/035",
+    "localId": "035",
+    "name": "Turtwig",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      387
+    ],
+    "hp": 80,
+    "types": [
+      "Planta"
+    ],
+    "description": "Al bañarlo los rayos de sol, realiza la fotosíntesis con todo\nel cuerpo. Su caparazón está formado por tierra endurecida.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Mordisco",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol4"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-036",
+    "illustrator": "Sumiyoshi Kizuki",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/036",
+    "localId": "036",
+    "name": "Electivire",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      466
+    ],
+    "hp": 120,
+    "types": [
+      "Rayo"
+    ],
+    "description": "La cantidad de electricidad que genera es\nproporcional a su pulso. Al enzarzarse en\ncombate, su voltaje aumenta drásticamente.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Voltaje Exaltado",
+        "effect": "Si este Pokémon tiene por lo menos 2 Energías {L} adicionales unidas a él, este ataque hace 80 puntos de daño más.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol4"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-037",
+    "illustrator": "PLANETA Mochizuki",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/037",
+    "localId": "037",
+    "name": "Cresselia ex",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      488
+    ],
+    "hp": 140,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Plumaje Lunar",
+        "effect": "Cada vez que unas una Energía {P} de tu área de Energía a este Pokémon, cúrale 20 puntos de daño."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Destello Psíquico",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol4"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-038",
+    "illustrator": "Miki Tanaka",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/038",
+    "localId": "038",
+    "name": "Misdreavus",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      200
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Sorprende a la gente en mitad de la noche\ny acumula su miedo como energía.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Rayo Confuso",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol4"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-039",
+    "illustrator": "Anesaki Dynamic",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/039",
+    "localId": "039",
+    "name": "Skarmory",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      227
+    ],
+    "hp": 80,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Aparece a menudo en escudos heráldicos, pues se\npueden forjar espadas a partir de las plumas que pierde.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Extremidades Metálicas",
+        "effect": "Si este Pokémon tiene 1 Herramienta Pokémon unida a él, este ataque hace 30 puntos de daño más.",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol4"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-040",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/040",
+    "localId": "040",
+    "name": "Chimchar",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      390
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "description": "El gas de su panza alimenta el fuego de su\nparte trasera, que ni la lluvia puede extinguir.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Arañazo",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-041",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/041",
+    "localId": "041",
+    "name": "Togepi",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      175
+    ],
+    "hp": 50,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "El cascarón parece estar lleno de alegría.\nDicen que trae buena suerte si se le trata con cariño.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Destructor",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-042",
+    "illustrator": "PLANETA Mochizuki",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/042",
+    "localId": "042",
+    "name": "Darkrai ex",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      491
+    ],
+    "hp": 140,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Aura Pesadilla",
+        "effect": "Cada vez que unas una Energía {D} de tu área de Energía a este Pokémon, haz 20 puntos de daño al Pokémon Activo de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Prisma Oscuro",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-043",
+    "illustrator": "MAHOU",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/043",
+    "localId": "043",
+    "name": "Cherrim",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      421
+    ],
+    "hp": 80,
+    "types": [
+      "Planta"
+    ],
+    "description": "Adopta esta forma cuando lo bañan los rayos del sol. Siempre\nestá rebosante de energía y se mantiene activo hasta el ocaso.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Drenadoras",
+        "effect": "Cura 20 puntos de daño a este Pokémon.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol5"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-044",
+    "illustrator": "Kazumasa Yasukuni",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/044",
+    "localId": "044",
+    "name": "Raichu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      26
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Su cola actúa como toma de tierra\ny descarga electricidad al suelo, lo\nque le protege de los calambrazos.",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Vínculo Protector",
+        "effect": "Si tienes a Arceus o Arceus ex en juego, los ataques hacen -30 puntos de daño a este Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Chispa",
+        "effect": "Este ataque también hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol5"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-045",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/045",
+    "localId": "045",
+    "name": "Nosepass",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      299
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Solo se desplaza un centímetro al año, pero,\nsi se siente amenazado, gira sobre sí mismo\ny se hunde bajo tierra en un abrir y cerrar de ojos.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Defensa Férrea",
+        "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, se evita todo el daño infligido a este Pokémon por ataques."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol5"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-046",
+    "illustrator": "Uninori",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/046",
+    "localId": "046",
+    "name": "Gible",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      443
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Permanece oculto en cuevas y, cuando pasa una\npresa, se abalanza sobre ella y la muerde con\ntanta fuerza que hasta se le rompen los dientes.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Placaje",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol5"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-047",
+    "illustrator": "Hasuno",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/047",
+    "localId": "047",
+    "name": "Staraptor",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      398
+    ],
+    "hp": 140,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Al evolucionar a Staraptor, deja su bandada y\npasa a vivir en soledad. Sus alas son inmensas.",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Ciclón Defensivo",
+        "effect": "Los ataques de Pokémon {F} hacen -30 puntos de daño a este Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ataque Ala",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol5"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-048",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/048",
+    "localId": "048",
+    "name": "Manaphy",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      490
+    ],
+    "hp": 50,
+    "types": [
+      "Agua"
+    ],
+    "description": "Nace con un maravilloso poder que le permite\nestablecer vínculos con cualquier tipo de Pokémon.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Regalo Oceánico",
+        "effect": "Elige 2 de tus Pokémon en Banca. Para cada uno de ellos, une 1 Energía {W} de tu área de Energía a ese Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-049",
+    "illustrator": "okayamatakatoshi",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/049",
+    "localId": "049",
+    "name": "Snorlax",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      143
+    ],
+    "hp": 140,
+    "types": [
+      "Incolora"
+    ],
+    "description": "No se encuentra satisfecho hasta haber\ningerido 400 kg de comida cada día.\nCuando acaba de comer, se queda dormido.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Colapso",
+        "effect": "Este Pokémon pasa a estar Dormido.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-050",
+    "illustrator": "PLANETA Mochizuki",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/050",
+    "localId": "050",
+    "name": "Mewtwo ex",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      150
+    ],
+    "hp": 150,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Esfera Psíquica",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Guía Psi",
+        "effect": "Descarta 2 Energías {P} de este Pokémon.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-051",
+    "illustrator": "Shigenori Negishi",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/051",
+    "localId": "051",
+    "name": "Cyclizar",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      967
+    ],
+    "hp": 80,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Según parece, ha permitido que los humanos\nmonten en él desde tiempos remotos. Aparece\nen pinturas rupestres de hace diez mil años.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Alta Aceleración",
+        "effect": "Durante tu próximo turno, el ataque Alta Aceleración de este Pokémon hace Overacceleration+20 puntos[/Ctrl:NoBreak] de daño.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-052",
+    "illustrator": "MINAMINAMI Take",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/052",
+    "localId": "052",
+    "name": "Sprigatito",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      906
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "description": "Su sedoso pelaje se asemeja en composición a las plantas.\nSe lava la cara con diligencia para que no se le seque.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Pedir Ayuda",
+        "effect": "Pon 1 Pokémon {G} aleatorio de tu baraja en tu mano."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-053",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/053",
+    "localId": "053",
+    "name": "Floatzel",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      419
+    ],
+    "hp": 100,
+    "types": [
+      "Agua"
+    ],
+    "description": "Con la vejiga natatoria inflada, puede llevar a personas\nsobre su espalda. Antes de bucear, la desinfla.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Ataque a la Herida",
+        "effect": "Si el Pokémon Activo de tu rival ya tiene daño, este ataque hace 60 puntos de daño más.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol6"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-054",
+    "illustrator": "REND",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/054",
+    "localId": "054",
+    "name": "Pawmot",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      923
+    ],
+    "hp": 140,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Este Pokémon es normalmente bastante calmado,\npero, una vez en combate, derriba a sus rivales\ncon movimientos de una velocidad vertiginosa.",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Contragolpe",
+        "effect": "Si este Pokémon está en el Puesto Activo y resulta dañado por un ataque de los Pokémon de tu rival, el Pokémon Atacante sufre 20 puntos de daño."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Puño Eléctrico",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol6"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-055",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/055",
+    "localId": "055",
+    "name": "Machamp",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      68
+    ],
+    "hp": 150,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Mueve rápidamente sus cuatro brazos\npara asestar incesantes golpes y\npuñetazos desde todos los ángulos.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Constricción Poderosa",
+        "effect": "Si este Pokémon tiene por lo menos 2 Energías {F} adicionales unidas a él, este ataque hace 50 puntos de daño más.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol6"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-056",
+    "illustrator": "Krgc",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/056",
+    "localId": "056",
+    "name": "Ekans",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      23
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Es capaz de desencajar la mandíbula para\nengullir presas enteras mayores que él mismo,\ntras lo cual se enrosca para descansar.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Picotazo Veneno",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol6"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-057",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/057",
+    "localId": "057",
+    "name": "Bidoof",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      399
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Tiene nervios de acero y nada puede perturbarlo.\nEs más ágil y activo de lo que aparenta.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpe Cabeza",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol6"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-058",
+    "illustrator": "OOYAMA",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/058",
+    "localId": "058",
+    "name": "Pachirisu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      417
+    ],
+    "hp": 70,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Forma parte del grupo de Pokémon que\nposee bolsas de electricidad en las mejillas.\nDescarga por la cola la electricidad que acumula.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Plasma",
+        "effect": "Une 1 Energía {L} de tu área de Energía a 1 de tus Pokémon {L} en Banca.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-059",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/059",
+    "localId": "059",
+    "name": "Riolu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      447
+    ],
+    "hp": 70,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Se comunica con los suyos emitiendo ondas.\nPuede pasarse toda una noche corriendo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Puño",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-060",
+    "illustrator": "0313",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/060",
+    "localId": "060",
+    "name": "Exeggcute",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      102
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "description": "Pese a su aspecto de mera piña de huevos,\nse trata de un Pokémon. Al parecer, sus\ncabezas se comunican entre sí por telepatía.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Crecimiento Repentino",
+        "effect": "Une 1 Energía {G} de tu área de Energía a este Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol7"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-061",
+    "illustrator": "Sanosuke Sakuma",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/061",
+    "localId": "061",
+    "name": "Froakie",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      656
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "description": "Secreta burbujas tanto por la espalda como\npor el pecho. Gracias a la elasticidad de estas,\npuede parar ataques y reducir el daño recibido.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Vuelta",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol7"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-062",
+    "illustrator": "Eri Yamaki",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/062",
+    "localId": "062",
+    "name": "Farfetch'd",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      83
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Blande el puerro que sujeta con un ala como si\nse tratase de una espada para rebanar a su rival.\nEn caso de necesidad, se lo come para nutrirse.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Bofetada de Puerro",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol7"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-063",
+    "illustrator": "Yoshinobu Saito",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/063",
+    "localId": "063",
+    "name": "Rayquaza",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      384
+    ],
+    "hp": 100,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Vive en la capa de ozono sobre las nubes\ny no puede ser visto desde el suelo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Avalancha Espiral",
+        "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 30 puntos de daño más por cada cara.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol7"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-064",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/064",
+    "localId": "064",
+    "name": "Rayquaza ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      384
+    ],
+    "hp": 140,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cometa Draco",
+        "effect": "Se elige 4 veces a un Pokémon aleatorio de tu rival. Haz a cada uno 40 puntos de daño por cada vez que haya resultado elegido."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol7"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-065",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/065",
+    "localId": "065",
+    "name": "Rayquaza ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      384
+    ],
+    "hp": 140,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cometa Draco",
+        "effect": "Se elige 4 veces a un Pokémon aleatorio de tu rival. Haz a cada uno 40 puntos de daño por cada vez que haya resultado elegido."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-066",
+    "illustrator": "Amelicart",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/066",
+    "localId": "066",
+    "name": "Mimikyu",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      778
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Vive en lugares oscuros donde no llega el sol.\nCuando se deja ver por la gente, oculta todo\nsu cuerpo bajo un saco con aspecto de Pikachu.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Impacto Umbrío",
+        "effect": "Este ataque también hace 20 puntos de daño a 1 de tus Pokémon.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-067",
+    "illustrator": "Mizue",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/067",
+    "localId": "067",
+    "name": "Cosmog",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      789
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Hasta la brisa más leve es capaz de arrastrar\nsu cuerpo, compuesto de una materia gaseosa\ninestable, pero no parece que eso le moleste.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Teletransporte",
+        "effect": "Cambia este Pokémon por 1 de tus Pokémon en Banca."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-068",
+    "illustrator": "Ryuta Fuse",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/068",
+    "localId": "068",
+    "name": "Lycanroc",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      745
+    ],
+    "hp": 100,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Ataca a sus presas con sus afilados colmillos y\ngarras. Solo obedece las órdenes de aquellos\nEntrenadores que logran ganarse su confianza.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Triturar",
+        "effect": "Lanza 1 moneda. Si sale cara, descarta 1 Energía aleatoria del Pokémon Activo de tu rival.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-069",
+    "illustrator": "Satoshi Shirai",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/069",
+    "localId": "069",
+    "name": "Exeggutorde Alola",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      103
+    ],
+    "hp": 150,
+    "types": [
+      "Planta"
+    ],
+    "description": "Los intensos rayos solares que bañan su hábitat le han conferido\nun poder y aspecto que muchos consideran su forma original.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Mazazo Tropical",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol8"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-070",
+    "illustrator": "tono",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/070",
+    "localId": "070",
+    "name": "Ninetalesde Alola",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      38
+    ],
+    "hp": 110,
+    "types": [
+      "Agua"
+    ],
+    "description": "Antaño lo veneraban como la encarnación de una deidad\nque se creía que moraba en las montañas nevadas.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Ventisca",
+        "effect": "Este ataque también hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol8"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-071",
+    "illustrator": "Miki Tanaka",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/071",
+    "localId": "071",
+    "name": "Crabrawler",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      739
+    ],
+    "hp": 70,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Propina puñetazos a los árboles y devora las\nbayas que caen al suelo tras el impacto. Esto le\npermite entrenar y alimentarse al mismo tiempo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Puño",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol8"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-072",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/072",
+    "localId": "072",
+    "name": "Grimerde Alola",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      88
+    ],
+    "hp": 70,
+    "types": [
+      "Oscura"
+    ],
+    "description": "En los vertederos de Alola habitan unos 100\nejemplares que devoran la basura con diligencia.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Gas Venenoso",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol8"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-073",
+    "illustrator": "Sekio",
+    "image": "https://assets.tcgdex.net/es/tcgp/P-A/073",
+    "localId": "073",
+    "name": "Toucannon",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      733
+    ],
+    "hp": 140,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Se comunican con sus compañeros chocando los\npicos. El número de veces y la fuerza con la que\nlo hacen transmiten sus distintos sentimientos.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Pico Cañón",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Quemado.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol8"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-074",
+    "illustrator": "GIDORA",
+    "localId": "074",
+    "name": "Zeraora",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      807
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Hace jirones al oponente con sus garras electrificadas. Aunque\neste esquive los golpes, acaba electrocutado por las descargas.",
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Destello Fulgurante",
+        "effect": "Al final de tu primer turno, se unirá 1 Energía {L} de tu área de Energía a este Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Garra Relámpago",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-075",
+    "illustrator": "Hasuno",
+    "localId": "075",
+    "name": "Kartana",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      798
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "description": "El cuerpo de este Ultraente es fino como el papel\ny tan cortante como una espada recién afilada",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Thrash Metal",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol9"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-076",
+    "illustrator": "Hasuno",
+    "localId": "076",
+    "name": "Blacephalon",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      806
+    ],
+    "hp": 100,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Parece ser uno de los temibles Ultraentes. Se acerca a la gente\ncontoneándose y hace explotar su propia cabeza súbitamente",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Beat Punk",
+        "effect": "Este Pokémon también se hace 70 puntos de daño a si mismo",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol9"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-077",
+    "illustrator": "Shin Nagasawa",
+    "localId": "077",
+    "name": "Xurkitree",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      796
+    ],
+    "hp": 100,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Para los seres de este mundo resulta extraño y peligroso, pero\nen el mundo del que procede es una criatura muy común.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Electrónica",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol9"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-078",
+    "illustrator": "nagimiso",
+    "localId": "078",
+    "name": "Necrozma Alas del Alba",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      800
+    ],
+    "hp": 110,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "En esta forma, Lunala no goza de voluntad propia. Necrozma\ntiene control absoluto y absorbe su energía poco a poco.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Psychobilly",
+        "effect": "Este Pokémon también se hace 30 puntos de daño a sí mismo.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol9"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-079",
+    "illustrator": "nagimiso",
+    "localId": "079",
+    "name": "Necrozma Melena Crepuscular",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      800
+    ],
+    "hp": 110,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Forma que adopta tras alimentarse de la luz de Solgaleo.\nSe lanza sobre su oponente y lo desgarra sin piedad.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Black Metal",
+        "effect": "Descarta 1 Energía {M} de este Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol9"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-080",
+    "illustrator": "Shin Nagasawa",
+    "localId": "080",
+    "name": "Stakataka",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      805
+    ],
+    "hp": 110,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Surgió de un Ultraumbral. Parece estar compuesto de varias\n criaturas que se han combinado para formar un solo ser.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Brass Rock",
+        "effect": "Durante el próximo turno de tu rival, los ataques hacen -20 puntos de daño a este Pokémon.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol9"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-081",
+    "illustrator": "PLANETA Tsuji",
+    "localId": "081",
+    "name": "Ultra-Necrozma ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      800
+    ],
+    "hp": 150,
+    "types": [
+      "Dragón"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Garra Fotónica",
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Metálica",
+          "Metálica"
+        ],
+        "name": "Shoegaze",
+        "effect": "Descarta las 5 primeras cartas de la baraja de cada jugador.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Incolora",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol9"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-082",
+    "illustrator": "Megumi Mizutani",
+    "localId": "082",
+    "name": "Poipole",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      803
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "description": "En su mundo, este Ultraente se considera tan entrañable\ncomo para ser elegido compañero de viaje.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "2-Step",
+        "effect": "Lanza 2 monedas. Este ataque hace 20 puntos de daño por cada cara.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-083",
+    "illustrator": "Kanako Eo",
+    "localId": "083",
+    "name": "Stufful",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      759
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Su suave pelaje invita a acariciarlo, pero quien cometa\nsemejante temeridad recibirá un severo escarmiento.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Apisonar",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-084",
+    "illustrator": "PLANETA Tsuji",
+    "localId": "084",
+    "name": "Tapu Koko ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      785
+    ],
+    "hp": 130,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Huracán Plasma",
+        "effect": "Une 1 Energía {L} de tu área de Energía a este Pokémon.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Rayo Mach",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-085",
+    "illustrator": "OOYAMA",
+    "localId": "085",
+    "name": "Vanillite",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      582
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "description": "No puede vivir en lugares muy cálidos. Provoca\nnevadas exhalando un vaho gélido y luego se\nacurruca en la nieve acumulada para dormir.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Relevo Dulce",
+        "effect": "Si 1 de tus Pokémon usó Relevo Dulce durante tu último turno, este ataque hace 20 puntos de daño más.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol10"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-086",
+    "illustrator": "Mizue",
+    "localId": "086",
+    "name": "Jolteon",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      135
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "Concentra la débil actividad eléctrica de\nsus células para lanzar dañinas descargas.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Descarga de Arranque",
+        "effect": "Si este Pokémon ha evolucionado durante este turno, este ataque hace 20 puntos de daño más.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol10"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-087",
+    "illustrator": "Tika Matsuno",
+    "localId": "087",
+    "name": "Alcremie",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      869
+    ],
+    "hp": 80,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Milcery",
+    "description": "Obsequia bayas decoradas con nata a\naquellos Entrenadores en los que confía.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Dulzor Extremo",
+        "effect": "Este ataque hace 40 puntos de daño por cada vez que tus Pokémon hayan usado Relevo Dulce durante esta partida.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol10"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-088",
+    "illustrator": "Shinya Komatsu",
+    "localId": "088",
+    "name": "Dragonair",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      148
+    ],
+    "hp": 100,
+    "types": [
+      "Dragón"
+    ],
+    "evolveFrom": "Dratini",
+    "description": "Dicen que, cuando su cuerpo desprende un aura,\nel tiempo empieza a cambiar inmediatamente.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Mudar",
+        "effect": "Cura 30 puntos de daño a este Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Incolora",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol10"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-089",
+    "illustrator": "MAHOU",
+    "localId": "089",
+    "name": "Audino",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      531
+    ],
+    "hp": 100,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Un Pokémon gentil que es capaz de comprender\nlos sentimientos y averiguar el estado de salud\nde todo aquel que toque con sus antenas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Absorbebofetón",
+        "effect": "Cura 10 puntos de daño a este Pokémon.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "boosters": [
+      {
+        "id": "boo_P-A-vol10"
+      }
+    ],
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-090",
+    "illustrator": "sowsow",
+    "localId": "090",
+    "name": "Togedemaru",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      777
+    ],
+    "hp": 80,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Utiliza el apéndice de la cabeza para absorber los raoys o los\nataques de los Pokémon de tipo Eléctrico para recargar su bolsa.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica"
+        ],
+        "name": "Púas Erizadas",
+        "effect": "Durante el próximo turno de tu rival, si este Pokémon resulta dañado por un ataque, el Pokémon Atacante sufre 30 puntos de daño.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-091",
+    "illustrator": "HYOGONOSUKE",
+    "localId": "091",
+    "name": "Greedent",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      820
+    ],
+    "hp": 120,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Skwovet",
+    "description": "Su cola es el doble de larga que su cuerpo.\nEnvuelve con ella las bayas que tira de los\nárboles para llevárselas consigo.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Incisivos Mejorados",
+        "effect": "Si este Pokémon tiene 1 Herramienta Pokémon unida a él, este ataque hace 50 puntos de daño más.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "P-A-092",
+    "illustrator": "nisimono",
+    "localId": "092",
+    "name": "Eevee",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 92
+      },
+      "id": "P-A",
+      "name": "Promo-A"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Es capaz de evolucionar de muchas maneras\npara adaptarse sin problemas a cualquier medio.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Placaje",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

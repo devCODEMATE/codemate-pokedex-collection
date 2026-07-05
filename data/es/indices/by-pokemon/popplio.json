@@ -1,0 +1,110 @@
+{
+  "name": "Popplio",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "A3-045",
+      "name": "Popplio",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "045",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/045",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kanami Ogata"
+    },
+    {
+      "id": "A3-046",
+      "name": "Popplio",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "046",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/046",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "mep-045",
+      "name": "Popplio",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "045",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sm1-39",
+      "name": "Popplio",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "39",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/39",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sm8-64",
+      "name": "Popplio",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "64",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/64",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "sm8-65",
+      "name": "Popplio",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "65",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/65",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yusuke Ohmura"
+    },
+    {
+      "id": "smp-SM03",
+      "name": "Popplio",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM03",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "smp-SM24",
+      "name": "Popplio",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM24",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

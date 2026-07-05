@@ -1,0 +1,58 @@
+{
+  "name": "Huntail",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm7-42",
+      "name": "Huntail",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/42",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "sv10-055",
+      "name": "Huntail",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "055",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/055",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "swsh8-66",
+      "name": "Huntail",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "66",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/66",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "xy5-50",
+      "name": "Huntail",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "50",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/50",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    }
+  ]
+}

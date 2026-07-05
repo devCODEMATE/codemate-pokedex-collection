@@ -1,0 +1,58 @@
+{
+  "name": "Genesect",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "me02-008",
+      "name": "Genesect",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "008",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02/008",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sm10-127",
+      "name": "Genesect",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "127",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/127",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv06.5-040",
+      "name": "Genesect",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "040",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/040",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Kazumasa Yasukuni"
+    },
+    {
+      "id": "swsh4-16",
+      "name": "Genesect",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "16",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/16",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "kawayoo"
+    }
+  ]
+}

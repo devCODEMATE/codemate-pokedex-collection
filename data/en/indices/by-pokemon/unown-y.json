@@ -1,0 +1,32 @@
+{
+  "name": "Unown Y",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dp6-81",
+      "name": "Unown Y",
+      "set": "dp6",
+      "setName": "Legends Awakened",
+      "number": "81",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp6/81",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kazuaki Aihara"
+    },
+    {
+      "id": "neo3-40",
+      "name": "Unown [Y]",
+      "set": "neo3",
+      "setName": "Neo Revelation",
+      "number": "40",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/neo/neo3/40",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "CR CG gangs"
+    }
+  ]
+}

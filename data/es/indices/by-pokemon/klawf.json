@@ -1,0 +1,84 @@
+{
+  "name": "Klawf",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "2023sv-11",
+      "name": "Klawf",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "11",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "B2a-061",
+      "name": "Klawf",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "061",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv01-122",
+      "name": "Klawf",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "122",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/122",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv01-217",
+      "name": "Klawf",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "217",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/217",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Mina Nakai"
+    },
+    {
+      "id": "sv04-105",
+      "name": "Klawf",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "105",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/105",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv09-090",
+      "name": "Klawf",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "090",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/090",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shinya Komatsu"
+    }
+  ]
+}

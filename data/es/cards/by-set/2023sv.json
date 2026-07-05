@@ -1,0 +1,1603 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "2023sv-1",
+    "illustrator": "Saya Tsuruta",
+    "localId": "1",
+    "name": "Sprigatito",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725418,
+            "avg": 0.44,
+            "low": 0.04,
+            "trend": 0.34,
+            "avg1": 0.3,
+            "avg7": 0.48,
+            "avg30": 0.45,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      906
+    ],
+    "hp": 70,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Arañazo",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725418,
+        "avg": 0.44,
+        "low": 0.04,
+        "trend": 0.34,
+        "avg1": 0.3,
+        "avg7": 0.48,
+        "avg30": 0.45,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-2",
+    "illustrator": "Akira Komayama",
+    "localId": "2",
+    "name": "Fuecoco",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725419,
+            "avg": 0.42,
+            "low": 0.02,
+            "trend": 0.47,
+            "avg1": 0.21,
+            "avg7": 0.57,
+            "avg30": 0.42,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      909
+    ],
+    "hp": 80,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Roer",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725419,
+        "avg": 0.42,
+        "low": 0.02,
+        "trend": 0.47,
+        "avg1": 0.21,
+        "avg7": 0.57,
+        "avg30": 0.42,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-3",
+    "illustrator": "Mizue",
+    "localId": "3",
+    "name": "Quaxly",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725420,
+            "avg": 0.48,
+            "low": 0.02,
+            "trend": 0.38,
+            "avg1": 0.28,
+            "avg7": 0.37,
+            "avg30": 0.45,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      912
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Destructor",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725420,
+        "avg": 0.48,
+        "low": 0.02,
+        "trend": 0.38,
+        "avg1": 0.28,
+        "avg7": 0.37,
+        "avg30": 0.45,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-4",
+    "illustrator": "Kouki Saitou",
+    "localId": "4",
+    "name": "Cetoddle",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "básico",
+        "size": "estándar",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725421,
+            "avg": 0.1,
+            "low": 0.02,
+            "trend": 0.07,
+            "avg1": 0.02,
+            "avg7": 0.13,
+            "avg30": 0.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      974
+    ],
+    "hp": 100,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725421,
+        "avg": 0.1,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.02,
+        "avg7": 0.13,
+        "avg30": 0.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-5",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "5",
+    "name": "Cetitan",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725422,
+            "avg": 0.28,
+            "low": 0.02,
+            "trend": 0.36,
+            "avg1": 0.03,
+            "avg7": 0.3,
+            "avg30": 0.28,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      975
+    ],
+    "hp": 180,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Cetoddle",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": "200-"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725422,
+        "avg": 0.28,
+        "low": 0.02,
+        "trend": 0.36,
+        "avg1": 0.03,
+        "avg7": 0.3,
+        "avg30": 0.28,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-6",
+    "illustrator": "OKACHEKE",
+    "localId": "6",
+    "name": "Pikachu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725423,
+            "avg": 1.88,
+            "low": 0.15,
+            "trend": 1.74,
+            "avg1": 2.16,
+            "avg7": 2.08,
+            "avg30": 1.92,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 70,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ]
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725423,
+        "avg": 1.88,
+        "low": 0.15,
+        "trend": 1.74,
+        "avg1": 2.16,
+        "avg7": 2.08,
+        "avg30": 1.92,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-7",
+    "illustrator": "kantaro",
+    "localId": "7",
+    "name": "Pawmi",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "básico",
+        "size": "estándar",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725424,
+            "avg": 0.09,
+            "low": 0.02,
+            "trend": 0.05,
+            "avg1": 0.02,
+            "avg7": 0.06,
+            "avg30": 0.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      921
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Patada Eléctrica",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725424,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.02,
+        "avg7": 0.06,
+        "avg30": 0.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-8",
+    "illustrator": "Kouki Saitou",
+    "localId": "8",
+    "name": "Kilowattrel",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "básico",
+        "size": "estándar",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725425,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.05,
+            "avg1": 0.04,
+            "avg7": 0.05,
+            "avg30": 0.06,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      941
+    ],
+    "hp": 120,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Wattrel",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ]
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725425,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.04,
+        "avg7": 0.05,
+        "avg30": 0.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-9",
+    "illustrator": "Hitoshi Ariga",
+    "localId": "9",
+    "name": "Flittle",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "básico",
+        "size": "estándar",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725426,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.06,
+            "avg1": 0.02,
+            "avg7": 0.07,
+            "avg30": 0.07,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      955
+    ],
+    "hp": 30,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725426,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.02,
+        "avg7": 0.07,
+        "avg30": 0.07,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-10",
+    "illustrator": "Yuya Oka",
+    "localId": "10",
+    "name": "Sandaconda",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "básico",
+        "size": "estándar",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725427,
+            "avg": 0.07,
+            "low": 0.02,
+            "trend": 0.1,
+            "avg1": 0.2,
+            "avg7": 0.07,
+            "avg30": 0.06,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      844
+    ],
+    "hp": 140,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Silicobra",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ]
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725427,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.1,
+        "avg1": 0.2,
+        "avg7": 0.07,
+        "avg30": 0.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-11",
+    "illustrator": "nagimiso",
+    "localId": "11",
+    "name": "Klawf",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725428,
+            "avg": 0.4,
+            "low": 0.02,
+            "trend": 0.42,
+            "avg1": 0.2,
+            "avg7": 0.34,
+            "avg30": 0.38,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      950
+    ],
+    "hp": 130,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Agarre",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725428,
+        "avg": 0.4,
+        "low": 0.02,
+        "trend": 0.42,
+        "avg1": 0.2,
+        "avg7": 0.34,
+        "avg30": 0.38,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-12",
+    "illustrator": "chibi",
+    "localId": "12",
+    "name": "Blissey",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "básico",
+        "size": "estándar",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725429,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.09,
+            "avg1": 0.02,
+            "avg7": 0.08,
+            "avg30": 0.08,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      242
+    ],
+    "hp": 150,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Chansey",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725429,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.02,
+        "avg7": 0.08,
+        "avg30": 0.08,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-13",
+    "illustrator": "yuu",
+    "localId": "13",
+    "name": "Tandemaus",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "básico",
+        "size": "estándar",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725430,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.07,
+            "avg1": 0.02,
+            "avg7": 0.07,
+            "avg30": 0.08,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      924
+    ],
+    "hp": 40,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": "30x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725430,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.02,
+        "avg7": 0.07,
+        "avg30": 0.08,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-14",
+    "illustrator": "Ryota Murayama",
+    "localId": "14",
+    "name": "Cyclizar",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "básico",
+        "size": "estándar",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725431,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.05,
+            "avg1": 0.1,
+            "avg7": 0.08,
+            "avg30": 0.07,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      967
+    ],
+    "hp": 110,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ]
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ataque Veloz",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725431,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.1,
+        "avg7": 0.08,
+        "avg30": 0.07,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "2023sv-15",
+    "illustrator": "kawayoo",
+    "localId": "15",
+    "name": "Kirlia",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2023sv",
+      "name": "Colección de McDonald's 2023"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "básico",
+        "size": "estándar",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 725432,
+            "avg": 0.11,
+            "low": 0.02,
+            "trend": 0.09,
+            "avg1": 0.02,
+            "avg7": 0.17,
+            "avg30": 0.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      281
+    ],
+    "hp": 80,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Ralts",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Disparo Mágico",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 725432,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.02,
+        "avg7": 0.17,
+        "avg30": 0.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  }
+]

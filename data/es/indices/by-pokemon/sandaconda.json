@@ -1,0 +1,84 @@
+{
+  "name": "Sandaconda",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "2023sv-10",
+      "name": "Sandaconda",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "10",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv01-120",
+      "name": "Sandaconda",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "120",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/120",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "swsh1-109",
+      "name": "Sandaconda",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "109",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/109",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh1-110",
+      "name": "Sandaconda",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "110",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/110",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "swsh4.5-SV071",
+      "name": "Sandaconda",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV071",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV071",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh5-82",
+      "name": "Sandaconda",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "82",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/82",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "hatachu"
+    }
+  ]
+}

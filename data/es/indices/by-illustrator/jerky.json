@@ -1,0 +1,669 @@
+{
+  "name": "Jerky",
+  "totalCards": 51,
+  "cards": [
+    {
+      "id": "A1-247",
+      "name": "Ditto",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "247",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/247",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "A1a-024",
+      "name": "Cramorant",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "024",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/024",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "A2-203",
+      "name": "Lickilicky ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "203",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/203",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "A2b-077",
+      "name": "Gholdengo",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "077",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/077",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "A3-034",
+      "name": "Oricorio",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "034",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/034",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "A3-066",
+      "name": "Oricorio",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "066",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/066",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "A3-076",
+      "name": "Oricorio",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "076",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/076",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "A3-077",
+      "name": "Oricorio",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "077",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/077",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "A3-206",
+      "name": "Mukde Alola ex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "206",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/206",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "me01-072",
+      "name": "Makuhita",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "072",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/072",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "me02.5-017",
+      "name": "Grubbin",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "017",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/017",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "me02.5-059",
+      "name": "Tynamo",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "059",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/059",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "me02.5-060",
+      "name": "Eelektrik",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "060",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/060",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "me02.5-247",
+      "name": "Dreepy",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "247",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/247",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "me02.5-248",
+      "name": "Drakloak",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "248",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/248",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "me02-053",
+      "name": "Flygon",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "053",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02/053",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "me02-095",
+      "name": "Ludicolo",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "095",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02/095",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "me03-037",
+      "name": "Nosepass",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "037",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me03/037",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "me04-040",
+      "name": "Pumpkaboo",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "040",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me04/040",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv01-087",
+      "name": "Shuppet",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "087",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/087",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv01-111",
+      "name": "Medicham",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "111",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/111",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv02-109",
+      "name": "Sudowoodo",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "109",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/109",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv02-118",
+      "name": "Passimian",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "118",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/118",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv02-195",
+      "name": "Tropius",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "195",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/195",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv03.5-069",
+      "name": "Bellsprout",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "069",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/069",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv03.5-070",
+      "name": "Weepinbell",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "070",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/070",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv03.5-071",
+      "name": "Victreebel",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "071",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/071",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv03-046",
+      "name": "Carvanha",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "046",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/046",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv03-048",
+      "name": "Buizel",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "048",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/048",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv03-116",
+      "name": "Rockruff",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "116",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/116",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv03-207",
+      "name": "Pidgey",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "207",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/207",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv03-208",
+      "name": "Pidgeotto",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "208",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/208",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv03-225",
+      "name": "Pidgeot ex",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "225",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/225",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv04-004",
+      "name": "Pansage",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "004",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/004",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv04-247",
+      "name": "Tapu Koko ex",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "247",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/247",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv05-040",
+      "name": "Croconaw",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "040",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/040",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv06-031",
+      "name": "Chimchar",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "031",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/031",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv06-131",
+      "name": "Tatsugiri",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "131",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/131",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv07-009",
+      "name": "Grubbin",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "009",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/009",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv07-034",
+      "name": "Azumarill",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "034",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/034",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv07-154",
+      "name": "Gulpin",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "154",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/154",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv08.5-165",
+      "name": "Dragapult ex",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "165",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/165",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv08-201",
+      "name": "Cetitan",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "201",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/201",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv09-037",
+      "name": "Ludicolo",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "037",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/037",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv09-132",
+      "name": "Greedent",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "132",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/132",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv10.5b-030",
+      "name": "Tynamo",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "030",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/030",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv10.5b-031",
+      "name": "Eelektrik",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "031",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/031",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv10.5b-032",
+      "name": "Eelektross",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "032",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/032",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv10.5w-132",
+      "name": "Archeops",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "132",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/132",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv10-073",
+      "name": "Flaaffy del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "073",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/073",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Jerky"
+    },
+    {
+      "id": "sv10-188",
+      "name": "Hydrapple",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "188",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/188",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Jerky"
+    }
+  ]
+}

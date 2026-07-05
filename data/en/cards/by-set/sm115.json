@@ -1,0 +1,6437 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "sm115-1",
+    "illustrator": "tetsuya koizumi",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/1",
+    "localId": "1",
+    "name": "Caterpie",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      10
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Tackle",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394607,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.07,
+        "avg-holo": 0.28,
+        "low-holo": 0.08,
+        "trend-holo": 0.2,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.23,
+        "avg30-holo": 0.32
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197643,
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 19.24,
+          "marketPrice": 0.2,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 197643,
+          "lowPrice": 0.14,
+          "midPrice": 0.39,
+          "highPrice": 19.98,
+          "marketPrice": 0.43,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-2",
+    "illustrator": "Shibuzoh.",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/2",
+    "localId": "2",
+    "name": "Metapod",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      11
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Caterpie",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Tackle",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396592,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.05,
+        "avg7": 0.05,
+        "avg30": 0.07,
+        "avg-holo": 0.34,
+        "low-holo": 0.05,
+        "trend-holo": 0.33,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.26,
+        "avg30-holo": 0.35
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197644,
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 2.99,
+          "marketPrice": 0.09,
+          "directLowPrice": 0.06
+        },
+        "reverse-holofoil": {
+          "productId": 197644,
+          "lowPrice": 0.15,
+          "midPrice": 0.42,
+          "highPrice": 19.58,
+          "marketPrice": 0.46,
+          "directLowPrice": 0.3
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-3",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/3",
+    "localId": "3",
+    "name": "Butterfree",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      12
+    ],
+    "hp": 130,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Metapod",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Gust",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394797,
+        "avg": 0.17,
+        "low": 0.02,
+        "trend": 0.21,
+        "avg1": 0.02,
+        "avg7": 0.21,
+        "avg30": 0.2,
+        "avg-holo": 0.78,
+        "low-holo": 0.38,
+        "trend-holo": 0.84,
+        "avg1-holo": 1.19,
+        "avg7-holo": 0.8,
+        "avg30-holo": 0.91
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197645,
+          "lowPrice": 0.04,
+          "midPrice": 0.26,
+          "highPrice": 19.98,
+          "marketPrice": 0.27,
+          "directLowPrice": 0.16
+        },
+        "reverse-holofoil": {
+          "productId": 197645,
+          "lowPrice": 0.6,
+          "midPrice": 0.83,
+          "highPrice": 2.3,
+          "marketPrice": 0.79,
+          "directLowPrice": 0.8
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-4",
+    "illustrator": "OOYAMA",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/4",
+    "localId": "4",
+    "name": "Paras",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      46
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Scratch",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Slash",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394687,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.03,
+        "avg7": 0.06,
+        "avg30": 0.06,
+        "avg-holo": 0.26,
+        "low-holo": 0.02,
+        "trend-holo": 0.4,
+        "avg1-holo": 0.44,
+        "avg7-holo": 0.36,
+        "avg30-holo": 0.28
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197646,
+          "lowPrice": 0.12,
+          "midPrice": 0.36,
+          "highPrice": 19.98,
+          "marketPrice": 0.36,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197646,
+          "lowPrice": 0.01,
+          "midPrice": 0.15,
+          "highPrice": 17,
+          "marketPrice": 0.07,
+          "directLowPrice": 0.05
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-5",
+    "illustrator": "Hasuno",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/5",
+    "localId": "5",
+    "name": "Scyther",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      123
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Slash",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Sharp Scythe",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394672,
+        "avg": 0.13,
+        "low": 0.02,
+        "trend": 0.08,
+        "avg1": 0.03,
+        "avg7": 0.06,
+        "avg30": 0.12,
+        "avg-holo": 0.34,
+        "low-holo": 0.05,
+        "trend-holo": 0.41,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.23,
+        "avg30-holo": 0.35
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197647,
+          "lowPrice": 0.02,
+          "midPrice": 0.2,
+          "highPrice": 17.96,
+          "marketPrice": 0.12,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 197647,
+          "lowPrice": 0.19,
+          "midPrice": 0.39,
+          "highPrice": 18.76,
+          "marketPrice": 0.35,
+          "directLowPrice": 0.36
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-6",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/6",
+    "localId": "6",
+    "name": "Pinsir GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      127
+    ],
+    "hp": 180,
+    "types": [
+      "Grass"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Superpowered Horns",
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Guillotine GX",
+        "effect": "(You can’t use more than 1 GX attack in a game.)",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394787,
+        "avg": 1.32,
+        "low": 0.75,
+        "trend": 1.46,
+        "avg1": 1.49,
+        "avg7": 1.51,
+        "avg30": 1.37,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.21,
+        "avg1-holo": 1.32,
+        "avg7-holo": 1.17,
+        "avg30-holo": 1.29
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197648,
+          "lowPrice": 0.75,
+          "midPrice": 1.73,
+          "highPrice": 5.19,
+          "marketPrice": 1.58,
+          "directLowPrice": 1.57
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-7",
+    "illustrator": "Megumi Mizutani",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/7",
+    "localId": "7",
+    "name": "Charmander",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      4
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Gnaw",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Flare",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394692,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.12,
+        "avg1": 0.14,
+        "avg7": 0.12,
+        "avg30": 0.12,
+        "avg-holo": 0.63,
+        "low-holo": 0.3,
+        "trend-holo": 0.7,
+        "avg1-holo": 0.45,
+        "avg7-holo": 0.59,
+        "avg30-holo": 0.72
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197649,
+          "lowPrice": 0.05,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.24,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 197649,
+          "lowPrice": 0.63,
+          "midPrice": 0.99,
+          "highPrice": 19.98,
+          "marketPrice": 0.95,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-8",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/8",
+    "localId": "8",
+    "name": "Charmeleon",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      5
+    ],
+    "hp": 100,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Charmander",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Slash",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Flamethrower",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394802,
+        "avg": 0.12,
+        "low": 0.02,
+        "trend": 0.1,
+        "avg1": 0.05,
+        "avg7": 0.09,
+        "avg30": 0.11,
+        "avg-holo": 0.48,
+        "low-holo": 0.02,
+        "trend-holo": 0.59,
+        "avg1-holo": 0.29,
+        "avg7-holo": 0.49,
+        "avg30-holo": 0.49
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197650,
+          "lowPrice": 0.03,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.16,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 197650,
+          "lowPrice": 0.28,
+          "midPrice": 0.5,
+          "highPrice": 5.47,
+          "marketPrice": 0.46,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-9",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/9",
+    "localId": "9",
+    "name": "Charizard GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 250,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Charmeleon",
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Flamethrower",
+        "damage": 140
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Flare Blitz GX",
+        "effect": "(You can’t use more than 1 GX attack in a game.)",
+        "damage": 300
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 381243,
+        "avg": 727.5,
+        "low": 90,
+        "trend": 571.96,
+        "avg1": 430,
+        "avg7": 661.87,
+        "avg30": 603.62,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 570.11,
+        "avg1-holo": 500,
+        "avg7-holo": 582.77,
+        "avg30-holo": 546.75
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197651,
+          "lowPrice": 9.57,
+          "midPrice": 14.92,
+          "highPrice": 97.26,
+          "marketPrice": 13.44,
+          "directLowPrice": 18.9
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-10",
+    "illustrator": "Satoshi Shirai",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/10",
+    "localId": "10",
+    "name": "Magmar",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      126
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": "Fire Punch",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394822,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.06,
+        "avg7": 0.07,
+        "avg30": 0.09,
+        "avg-holo": 0.29,
+        "low-holo": 0.05,
+        "trend-holo": 0.42,
+        "avg1-holo": 0.35,
+        "avg7-holo": 0.28,
+        "avg30-holo": 0.32
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197652,
+          "lowPrice": 0.09,
+          "midPrice": 0.3,
+          "highPrice": 19.7,
+          "marketPrice": 0.26,
+          "directLowPrice": 0.3
+        },
+        "normal": {
+          "productId": 197652,
+          "lowPrice": 0.03,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.12,
+          "directLowPrice": 0.06
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-11",
+    "illustrator": "nagimiso",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/11",
+    "localId": "11",
+    "name": "Psyduck",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      54
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Headache",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394772,
+        "avg": 0.13,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.06,
+        "avg7": 0.09,
+        "avg30": 0.1,
+        "avg-holo": 2.6,
+        "low-holo": 0.15,
+        "trend-holo": 4.04,
+        "avg1-holo": 7.1,
+        "avg7-holo": 2.41,
+        "avg30-holo": 1.95
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197653,
+          "lowPrice": 0.05,
+          "midPrice": 0.34,
+          "highPrice": 5,
+          "marketPrice": 0.26,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 197653,
+          "lowPrice": 2.99,
+          "midPrice": 4.12,
+          "highPrice": 19.98,
+          "marketPrice": 4.02,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-12",
+    "illustrator": "Misa Tsutsui",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/12",
+    "localId": "12",
+    "name": "Slowpoke",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      79
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Yawn",
+        "effect": "Your opponent’s Active Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394662,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.08,
+        "avg1": 0.05,
+        "avg7": 0.07,
+        "avg30": 0.09,
+        "avg-holo": 0.36,
+        "low-holo": 0.05,
+        "trend-holo": 0.39,
+        "avg1-holo": 0.45,
+        "avg7-holo": 0.36,
+        "avg30-holo": 0.37
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197654,
+          "lowPrice": 0.01,
+          "midPrice": 0.21,
+          "highPrice": 19.98,
+          "marketPrice": 0.17,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 197654,
+          "lowPrice": 0.22,
+          "midPrice": 0.58,
+          "highPrice": 19.98,
+          "marketPrice": 0.62,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-13",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/13",
+    "localId": "13",
+    "name": "Staryu",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      120
+    ],
+    "hp": 50,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Numbing Water",
+        "effect": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394777,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.02,
+        "avg7": 0.08,
+        "avg30": 0.06,
+        "avg-holo": 0.31,
+        "low-holo": 0.05,
+        "trend-holo": 0.38,
+        "avg1-holo": 0.13,
+        "avg7-holo": 0.31,
+        "avg30-holo": 0.29
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197657,
+          "lowPrice": 0.1,
+          "midPrice": 0.3,
+          "highPrice": 19.98,
+          "marketPrice": 0.3,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197657,
+          "lowPrice": 0.01,
+          "midPrice": 0.15,
+          "highPrice": 2.99,
+          "marketPrice": 0.06,
+          "directLowPrice": 0.03
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-14",
+    "illustrator": "PLANETA Otani",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/14",
+    "localId": "14",
+    "name": "Starmie GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      121
+    ],
+    "hp": 190,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Staryu",
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Star Stream",
+        "effect": "Attach 2 Water Energy cards from your discard pile to 1 of your Pokémon.",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Spinning Attack",
+        "damage": 100
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Hydro Pump GX",
+        "effect": "This attack does 40 more damage times the amount of Water Energy attached to this Pokémon. (You can’t use more than 1 GX attack in a game.)",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396597,
+        "avg": 1.59,
+        "low": 0.5,
+        "trend": 1.52,
+        "avg1": 1,
+        "avg7": 1.52,
+        "avg30": 1.58,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.31,
+        "avg1-holo": 1.37,
+        "avg7-holo": 1.23,
+        "avg30-holo": 1.37
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197658,
+          "lowPrice": 0.93,
+          "midPrice": 2.2,
+          "highPrice": 19.99,
+          "marketPrice": 1.98,
+          "directLowPrice": 2.86
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-15",
+    "illustrator": "Shigenori Negishi",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/15",
+    "localId": "15",
+    "name": "Magikarp",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      129
+    ],
+    "hp": 30,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Splash",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394732,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.13,
+        "avg1": 0.21,
+        "avg7": 0.12,
+        "avg30": 0.09,
+        "avg-holo": 0.42,
+        "low-holo": 0.2,
+        "trend-holo": 0.29,
+        "avg1-holo": 0.4,
+        "avg7-holo": 0.34,
+        "avg30-holo": 0.47
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197659,
+          "lowPrice": 0.63,
+          "midPrice": 1.25,
+          "highPrice": 19.24,
+          "marketPrice": 1.4,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197659,
+          "lowPrice": 0.01,
+          "midPrice": 0.29,
+          "highPrice": 19.98,
+          "marketPrice": 0.27,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-16",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/16",
+    "localId": "16",
+    "name": "Gyarados GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      130
+    ],
+    "hp": 230,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Magikarp",
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Dragon Rage",
+        "damage": 130
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Hyper Beam GX",
+        "effect": "(You can’t use more than 1 GX attack in a game.)",
+        "damage": 240
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396602,
+        "avg": 3.15,
+        "low": 1,
+        "trend": 3.5,
+        "avg1": 2.89,
+        "avg7": 3.14,
+        "avg30": 3.1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.9,
+        "avg1-holo": 2.16,
+        "avg7-holo": 1.92,
+        "avg30-holo": 2.1
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197660,
+          "lowPrice": 3,
+          "midPrice": 6,
+          "highPrice": 20,
+          "marketPrice": 4.83,
+          "directLowPrice": 6.44
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-17",
+    "illustrator": "kodama",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/17",
+    "localId": "17",
+    "name": "Lapras",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      131
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Aqua Wave",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394702,
+        "avg": 0.35,
+        "low": 0.02,
+        "trend": 0.23,
+        "avg1": 0.29,
+        "avg7": 0.32,
+        "avg30": 0.35,
+        "avg-holo": 2.02,
+        "low-holo": 0.7,
+        "trend-holo": 1.92,
+        "avg1-holo": 1.98,
+        "avg7-holo": 2.18,
+        "avg30-holo": 1.69
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197661,
+          "lowPrice": 0.95,
+          "midPrice": 1.8,
+          "highPrice": 19.98,
+          "marketPrice": 1.83,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197661,
+          "lowPrice": 0.15,
+          "midPrice": 0.38,
+          "highPrice": 19.6,
+          "marketPrice": 0.35,
+          "directLowPrice": 0.35
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-18",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/18",
+    "localId": "18",
+    "name": "Vaporeon",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      134
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Water Gun",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Bubble Drain",
+        "effect": "Heal 30 damage from this Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396607,
+        "avg": 0.86,
+        "low": 0.1,
+        "trend": 0.92,
+        "avg1": 1,
+        "avg7": 0.97,
+        "avg30": 0.89,
+        "avg-holo": 2.48,
+        "low-holo": 1.24,
+        "trend-holo": 2.5,
+        "avg1-holo": 2,
+        "avg7-holo": 2.45,
+        "avg30-holo": 2.35
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197662,
+          "lowPrice": 0.4,
+          "midPrice": 1.5,
+          "highPrice": 19.28,
+          "marketPrice": 1.54,
+          "directLowPrice": 2.47
+        },
+        "reverse-holofoil": {
+          "productId": 197662,
+          "lowPrice": 1,
+          "midPrice": 2.03,
+          "highPrice": 17.84,
+          "marketPrice": 2.03,
+          "directLowPrice": 4.97
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-19",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/19",
+    "localId": "19",
+    "name": "Pikachu",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Quick Attack",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Electro Ball",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394592,
+        "avg": 0.6,
+        "low": 0.07,
+        "trend": 0.7,
+        "avg1": 0.51,
+        "avg7": 0.48,
+        "avg30": 0.64,
+        "avg-holo": 4.92,
+        "low-holo": 3.5,
+        "trend-holo": 5.83,
+        "avg1-holo": 3,
+        "avg7-holo": 4.64,
+        "avg30-holo": 4.71
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197663,
+          "lowPrice": 5,
+          "midPrice": 9.99,
+          "highPrice": 96.72,
+          "marketPrice": 8.84,
+          "directLowPrice": 11.07
+        },
+        "normal": {
+          "productId": 197663,
+          "lowPrice": 0.1,
+          "midPrice": 1.21,
+          "highPrice": 19.9,
+          "marketPrice": 1.24,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-20",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/20",
+    "localId": "20",
+    "name": "Raichu GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      26
+    ],
+    "hp": 210,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Pikachu",
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Thunderbolt",
+        "damage": 120
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Spark Ball GX",
+        "effect": "(You can’t use more than 1 GX attack in a game.)",
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396612,
+        "avg": 2.54,
+        "low": 0.98,
+        "trend": 0.98,
+        "avg1": 1.63,
+        "avg7": 1.86,
+        "avg30": 2.89,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.49,
+        "avg1-holo": 1.98,
+        "avg7-holo": 1.55,
+        "avg30-holo": 1.54
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197664,
+          "lowPrice": 2,
+          "midPrice": 3,
+          "highPrice": 28.4,
+          "marketPrice": 2.71,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-21",
+    "illustrator": "SATOSHI NAKAI",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/21",
+    "localId": "21",
+    "name": "Voltorb",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      100
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Lightning Ball",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394642,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "avg-holo": 0.23,
+        "low-holo": 0.08,
+        "trend-holo": 0.33,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.22,
+        "avg30-holo": 0.28
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197665,
+          "lowPrice": 0.01,
+          "midPrice": 0.15,
+          "highPrice": 19.98,
+          "marketPrice": 0.07,
+          "directLowPrice": 0.05
+        },
+        "reverse-holofoil": {
+          "productId": 197665,
+          "lowPrice": 0.11,
+          "midPrice": 0.32,
+          "highPrice": 19.98,
+          "marketPrice": 0.29,
+          "directLowPrice": 0.14
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-22",
+    "illustrator": "Anesaki Dynamic",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/22",
+    "localId": "22",
+    "name": "Electrode",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      101
+    ],
+    "hp": 100,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Voltorb",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Lightning Ball",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Electroblast",
+        "effect": "Flip 2 coins. This attack does 30 more damage for each heads.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394782,
+        "avg": 9.76,
+        "low": 7,
+        "trend": 10,
+        "avg1": 10.95,
+        "avg7": 10.17,
+        "avg30": 10.57,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 18.88,
+        "avg1-holo": 19.99,
+        "avg7-holo": 18.99,
+        "avg30-holo": 20.25
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197666,
+          "lowPrice": 0.3,
+          "midPrice": 0.6,
+          "highPrice": 19.98,
+          "marketPrice": 0.57,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197666,
+          "lowPrice": 0.05,
+          "midPrice": 0.21,
+          "highPrice": 2.99,
+          "marketPrice": 0.15,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-23",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/23",
+    "localId": "23",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      135
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Electromagnetic Wall",
+        "effect": "As long as this Pokémon is your Active Pokémon, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Thunderbolt",
+        "effect": "Discard all Energy from this Pokémon.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396622,
+        "avg": 0.42,
+        "low": 0.08,
+        "trend": 0.47,
+        "avg1": 0.12,
+        "avg7": 0.38,
+        "avg30": 0.42,
+        "avg-holo": 1.5,
+        "low-holo": 0.2,
+        "trend-holo": 1,
+        "avg1-holo": 1,
+        "avg7-holo": 1.16,
+        "avg30-holo": 1.52
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197667,
+          "lowPrice": 0.23,
+          "midPrice": 0.52,
+          "highPrice": 1.99,
+          "marketPrice": 0.52,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 197667,
+          "lowPrice": 0.39,
+          "midPrice": 1.07,
+          "highPrice": 19.98,
+          "marketPrice": 1.12,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-24",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/24",
+    "localId": "24",
+    "name": "Zapdos",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      145
+    ],
+    "hp": 120,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Hurricane Call",
+        "effect": "Flip 4 coins. For each heads, search your deck for a Lightning Energy card and attach it to 1 of your Pokémon-GX or Pokémon-EX. Then, shuffle your deck."
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Sky-High Claws",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394747,
+        "avg": 0.52,
+        "low": 0.1,
+        "trend": 0.65,
+        "avg1": 0.23,
+        "avg7": 0.51,
+        "avg30": 0.51,
+        "avg-holo": 1.43,
+        "low-holo": 0.2,
+        "trend-holo": 1.27,
+        "avg1-holo": 1,
+        "avg7-holo": 1.39,
+        "avg30-holo": 1.38
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197668,
+          "lowPrice": 0.19,
+          "midPrice": 0.52,
+          "highPrice": 8,
+          "marketPrice": 0.53,
+          "directLowPrice": 0.59
+        },
+        "reverse-holofoil": {
+          "productId": 197668,
+          "lowPrice": 0.4,
+          "midPrice": 1,
+          "highPrice": 4321,
+          "marketPrice": 1,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-25",
+    "illustrator": "MAHOU",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/25",
+    "localId": "25",
+    "name": "Ekans",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      23
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Wrap",
+        "effect": "Flip a coin. If heads, discard an Energy from your opponent’s Active Pokémon.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394722,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.13,
+        "avg7": 0.07,
+        "avg30": 0.07,
+        "avg-holo": 0.44,
+        "low-holo": 0.08,
+        "trend-holo": 0.4,
+        "avg1-holo": 0.22,
+        "avg7-holo": 0.31,
+        "avg30-holo": 0.43
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197669,
+          "lowPrice": 0.03,
+          "midPrice": 0.2,
+          "highPrice": 19.34,
+          "marketPrice": 0.1,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 197669,
+          "lowPrice": 0.18,
+          "midPrice": 0.41,
+          "highPrice": 19.98,
+          "marketPrice": 0.39,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-26",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/26",
+    "localId": "26",
+    "name": "Ekans",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      23
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Tail Whap",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394767,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.05,
+        "avg7": 0.08,
+        "avg30": 0.07,
+        "avg-holo": 0.26,
+        "low-holo": 0.05,
+        "trend-holo": 0.3,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.25,
+        "avg30-holo": 0.27
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197670,
+          "lowPrice": 0.02,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.19,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 197670,
+          "lowPrice": 0.15,
+          "midPrice": 0.5,
+          "highPrice": 19.98,
+          "marketPrice": 0.75,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-27",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/27",
+    "localId": "27",
+    "name": "Arbok",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      24
+    ],
+    "hp": 120,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Ekans",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Last Pattern",
+        "effect": "If this Pokémon is Knocked Out by damage from an opponent’s attack, discard 2 random cards from your opponent’s hand."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Rocket Tail",
+        "effect": "If Jessie & James is in your discard pile, this attack does 80 more damage.",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 381231,
+        "avg": 0.26,
+        "low": 0.05,
+        "trend": 0.26,
+        "avg1": 0.05,
+        "avg7": 0.23,
+        "avg30": 0.26,
+        "avg-holo": 0.59,
+        "low-holo": 0.18,
+        "trend-holo": 0.75,
+        "avg1-holo": 0.6,
+        "avg7-holo": 0.53,
+        "avg30-holo": 0.57
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197671,
+          "lowPrice": 0.25,
+          "midPrice": 0.97,
+          "highPrice": 3.99,
+          "marketPrice": 1.16,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197671,
+          "lowPrice": 0.15,
+          "midPrice": 0.32,
+          "highPrice": 19.98,
+          "marketPrice": 0.31,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-28",
+    "illustrator": "Saya Tsuruta",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/28",
+    "localId": "28",
+    "name": "Koffing",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      109
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Tackle",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394762,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.05,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "avg-holo": 0.23,
+        "low-holo": 0.05,
+        "trend-holo": 0.38,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.26,
+        "avg30-holo": 0.3
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197672,
+          "lowPrice": 0.1,
+          "midPrice": 0.35,
+          "highPrice": 19.74,
+          "marketPrice": 0.35,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197672,
+          "lowPrice": 0.01,
+          "midPrice": 0.17,
+          "highPrice": 19.98,
+          "marketPrice": 0.08,
+          "directLowPrice": 0.07
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-29",
+    "illustrator": "Hideki Ishikawa",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/29",
+    "localId": "29",
+    "name": "Weezing",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      110
+    ],
+    "hp": 120,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Koffing",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Surrender Now",
+        "effect": "Once during your turn, if this Pokémon is discarded with the effect of Jessie & James, you may have your opponent discard a card from their hand. (They discard that card after the effect of Jessie & James.)"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Tackle",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-01-07T20:36:31+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 381228,
+        "avg": 0.15,
+        "low": 0.02,
+        "trend": 0.24,
+        "avg1": 0.38,
+        "avg7": 0.22,
+        "avg30": 0.17,
+        "avg-holo": 0.46,
+        "low-holo": 0.15,
+        "trend-holo": 0.32,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.39,
+        "avg30-holo": 0.49
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197673,
+          "lowPrice": 0.15,
+          "midPrice": 0.3,
+          "highPrice": 3,
+          "marketPrice": 0.28,
+          "directLowPrice": 0.3
+        },
+        "reverse-holofoil": {
+          "productId": 197673,
+          "lowPrice": 0.25,
+          "midPrice": 0.7,
+          "highPrice": 2.15,
+          "marketPrice": 0.7,
+          "directLowPrice": 0.67
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-30",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/30",
+    "localId": "30",
+    "name": "Jynx",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      124
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Slap",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Lovely Kiss",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394677,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.02,
+        "avg7": 0.06,
+        "avg30": 0.06,
+        "avg-holo": 0.26,
+        "low-holo": 0.1,
+        "trend-holo": 0.2,
+        "avg1-holo": 0.28,
+        "avg7-holo": 0.24,
+        "avg30-holo": 0.28
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197674,
+          "lowPrice": 0.15,
+          "midPrice": 0.32,
+          "highPrice": 19.98,
+          "marketPrice": 0.29,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197674,
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 1.9,
+          "marketPrice": 0.07,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-31",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/31",
+    "localId": "31",
+    "name": "Mewtwo GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      150
+    ],
+    "hp": 180,
+    "types": [
+      "Psychic"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Super Psy Bolt",
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Psycrush GX",
+        "effect": "Discard all Energy from your opponent’s Active Pokémon. (You can’t use more than 1 GX attack in a game.)",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 381234,
+        "avg": 5.77,
+        "low": 1.5,
+        "trend": 8.91,
+        "avg1": 6,
+        "avg7": 12.28,
+        "avg30": 7.13,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.72,
+        "avg1-holo": 4.52,
+        "avg7-holo": 4.01,
+        "avg30-holo": 3.79
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197675,
+          "lowPrice": 6.97,
+          "midPrice": 9.78,
+          "highPrice": 29.99,
+          "marketPrice": 9.31,
+          "directLowPrice": 6.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-32",
+    "illustrator": "Atsuko Nishida",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/32",
+    "localId": "32",
+    "name": "Mew",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": "Psyshot",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394812,
+        "avg": 3.21,
+        "low": 1,
+        "trend": 2.5,
+        "avg1": 2.5,
+        "avg7": 2.85,
+        "avg30": 3.19,
+        "avg-holo": 4.65,
+        "low-holo": 3,
+        "trend-holo": 4.55,
+        "avg1-holo": 4.9,
+        "avg7-holo": 4.11,
+        "avg30-holo": 4.43
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197676,
+          "lowPrice": 1.75,
+          "midPrice": 3.72,
+          "highPrice": 26.98,
+          "marketPrice": 3.51,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 197676,
+          "lowPrice": 4,
+          "midPrice": 8.13,
+          "highPrice": 4321,
+          "marketPrice": 7.09,
+          "directLowPrice": 8.83
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-33",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/33",
+    "localId": "33",
+    "name": "Geodude",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      74
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Tackle",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394647,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.04,
+        "avg-holo": 0.25,
+        "low-holo": 0.08,
+        "trend-holo": 0.27,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.31,
+        "avg30-holo": 0.29
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197677,
+          "lowPrice": 0.09,
+          "midPrice": 0.37,
+          "highPrice": 19.98,
+          "marketPrice": 0.38,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197677,
+          "lowPrice": 0.01,
+          "midPrice": 0.15,
+          "highPrice": 19.46,
+          "marketPrice": 0.08,
+          "directLowPrice": 0.03
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-34",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/34",
+    "localId": "34",
+    "name": "Graveler",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      75
+    ],
+    "hp": 100,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Geodude",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Tackle",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Mudslide",
+        "effect": "Discard 2 Fighting Energy from this Pokémon. This attack does 80 damage to 1 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394682,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.1,
+        "avg7": 0.06,
+        "avg30": 0.07,
+        "avg-holo": 0.31,
+        "low-holo": 0.05,
+        "trend-holo": 0.35,
+        "avg1-holo": 0.26,
+        "avg7-holo": 0.3,
+        "avg30-holo": 0.32
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197678,
+          "lowPrice": 0.11,
+          "midPrice": 0.31,
+          "highPrice": 18.42,
+          "marketPrice": 0.28,
+          "directLowPrice": 0.3
+        },
+        "normal": {
+          "productId": 197678,
+          "lowPrice": 0.02,
+          "midPrice": 0.17,
+          "highPrice": 19.08,
+          "marketPrice": 0.06,
+          "directLowPrice": 0.09
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-35",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/35",
+    "localId": "35",
+    "name": "Golem",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      76
+    ],
+    "hp": 170,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Graveler",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Rock Slide",
+        "effect": "This attack does 20 damage to 3 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Land Crush",
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394697,
+        "avg": 0.35,
+        "low": 0.02,
+        "trend": 0.31,
+        "avg1": 0.19,
+        "avg7": 0.19,
+        "avg30": 0.31,
+        "avg-holo": 0.43,
+        "low-holo": 0.1,
+        "trend-holo": 0.38,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.35,
+        "avg30-holo": 0.46
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197679,
+          "lowPrice": 0.11,
+          "midPrice": 0.33,
+          "highPrice": 1.61,
+          "marketPrice": 0.32,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 197679,
+          "lowPrice": 0.1,
+          "midPrice": 0.47,
+          "highPrice": 19.98,
+          "marketPrice": 0.42,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-36",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/36",
+    "localId": "36",
+    "name": "Onix GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      95
+    ],
+    "hp": 200,
+    "types": [
+      "Fighting"
+    ],
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Bind",
+        "effect": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Heavy Impact",
+        "damage": 150
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Rocky Avalanche GX",
+        "effect": "During your opponent’s next turn, this Pokémon takes 100 less damage from attacks (after applying Weakness and Resistance). (You can’t use more than 1 GX attack in a game.)",
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396627,
+        "avg": 2.64,
+        "low": 1,
+        "trend": 2.52,
+        "avg1": 2.21,
+        "avg7": 2.27,
+        "avg30": 2.62,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.14,
+        "avg1-holo": 1.3,
+        "avg7-holo": 1.09,
+        "avg30-holo": 1.25
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197680,
+          "lowPrice": 1.75,
+          "midPrice": 3.04,
+          "highPrice": 7.22,
+          "marketPrice": 2.65,
+          "directLowPrice": 3.55
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-37",
+    "illustrator": "Hasuno",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/37",
+    "localId": "37",
+    "name": "Cubone",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      104
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Sharpshooting",
+        "effect": "This attack does 20 damage to 1 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394657,
+        "avg": 0.1,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.02,
+        "avg7": 0.09,
+        "avg30": 0.1,
+        "avg-holo": 0.53,
+        "low-holo": 0.19,
+        "trend-holo": 0.46,
+        "avg1-holo": 0.4,
+        "avg7-holo": 0.3,
+        "avg30-holo": 0.48
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197681,
+          "lowPrice": 0.04,
+          "midPrice": 0.24,
+          "highPrice": 19.96,
+          "marketPrice": 0.2,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 197681,
+          "lowPrice": 0.42,
+          "midPrice": 0.75,
+          "highPrice": 19.98,
+          "marketPrice": 0.75,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-38",
+    "illustrator": "Saya Tsuruta",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/38",
+    "localId": "38",
+    "name": "Clefairy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      35
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Lead",
+        "effect": "Flip a coin. If heads, search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck."
+      },
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": "Pound",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394597,
+        "avg": 0.14,
+        "low": 0.02,
+        "trend": 0.11,
+        "avg1": 0.05,
+        "avg7": 0.06,
+        "avg30": 0.12,
+        "avg-holo": 0.49,
+        "low-holo": 0.1,
+        "trend-holo": 0.56,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.43,
+        "avg30-holo": 0.45
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197682,
+          "lowPrice": 0.2,
+          "midPrice": 0.7,
+          "highPrice": 19.78,
+          "marketPrice": 0.69,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197682,
+          "lowPrice": 0.05,
+          "midPrice": 0.28,
+          "highPrice": 19.98,
+          "marketPrice": 0.28,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-39",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/39",
+    "localId": "39",
+    "name": "Clefairy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      35
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": "Pound",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "name": "Moon Dance",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394597,
+        "avg": 0.14,
+        "low": 0.02,
+        "trend": 0.11,
+        "avg1": 0.05,
+        "avg7": 0.06,
+        "avg30": 0.12,
+        "avg-holo": 0.49,
+        "low-holo": 0.1,
+        "trend-holo": 0.56,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.43,
+        "avg30-holo": 0.45
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197683,
+          "lowPrice": 0.32,
+          "midPrice": 0.84,
+          "highPrice": 19.98,
+          "marketPrice": 0.83,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197683,
+          "lowPrice": 0.04,
+          "midPrice": 0.26,
+          "highPrice": 25,
+          "marketPrice": 0.26,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-40",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/40",
+    "localId": "40",
+    "name": "Clefable",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      36
+    ],
+    "hp": 120,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": "Clefairy",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "name": "Pound",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "name": "Moon Impact",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394667,
+        "avg": 0.29,
+        "low": 0.05,
+        "trend": 0.23,
+        "avg1": 0.28,
+        "avg7": 0.32,
+        "avg30": 0.28,
+        "avg-holo": 0.54,
+        "low-holo": 0.1,
+        "trend-holo": 0.59,
+        "avg1-holo": 0.45,
+        "avg7-holo": 0.63,
+        "avg30-holo": 0.53
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197684,
+          "lowPrice": 0.3,
+          "midPrice": 1.18,
+          "highPrice": 19.98,
+          "marketPrice": 1.09,
+          "directLowPrice": 1.2
+        },
+        "normal": {
+          "productId": 197684,
+          "lowPrice": 0.11,
+          "midPrice": 0.4,
+          "highPrice": 1.99,
+          "marketPrice": 0.34,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-41",
+    "illustrator": "Mizue",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/41",
+    "localId": "41",
+    "name": "Jigglypuff",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      39
+    ],
+    "hp": 70,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": "Singing Voice",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "name": "Rollout",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394602,
+        "avg": 0.13,
+        "low": 0.02,
+        "trend": 0.12,
+        "avg1": 0.09,
+        "avg7": 0.22,
+        "avg30": 0.12,
+        "avg-holo": 0.79,
+        "low-holo": 0.15,
+        "trend-holo": 0.59,
+        "avg1-holo": 0.47,
+        "avg7-holo": 0.4,
+        "avg30-holo": 0.7
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197685,
+          "lowPrice": 0.83,
+          "midPrice": 1.27,
+          "highPrice": 19.98,
+          "marketPrice": 1.21,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197685,
+          "lowPrice": 0.1,
+          "midPrice": 0.33,
+          "highPrice": 2.95,
+          "marketPrice": 0.31,
+          "directLowPrice": 0.19
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-42",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/42",
+    "localId": "42",
+    "name": "Wigglytuff GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      40
+    ],
+    "hp": 210,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": "Jigglypuff",
+    "suffix": "GX",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "name": "Rolling Rush",
+        "effect": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+        "damage": "100+"
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "name": "Lovely Star GX",
+        "effect": "Heal all damage from this Pokémon. (You can’t use more than 1 GX attack in a game.)",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396632,
+        "avg": 3.54,
+        "low": 1.48,
+        "trend": 1.11,
+        "avg1": 2.25,
+        "avg7": 2.38,
+        "avg30": 3.42,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.21,
+        "avg1-holo": 1.16,
+        "avg7-holo": 1.23,
+        "avg30-holo": 1.31
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197686,
+          "lowPrice": 1.58,
+          "midPrice": 4.24,
+          "highPrice": 20,
+          "marketPrice": 3.93,
+          "directLowPrice": 4.74
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-43",
+    "illustrator": "Hideki Ishikawa",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/43",
+    "localId": "43",
+    "name": "Mr. Mime",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      122
+    ],
+    "hp": 90,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": "Happy Mime",
+        "effect": "Each player draws a card."
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy"
+        ],
+        "name": "Double Slap",
+        "effect": "Flip 2 coins. This attack does 40 damage for each heads.",
+        "damage": "40×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396637,
+        "avg": 0.26,
+        "low": 0.02,
+        "trend": 0.25,
+        "avg1": 0.4,
+        "avg7": 0.41,
+        "avg30": 0.26,
+        "avg-holo": 0.43,
+        "low-holo": 0.15,
+        "trend-holo": 0.44,
+        "avg1-holo": 0.52,
+        "avg7-holo": 0.46,
+        "avg30-holo": 0.44
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197687,
+          "lowPrice": 0.4,
+          "midPrice": 0.91,
+          "highPrice": 3.5,
+          "marketPrice": 0.85,
+          "directLowPrice": 1.97
+        },
+        "normal": {
+          "productId": 197687,
+          "lowPrice": 0.2,
+          "midPrice": 0.43,
+          "highPrice": 19.64,
+          "marketPrice": 0.42,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-44",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/44",
+    "localId": "44",
+    "name": "Moltres & Zapdos & Articuno GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      146,
+      145,
+      144
+    ],
+    "hp": 300,
+    "types": [
+      "Colorless"
+    ],
+    "suffix": "TAG TEAM-GX",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Trinity Burn",
+        "damage": 210
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Sky Legends GX",
+        "effect": "Shuffle this Pokémon and all cards attached to it into your deck. If this Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it (in addition to this attack’s cost), this attack does 110 damage to 3 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)"
+      },
+      {
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 381222,
+        "avg": 53.01,
+        "low": 19.99,
+        "trend": 70.13,
+        "avg1": 71.99,
+        "avg7": 44.98,
+        "avg30": 50.76,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 6.03,
+        "avg1-holo": 6.75,
+        "avg7-holo": 5.93,
+        "avg30-holo": 6.28
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197688,
+          "lowPrice": 63,
+          "midPrice": 79.01,
+          "highPrice": 322.41,
+          "marketPrice": 72.54,
+          "directLowPrice": 64.97
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-45",
+    "illustrator": "Eri Yamaki",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/45",
+    "localId": "45",
+    "name": "Farfetch’d",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      83
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Leek Slap",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-46",
+    "illustrator": "sowsow",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/46",
+    "localId": "46",
+    "name": "Chansey",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      113
+    ],
+    "hp": 130,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Double-Edge",
+        "effect": "This Pokémon does 20 damage to itself.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394712,
+        "avg": 0.13,
+        "low": 0.02,
+        "trend": 0.16,
+        "avg1": 0.15,
+        "avg7": 0.2,
+        "avg30": 0.13,
+        "avg-holo": 0.53,
+        "low-holo": 0.1,
+        "trend-holo": 0.51,
+        "avg1-holo": 0.75,
+        "avg7-holo": 0.52,
+        "avg30-holo": 0.51
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197691,
+          "lowPrice": 0.25,
+          "midPrice": 1.23,
+          "highPrice": 19.98,
+          "marketPrice": 1.23,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197691,
+          "lowPrice": 0.06,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.2,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-47",
+    "illustrator": "You Iribi",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/47",
+    "localId": "47",
+    "name": "Kangaskhan",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      115
+    ],
+    "hp": 120,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Parental Fury",
+        "effect": "Flip a coin until you get tails. This attack does 40 damage for each heads.",
+        "damage": "40×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396642,
+        "avg": 0.15,
+        "low": 0.02,
+        "trend": 0.3,
+        "avg1": 0.5,
+        "avg7": 0.18,
+        "avg30": 0.17,
+        "avg-holo": 0.42,
+        "low-holo": 0.16,
+        "trend-holo": 0.48,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.43,
+        "avg30-holo": 0.43
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197692,
+          "lowPrice": 0.14,
+          "midPrice": 0.48,
+          "highPrice": 19.7,
+          "marketPrice": 0.48,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197692,
+          "lowPrice": 0.05,
+          "midPrice": 0.23,
+          "highPrice": 19.98,
+          "marketPrice": 0.12,
+          "directLowPrice": 0.18
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-48",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/48",
+    "localId": "48",
+    "name": "Eevee",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Curiosity",
+        "effect": "Your opponent reveals their hand."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Spin Tackle",
+        "effect": "Flip a coin. If tails, this Pokémon does 10 damage to itself.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394587,
+        "avg": 0.15,
+        "low": 0.02,
+        "trend": 0.19,
+        "avg1": 0.1,
+        "avg7": 0.16,
+        "avg30": 0.15,
+        "avg-holo": 1.47,
+        "low-holo": 0.3,
+        "trend-holo": 1.86,
+        "avg1-holo": 0.99,
+        "avg7-holo": 1.61,
+        "avg30-holo": 1.36
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197693,
+          "lowPrice": 1.1,
+          "midPrice": 3.13,
+          "highPrice": 9.03,
+          "marketPrice": 2.89,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 197693,
+          "lowPrice": 3.51,
+          "midPrice": 4.81,
+          "highPrice": 39.8,
+          "marketPrice": 4.08,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-49",
+    "illustrator": "Hitoshi Ariga",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/49",
+    "localId": "49",
+    "name": "Eevee",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Gnaw",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396647,
+        "avg": 2.07,
+        "low": 1,
+        "trend": 2.61,
+        "avg1": 1.6,
+        "avg7": 1.87,
+        "avg30": 2.02,
+        "avg-holo": 5.02,
+        "low-holo": 4,
+        "trend-holo": 6.5,
+        "avg1-holo": 3,
+        "avg7-holo": 4.69,
+        "avg30-holo": 5.17
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "normal": {
+          "productId": 197694,
+          "lowPrice": 0.04,
+          "midPrice": 0.25,
+          "highPrice": 19.94,
+          "marketPrice": 0.09,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 197694,
+          "lowPrice": 0.3,
+          "midPrice": 1.25,
+          "highPrice": 19.98,
+          "marketPrice": 1.35,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-50",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/50",
+    "localId": "50",
+    "name": "Snorlax",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      143
+    ],
+    "hp": 150,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Incredible Snore",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396652,
+        "avg": 0.4,
+        "low": 0.05,
+        "trend": 0.43,
+        "avg1": 0.3,
+        "avg7": 0.31,
+        "avg30": 0.39,
+        "avg-holo": 0.97,
+        "low-holo": 0.45,
+        "trend-holo": 1.11,
+        "avg1-holo": 1.33,
+        "avg7-holo": 1.18,
+        "avg30-holo": 0.99
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "reverse-holofoil": {
+          "productId": 197696,
+          "lowPrice": 1.38,
+          "midPrice": 2.6,
+          "highPrice": 9.97,
+          "marketPrice": 2.86,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 197696,
+          "lowPrice": 0.5,
+          "midPrice": 1.25,
+          "highPrice": 96.95,
+          "marketPrice": 1.23,
+          "directLowPrice": 2.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-51",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/51",
+    "localId": "51",
+    "name": "Bill’s Analysis",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Look at the top 7 cards of your deck. You may reveal up to 2 Trainer cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-52",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/52",
+    "localId": "52",
+    "name": "Blaine’s Last Stand",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "You can play this card only when it is the last card in your hand.\n\nDraw 2 cards for each Fire Pokémon you have in play.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-53",
+    "illustrator": "Megumi Mizutani",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/53",
+    "localId": "53",
+    "name": "Brock’s Grit",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Shuffle 6 in any combination of Pokémon and basic Energy cards from your discard pile into your deck.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-54",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/54",
+    "localId": "54",
+    "name": "Brock’s Pewter City Gym",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Onix-GX (both yours and your opponent’s) take 40 less damage from the opponent’s attacks (after applying Weakness and Resistance).",
+    "trainerType": "Stadium",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-55",
+    "illustrator": "TOKIYA",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/55",
+    "localId": "55",
+    "name": "Brock’s Training",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Attach an Energy card from your hand to 1 of your Geodude, Graveler, Golem, Onix-GX, Cubone, Rhyhorn, Rhydon, or Sudowoodo.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-56",
+    "illustrator": "Sanosuke Sakuma",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/56",
+    "localId": "56",
+    "name": "Erika’s Hospitality",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "You can play this card only if you have 4 or fewer other cards in your hand.\n\nDraw a card for each of your opponent’s Pokémon in play.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-57",
+    "illustrator": "Megumi Mizutani",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/57",
+    "localId": "57",
+    "name": "Giovanni’s Exile",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Discard up to 2 of your Benched Pokémon that have no damage counters on them and all cards attached to them.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-58",
+    "illustrator": "Megumi Mizutani",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/58",
+    "localId": "58",
+    "name": "Jessie & James",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Each player discards 2 cards from their hand. Your opponent discards first.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 381225,
+        "avg": 1.05,
+        "low": 0.2,
+        "trend": 0.95,
+        "avg1": 1.43,
+        "avg7": 0.87,
+        "avg30": 0.82,
+        "avg-holo": 3.14,
+        "low-holo": 0.5,
+        "trend-holo": 3.67,
+        "avg1-holo": 3.65,
+        "avg7-holo": 3.31,
+        "avg30-holo": 2.78
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197711,
+          "lowPrice": 0.99,
+          "midPrice": 2.3,
+          "highPrice": 28,
+          "marketPrice": 2.3,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 197711,
+          "lowPrice": 1.25,
+          "midPrice": 3.44,
+          "highPrice": 25.3,
+          "marketPrice": 3.51,
+          "directLowPrice": 4.97
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-59",
+    "illustrator": "Megumi Mizutani",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/59",
+    "localId": "59",
+    "name": "Koga’s Trap",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Your opponent’s Active Pokémon is now Confused and Poisoned.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-60",
+    "illustrator": "Megumi Mizutani",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/60",
+    "localId": "60",
+    "name": "Lt. Surge’s Strategy",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "You can play this card only if you have more Prize cards remaining than your opponent.\n\nDuring this turn, you can play 3 Supporter cards (including this card).",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-61",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/61",
+    "localId": "61",
+    "name": "Misty’s Cerulean City Gym",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "The attacks of Starmie-GX (both yours and your opponent’s) do 40 more damage to the opponent’s Active Pokémon (before applying Weakness and Resistance).",
+    "trainerType": "Stadium",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-62",
+    "illustrator": "Megumi Mizutani",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/62",
+    "localId": "62",
+    "name": "Misty’s Determination",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Discard a card from your hand. If you do, look at the top 8 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-63",
+    "illustrator": "TOKIYA",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/63",
+    "localId": "63",
+    "name": "Misty’s Water Command",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Move any number of Water Energy from your Pokémon to your Psyduck, Horsea, Staryu, Starmie-GX, Magikarp, Gyarados, or Lapras in any way you like.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-64",
+    "illustrator": "TOKIYA",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/64",
+    "localId": "64",
+    "name": "Pokémon Center Lady",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Heal 60 damage and remove all Special Conditions from 1 of your Pokémon.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 394612,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.25,
+        "avg7": 0.1,
+        "avg30": 0.11,
+        "avg-holo": 0.34,
+        "low-holo": 0.08,
+        "trend-holo": 0.41,
+        "avg1-holo": 0.28,
+        "avg7-holo": 0.33,
+        "avg30-holo": 0.35
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-65",
+    "illustrator": "Hitoshi Ariga",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/65",
+    "localId": "65",
+    "name": "Sabrina’s Suggestion",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Your opponent reveals their hand. You may choose a Supporter card you find there and use the effect of that card as the effect of this card.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-66",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/66",
+    "localId": "66",
+    "name": "Moltres & Zapdos & Articuno GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      146,
+      145,
+      144
+    ],
+    "hp": 300,
+    "types": [
+      "Colorless"
+    ],
+    "suffix": "TAG TEAM-GX",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Trinity Burn",
+        "damage": 210
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Sky Legends GX",
+        "effect": "Shuffle this Pokémon and all cards attached to it into your deck. If this Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it (in addition to this attack’s cost), this attack does 110 damage to 3 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396672,
+        "avg": 40.54,
+        "low": 11.89,
+        "trend": 41.49,
+        "avg1": 28.03,
+        "avg7": 37.73,
+        "avg30": 37.42,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 7.4,
+        "avg1-holo": 7.29,
+        "avg7-holo": 7.41,
+        "avg30-holo": 8
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197726,
+          "lowPrice": 37.99,
+          "midPrice": 49.3,
+          "highPrice": 199.97,
+          "marketPrice": 43.48,
+          "directLowPrice": 47.9
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-67",
+    "illustrator": "TOKIYA",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/67",
+    "localId": "67",
+    "name": "Giovanni’s Exile",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Discard up to 2 of your Benched Pokémon that have no damage counters on them and all cards attached to them.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-08-16T11:05:52+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "sm115-68",
+    "illustrator": "Megumi Mizutani",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/68",
+    "localId": "68",
+    "name": "Jessie & James",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Each player discards 2 cards from their hand. Your opponent discards first.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396682,
+        "avg": 61.62,
+        "low": 44.72,
+        "trend": 65.49,
+        "avg1": 54.06,
+        "avg7": 68.5,
+        "avg30": 60.52,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 6.5,
+        "avg1-holo": 5.85,
+        "avg7-holo": 5.69,
+        "avg30-holo": 7.13
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197732,
+          "lowPrice": 81,
+          "midPrice": 99,
+          "highPrice": 199.99,
+          "marketPrice": 88.44,
+          "directLowPrice": 82.2
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "sm115-69",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/sm/sm115/69",
+    "localId": "69",
+    "name": "Moltres & Zapdos & Articuno GX",
+    "rarity": "Secret Rare",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 69
+      },
+      "id": "sm115",
+      "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+      "name": "Hidden Fates",
+      "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      146,
+      145,
+      144
+    ],
+    "hp": 300,
+    "types": [
+      "Colorless"
+    ],
+    "suffix": "TAG TEAM-GX",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Trinity Burn",
+        "damage": 210
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Sky Legends GX",
+        "effect": "Shuffle this Pokémon and all cards attached to it into your deck. If this Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it (in addition to this attack’s cost), this attack does 110 damage to 3 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 396687,
+        "avg": 33.88,
+        "low": 10,
+        "trend": 39.13,
+        "avg1": 24.99,
+        "avg7": 28.86,
+        "avg30": 33.27,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 13.2,
+        "avg1-holo": 13.94,
+        "avg7-holo": 14.53,
+        "avg30-holo": 14.69
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:52.317Z",
+        "holofoil": {
+          "productId": 197728,
+          "lowPrice": 42,
+          "midPrice": 50,
+          "highPrice": 169.97,
+          "marketPrice": 44.23,
+          "directLowPrice": 44.38
+        }
+      }
+    }
+  }
+]

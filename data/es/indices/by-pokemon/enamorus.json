@@ -1,0 +1,45 @@
+{
+  "name": "Enamorus",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv06-093",
+      "name": "Enamorus",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "093",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/093",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv06-180",
+      "name": "Enamorus",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "180",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/180",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "GOTO minori"
+    },
+    {
+      "id": "swsh12.5-067",
+      "name": "Enamorus",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "067",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/067",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": null
+    }
+  ]
+}

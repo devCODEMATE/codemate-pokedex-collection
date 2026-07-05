@@ -1,0 +1,45 @@
+{
+  "name": "Metagross ex",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "ex16-95",
+      "name": "Metagross ex",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "95",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/95",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "ex5-95",
+      "name": "Metagross ex",
+      "set": "ex5",
+      "setName": "Hidden Legends",
+      "number": "95",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex5/95",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "xyp-XY34",
+      "name": "Metagross EX",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY34",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY34",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "PLANETA"
+    }
+  ]
+}

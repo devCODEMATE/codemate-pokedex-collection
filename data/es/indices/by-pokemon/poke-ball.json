@@ -1,0 +1,151 @@
+{
+  "name": "Poké Ball",
+  "totalCards": 13,
+  "cards": [
+    {
+      "id": "A2b-111",
+      "name": "Poké Ball",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "111",
+      "rarity": "Corona",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/111",
+      "types": null,
+      "illustrator": "Toyste Beach"
+    },
+    {
+      "id": "bw1-97",
+      "name": "Poké Ball",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "97",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/97",
+      "types": null,
+      "illustrator": "Yuri Umemura"
+    },
+    {
+      "id": "bw7-131",
+      "name": "Poké Ball",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "131",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/131",
+      "types": null,
+      "illustrator": "Yuri Umemura"
+    },
+    {
+      "id": "me03-080",
+      "name": "Poké Ball",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "080",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me03/080",
+      "types": null,
+      "illustrator": "Studio Bora Inc."
+    },
+    {
+      "id": "P-A-005",
+      "name": "Poké Ball",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "005",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/005",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "sm1-125",
+      "name": "Poké Ball",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "125",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/125",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "sv01-185",
+      "name": "Poké Ball",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "185",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/185",
+      "types": null,
+      "illustrator": "Studio Bora Inc."
+    },
+    {
+      "id": "swsh12.5-137",
+      "name": "Poké Ball",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "137",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/137",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "swsh2-164",
+      "name": "Poké Ball",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "164",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/164",
+      "types": null,
+      "illustrator": "Studio Bora Inc."
+    },
+    {
+      "id": "swsh3.5-59",
+      "name": "Poké Ball",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "59",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/59",
+      "types": null,
+      "illustrator": "Studio Bora Inc."
+    },
+    {
+      "id": "swshp-SWSH146",
+      "name": "Poké Ball",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH146",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH146",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-n-21",
+      "name": "Poké Ball",
+      "set": "tk-xy-n",
+      "setName": "Kit de Entrenador XY (Noivern)",
+      "number": "21",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-n/21",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-sy-26",
+      "name": "Poké Ball",
+      "set": "tk-xy-sy",
+      "setName": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "number": "26",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/26",
+      "types": null,
+      "illustrator": null
+    }
+  ]
+}

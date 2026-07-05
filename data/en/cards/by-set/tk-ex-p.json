@@ -1,0 +1,852 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "tk-ex-p-1",
+    "illustrator": "Kouki Saitou",
+    "localId": "1",
+    "name": "Beldum",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "tk-ex-p",
+      "name": "EX trainer Kit 2 (Plusle)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      374
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Call for Family",
+        "effect": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Metal Ball",
+        "effect": "Put 1 damage counter on the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "2x"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:10:37+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:41.402Z",
+        "normal": {
+          "productId": 83786,
+          "lowPrice": 0.1,
+          "midPrice": 0.38,
+          "highPrice": 19.98,
+          "marketPrice": 0.32,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-ex-p-2",
+    "illustrator": "Hiroki Fuchino",
+    "localId": "2",
+    "name": "Electrike",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "tk-ex-p",
+      "name": "EX trainer Kit 2 (Plusle)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      309
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Recharge",
+        "effect": "Search your deck for a Lightning Energy card and attach it to Electrike. Shuffle your deck afterward."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Quick Attack",
+        "effect": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "2x"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:10:37+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:41.402Z",
+        "normal": {
+          "productId": 85136,
+          "lowPrice": 0.1,
+          "midPrice": 0.29,
+          "highPrice": 19.98,
+          "marketPrice": 0.26,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-ex-p-3",
+    "illustrator": "Ken Sugimori",
+    "localId": "3",
+    "name": "Grumpig",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "tk-ex-p",
+      "name": "EX trainer Kit 2 (Plusle)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      326
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Spoink",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Snap Tail",
+        "effect": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Psypunch",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "2x"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:10:37+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:41.402Z",
+        "normal": {
+          "productId": 85968,
+          "lowPrice": 0.25,
+          "midPrice": 0.47,
+          "highPrice": 19.98,
+          "marketPrice": 0.46,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-ex-p-4",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "4",
+    "name": "Meowth",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "tk-ex-p",
+      "name": "EX trainer Kit 2 (Plusle)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      52
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Collect",
+        "effect": "Draw a card."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Cat Kick",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "2x"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:10:37+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:41.402Z",
+        "normal": {
+          "productId": 87319,
+          "lowPrice": 0.16,
+          "midPrice": 0.61,
+          "highPrice": 19.98,
+          "marketPrice": 0.63,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-ex-p-5",
+    "illustrator": "Hisao Nakamura",
+    "localId": "5",
+    "name": "Metang",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "tk-ex-p",
+      "name": "EX trainer Kit 2 (Plusle)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      375
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Beldum",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Psychic Boom",
+        "effect": "Does 10 damage plus 10 more damage for each Energy attached to the Defending Pokémon.",
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Quick Blow",
+        "effect": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "2x"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:10:37+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:41.402Z",
+        "normal": {
+          "productId": 87376,
+          "lowPrice": 0.2,
+          "midPrice": 0.45,
+          "highPrice": 19.98,
+          "marketPrice": 0.71,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-ex-p-6",
+    "illustrator": "Katsura Tabata",
+    "localId": "6",
+    "name": "Plusle",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "tk-ex-p",
+      "name": "EX trainer Kit 2 (Plusle)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      311
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Pickup Power",
+        "effect": "Search your discard pile for an Energy card, show it to your opponent, and put it into your hand."
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Rear Spark",
+        "effect": "Does 20 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "2x"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:10:37+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:41.402Z",
+        "holofoil": {
+          "productId": 88166,
+          "lowPrice": 12.5,
+          "midPrice": 16.78,
+          "highPrice": 199.9,
+          "marketPrice": 19.82,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-ex-p-7",
+    "illustrator": "Ken Sugimori",
+    "localId": "7",
+    "name": "Spoink",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "tk-ex-p",
+      "name": "EX trainer Kit 2 (Plusle)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      325
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Knock Away",
+        "effect": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "2x"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:10:37+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:41.402Z",
+        "normal": {
+          "productId": 89475,
+          "lowPrice": 0.1,
+          "midPrice": 0.4,
+          "highPrice": 19.98,
+          "marketPrice": 0.35,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-ex-p-8",
+    "illustrator": "Kai Ishikawa",
+    "localId": "8",
+    "name": "Energy Search",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "tk-ex-p",
+      "name": "EX trainer Kit 2 (Plusle)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:10:37+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:41.402Z",
+        "normal": {
+          "productId": 85242,
+          "lowPrice": 0.1,
+          "midPrice": 0.37,
+          "highPrice": 19.98,
+          "marketPrice": 0.36,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-ex-p-9",
+    "illustrator": "Keiji Kinebuchi",
+    "localId": "9",
+    "name": "Potion",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "tk-ex-p",
+      "name": "EX trainer Kit 2 (Plusle)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1).",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:10:37+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:41.402Z",
+        "normal": {
+          "productId": 88339,
+          "lowPrice": 0.1,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.27,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-ex-p-10",
+    "illustrator": "Ken Sugimori",
+    "localId": "10",
+    "name": "Professor Cozmo's Discovery",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "tk-ex-p",
+      "name": "EX trainer Kit 2 (Plusle)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Flip a coin. If heads, draw the bottom 3 cards of your deck. If tails, draw the top 2 cards of your deck.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:10:37+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:41.402Z",
+        "normal": {
+          "productId": 88385,
+          "lowPrice": 0.1,
+          "midPrice": 0.49,
+          "highPrice": 19.98,
+          "marketPrice": 0.23,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-ex-p-11",
+    "illustrator": "",
+    "localId": "11",
+    "name": "Lightning Energy",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "tk-ex-p",
+      "name": "EX trainer Kit 2 (Plusle)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "stage": "Basic",
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-01-24T23:10:37+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:41.402Z",
+        "normal": {
+          "productId": 86763,
+          "lowPrice": 0.39,
+          "midPrice": 0.65,
+          "highPrice": 19.98,
+          "marketPrice": 0.65,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-ex-p-12",
+    "illustrator": "",
+    "localId": "12",
+    "name": "Psychic Energy",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "tk-ex-p",
+      "name": "EX trainer Kit 2 (Plusle)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-p/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "stage": "Basic",
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-01-24T23:10:37+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:41.402Z",
+        "normal": {
+          "productId": 88420,
+          "lowPrice": 0.19,
+          "midPrice": 0.47,
+          "highPrice": 19.98,
+          "marketPrice": 0.45,
+          "directLowPrice": null
+        }
+      }
+    }
+  }
+]

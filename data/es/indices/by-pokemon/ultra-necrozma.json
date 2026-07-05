@@ -1,0 +1,32 @@
+{
+  "name": "Ultra-Necrozma",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sm12-164",
+      "name": "Ultra-Necrozma",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "164",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/164",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "smp-SM165",
+      "name": "Ultra-Necrozma",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM165",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

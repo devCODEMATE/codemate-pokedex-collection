@@ -1,0 +1,32 @@
+{
+  "name": "Kyurem Negro",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "bw7-100",
+      "name": "Kyurem Negro",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "100",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/100",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm12-61",
+      "name": "Kyurem Negro",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "61",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/61",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

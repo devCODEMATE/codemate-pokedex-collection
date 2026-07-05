@@ -1,0 +1,84 @@
+{
+  "name": "Blipbug",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "sv04-010",
+      "name": "Blipbug",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "010",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/010",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "OKUBO"
+    },
+    {
+      "id": "swsh11-018",
+      "name": "Blipbug",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "018",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/018",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh1-16",
+      "name": "Blipbug",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "16",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/16",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "swsh1-17",
+      "name": "Blipbug",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "17",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/17",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mina Nakai"
+    },
+    {
+      "id": "swsh4.5-SV007",
+      "name": "Blipbug",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV007",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV007",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "swsh5-17",
+      "name": "Blipbug",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "17",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/17",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    }
+  ]
+}

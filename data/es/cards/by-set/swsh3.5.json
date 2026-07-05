@@ -1,0 +1,8161 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-1",
+    "illustrator": "PLANETA Mochizuki",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/1",
+    "localId": "1",
+    "name": "Venusaur V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      3
+    ],
+    "hp": 220,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Bomba de Polen",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido y Envenenado.",
+        "damage": 80
+      },
+      {
+        "cost": [
+          "Planta",
+          "Planta",
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Tifón Solar",
+        "effect": "Durante tu próximo turno, este Pokémon no puede usar Tifón Solar.",
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499860,
+        "avg": 3.43,
+        "low": 0.5,
+        "trend": 3.89,
+        "avg1": 2.4,
+        "avg7": 3.78,
+        "avg30": 3.3,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.88,
+        "avg1-holo": 2,
+        "avg7-holo": 3.05,
+        "avg30-holo": 3.59
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 222990,
+          "lowPrice": 1.22,
+          "midPrice": 2.76,
+          "highPrice": 4320.99,
+          "marketPrice": 2.72,
+          "directLowPrice": 3.82
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-2",
+    "illustrator": "Yuka Morii",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/2",
+    "localId": "2",
+    "name": "Weedle",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      13
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Llamar a la Familia",
+        "effect": "Busca en tu baraja 1 Pokémon Básico y ponlo en tu Banca. Después, baraja las cartas de tu baraja."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499865,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.08,
+        "avg7": 0.06,
+        "avg30": 0.08,
+        "avg-holo": 0.27,
+        "low-holo": 0.05,
+        "trend-holo": 0.29,
+        "avg1-holo": 0.35,
+        "avg7-holo": 0.29,
+        "avg30-holo": 0.29
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 222995,
+          "lowPrice": 0.2,
+          "midPrice": 0.57,
+          "highPrice": 19.88,
+          "marketPrice": 0.6,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 222995,
+          "lowPrice": 0.04,
+          "midPrice": 0.29,
+          "highPrice": 2,
+          "marketPrice": 0.29,
+          "directLowPrice": 0.29
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-3",
+    "illustrator": "Miki Tanaka",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/3",
+    "localId": "3",
+    "name": "Kakuna",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      14
+    ],
+    "hp": 80,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Picadura",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499870,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.1,
+        "avg7": 0.04,
+        "avg30": 0.06,
+        "avg-holo": 0.27,
+        "low-holo": 0.04,
+        "trend-holo": 0.22,
+        "avg1-holo": 0.18,
+        "avg7-holo": 0.25,
+        "avg30-holo": 0.24
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 222997,
+          "lowPrice": 0.01,
+          "midPrice": 0.17,
+          "highPrice": 2.99,
+          "marketPrice": 0.17,
+          "directLowPrice": 0.07
+        },
+        "reverse-holofoil": {
+          "productId": 222997,
+          "lowPrice": 0.09,
+          "midPrice": 0.31,
+          "highPrice": 19.98,
+          "marketPrice": 0.31,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-4",
+    "illustrator": "Hideki Ishikawa",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/4",
+    "localId": "4",
+    "name": "Beedrill",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      15
+    ],
+    "hp": 140,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Puya Nociva",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499875,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.11,
+        "avg1": 0.03,
+        "avg7": 0.08,
+        "avg30": 0.07,
+        "avg-holo": 0.31,
+        "low-holo": 0.06,
+        "trend-holo": 0.33,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.25,
+        "avg30-holo": 0.31
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 222998,
+          "lowPrice": 0.1,
+          "midPrice": 0.3,
+          "highPrice": 19.7,
+          "marketPrice": 0.17,
+          "directLowPrice": 0.25
+        },
+        "normal": {
+          "productId": 222998,
+          "lowPrice": 0.01,
+          "midPrice": 0.19,
+          "highPrice": 19.9,
+          "marketPrice": 0.16,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-5",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/5",
+    "localId": "5",
+    "name": "Eldegoss V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      830
+    ],
+    "hp": 180,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Emparejamiento Feliz",
+        "effect": "Cuando juegas este Pokémon de tu mano a tu Banca durante tu turno, puedes poner 1 carta de Partidario de tu pila de descartes en tu mano."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Flotar en el Aire",
+        "effect": "Puedes poner este Pokémon y todas las cartas unidas a él en tu baraja y barajar todas las cartas.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499880,
+        "avg": 1.12,
+        "low": 0.2,
+        "trend": 1.12,
+        "avg1": 0.5,
+        "avg7": 1.11,
+        "avg30": 1.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.62,
+        "avg1-holo": 1.48,
+        "avg7-holo": 1.67,
+        "avg30-holo": 1.78
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223001,
+          "lowPrice": 0.42,
+          "midPrice": 1.05,
+          "highPrice": 25.85,
+          "marketPrice": 1.02,
+          "directLowPrice": 0.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-6",
+    "illustrator": "Shibuzoh.",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/6",
+    "localId": "6",
+    "name": "Vulpix",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      37
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Roer",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Quemadura",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Quemado."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499885,
+        "avg": 0.1,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.1,
+        "avg7": 0.09,
+        "avg30": 0.09,
+        "avg-holo": 0.37,
+        "low-holo": 0.05,
+        "trend-holo": 0.41,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.42,
+        "avg30-holo": 0.38
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223002,
+          "lowPrice": 0.15,
+          "midPrice": 0.45,
+          "highPrice": 19.66,
+          "marketPrice": 0.44,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 223002,
+          "lowPrice": 0.05,
+          "midPrice": 0.25,
+          "highPrice": 19.96,
+          "marketPrice": 0.25,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-7",
+    "illustrator": "Taira Akitsu",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/7",
+    "localId": "7",
+    "name": "Victini",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      494
+    ],
+    "hp": 70,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Robo Rápido",
+        "effect": "Roba 1 carta."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Combustión",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499890,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.14,
+        "avg1": 0.13,
+        "avg7": 0.08,
+        "avg30": 0.09,
+        "avg-holo": 0.28,
+        "low-holo": 0.08,
+        "trend-holo": 0.27,
+        "avg1-holo": 0.25,
+        "avg7-holo": 0.31,
+        "avg30-holo": 0.3
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223003,
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.19,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 223003,
+          "lowPrice": 0.1,
+          "midPrice": 0.34,
+          "highPrice": 19.6,
+          "marketPrice": 0.32,
+          "directLowPrice": 0.24
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-8",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/8",
+    "localId": "8",
+    "name": "Incineroar V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      727
+    ],
+    "hp": 220,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Llama Colosal",
+        "effect": "Une hasta 2 cartas de Energía Fire de tu pila de descartes a 1 de tus Pokémon en Banca.",
+        "damage": 90
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Sacudida Ígnea",
+        "effect": "Este Pokémon también se hace 30 puntos de daño a sí mismo.",
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499895,
+        "avg": 1.93,
+        "low": 0.49,
+        "trend": 1.92,
+        "avg1": 1.77,
+        "avg7": 2.18,
+        "avg30": 1.96,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.9,
+        "avg1-holo": 1.92,
+        "avg7-holo": 1.74,
+        "avg30-holo": 1.86
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 222329,
+          "lowPrice": 0.9,
+          "midPrice": 1.89,
+          "highPrice": 16.24,
+          "marketPrice": 1.9,
+          "directLowPrice": 2.75
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-9",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/9",
+    "localId": "9",
+    "name": "Sizzlipede",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      850
+    ],
+    "hp": 70,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Mordisco",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Combustión",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499900,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.04,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "avg-holo": 0.21,
+        "low-holo": 0.05,
+        "trend-holo": 0.23,
+        "avg1-holo": 0.36,
+        "avg7-holo": 0.25,
+        "avg30-holo": 0.22
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223004,
+          "lowPrice": 0.01,
+          "midPrice": 0.15,
+          "highPrice": 2.99,
+          "marketPrice": 0.14,
+          "directLowPrice": 0.05
+        },
+        "reverse-holofoil": {
+          "productId": 223004,
+          "lowPrice": 0.05,
+          "midPrice": 0.25,
+          "highPrice": 2,
+          "marketPrice": 0.15,
+          "directLowPrice": 0.15
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-10",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/10",
+    "localId": "10",
+    "name": "Centiskorch",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      851
+    ],
+    "hp": 130,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Llama Abrasadora",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Quemado.",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Serpenteo Candente",
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499905,
+        "avg": 0.14,
+        "low": 0.02,
+        "trend": 0.19,
+        "avg1": 0.2,
+        "avg7": 0.22,
+        "avg30": 0.14,
+        "avg-holo": 0.21,
+        "low-holo": 0.02,
+        "trend-holo": 0.22,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.3,
+        "avg30-holo": 0.32
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223005,
+          "lowPrice": 0.01,
+          "midPrice": 0.25,
+          "highPrice": 5,
+          "marketPrice": 0.03,
+          "directLowPrice": 0.03
+        },
+        "reverse-holofoil": {
+          "productId": 223005,
+          "lowPrice": 0.09,
+          "midPrice": 0.26,
+          "highPrice": 2.99,
+          "marketPrice": 0.24,
+          "directLowPrice": 0.19
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-11",
+    "illustrator": "Shigenori Negishi",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/11",
+    "localId": "11",
+    "name": "Carvanha",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      318
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Mordisco",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499910,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "avg-holo": 0.19,
+        "low-holo": 0.02,
+        "trend-holo": 0.19,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.21,
+        "avg30-holo": 0.23
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223006,
+          "lowPrice": 0.01,
+          "midPrice": 0.15,
+          "highPrice": 19.98,
+          "marketPrice": 0.13,
+          "directLowPrice": 0.07
+        },
+        "reverse-holofoil": {
+          "productId": 223006,
+          "lowPrice": 0.07,
+          "midPrice": 0.25,
+          "highPrice": 17.42,
+          "marketPrice": 0.21,
+          "directLowPrice": 0.14
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-12",
+    "illustrator": "Ryuta Fuse",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/12",
+    "localId": "12",
+    "name": "Sharpedo",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      319
+    ],
+    "hp": 110,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Acua Jet",
+        "effect": "Este ataque también hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499915,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.07,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "avg-holo": 0.21,
+        "low-holo": 0.02,
+        "trend-holo": 0.19,
+        "avg1-holo": 0.32,
+        "avg7-holo": 0.29,
+        "avg30-holo": 0.26
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223007,
+          "lowPrice": 0.1,
+          "midPrice": 0.31,
+          "highPrice": 19.98,
+          "marketPrice": 0.31,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 223007,
+          "lowPrice": 0.01,
+          "midPrice": 0.19,
+          "highPrice": 2.99,
+          "marketPrice": 0.18,
+          "directLowPrice": 0.04
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-13",
+    "illustrator": "PLANETA Mochizuki",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/13",
+    "localId": "13",
+    "name": "Wailord V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      321
+    ],
+    "hp": 280,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Alzar",
+        "effect": "Une hasta 3 cartas de Energía Water de tu pila de descartes a este Pokémon."
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Olas Oceánicas",
+        "effect": "Lanza 3 monedas. Este ataque hace 120 puntos de daño por cada cara.",
+        "damage": "120×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499920,
+        "avg": 1.74,
+        "low": 0.75,
+        "trend": 1.81,
+        "avg1": 1.84,
+        "avg7": 1.74,
+        "avg30": 1.71,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.56,
+        "avg1-holo": 0.99,
+        "avg7-holo": 1.46,
+        "avg30-holo": 1.86
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223008,
+          "lowPrice": 0.74,
+          "midPrice": 1.6,
+          "highPrice": 39.99,
+          "marketPrice": 1.44,
+          "directLowPrice": 1.76
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-14",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/14",
+    "localId": "14",
+    "name": "Drednaw V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      834
+    ],
+    "hp": 210,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Caparazón Sólido",
+        "effect": "Los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Mordisco Potente",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499925,
+        "avg": 0.96,
+        "low": 0.45,
+        "trend": 0.86,
+        "avg1": 1.49,
+        "avg7": 1.03,
+        "avg30": 1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.33,
+        "avg1-holo": 0.8,
+        "avg7-holo": 1.35,
+        "avg30-holo": 1.46
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223009,
+          "lowPrice": 0.4,
+          "midPrice": 1.08,
+          "highPrice": 9.99,
+          "marketPrice": 1.06,
+          "directLowPrice": 0.98
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-15",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/15",
+    "localId": "15",
+    "name": "Drednaw VMAX",
+    "rarity": "Holo Rara VMAX",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      834
+    ],
+    "hp": 320,
+    "types": [
+      "Agua"
+    ],
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Caparazón Sólido",
+        "effect": "Los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Gigagolpe Cabeza",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 80 puntos de daño más.",
+        "damage": "160+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499930,
+        "avg": 2.48,
+        "low": 0.75,
+        "trend": 3.1,
+        "avg1": 2.5,
+        "avg7": 2.47,
+        "avg30": 2.48,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 4.35,
+        "avg1-holo": 4,
+        "avg7-holo": 4.36,
+        "avg30-holo": 4.85
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223010,
+          "lowPrice": 1.16,
+          "midPrice": 2.41,
+          "highPrice": 96.95,
+          "marketPrice": 2.11,
+          "directLowPrice": 2.24
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-16",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/16",
+    "localId": "16",
+    "name": "Gardevoir V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      282
+    ],
+    "hp": 210,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Disparo Mágico",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Pulso Creciente",
+        "effect": "Si este Pokémon ha sido curado durante este turno, este ataque hace 80 puntos de daño más.",
+        "damage": "120+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499935,
+        "avg": 1.76,
+        "low": 0.75,
+        "trend": 1.74,
+        "avg1": 2,
+        "avg7": 1.93,
+        "avg30": 1.76,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.19,
+        "avg1-holo": 1.49,
+        "avg7-holo": 1.34,
+        "avg30-holo": 1.53
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 222327,
+          "lowPrice": 0.8,
+          "midPrice": 2,
+          "highPrice": 4321,
+          "marketPrice": 1.94,
+          "directLowPrice": 3.19
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-17",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/17",
+    "localId": "17",
+    "name": "Gardevoir VMAX",
+    "rarity": "Holo Rara VMAX",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      282
+    ],
+    "hp": 320,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Maxicura",
+        "effect": "Cura 50 puntos de daño a este Pokémon.",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499940,
+        "avg": 3.64,
+        "low": 0.97,
+        "trend": 3.63,
+        "avg1": 3.09,
+        "avg7": 2.87,
+        "avg30": 3.62,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 4.57,
+        "avg1-holo": 5.07,
+        "avg7-holo": 4.31,
+        "avg30-holo": 4.4
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 222328,
+          "lowPrice": 2.67,
+          "midPrice": 4.5,
+          "highPrice": 4320.25,
+          "marketPrice": 3.99,
+          "directLowPrice": 4.98
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-18",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/18",
+    "localId": "18",
+    "name": "Hatenna",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      856
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Estampida",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Disparo Mágico",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499945,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.1,
+        "avg1": 0.08,
+        "avg7": 0.14,
+        "avg30": 0.05,
+        "avg-holo": 0.15,
+        "low-holo": 0.02,
+        "trend-holo": 0.24,
+        "avg1-holo": 0.49,
+        "avg7-holo": 0.2,
+        "avg30-holo": 0.23
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223011,
+          "lowPrice": 0.1,
+          "midPrice": 0.27,
+          "highPrice": 19.98,
+          "marketPrice": 0.16,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 223011,
+          "lowPrice": 0.02,
+          "midPrice": 0.16,
+          "highPrice": 18.1,
+          "marketPrice": 0.15,
+          "directLowPrice": 0.07
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-19",
+    "illustrator": "Hitoshi Ariga",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/19",
+    "localId": "19",
+    "name": "Hattrem",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      857
+    ],
+    "hp": 90,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Toque",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Superrayo Psi",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499950,
+        "avg": 0.1,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.17,
+        "avg7": 0.08,
+        "avg30": 0.09,
+        "avg-holo": 0.23,
+        "low-holo": 0.02,
+        "trend-holo": 0.24,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.27,
+        "avg30-holo": 0.24
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223012,
+          "lowPrice": 0.1,
+          "midPrice": 0.32,
+          "highPrice": 19.98,
+          "marketPrice": 0.32,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 223012,
+          "lowPrice": 0.03,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.25,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-20",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/20",
+    "localId": "20",
+    "name": "Hatterene",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      858
+    ],
+    "hp": 150,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Sensor de Peligro",
+        "effect": "Si este Pokémon está en el Puesto Activo y resulta dañado por un ataque de los Pokémon de tu rival (incluso si este Pokémon queda Fuera de Combate), el Pokémon Atacante pasa a estar Confundido."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Sorbevidas",
+        "effect": "Cura 30 puntos de daño a este Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499955,
+        "avg": 0.26,
+        "low": 0.02,
+        "trend": 0.31,
+        "avg1": 0.5,
+        "avg7": 0.27,
+        "avg30": 0.25,
+        "avg-holo": 0.32,
+        "low-holo": 0.02,
+        "trend-holo": 0.31,
+        "avg1-holo": 0.33,
+        "avg7-holo": 0.29,
+        "avg30-holo": 0.35
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223013,
+          "lowPrice": 0.1,
+          "midPrice": 0.36,
+          "highPrice": 6.58,
+          "marketPrice": 0.36,
+          "directLowPrice": 0.22
+        },
+        "holofoil": {
+          "productId": 223013,
+          "lowPrice": 0.01,
+          "midPrice": 0.25,
+          "highPrice": 15.24,
+          "marketPrice": 0.08,
+          "directLowPrice": 0.06
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-21",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/21",
+    "localId": "21",
+    "name": "Cursola de Galar V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      864
+    ],
+    "hp": 190,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Aura Persistente",
+        "effect": "Mientras este Pokémon esté en el Puesto Activo, cada vez que tu rival una 1 carta de Energía de su mano a 1 de sus Pokémon, pon 3 contadores de daño en ese Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Misil Hueco",
+        "effect": "Pon 3 contadores de daño en los Pokémon en Banca de tu rival de la manera que desees.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499960,
+        "avg": 1.25,
+        "low": 0.2,
+        "trend": 1.29,
+        "avg1": 2.29,
+        "avg7": 1.18,
+        "avg30": 1.27,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.23,
+        "avg1-holo": 1.03,
+        "avg7-holo": 1.24,
+        "avg30-holo": 1.43
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223014,
+          "lowPrice": 0.5,
+          "midPrice": 1.2,
+          "highPrice": 16.14,
+          "marketPrice": 1.15,
+          "directLowPrice": 1.48
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-22",
+    "illustrator": "Ayaka Yoshida",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/22",
+    "localId": "22",
+    "name": "Alcremie V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      869
+    ],
+    "hp": 170,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Polvo Azucarado",
+        "effect": "Cura 30 puntos de daño a cada uno de tus Pokémon en Banca."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Dulce Salpicadura",
+        "effect": "Si el Pokémon Defensor es un Pokémon Básico, no puede atacar durante el próximo turno de tu rival.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499965,
+        "avg": 1.68,
+        "low": 0.39,
+        "trend": 1.4,
+        "avg1": 0.95,
+        "avg7": 1.33,
+        "avg30": 1.63,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.44,
+        "avg1-holo": 3,
+        "avg7-holo": 1.38,
+        "avg30-holo": 1.43
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223015,
+          "lowPrice": 1.03,
+          "midPrice": 2.56,
+          "highPrice": 79.99,
+          "marketPrice": 2.56,
+          "directLowPrice": 79.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-23",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/23",
+    "localId": "23",
+    "name": "Alcremie VMAX",
+    "rarity": "Holo Rara VMAX",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      869
+    ],
+    "hp": 310,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Adorno",
+        "effect": "Por cada uno de tus Pokémon en Banca, busca en tu baraja 1 carta de Energía Psychic y únela a ese Pokémon. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Gigabatidora",
+        "effect": "Descarta cualquier cantidad de Energías de tus Pokémon. Este ataque hace 60 puntos de daño por cada carta que hayas descartado de esta manera.",
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499970,
+        "avg": 4.1,
+        "low": 1.8,
+        "trend": 3.7,
+        "avg1": 3.9,
+        "avg7": 3.96,
+        "avg30": 4.64,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.05,
+        "avg1-holo": 3.98,
+        "avg7-holo": 3.81,
+        "avg30-holo": 5.16
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223016,
+          "lowPrice": 4.75,
+          "midPrice": 6,
+          "highPrice": 4320.25,
+          "marketPrice": 5.78,
+          "directLowPrice": 11.56
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-24",
+    "illustrator": "Shibuzoh.",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/24",
+    "localId": "24",
+    "name": "Machop",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      66
+    ],
+    "hp": 70,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Patada Baja",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Puño Firme",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 40 puntos de daño más.",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499975,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.1,
+        "avg7": 0.05,
+        "avg30": 0.05,
+        "avg-holo": 0.3,
+        "low-holo": 0.05,
+        "trend-holo": 0.33,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.32,
+        "avg30-holo": 0.26
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223017,
+          "lowPrice": 0.01,
+          "midPrice": 0.24,
+          "highPrice": 18.34,
+          "marketPrice": 0.23,
+          "directLowPrice": 0.07
+        },
+        "reverse-holofoil": {
+          "productId": 223017,
+          "lowPrice": 0.12,
+          "midPrice": 0.32,
+          "highPrice": 19.88,
+          "marketPrice": 0.29,
+          "directLowPrice": 0.29
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-25",
+    "illustrator": "AKIRA EGAWA",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/25",
+    "localId": "25",
+    "name": "Machoke",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      67
+    ],
+    "hp": 110,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Patada Baja",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Aporrear",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 70 puntos de daño más.",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499980,
+        "avg": 0.12,
+        "low": 0.02,
+        "trend": 0.16,
+        "avg1": 0.11,
+        "avg7": 0.16,
+        "avg30": 0.12,
+        "avg-holo": 0.37,
+        "low-holo": 0.02,
+        "trend-holo": 0.34,
+        "avg1-holo": 0.46,
+        "avg7-holo": 0.38,
+        "avg30-holo": 0.35
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223018,
+          "lowPrice": 0.1,
+          "midPrice": 0.28,
+          "highPrice": 19.98,
+          "marketPrice": 0.14,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 223018,
+          "lowPrice": 0.04,
+          "midPrice": 0.21,
+          "highPrice": 19.98,
+          "marketPrice": 0.2,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-26",
+    "illustrator": "Anesaki Dynamic",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/26",
+    "localId": "26",
+    "name": "Machamp",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      68
+    ],
+    "hp": 170,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Machovenganza",
+        "effect": "Este ataque hace 20 puntos de daño por cada Pokémon Fighting en tu pila de descartes.",
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Puño Dinamita",
+        "effect": "Este Pokémon también se hace 50 puntos de daño a sí mismo.",
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499985,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.23,
+        "avg1": 0.04,
+        "avg7": 0.27,
+        "avg30": 0.23,
+        "avg-holo": 0.39,
+        "low-holo": 0.02,
+        "trend-holo": 0.37,
+        "avg1-holo": 0.7,
+        "avg7-holo": 0.43,
+        "avg30-holo": 0.39
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223019,
+          "lowPrice": 0.12,
+          "midPrice": 0.43,
+          "highPrice": 19.98,
+          "marketPrice": 0.42,
+          "directLowPrice": 0.4
+        },
+        "holofoil": {
+          "productId": 223019,
+          "lowPrice": 0.09,
+          "midPrice": 0.25,
+          "highPrice": 3.95,
+          "marketPrice": 0.22,
+          "directLowPrice": 0.15
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-27",
+    "illustrator": "AKIRA EGAWA",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/27",
+    "localId": "27",
+    "name": "Lucario V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      448
+    ],
+    "hp": 210,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Esfera Aural",
+        "effect": "Este ataque también hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Golpe Aplastante",
+        "effect": "Durante tu próximo turno, este Pokémon no puede usar Golpe Aplastante.",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499990,
+        "avg": 2.1,
+        "low": 0.5,
+        "trend": 2.49,
+        "avg1": 1.95,
+        "avg7": 2.01,
+        "avg30": 2.1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.29,
+        "avg1-holo": 1.35,
+        "avg7-holo": 1.28,
+        "avg30-holo": 1.38
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 222330,
+          "lowPrice": 2.5,
+          "midPrice": 3.98,
+          "highPrice": 49.99,
+          "marketPrice": 3.72,
+          "directLowPrice": 31.58
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-28",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/28",
+    "localId": "28",
+    "name": "Zygarde",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      718
+    ],
+    "hp": 140,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Mordisco",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Estallido Vigoroso",
+        "effect": "Descarta 1 Energía Fighting de este Pokémon.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 499995,
+        "avg": 0.36,
+        "low": 0.02,
+        "trend": 0.15,
+        "avg1": 0.18,
+        "avg7": 0.19,
+        "avg30": 0.29,
+        "avg-holo": 0.28,
+        "low-holo": 0.02,
+        "trend-holo": 0.22,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.3,
+        "avg30-holo": 0.31
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223020,
+          "lowPrice": 0.05,
+          "midPrice": 0.25,
+          "highPrice": 5,
+          "marketPrice": 0.24,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 223020,
+          "lowPrice": 0.1,
+          "midPrice": 0.32,
+          "highPrice": 6.58,
+          "marketPrice": 0.31,
+          "directLowPrice": 0.19
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-29",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/29",
+    "localId": "29",
+    "name": "Rockruff",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      744
+    ],
+    "hp": 70,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Coleccionar",
+        "effect": "Roba 1 carta."
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Mordisco",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500000,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.1,
+        "avg7": 0.06,
+        "avg30": 0.04,
+        "avg-holo": 0.28,
+        "low-holo": 0.02,
+        "trend-holo": 0.29,
+        "avg1-holo": 0.31,
+        "avg7-holo": 0.3,
+        "avg30-holo": 0.31
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223021,
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 2.99,
+          "marketPrice": 0.2,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 223021,
+          "lowPrice": 0.08,
+          "midPrice": 0.27,
+          "highPrice": 2.99,
+          "marketPrice": 0.17,
+          "directLowPrice": 0.17
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-30",
+    "illustrator": "Ryuta Fuse",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/30",
+    "localId": "30",
+    "name": "Lycanroc",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      745
+    ],
+    "hp": 120,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Lanzarrocas",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Golpe Cuchillazo",
+        "effect": "Durante tu próximo turno, este Pokémon no puede usar Golpe Cuchillazo.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500005,
+        "avg": 0.17,
+        "low": 0.02,
+        "trend": 0.2,
+        "avg1": 0.33,
+        "avg7": 0.21,
+        "avg30": 0.17,
+        "avg-holo": 0.24,
+        "low-holo": 0.04,
+        "trend-holo": 0.26,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.23,
+        "avg30-holo": 0.31
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223022,
+          "lowPrice": 0.12,
+          "midPrice": 0.3,
+          "highPrice": 18.5,
+          "marketPrice": 0.21,
+          "directLowPrice": 0.14
+        },
+        "holofoil": {
+          "productId": 223022,
+          "lowPrice": 0.04,
+          "midPrice": 0.25,
+          "highPrice": 5,
+          "marketPrice": 0.1,
+          "directLowPrice": 0.07
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-31",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/31",
+    "localId": "31",
+    "name": "Rolycoly",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      837
+    ],
+    "hp": 70,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Apisonar",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500010,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.04,
+        "avg7": 0.03,
+        "avg30": 0.03,
+        "avg-holo": 0.18,
+        "low-holo": 0.02,
+        "trend-holo": 0.17,
+        "avg1-holo": 0.19,
+        "avg7-holo": 0.22,
+        "avg30-holo": 0.23
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223023,
+          "lowPrice": 0.1,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.21,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 223023,
+          "lowPrice": 0.01,
+          "midPrice": 0.15,
+          "highPrice": 19.98,
+          "marketPrice": 0.1,
+          "directLowPrice": 0.06
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-32",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/32",
+    "localId": "32",
+    "name": "Grapploct V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      853
+    ],
+    "hp": 210,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Sujetar",
+        "effect": "Si el Pokémon Defensor es un Pokémon Básico, no puede atacar durante el próximo turno de tu rival.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Presión Salto Lunar",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 100 puntos de daño más.",
+        "damage": "120+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500015,
+        "avg": 1.4,
+        "low": 0.3,
+        "trend": 1.24,
+        "avg1": 1.49,
+        "avg7": 1.21,
+        "avg30": 1.34,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.18,
+        "avg1-holo": 0.99,
+        "avg7-holo": 1.11,
+        "avg30-holo": 1.15
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223024,
+          "lowPrice": 0.4,
+          "midPrice": 1,
+          "highPrice": 15.78,
+          "marketPrice": 0.89,
+          "directLowPrice": 0.88
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-33",
+    "illustrator": "Uta",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/33",
+    "localId": "33",
+    "name": "Ekans",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      23
+    ],
+    "hp": 70,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Apisonar",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Pinza Cola",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500020,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.08,
+        "avg1": 0.02,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "avg-holo": 0.21,
+        "low-holo": 0.02,
+        "trend-holo": 0.19,
+        "avg1-holo": 0.21,
+        "avg7-holo": 0.21,
+        "avg30-holo": 0.23
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223025,
+          "lowPrice": 0.01,
+          "midPrice": 0.18,
+          "highPrice": 19.98,
+          "marketPrice": 0.18,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 223025,
+          "lowPrice": 0.08,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.15,
+          "directLowPrice": 0.22
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-34",
+    "illustrator": "nagimiso",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/34",
+    "localId": "34",
+    "name": "Arbok",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      24
+    ],
+    "hp": 120,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Colmillo Afilado",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Pinza Cola",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500025,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.11,
+        "avg1": 0.09,
+        "avg7": 0.1,
+        "avg30": 0.08,
+        "avg-holo": 0.39,
+        "low-holo": 0.1,
+        "trend-holo": 0.44,
+        "avg1-holo": 0.35,
+        "avg7-holo": 0.47,
+        "avg30-holo": 0.36
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223026,
+          "lowPrice": 0.06,
+          "midPrice": 0.29,
+          "highPrice": 19.58,
+          "marketPrice": 0.12,
+          "directLowPrice": 0.2
+        },
+        "normal": {
+          "productId": 223026,
+          "lowPrice": 0.02,
+          "midPrice": 0.25,
+          "highPrice": 19.46,
+          "marketPrice": 0.26,
+          "directLowPrice": 0.11
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-35",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/35",
+    "localId": "35",
+    "name": "Zigzagoon de Galar",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      263
+    ],
+    "hp": 70,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Pin Misil",
+        "effect": "Lanza 4 monedas. Este ataque hace 10 puntos de daño por cada cara.",
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500030,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "avg-holo": 0.22,
+        "low-holo": 0.02,
+        "trend-holo": 0.14,
+        "avg1-holo": 0.08,
+        "avg7-holo": 0.21,
+        "avg30-holo": 0.25
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223027,
+          "lowPrice": 0.01,
+          "midPrice": 0.17,
+          "highPrice": 17,
+          "marketPrice": 0.17,
+          "directLowPrice": 0.07
+        },
+        "reverse-holofoil": {
+          "productId": 223027,
+          "lowPrice": 0.05,
+          "midPrice": 0.29,
+          "highPrice": 19.98,
+          "marketPrice": 0.29,
+          "directLowPrice": 0.17
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-36",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/36",
+    "localId": "36",
+    "name": "Linoone de Galar",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      264
+    ],
+    "hp": 100,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Doble Filo",
+        "effect": "Este Pokémon también se hace 20 puntos de daño a sí mismo.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500035,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.05,
+        "avg7": 0.07,
+        "avg30": 0.04,
+        "avg-holo": 0.27,
+        "low-holo": 0.02,
+        "trend-holo": 0.24,
+        "avg1-holo": 0.34,
+        "avg7-holo": 0.31,
+        "avg30-holo": 0.25
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223036,
+          "lowPrice": 0.01,
+          "midPrice": 0.18,
+          "highPrice": 19.46,
+          "marketPrice": 0.13,
+          "directLowPrice": 0.07
+        },
+        "reverse-holofoil": {
+          "productId": 223036,
+          "lowPrice": 0.1,
+          "midPrice": 0.27,
+          "highPrice": 19.98,
+          "marketPrice": 0.26,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-37",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/37",
+    "localId": "37",
+    "name": "Obstagoon de Galar",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      862
+    ],
+    "hp": 170,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Jefe Malvado",
+        "effect": "Una vez durante tu turno, puedes hacer que tu rival descarte cartas de su mano hasta que tenga 4 cartas en su mano."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Impacto Nudillo",
+        "effect": "Durante tu próximo turno, este Pokémon no puede atacar.",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500040,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.26,
+        "avg1": 0.45,
+        "avg7": 0.32,
+        "avg30": 0.2,
+        "avg-holo": 0.35,
+        "low-holo": 0.02,
+        "trend-holo": 0.33,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.44,
+        "avg30-holo": 0.32
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223037,
+          "lowPrice": 0.01,
+          "midPrice": 0.25,
+          "highPrice": 3.03,
+          "marketPrice": 0.11,
+          "directLowPrice": 0.05
+        },
+        "reverse-holofoil": {
+          "productId": 223037,
+          "lowPrice": 0.14,
+          "midPrice": 0.29,
+          "highPrice": 19.98,
+          "marketPrice": 0.25,
+          "directLowPrice": 0.21
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-38",
+    "illustrator": "kodama",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/38",
+    "localId": "38",
+    "name": "Absol",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      359
+    ],
+    "hp": 100,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Cuchilla Oscura",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500045,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.05,
+        "avg7": 0.09,
+        "avg30": 0.07,
+        "avg-holo": 0.38,
+        "low-holo": 0.09,
+        "trend-holo": 0.4,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.32,
+        "avg30-holo": 0.33
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223038,
+          "lowPrice": 0.15,
+          "midPrice": 0.33,
+          "highPrice": 19.98,
+          "marketPrice": 0.32,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 223038,
+          "lowPrice": 0.01,
+          "midPrice": 0.24,
+          "highPrice": 2.99,
+          "marketPrice": 0.25,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-39",
+    "illustrator": "sowsow",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/39",
+    "localId": "39",
+    "name": "Purrloin",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      509
+    ],
+    "hp": 70,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Hundir Garras",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Sorpresa",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500050,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.1,
+        "avg7": 0.06,
+        "avg30": 0.04,
+        "avg-holo": 0.26,
+        "low-holo": 0.04,
+        "trend-holo": 0.28,
+        "avg1-holo": 0.17,
+        "avg7-holo": 0.23,
+        "avg30-holo": 0.24
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223039,
+          "lowPrice": 0.09,
+          "midPrice": 0.31,
+          "highPrice": 2,
+          "marketPrice": 0.31,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 223039,
+          "lowPrice": 0.02,
+          "midPrice": 0.19,
+          "highPrice": 19.98,
+          "marketPrice": 0.19,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-40",
+    "illustrator": "Hasuno",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/40",
+    "localId": "40",
+    "name": "Liepard",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      510
+    ],
+    "hp": 100,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Flexibilidad",
+        "effect": "Este Pokémon no puede pasar a estar Paralizado."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Garra Cuchillazo",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500055,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.05,
+        "avg7": 0.05,
+        "avg30": 0.07,
+        "avg-holo": 0.25,
+        "low-holo": 0.03,
+        "trend-holo": 0.23,
+        "avg1-holo": 0.25,
+        "avg7-holo": 0.21,
+        "avg30-holo": 0.27
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223040,
+          "lowPrice": 0.01,
+          "midPrice": 0.18,
+          "highPrice": 20,
+          "marketPrice": 0.13,
+          "directLowPrice": 0.07
+        },
+        "reverse-holofoil": {
+          "productId": 223040,
+          "lowPrice": 0.12,
+          "midPrice": 0.28,
+          "highPrice": 19.98,
+          "marketPrice": 0.27,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-41",
+    "illustrator": "miki kudo",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/41",
+    "localId": "41",
+    "name": "Scraggy",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      559
+    ],
+    "hp": 70,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Estampida",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Apisonar",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500060,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.19,
+        "avg7": 0.07,
+        "avg30": 0.05,
+        "avg-holo": 0.27,
+        "low-holo": 0.02,
+        "trend-holo": 0.28,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.25,
+        "avg30-holo": 0.25
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223041,
+          "lowPrice": 0.1,
+          "midPrice": 0.28,
+          "highPrice": 2.99,
+          "marketPrice": 0.21,
+          "directLowPrice": 0.21
+        },
+        "normal": {
+          "productId": 223041,
+          "lowPrice": 0.01,
+          "midPrice": 0.21,
+          "highPrice": 2.99,
+          "marketPrice": 0.2,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-42",
+    "illustrator": "tetsuya koizumi",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/42",
+    "localId": "42",
+    "name": "Scrafty",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      560
+    ],
+    "hp": 120,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Arrinconar",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Seria Pelea",
+        "effect": "Si has jugado 1 carta de Nerio de tu mano durante este turno, este ataque hace 90 puntos de daño más.",
+        "damage": "90+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500065,
+        "avg": 0.4,
+        "low": 0.02,
+        "trend": 1.23,
+        "avg1": 0.39,
+        "avg7": 0.33,
+        "avg30": 0.26,
+        "avg-holo": 0.23,
+        "low-holo": 0.02,
+        "trend-holo": 0.28,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.3,
+        "avg30-holo": 0.21
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223042,
+          "lowPrice": 0.08,
+          "midPrice": 0.31,
+          "highPrice": 2.5,
+          "marketPrice": 0.1,
+          "directLowPrice": 0.2
+        },
+        "holofoil": {
+          "productId": 223042,
+          "lowPrice": 0.02,
+          "midPrice": 0.25,
+          "highPrice": 4.11,
+          "marketPrice": 0.08,
+          "directLowPrice": 0.09
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-43",
+    "illustrator": "nagimiso",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/43",
+    "localId": "43",
+    "name": "Trubbish",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      568
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Carga Tóxica",
+        "effect": "Si el Pokémon Activo de tu rival está Envenenado, este ataque hace 50 puntos de daño más.",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500070,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.15,
+        "avg7": 0.07,
+        "avg30": 0.07,
+        "avg-holo": 0.28,
+        "low-holo": 0.05,
+        "trend-holo": 0.29,
+        "avg1-holo": 0.24,
+        "avg7-holo": 0.31,
+        "avg30-holo": 0.27
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223043,
+          "lowPrice": 0.01,
+          "midPrice": 0.21,
+          "highPrice": 20,
+          "marketPrice": 0.21,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 223043,
+          "lowPrice": 0.15,
+          "midPrice": 0.32,
+          "highPrice": 19.98,
+          "marketPrice": 0.3,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-44",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/44",
+    "localId": "44",
+    "name": "Inkay",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      686
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Placaje",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ataque por Detrás",
+        "effect": "Si el Pokémon Activo de tu rival está Confundido, este ataque hace 50 puntos de daño más.",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500075,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.1,
+        "avg7": 0.04,
+        "avg30": 0.04,
+        "avg-holo": 0.23,
+        "low-holo": 0.02,
+        "trend-holo": 0.22,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.25,
+        "avg30-holo": 0.22
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223044,
+          "lowPrice": 0.01,
+          "midPrice": 0.15,
+          "highPrice": 19.5,
+          "marketPrice": 0.13,
+          "directLowPrice": 0.07
+        },
+        "reverse-holofoil": {
+          "productId": 223044,
+          "lowPrice": 0.06,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.17,
+          "directLowPrice": 0.17
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-45",
+    "illustrator": "kawayoo",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/45",
+    "localId": "45",
+    "name": "Malamar",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      687
+    ],
+    "hp": 120,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Onda Sobrecogedora",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido.",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Picotazo al Azar",
+        "effect": "Lanza 2 monedas. Este ataque hace 40 puntos de daño más por cada cara.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500080,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.1,
+        "avg7": 0.04,
+        "avg30": 0.07,
+        "avg-holo": 0.26,
+        "low-holo": 0.02,
+        "trend-holo": 0.3,
+        "avg1-holo": 0.25,
+        "avg7-holo": 0.29,
+        "avg30-holo": 0.24
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223045,
+          "lowPrice": 0.07,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.2,
+          "directLowPrice": 0.2
+        },
+        "normal": {
+          "productId": 223045,
+          "lowPrice": 0.02,
+          "midPrice": 0.15,
+          "highPrice": 2.99,
+          "marketPrice": 0.13,
+          "directLowPrice": 0.07
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-46",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/46",
+    "localId": "46",
+    "name": "Nickit",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      827
+    ],
+    "hp": 70,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Birlar",
+        "effect": "Roba 1 carta."
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Bofetón Cola",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500085,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.09,
+        "avg7": 0.04,
+        "avg30": 0.03,
+        "avg-holo": 0.26,
+        "low-holo": 0.02,
+        "trend-holo": 0.02,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.26,
+        "avg30-holo": 1.07
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223046,
+          "lowPrice": 0.01,
+          "midPrice": 0.15,
+          "highPrice": 19.98,
+          "marketPrice": 0.12,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 223046,
+          "lowPrice": 0.1,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.14,
+          "directLowPrice": 0.14
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-47",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/47",
+    "localId": "47",
+    "name": "Duraludon V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      884
+    ],
+    "hp": 220,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Capa Resistente",
+        "effect": "Los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ráfaga de Puñetazos",
+        "effect": "Este ataque hace 40 puntos de daño más por cada Energía Metal unida a este Pokémon.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500090,
+        "avg": 1.1,
+        "low": 0.39,
+        "trend": 0.85,
+        "avg1": 1,
+        "avg7": 1.1,
+        "avg30": 1.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.46,
+        "avg1-holo": 1.22,
+        "avg7-holo": 1.27,
+        "avg30-holo": 1.45
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223047,
+          "lowPrice": 0.43,
+          "midPrice": 0.99,
+          "highPrice": 9.99,
+          "marketPrice": 0.89,
+          "directLowPrice": 0.8
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-48",
+    "illustrator": "0313",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/48",
+    "localId": "48",
+    "name": "Swablu",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      333
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Picotazo",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500095,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.07,
+        "avg7": 0.07,
+        "avg30": 0.04,
+        "avg-holo": 0.23,
+        "low-holo": 0.03,
+        "trend-holo": 0.27,
+        "avg1-holo": 0.16,
+        "avg7-holo": 0.24,
+        "avg30-holo": 0.26
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223048,
+          "lowPrice": 0.01,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.28,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 223048,
+          "lowPrice": 0.11,
+          "midPrice": 0.25,
+          "highPrice": 19.58,
+          "marketPrice": 0.18,
+          "directLowPrice": 0.24
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-49",
+    "illustrator": "Taira Akitsu",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/49",
+    "localId": "49",
+    "name": "Altaria",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      334
+    ],
+    "hp": 110,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Amuleto Milagroso",
+        "effect": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon V y Pokémon-GX de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Picado Rápido",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500100,
+        "avg": 0.22,
+        "low": 0.02,
+        "trend": 0.21,
+        "avg1": 0.19,
+        "avg7": 0.24,
+        "avg30": 0.22,
+        "avg-holo": 0.46,
+        "low-holo": 0.02,
+        "trend-holo": 0.52,
+        "avg1-holo": 0.25,
+        "avg7-holo": 0.53,
+        "avg30-holo": 0.42
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223049,
+          "lowPrice": 0.15,
+          "midPrice": 0.32,
+          "highPrice": 19.58,
+          "marketPrice": 0.19,
+          "directLowPrice": 0.19
+        },
+        "holofoil": {
+          "productId": 223049,
+          "lowPrice": 0.01,
+          "midPrice": 0.25,
+          "highPrice": 3.05,
+          "marketPrice": 0.08,
+          "directLowPrice": 0.11
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-50",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/50",
+    "localId": "50",
+    "name": "Berto",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Une 1 carta de Energía Básica de tu mano a 1 de tus Pokémon en Banca.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500105,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.02,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.07,
+        "avg-holo": 0.22,
+        "low-holo": 0.03,
+        "trend-holo": 0.17,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.2,
+        "avg30-holo": 0.22
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223050,
+          "lowPrice": 0.02,
+          "midPrice": 0.19,
+          "highPrice": 2.99,
+          "marketPrice": 0.17,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 223050,
+          "lowPrice": 0.07,
+          "midPrice": 0.26,
+          "highPrice": 19.98,
+          "marketPrice": 0.25,
+          "directLowPrice": 0.24
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-51",
+    "illustrator": "Yoshinobu Saito",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/51",
+    "localId": "51",
+    "name": "Curación total",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Elimina todas las Condiciones Especiales de tu Pokémon Activo.",
+    "trainerType": "Objeto",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500110,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.08,
+        "avg7": 0.03,
+        "avg30": 0.04,
+        "avg-holo": 0.25,
+        "low-holo": 0.02,
+        "trend-holo": 0.25,
+        "avg1-holo": 0.24,
+        "avg7-holo": 0.26,
+        "avg30-holo": 0.23
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223051,
+          "lowPrice": 0.01,
+          "midPrice": 0.15,
+          "highPrice": 2.99,
+          "marketPrice": 0.12,
+          "directLowPrice": 0.07
+        },
+        "reverse-holofoil": {
+          "productId": 223051,
+          "lowPrice": 0.01,
+          "midPrice": 0.25,
+          "highPrice": 2.31,
+          "marketPrice": 0.12,
+          "directLowPrice": 0.17
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-52",
+    "illustrator": "Toyste Beach",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/52",
+    "localId": "52",
+    "name": "Super Ball",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Mira las 7 primeras cartas de tu baraja. Puedes enseñar 1 Pokémon que encuentres entre ellas y ponerlo en tu mano. Pon el resto de las cartas de nuevo en tu baraja y barájalas todas.",
+    "trainerType": "Objeto",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500115,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.1,
+        "avg7": 0.06,
+        "avg30": 0.07,
+        "avg-holo": 0.21,
+        "low-holo": 0.04,
+        "trend-holo": 0.22,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.26,
+        "avg30-holo": 0.28
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223052,
+          "lowPrice": 0.1,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.22,
+          "directLowPrice": null
+        },
+        "normal": {
+          "productId": 223052,
+          "lowPrice": 0.01,
+          "midPrice": 0.17,
+          "highPrice": 19.98,
+          "marketPrice": 0.13,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-53",
+    "illustrator": "Sanosuke Sakuma",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/53",
+    "localId": "53",
+    "name": "Paul",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Roba 3 cartas.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500120,
+        "avg": 0.1,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.05,
+        "avg7": 0.12,
+        "avg30": 0.08,
+        "avg-holo": 0.25,
+        "low-holo": 0.03,
+        "trend-holo": 0.24,
+        "avg1-holo": 0.42,
+        "avg7-holo": 0.28,
+        "avg30-holo": 0.25
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223053,
+          "lowPrice": 0.01,
+          "midPrice": 0.16,
+          "highPrice": 19.98,
+          "marketPrice": 0.1,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 223053,
+          "lowPrice": 0.07,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.15,
+          "directLowPrice": 0.25
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-54",
+    "illustrator": "Ryo Ueda",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/54",
+    "localId": "54",
+    "name": "Hiperpoción",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 120 puntos de daño a 1 de tus Pokémon que tenga por lo menos 2 Energías unidas a él. Si has curado algún punto de daño de esta manera, descarta 2 Energías de ese Pokémon.",
+    "trainerType": "Objeto",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500125,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.02,
+        "avg1": 0.08,
+        "avg7": 0.07,
+        "avg30": 0.1,
+        "avg-holo": 0.3,
+        "low-holo": 0.03,
+        "trend-holo": 0.24,
+        "avg1-holo": 0.3,
+        "avg7-holo": 0.29,
+        "avg30-holo": 0.26
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223054,
+          "lowPrice": 0.01,
+          "midPrice": 0.18,
+          "highPrice": 2.99,
+          "marketPrice": 0.12,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 223054,
+          "lowPrice": 0.05,
+          "midPrice": 0.25,
+          "highPrice": 999.99,
+          "marketPrice": 0.23,
+          "directLowPrice": 0.22
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-55",
+    "illustrator": "take",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/55",
+    "localId": "55",
+    "name": "Naboru",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Pon las cartas de tu mano en tu baraja y barájalas todas. Después, roba 4 cartas. Si tu Pokémon Activo es tu único Pokémon en juego, roba 8 cartas en vez de 4.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500130,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.05,
+        "avg7": 0.06,
+        "avg30": 0.06,
+        "avg-holo": 0.19,
+        "low-holo": 0.02,
+        "trend-holo": 0.17,
+        "avg1-holo": 0.21,
+        "avg7-holo": 0.22,
+        "avg30-holo": 0.2
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223055,
+          "lowPrice": 0.01,
+          "midPrice": 0.15,
+          "highPrice": 19.98,
+          "marketPrice": 0.11,
+          "directLowPrice": 0.07
+        },
+        "reverse-holofoil": {
+          "productId": 223055,
+          "lowPrice": 0.04,
+          "midPrice": 0.25,
+          "highPrice": 5,
+          "marketPrice": 0.12,
+          "directLowPrice": 0.12
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-56",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/56",
+    "localId": "56",
+    "name": "Roxy",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cada jugador baraja las cartas de su mano y las pone en la parte inferior de su baraja. Si cualquiera de los jugadores pone alguna carta en la parte inferior de su baraja de esta manera, robas 5 cartas, y tu rival roba 4 cartas.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500135,
+        "avg": 0.3,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.1,
+        "avg7": 0.13,
+        "avg30": 0.32,
+        "avg-holo": 0.32,
+        "low-holo": 0.03,
+        "trend-holo": 0.28,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.33,
+        "avg30-holo": 0.36
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223056,
+          "lowPrice": 0.14,
+          "midPrice": 0.36,
+          "highPrice": 18.44,
+          "marketPrice": 0.3,
+          "directLowPrice": 0.33
+        },
+        "reverse-holofoil": {
+          "productId": 223056,
+          "lowPrice": 0.15,
+          "midPrice": 0.47,
+          "highPrice": 999.99,
+          "marketPrice": 0.47,
+          "directLowPrice": 0.74
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-57",
+    "illustrator": "take",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/57",
+    "localId": "57",
+    "name": "Percy",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Descarta hasta 2 cartas de tu mano y roba 2 cartas por cada carta que hayas descartado de esta manera.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500140,
+        "avg": 0.04,
+        "low": 0.02,
+        "trend": 0.04,
+        "avg1": 0.03,
+        "avg7": 0.04,
+        "avg30": 0.05,
+        "avg-holo": 0.19,
+        "low-holo": 0.02,
+        "trend-holo": 0.18,
+        "avg1-holo": 0.14,
+        "avg7-holo": 0.18,
+        "avg30-holo": 0.21
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223057,
+          "lowPrice": 0.07,
+          "midPrice": 0.25,
+          "highPrice": 2.31,
+          "marketPrice": 0.16,
+          "directLowPrice": 0.12
+        },
+        "normal": {
+          "productId": 223057,
+          "lowPrice": 0.01,
+          "midPrice": 0.19,
+          "highPrice": 19.98,
+          "marketPrice": 0.18,
+          "directLowPrice": 0.07
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-58",
+    "illustrator": "take",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/58",
+    "localId": "58",
+    "name": "Nerio",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Busca en tu baraja 1 carta de Energía y 1 carta de Pokémon Darkness, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500145,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.1,
+        "avg7": 0.06,
+        "avg30": 0.07,
+        "avg-holo": 0.25,
+        "low-holo": 0.02,
+        "trend-holo": 0.21,
+        "avg1-holo": 0.22,
+        "avg7-holo": 0.23,
+        "avg30-holo": 0.24
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223058,
+          "lowPrice": 0.04,
+          "midPrice": 0.23,
+          "highPrice": 18.96,
+          "marketPrice": 0.23,
+          "directLowPrice": 0.1
+        },
+        "reverse-holofoil": {
+          "productId": 223058,
+          "lowPrice": 0.1,
+          "midPrice": 0.3,
+          "highPrice": 19.96,
+          "marketPrice": 0.29,
+          "directLowPrice": 0.28
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-59",
+    "illustrator": "Studio Bora Inc.",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/59",
+    "localId": "59",
+    "name": "Poké Ball",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Lanza una moneda. Si sale cara, busca en tu mazo un Pokémon, enséñaselo a tu rival y ponlo en tu mano. Baraja tu mazo después.",
+    "trainerType": "Objeto",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500150,
+        "avg": 0.03,
+        "low": 0.02,
+        "trend": 0.02,
+        "avg1": 0.05,
+        "avg7": 0.02,
+        "avg30": 0.03,
+        "avg-holo": 0.15,
+        "low-holo": 0.03,
+        "trend-holo": 0.15,
+        "avg1-holo": 0.1,
+        "avg7-holo": 0.16,
+        "avg30-holo": 0.21
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-60",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/60",
+    "localId": "60",
+    "name": "Chica del Centro Pokémon",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 60 puntos de daño a 1 de tus Pokémon, y este se recupera de todas las Condiciones Especiales.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500155,
+        "avg": 0.06,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.05,
+        "avg7": 0.06,
+        "avg30": 0.07,
+        "avg-holo": 0.26,
+        "low-holo": 0.02,
+        "trend-holo": 0.24,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.29,
+        "avg30-holo": 0.26
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-61",
+    "illustrator": "Ryo Ueda",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/61",
+    "localId": "61",
+    "name": "Poción",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 30 puntos de daño a 1 de tus Pokémon.",
+    "trainerType": "Objeto",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500160,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.02,
+        "avg7": 0.05,
+        "avg30": 0.04,
+        "avg-holo": 0.16,
+        "low-holo": 0.02,
+        "trend-holo": 0.19,
+        "avg1-holo": 0.21,
+        "avg7-holo": 0.16,
+        "avg30-holo": 0.2
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223061,
+          "lowPrice": 0.06,
+          "midPrice": 0.25,
+          "highPrice": 2.31,
+          "marketPrice": 0.2,
+          "directLowPrice": 0.16
+        },
+        "normal": {
+          "productId": 223061,
+          "lowPrice": 0.01,
+          "midPrice": 0.15,
+          "highPrice": 19.98,
+          "marketPrice": 0.13,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-62",
+    "illustrator": "Yusuke Ohmura",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/62",
+    "localId": "62",
+    "name": "Investigación de Profesores",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Descarta las cartas de tu mano y roba 7 cartas.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2023-12-27T19:30:08+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-63",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/63",
+    "localId": "63",
+    "name": "Bici Rotom",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Roba cartas hasta que tengas 6 cartas en tu mano. Tu turno termina.",
+    "trainerType": "Objeto",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500170,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.08,
+        "avg1": 0.05,
+        "avg7": 0.06,
+        "avg30": 0.06,
+        "avg-holo": 0.29,
+        "low-holo": 0.02,
+        "trend-holo": 0.23,
+        "avg1-holo": 0.25,
+        "avg7-holo": 0.3,
+        "avg30-holo": 0.26
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223063,
+          "lowPrice": 0.01,
+          "midPrice": 0.19,
+          "highPrice": 2.99,
+          "marketPrice": 0.14,
+          "directLowPrice": 0.05
+        },
+        "reverse-holofoil": {
+          "productId": 223063,
+          "lowPrice": 0.05,
+          "midPrice": 0.25,
+          "highPrice": 19.58,
+          "marketPrice": 0.11,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-64",
+    "illustrator": "Ryo Ueda",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/64",
+    "localId": "64",
+    "name": "SmartRotom",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Mira las 5 primeras cartas de tu baraja, elige 1 de ellas y pon el resto de las cartas de nuevo en tu baraja y barájalas todas. Después, pon la carta que has elegido en la parte superior de tu baraja.",
+    "trainerType": "Objeto",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500175,
+        "avg": 0.14,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.29,
+        "avg7": 0.11,
+        "avg30": 0.11,
+        "avg-holo": 0.34,
+        "low-holo": 0.02,
+        "trend-holo": 0.35,
+        "avg1-holo": 0.33,
+        "avg7-holo": 0.3,
+        "avg30-holo": 0.32
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223064,
+          "lowPrice": 0.03,
+          "midPrice": 0.24,
+          "highPrice": 2.99,
+          "marketPrice": 0.24,
+          "directLowPrice": null
+        },
+        "reverse-holofoil": {
+          "productId": 223064,
+          "lowPrice": 0.1,
+          "midPrice": 0.36,
+          "highPrice": 19.98,
+          "marketPrice": 0.35,
+          "directLowPrice": 0.33
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-65",
+    "illustrator": "Yusuke Ohmura",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/65",
+    "localId": "65",
+    "name": "Sonia",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Busca en tu baraja hasta 2 cartas de Pokémon Básico o hasta 2 cartas de Energía Básica, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500180,
+        "avg": 0.13,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.05,
+        "avg7": 0.15,
+        "avg30": 0.11,
+        "avg-holo": 0.22,
+        "low-holo": 0.02,
+        "trend-holo": 0.14,
+        "avg1-holo": 0.21,
+        "avg7-holo": 0.19,
+        "avg30-holo": 0.3
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223065,
+          "lowPrice": 0.08,
+          "midPrice": 0.25,
+          "highPrice": 2.99,
+          "marketPrice": 0.26,
+          "directLowPrice": 0.2
+        },
+        "reverse-holofoil": {
+          "productId": 223065,
+          "lowPrice": 0.1,
+          "midPrice": 0.28,
+          "highPrice": 19.98,
+          "marketPrice": 0.14,
+          "directLowPrice": 0.23
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-66",
+    "illustrator": "Ryo Ueda",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/66",
+    "localId": "66",
+    "name": "Lata Sospechosa",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 80 puntos de puntos de daño a 1 de tus Pokémon que tenga por lo menos 1 Energía Psychic unida a él. Si has curado algún punto de daño de esta manera, descarta 1 Energía Psychic de ese Pokémon.",
+    "trainerType": "Objeto",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500185,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.03,
+        "avg1": 0.03,
+        "avg7": 0.03,
+        "avg30": 0.05,
+        "avg-holo": 0.22,
+        "low-holo": 0.02,
+        "trend-holo": 0.2,
+        "avg1-holo": 0.21,
+        "avg7-holo": 0.2,
+        "avg30-holo": 0.22
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223066,
+          "lowPrice": 0.05,
+          "midPrice": 0.25,
+          "highPrice": 2,
+          "marketPrice": 0.14,
+          "directLowPrice": 0.09
+        },
+        "normal": {
+          "productId": 223066,
+          "lowPrice": 0.01,
+          "midPrice": 0.19,
+          "highPrice": 19.46,
+          "marketPrice": 0.18,
+          "directLowPrice": 0.06
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-67",
+    "illustrator": "nagimiso",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/67",
+    "localId": "67",
+    "name": "Recluta del Team Yell",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Pon 1 Energía unida a 1 de los Pokémon de tu rival en su mano.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500190,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.05,
+        "avg7": 0.04,
+        "avg30": 0.06,
+        "avg-holo": 0.22,
+        "low-holo": 0.03,
+        "trend-holo": 0.22,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.24,
+        "avg30-holo": 0.24
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "reverse-holofoil": {
+          "productId": 223067,
+          "lowPrice": 0.05,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.12,
+          "directLowPrice": 0.12
+        },
+        "normal": {
+          "productId": 223067,
+          "lowPrice": 0.01,
+          "midPrice": 0.17,
+          "highPrice": 19.98,
+          "marketPrice": 0.15,
+          "directLowPrice": 0.07
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-68",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/68",
+    "localId": "68",
+    "name": "Estadio de Hoyuelo",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": true,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      },
+      {
+        "type": "reverse",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Una vez durante el turno de cada jugador, ese jugador puede buscar en su baraja 1 Pokémon Grass Evolución, enseñarlo y ponerlo en su mano. Después, ese jugador baraja las cartas de su baraja.",
+    "trainerType": "Estadio",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500195,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.1,
+        "avg7": 0.07,
+        "avg30": 0.08,
+        "avg-holo": 0.35,
+        "low-holo": 0.02,
+        "trend-holo": 0.29,
+        "avg1-holo": 0.23,
+        "avg7-holo": 0.28,
+        "avg30-holo": 0.25
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "normal": {
+          "productId": 223939,
+          "lowPrice": 0.04,
+          "midPrice": 0.2,
+          "highPrice": 2.99,
+          "marketPrice": 0.17,
+          "directLowPrice": 0.15
+        },
+        "reverse-holofoil": {
+          "productId": 223939,
+          "lowPrice": 0.1,
+          "midPrice": 0.26,
+          "highPrice": 19.8,
+          "marketPrice": 0.25,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-69",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/69",
+    "localId": "69",
+    "name": "Drednaw V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      834
+    ],
+    "hp": 210,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Caparazón Sólido",
+        "effect": "Los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Mordisco Potente",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500200,
+        "avg": 1.53,
+        "low": 0.4,
+        "trend": 1.53,
+        "avg1": 1.98,
+        "avg7": 1.62,
+        "avg30": 1.48,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.36,
+        "avg1-holo": 2.99,
+        "avg7-holo": 2.28,
+        "avg30-holo": 2.54
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223068,
+          "lowPrice": 0.98,
+          "midPrice": 1.66,
+          "highPrice": 16.2,
+          "marketPrice": 1.52,
+          "directLowPrice": 1.34
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-70",
+    "illustrator": "PLANETA Mochizuki",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/70",
+    "localId": "70",
+    "name": "Gardevoir V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      282
+    ],
+    "hp": 210,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Disparo Mágico",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Pulso Creciente",
+        "effect": "Si este Pokémon ha sido curado durante este turno, este ataque hace 80 puntos de daño más.",
+        "damage": "120+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500205,
+        "avg": 4.99,
+        "low": 1.9,
+        "trend": 3.69,
+        "avg1": 4.95,
+        "avg7": 6.04,
+        "avg30": 4.87,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.13,
+        "avg1-holo": 2.7,
+        "avg7-holo": 3.29,
+        "avg30-holo": 3.55
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223069,
+          "lowPrice": 3.35,
+          "midPrice": 5,
+          "highPrice": 29.99,
+          "marketPrice": 4.54,
+          "directLowPrice": 4.49
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-71",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/71",
+    "localId": "71",
+    "name": "Cursola de Galar V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      864
+    ],
+    "hp": 190,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Aura Persistente",
+        "effect": "Mientras este Pokémon esté en el Puesto Activo, cada vez que tu rival una 1 carta de Energía de su mano a 1 de sus Pokémon, pon 3 contadores de daño en ese Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Misil Hueco",
+        "effect": "Pon 3 contadores de daño en los Pokémon en Banca de tu rival de la manera que desees.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500210,
+        "avg": 2.02,
+        "low": 0.79,
+        "trend": 2.22,
+        "avg1": 2.14,
+        "avg7": 2.27,
+        "avg30": 2.03,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.1,
+        "avg1-holo": 2.9,
+        "avg7-holo": 2.22,
+        "avg30-holo": 2.45
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223070,
+          "lowPrice": 0.5,
+          "midPrice": 1.89,
+          "highPrice": 20,
+          "marketPrice": 1.85,
+          "directLowPrice": 2.49
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-72",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/72",
+    "localId": "72",
+    "name": "Grapploct V",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      853
+    ],
+    "hp": 210,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Sujetar",
+        "effect": "Si el Pokémon Defensor es un Pokémon Básico, no puede atacar durante el próximo turno de tu rival.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Presión Salto Lunar",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 100 puntos de daño más.",
+        "damage": "120+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500215,
+        "avg": 1.82,
+        "low": 0.1,
+        "trend": 2.19,
+        "avg1": 2,
+        "avg7": 1.62,
+        "avg30": 1.79,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.17,
+        "avg1-holo": 2.15,
+        "avg7-holo": 1.98,
+        "avg30-holo": 2.32
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223071,
+          "lowPrice": 0.9,
+          "midPrice": 1.57,
+          "highPrice": 96.95,
+          "marketPrice": 1.35,
+          "directLowPrice": 1.85
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-73",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/73",
+    "localId": "73",
+    "name": "Paul",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Roba 3 cartas.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500220,
+        "avg": 2.02,
+        "low": 0.65,
+        "trend": 2.17,
+        "avg1": 1.99,
+        "avg7": 2.22,
+        "avg30": 1.97,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.98,
+        "avg1-holo": 4,
+        "avg7-holo": 3.15,
+        "avg30-holo": 3.26
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223072,
+          "lowPrice": 0.75,
+          "midPrice": 1.75,
+          "highPrice": 80,
+          "marketPrice": 1.6,
+          "directLowPrice": 2.24
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-74",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/74",
+    "localId": "74",
+    "name": "Charizard VMAX",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 330,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cuchillada Garra",
+        "damage": 100
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Gigallamarada",
+        "effect": "Descarta 2 Energías de este Pokémon.",
+        "damage": 300
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500225,
+        "avg": 196.57,
+        "low": 60,
+        "trend": 197.1,
+        "avg1": 135,
+        "avg7": 216.12,
+        "avg30": 185.51,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 271.61,
+        "avg1-holo": 245,
+        "avg7-holo": 273.18,
+        "avg30-holo": 293.48
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223073,
+          "lowPrice": 204.99,
+          "midPrice": 285.3,
+          "highPrice": 2300,
+          "marketPrice": 231.81,
+          "directLowPrice": 284.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-75",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/75",
+    "localId": "75",
+    "name": "Drednaw VMAX",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      834
+    ],
+    "hp": 320,
+    "types": [
+      "Agua"
+    ],
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Caparazón Sólido",
+        "effect": "Los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Gigagolpe Cabeza",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 80 puntos de daño más.",
+        "damage": "160+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500230,
+        "avg": 6.7,
+        "low": 2,
+        "trend": 6.74,
+        "avg1": 3.5,
+        "avg7": 5.86,
+        "avg30": 6.62,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 17.04,
+        "avg1-holo": 12.99,
+        "avg7-holo": 16.06,
+        "avg30-holo": 18.15
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223074,
+          "lowPrice": 5.25,
+          "midPrice": 7.58,
+          "highPrice": 22.79,
+          "marketPrice": 6.7,
+          "directLowPrice": 7.77
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-76",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/76",
+    "localId": "76",
+    "name": "Gardevoir VMAX",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      282
+    ],
+    "hp": 320,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Maxicura",
+        "effect": "Cura 50 puntos de daño a este Pokémon.",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500235,
+        "avg": 19.86,
+        "low": 7,
+        "trend": 18.65,
+        "avg1": 15,
+        "avg7": 22.23,
+        "avg30": 18.89,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 19.77,
+        "avg1-holo": 19.25,
+        "avg7-holo": 21.24,
+        "avg30-holo": 21.8
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223075,
+          "lowPrice": 15.89,
+          "midPrice": 18.61,
+          "highPrice": 152.14,
+          "marketPrice": 17.55,
+          "directLowPrice": 22.79
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-77",
+    "illustrator": "Hitoshi Ariga",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/77",
+    "localId": "77",
+    "name": "Naboru",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Pon las cartas de tu mano en tu baraja y barájalas todas. Después, roba 4 cartas. Si tu Pokémon Activo es tu único Pokémon en juego, roba 8 cartas en vez de 4.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500240,
+        "avg": 4.31,
+        "low": 1.5,
+        "trend": 4.11,
+        "avg1": 2.99,
+        "avg7": 4.31,
+        "avg30": 4.56,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 12.61,
+        "avg1-holo": 13,
+        "avg7-holo": 11.87,
+        "avg30-holo": 14.27
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223076,
+          "lowPrice": 2.09,
+          "midPrice": 3.74,
+          "highPrice": 25.99,
+          "marketPrice": 3.12,
+          "directLowPrice": 3.11
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-78",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/78",
+    "localId": "78",
+    "name": "Nerio",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Busca en tu baraja 1 carta de Energía y 1 carta de Pokémon Darkness, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500245,
+        "avg": 5.57,
+        "low": 2.99,
+        "trend": 5.12,
+        "avg1": 9,
+        "avg7": 5.07,
+        "avg30": 4.91,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 10.89,
+        "avg1-holo": 13.5,
+        "avg7-holo": 10.91,
+        "avg30-holo": 13.46
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223077,
+          "lowPrice": 3.22,
+          "midPrice": 5.09,
+          "highPrice": 96.92,
+          "marketPrice": 4.95,
+          "directLowPrice": 6.14
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "swsh3.5-79",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/79",
+    "localId": "79",
+    "name": "Charizard V",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 220,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cuchillada Garra",
+        "damage": 80
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Giro Fuego",
+        "effect": "Descarta 2 Energías de este Pokémon.",
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500250,
+        "avg": 247.99,
+        "low": 90,
+        "trend": 246.67,
+        "avg1": 200,
+        "avg7": 284.24,
+        "avg30": 261.13,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 313.39,
+        "avg1-holo": 349.99,
+        "avg7-holo": 331.81,
+        "avg30-holo": 351
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223078,
+          "lowPrice": 245.99,
+          "midPrice": 299.99,
+          "highPrice": 399.94,
+          "marketPrice": 253.21,
+          "directLowPrice": 325.22
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "swsh3.5-80",
+    "illustrator": "Ryo Ueda",
+    "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/80",
+    "localId": "80",
+    "name": "Lata Sospechosa",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 73,
+        "total": 80
+      },
+      "id": "swsh3.5",
+      "logo": "https://assets.tcgdex.net/es/swsh/swsh3.5/logo",
+      "name": "Camino de Campeones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3.5/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 80 puntos de puntos de daño a 1 de tus Pokémon que tenga por lo menos 1 Energía Psychic unida a él. Si has curado algún punto de daño de esta manera, descarta 1 Energía Psychic de ese Pokémon.",
+    "trainerType": "Objeto",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 500255,
+        "avg": 3.41,
+        "low": 1.3,
+        "trend": 2.91,
+        "avg1": 2.8,
+        "avg7": 2.73,
+        "avg30": 3.42,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 5.44,
+        "avg1-holo": 5.12,
+        "avg7-holo": 5.11,
+        "avg30-holo": 5.41
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:54.191Z",
+        "holofoil": {
+          "productId": 223079,
+          "lowPrice": 1,
+          "midPrice": 2.12,
+          "highPrice": 20,
+          "marketPrice": 1.77,
+          "directLowPrice": 1.06
+        }
+      }
+    }
+  }
+]

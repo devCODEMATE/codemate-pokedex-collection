@@ -1,0 +1,45 @@
+{
+  "name": "Pheromosa GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm5-140",
+      "name": "Pheromosa GX",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "140",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/140",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm5-158",
+      "name": "Pheromosa GX",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "158",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/158",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM66",
+      "name": "Pheromosa GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM66",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

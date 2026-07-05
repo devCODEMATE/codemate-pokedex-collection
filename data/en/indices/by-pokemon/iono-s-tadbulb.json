@@ -1,0 +1,32 @@
+{
+  "name": "Iono's Tadbulb",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "me02.5-069",
+      "name": "Iono's Tadbulb",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "069",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/069",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv09-052",
+      "name": "Iono's Tadbulb",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "052",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/052",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "kurumitsu"
+    }
+  ]
+}

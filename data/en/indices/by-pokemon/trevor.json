@@ -1,0 +1,39 @@
+{
+  "name": "Trevor",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "tk-xy-b-20",
+      "name": "Trevor",
+      "set": "tk-xy-b",
+      "setName": "XY trainer Kit (Bisharp)",
+      "number": "20",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-w-24",
+      "name": "Trevor",
+      "set": "tk-xy-w",
+      "setName": "XY trainer Kit (Wigglytuff)",
+      "number": "24",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "xyp-XY33",
+      "name": "Trevor",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY33",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY33",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

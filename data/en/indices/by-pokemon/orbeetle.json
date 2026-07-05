@@ -1,0 +1,71 @@
+{
+  "name": "Orbeetle",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sv04-012",
+      "name": "Orbeetle",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "012",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/012",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Oku"
+    },
+    {
+      "id": "swsh11-020",
+      "name": "Orbeetle",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "020",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/020",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh1-19",
+      "name": "Orbeetle",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "19",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/19",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "swsh4.5-SV009",
+      "name": "Orbeetle",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV009",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV009",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh5-65",
+      "name": "Orbeetle",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "65",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/65",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mizue"
+    }
+  ]
+}

@@ -1,0 +1,1306 @@
+{
+  "name": "Atsuko Nishida",
+  "totalCards": 100,
+  "cards": [
+    {
+      "id": "A1-028",
+      "name": "Whimsicott",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "028",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/028",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "A1-161",
+      "name": "Mienshao",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "161",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/161",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "A1-194",
+      "name": "Wigglytuff",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "194",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/194",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "A1-206",
+      "name": "Eevee",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "206",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/206",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "A2-073",
+      "name": "Drifloon",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "073",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/073",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "A2-132",
+      "name": "Starly",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "132",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/132",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "A2a-006",
+      "name": "Cherubi",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "006",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "A2b-032",
+      "name": "Mr. Mime",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "032",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/032",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "A3-052",
+      "name": "Dewpider",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "052",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/052",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw1-10",
+      "name": "Lilligant",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "10",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/10",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw1-13",
+      "name": "Deerling",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "13",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/13",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw1-33",
+      "name": "Panpour",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "33",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/33",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw1-48",
+      "name": "Munna",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/48",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw2-27",
+      "name": "Swanna",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "27",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/27",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw2-45",
+      "name": "Gothorita",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "45",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/45",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw2-64",
+      "name": "Purrloin",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "64",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/64",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw2-84",
+      "name": "Minccino",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "84",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/84",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw2-9",
+      "name": "Cottonee",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "9",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/9",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw3-22",
+      "name": "Tympole",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "22",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/22",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw3-27",
+      "name": "Vanillite",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "27",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/27",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw3-50",
+      "name": "Solosis",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "50",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/50",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw3-70",
+      "name": "Mienshao",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "70",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/70",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw3-86",
+      "name": "Axew",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "86",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/86",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw4-17",
+      "name": "Darumaka",
+      "set": "bw4",
+      "setName": "Próximos Destinos",
+      "number": "17",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw4/17",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw4-36",
+      "name": "Cubchoo",
+      "set": "bw4",
+      "setName": "Próximos Destinos",
+      "number": "36",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw4/36",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw4-42",
+      "name": "Shinx",
+      "set": "bw4",
+      "setName": "Próximos Destinos",
+      "number": "42",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw4/42",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw5-15",
+      "name": "Torchic",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "15",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/15",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw5-88",
+      "name": "Stoutland",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "88",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/88",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw6-25",
+      "name": "Wailmer",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "25",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/25",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw6-39",
+      "name": "Flaaffy",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "39",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/39",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw6-60",
+      "name": "Cubone",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "60",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/60",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw7-118",
+      "name": "Patrat",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "118",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/118",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw7-2",
+      "name": "Gloom",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "2",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/2",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw7-80",
+      "name": "Gligar",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "80",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/80",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw8-19",
+      "name": "Pansear",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "19",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/19",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw8-8",
+      "name": "Sewaddle",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "8",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw8-97",
+      "name": "Clefairy",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "97",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/97",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw9-22",
+      "name": "Quagsire",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "22",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/22",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw9-41",
+      "name": "Nidorina",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "41",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/41",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw9-81",
+      "name": "Dratini",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "81",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/81",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "me03-027",
+      "name": "Luxio",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "027",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me03/027",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "P-A-035",
+      "name": "Turtwig",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "035",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/035",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm10-121",
+      "name": "Diglett de Alola",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "121",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/121",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm10-205",
+      "name": "Gardevoir y Sylveon GX",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "205",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/205",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm10-27",
+      "name": "Litten",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "27",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/27",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm11-108",
+      "name": "Breloom",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "108",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/108",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm11-48",
+      "name": "Dewpider",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "48",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/48",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm12-150",
+      "name": "Flabébé",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "150",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/150",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm12-80",
+      "name": "Ralts",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "80",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/80",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm1-31",
+      "name": "Poliwhirl",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "31",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/31",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm1-83",
+      "name": "Sandile",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "83",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/83",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm3-10",
+      "name": "Ledian",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "10",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/10",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm3-95",
+      "name": "Cutiefly",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "95",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/95",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm4-66",
+      "name": "Lairon",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "66",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/66",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm4-75",
+      "name": "Jangmo-o",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "75",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/75",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm5-104",
+      "name": "Eevee",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "104",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/104",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm6-15",
+      "name": "Fennekin",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "15",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/15",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm6-27",
+      "name": "Amaura",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "27",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/27",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm6-93",
+      "name": "Sliggoo",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "93",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/93",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm7-19",
+      "name": "Cacnea",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "19",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/19",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm7-20",
+      "name": "Cacturne",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "20",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/20",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm7-36",
+      "name": "Lotad",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "36",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/36",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm7-37",
+      "name": "Lombre",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "37",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/37",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm7-38",
+      "name": "Ludicolo",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "38",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/38",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm8-2",
+      "name": "Tangrowth",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "2",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/2",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm8-66",
+      "name": "Brionne",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "66",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/66",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm9-12",
+      "name": "Charmander",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "12",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/12",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm9-66",
+      "name": "Mr. Mime",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "66",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/66",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sv01-010",
+      "name": "Vivillon",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "010",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/010",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sv03-182",
+      "name": "Lechonk",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "182",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/182",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sv04.5-048",
+      "name": "Phanpy",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "048",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/048",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sv05-130",
+      "name": "Skitty",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "130",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/130",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "swsh1-7",
+      "name": "Maractus",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "7",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/7",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "swsh2-99",
+      "name": "Barboach",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "99",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/99",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "swsh3-3",
+      "name": "Paras",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "3",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "swsh4-114",
+      "name": "Forretress",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "114",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/114",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "swsh4-131",
+      "name": "Snorlax",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "131",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/131",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "swsh5-81",
+      "name": "Silicobra",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "81",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/81",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "swsh7-96",
+      "name": "Nuzleaf",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "96",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/96",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "swsh8-71",
+      "name": "Darumaka de Galar",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "71",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/71",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "tk-xy-p-7",
+      "name": "Taillow",
+      "set": "tk-xy-p",
+      "setName": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "number": "7",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-p/7",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy10-5",
+      "name": "Snivy",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "5",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/5",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy11-91",
+      "name": "Ambipom",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "91",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/91",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy1-44",
+      "name": "Voltorb",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "44",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/44",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy1-49",
+      "name": "Spoink",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "49",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/49",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy2-27",
+      "name": "Luvdisc",
+      "set": "xy2",
+      "setName": "Destellos de Fuego",
+      "number": "27",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy2/27",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy2-75",
+      "name": "Pidgey",
+      "set": "xy2",
+      "setName": "Destellos de Fuego",
+      "number": "75",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy2/75",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy3-18",
+      "name": "Politoed",
+      "set": "xy3",
+      "setName": "Puños Furiosos",
+      "number": "18",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy3/18",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy3-39",
+      "name": "Gothita",
+      "set": "xy3",
+      "setName": "Puños Furiosos",
+      "number": "39",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy3/39",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy3-71",
+      "name": "Clefable",
+      "set": "xy3",
+      "setName": "Puños Furiosos",
+      "number": "71",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy3/71",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy4-11",
+      "name": "Litleo",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "11",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/11",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy4-7",
+      "name": "Leavanny",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "7",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/7",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy5-114",
+      "name": "Delcatty",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "114",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/114",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy5-62",
+      "name": "Tynamo",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "62",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/62",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy5-98",
+      "name": "Honedge",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "98",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/98",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy6-27",
+      "name": "Natu",
+      "set": "xy6",
+      "setName": "Cielos Rugientes",
+      "number": "27",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy6/27",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy6-70",
+      "name": "Taillow",
+      "set": "xy6",
+      "setName": "Cielos Rugientes",
+      "number": "70",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy6/70",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy7-56",
+      "name": "Whimsicott",
+      "set": "xy7",
+      "setName": "Antiguos Orígenes",
+      "number": "56",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy7/56",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy8-80",
+      "name": "Swinub",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "80",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/80",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "xy9-36",
+      "name": "Ducklett",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "36",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/36",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    }
+  ]
+}

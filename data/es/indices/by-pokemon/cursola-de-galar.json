@@ -1,0 +1,45 @@
+{
+  "name": "Cursola de Galar",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh2-79",
+      "name": "Cursola de Galar",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "79",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/79",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "swsh4.5-SV050",
+      "name": "Cursola de Galar",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV050",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV050",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh8-118",
+      "name": "Cursola de Galar",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "118",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/118",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Misa Tsutsui"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Muk de Alola",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm12-131",
+      "name": "Muk de Alola",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "131",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/131",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "sm1-58",
+      "name": "Muk de Alola",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "58",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/58",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "sm9-84",
+      "name": "Muk de Alola",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "84",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/84",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Midori Harada"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Swellow",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "sm2-104",
+      "name": "Swellow",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "104",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/104",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sv10-157",
+      "name": "Swellow",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "157",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/157",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "swsh4-134",
+      "name": "Swellow",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "134",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/134",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "xy1-103",
+      "name": "Swellow",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "103",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/103",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "xy6-71",
+      "name": "Swellow",
+      "set": "xy6",
+      "setName": "Cielos Rugientes",
+      "number": "71",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy6/71",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "xy6-72",
+      "name": "Swellow",
+      "set": "xy6",
+      "setName": "Cielos Rugientes",
+      "number": "72",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy6/72",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

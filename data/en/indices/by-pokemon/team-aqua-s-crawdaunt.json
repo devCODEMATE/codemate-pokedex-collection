@@ -1,0 +1,33 @@
+{
+  "name": "Team Aqua's Crawdaunt",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "ex4-14",
+      "name": "Team Aqua's Crawdaunt",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/14",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Nakaoka"
+    },
+    {
+      "id": "ex4-2",
+      "name": "Team Aqua's Crawdaunt",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "2",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/2",
+      "types": [
+        "Water",
+        "Darkness"
+      ],
+      "illustrator": "Nakaoka"
+    }
+  ]
+}

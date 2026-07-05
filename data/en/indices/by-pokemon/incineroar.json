@@ -1,0 +1,71 @@
+{
+  "name": "Incineroar",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "A3b-013",
+      "name": "Incineroar",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "013",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/013",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "sm10-29",
+      "name": "Incineroar",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "29",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/29",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Misa Tsutsui"
+    },
+    {
+      "id": "sm1-26",
+      "name": "Incineroar",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "26",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/26",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "sm3.5-17",
+      "name": "Incineroar",
+      "set": "sm3.5",
+      "setName": "Shining Legends",
+      "number": "17",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Emi Ando"
+    },
+    {
+      "id": "swsh12-032",
+      "name": "Incineroar",
+      "set": "swsh12",
+      "setName": "Silver Tempest",
+      "number": "032",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12/032",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": null
+    }
+  ]
+}

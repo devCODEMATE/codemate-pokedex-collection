@@ -1,0 +1,84 @@
+{
+  "name": "Cleffa",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "sm10-131",
+      "name": "Cleffa",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "131",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/131",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "sv03-080",
+      "name": "Cleffa",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "080",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/080",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv03-202",
+      "name": "Cleffa",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "202",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/202",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "sv04.5-150",
+      "name": "Cleffa",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "150",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/150",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "svp-037",
+      "name": "Cleffa",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "037",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/037",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Mina Nakai"
+    },
+    {
+      "id": "svp-095",
+      "name": "Cleffa",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "095",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/095",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Tika Matsuno"
+    }
+  ]
+}

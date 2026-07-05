@@ -1,0 +1,45 @@
+{
+  "name": "Flygon GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm12-110",
+      "name": "Flygon GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "110",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/110",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm12-218",
+      "name": "Flygon GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "218",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/218",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sm12-256",
+      "name": "Flygon GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "256",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/256",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    }
+  ]
+}

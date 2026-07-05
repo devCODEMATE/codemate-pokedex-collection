@@ -1,0 +1,71 @@
+{
+  "name": "Arctibax",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "B2a-035",
+      "name": "Arctibax",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "035",
+      "rarity": "One Diamond",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv02-059",
+      "name": "Arctibax",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "059",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/059",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv02-209",
+      "name": "Arctibax",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "209",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/209",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "sv04.5-129",
+      "name": "Arctibax",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "129",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/129",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "svp-064",
+      "name": "Arctibax",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "064",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/064",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Teeziro"
+    }
+  ]
+}

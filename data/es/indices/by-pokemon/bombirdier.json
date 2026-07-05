@@ -1,0 +1,84 @@
+{
+  "name": "Bombirdier",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2a-071",
+      "name": "Bombirdier",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "071",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv01-138",
+      "name": "Bombirdier",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "138",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/138",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv01-219",
+      "name": "Bombirdier",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "219",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/219",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "sv02-147",
+      "name": "Bombirdier",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "147",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/147",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "sv07-097",
+      "name": "Bombirdier",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "097",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/097",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "sv09-101",
+      "name": "Bombirdier",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "101",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/101",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Gemi"
+    }
+  ]
+}

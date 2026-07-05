@@ -1,0 +1,45 @@
+{
+  "name": "Arctozolt",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh3-66",
+      "name": "Arctozolt",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "66",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/66",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "swsh4.5-SV046",
+      "name": "Arctozolt",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV046",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV046",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "swshp-SWSH036",
+      "name": "Arctozolt",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH036",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH036",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hasuno"
+    }
+  ]
+}

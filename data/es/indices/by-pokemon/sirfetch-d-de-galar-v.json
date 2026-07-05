@@ -1,0 +1,32 @@
+{
+  "name": "Sirfetch'd de Galar V",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh4-174",
+      "name": "Sirfetch'd de Galar V",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "174",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/174",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swshp-SWSH043",
+      "name": "Sirfetch'd de Galar V",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH043",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH043",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Paul",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "swsh1-165",
+      "name": "Paul",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "165",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/165",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "swsh12.5-133",
+      "name": "Paul",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "133",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/133",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "swsh3.5-53",
+      "name": "Paul",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "53",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/53",
+      "types": null,
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "swsh3.5-73",
+      "name": "Paul",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "73",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/73",
+      "types": null,
+      "illustrator": "Naoki Saito"
+    }
+  ]
+}

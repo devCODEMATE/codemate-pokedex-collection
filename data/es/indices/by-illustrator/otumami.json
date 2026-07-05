@@ -1,0 +1,552 @@
+{
+  "name": "otumami",
+  "totalCards": 42,
+  "cards": [
+    {
+      "id": "2024sv-7",
+      "name": "Quagsire",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "7",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "A1-111",
+      "name": "Heliolisk",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "111",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/111",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "A1-150",
+      "name": "Onix",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "150",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/150",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "A2-080",
+      "name": "Rhyhorn",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "080",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/080",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "A2a-020",
+      "name": "Snover",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "020",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/020",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm10-14",
+      "name": "Weepinbell",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "14",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/14",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm10-93",
+      "name": "Rhyhorn",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "93",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/93",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm11-105",
+      "name": "Cubone",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "105",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/105",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm11-41",
+      "name": "Snover",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "41",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/41",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm11-73",
+      "name": "Exeggcute",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "73",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/73",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm12-105",
+      "name": "Onix",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "105",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/105",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm12-11",
+      "name": "Cradily",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "11",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/11",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm12-5",
+      "name": "Tangela",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "5",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/5",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm12-72",
+      "name": "Lanturn",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "72",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/72",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm6-26",
+      "name": "Clawitzer",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "26",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/26",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm6-38",
+      "name": "Heliolisk",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "38",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/38",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm6-89",
+      "name": "Klefki",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "89",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/89",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv03-039",
+      "name": "Heatmor",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "039",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/039",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv03-141",
+      "name": "Scizor",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "141",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/141",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv04.5-092",
+      "name": "Oddish",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "092",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/092",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv04.5-102",
+      "name": "Smoliv",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "102",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/102",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv04.5-156",
+      "name": "Drifblim",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "156",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/156",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv04.5-177",
+      "name": "Naclstack",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "177",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/177",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv04.5-189",
+      "name": "Shroodle",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "189",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/189",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv04-031",
+      "name": "Seadra",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "031",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/031",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv05-021",
+      "name": "Brambleghast",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "021",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/021",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh1-123",
+      "name": "Croagunk",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "123",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/123",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh1-71",
+      "name": "Galvantula",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "71",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/71",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh2-57",
+      "name": "Electrode",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/57",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh2-6",
+      "name": "Heracross",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "6",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/6",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh3-70",
+      "name": "Snubbull",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "70",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/70",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh4.5-SV012",
+      "name": "Applin",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV012",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV012",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh4.5-SV028",
+      "name": "Chewtle",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV028",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV028",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh4.5-SV054",
+      "name": "Hatenna",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV054",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV054",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh4-11",
+      "name": "Nuzleaf",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "11",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/11",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh4-84",
+      "name": "Quagsire",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "84",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/84",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh5-103",
+      "name": "Pawniard",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "103",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/103",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh7-118",
+      "name": "Zygarde",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "118",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/118",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh7-5",
+      "name": "Seedot",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "5",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/5",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh7-87",
+      "name": "Boldore",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "87",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/87",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh8-34",
+      "name": "Slugma",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "34",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/34",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "swsh8-66",
+      "name": "Huntail",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "66",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/66",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "otumami"
+    }
+  ]
+}

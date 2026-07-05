@@ -1,0 +1,84 @@
+{
+  "name": "Baxcalibur",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2a-036",
+      "name": "Baxcalibur",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "036",
+      "rarity": "Three Diamond",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "B2a-130",
+      "name": "Baxcalibur",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "130",
+      "rarity": "Crown",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv02-060",
+      "name": "Baxcalibur",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "060",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/060",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sv02-210",
+      "name": "Baxcalibur",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "210",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/210",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "sv04.5-130",
+      "name": "Baxcalibur",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "130",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/130",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "svp-019",
+      "name": "Baxcalibur",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "019",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/019",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Oswaldo KATO"
+    }
+  ]
+}

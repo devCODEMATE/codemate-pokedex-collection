@@ -1,0 +1,58 @@
+{
+  "name": "Victini-EX",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "bw8-131",
+      "name": "Victini-EX",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "131",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/131",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "bw8-18",
+      "name": "Victini-EX",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "18",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/18",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Eske Yoshinob"
+    },
+    {
+      "id": "sv03-033",
+      "name": "Victini ex",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "033",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/033",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Saki Hayashiro"
+    },
+    {
+      "id": "svp-142",
+      "name": "Victini ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "142",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/142",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Saki Hayashiro"
+    }
+  ]
+}

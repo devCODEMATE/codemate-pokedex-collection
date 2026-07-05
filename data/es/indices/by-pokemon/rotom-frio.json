@@ -1,0 +1,32 @@
+{
+  "name": "Rotom Frío",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "A2-048",
+      "name": "Rotom Frío",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "048",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/048",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "sm5-41",
+      "name": "Rotom Frío",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "41",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/41",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "MAHOU"
+    }
+  ]
+}

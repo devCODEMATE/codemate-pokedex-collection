@@ -1,0 +1,45 @@
+{
+  "name": "Unown A",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "dp1-65",
+      "name": "Unown A",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "65",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/65",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Nakaoka"
+    },
+    {
+      "id": "neo2-14",
+      "name": "Unown [A]",
+      "set": "neo2",
+      "setName": "Neo Discovery",
+      "number": "14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo2/14",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "CR CG gangs"
+    },
+    {
+      "id": "neo2-33",
+      "name": "Unown [A]",
+      "set": "neo2",
+      "setName": "Neo Discovery",
+      "number": "33",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo2/33",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "CR CG gangs"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Grimmsnarl VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh3-115",
+      "name": "Grimmsnarl VMAX",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "115",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/115",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh4.5-SV117",
+      "name": "Grimmsnarl VMAX",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV117",
+      "rarity": "Shiny rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV117",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

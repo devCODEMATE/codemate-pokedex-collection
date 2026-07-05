@@ -1,0 +1,3424 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-1",
+    "illustrator": "Mizue",
+    "localId": "1",
+    "name": "Bulbasaur",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538778,
+            "avg": 0.37,
+            "low": 0.02,
+            "trend": 0.42,
+            "avg1": 0.39,
+            "avg7": 0.43,
+            "avg30": 0.39,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 7.4,
+            "avg1-holo": 10,
+            "avg7-holo": 9.51,
+            "avg30-holo": 8.89
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538783,
+            "avg": 3.77,
+            "low": 0.49,
+            "trend": 3.57,
+            "avg1": 5.97,
+            "avg7": 3.12,
+            "avg30": 3.68,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 5.52,
+            "avg1-holo": 6,
+            "avg7-holo": 6.8,
+            "avg30-holo": 7.99
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      1
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Razor Leaf",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538778,
+        "avg": 0.37,
+        "low": 0.02,
+        "trend": 0.42,
+        "avg1": 0.39,
+        "avg7": 0.43,
+        "avg30": 0.39,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 7.4,
+        "avg1-holo": 10,
+        "avg7-holo": 9.51,
+        "avg30-holo": 8.89
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-2",
+    "illustrator": "sowsow",
+    "localId": "2",
+    "name": "Chikorita",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538788,
+            "avg": 0.22,
+            "low": 0.02,
+            "trend": 0.2,
+            "avg1": 0.41,
+            "avg7": 0.32,
+            "avg30": 0.23,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 3.13,
+            "avg1-holo": 1.75,
+            "avg7-holo": 3.04,
+            "avg30-holo": 3.52
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538793,
+            "avg": 1.54,
+            "low": 0.1,
+            "trend": 2.05,
+            "avg1": 1.62,
+            "avg7": 1.93,
+            "avg30": 1.54,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 3.08,
+            "avg1-holo": 3.5,
+            "avg7-holo": 3.59,
+            "avg30-holo": 4.55
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      152
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "description": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Mini Drain",
+        "effect": "Heal 10 damage from this Pokémon.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538788,
+        "avg": 0.22,
+        "low": 0.02,
+        "trend": 0.2,
+        "avg1": 0.41,
+        "avg7": 0.32,
+        "avg30": 0.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.13,
+        "avg1-holo": 1.75,
+        "avg7-holo": 3.04,
+        "avg30-holo": 3.52
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-3",
+    "illustrator": "Akira Komayama",
+    "localId": "3",
+    "name": "Treecko",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538798,
+            "avg": 0.22,
+            "low": 0.02,
+            "trend": 0.2,
+            "avg1": 0.42,
+            "avg7": 0.28,
+            "avg30": 0.23,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 5.48,
+            "avg1-holo": 4.35,
+            "avg7-holo": 5.56,
+            "avg30-holo": 5.08
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538803,
+            "avg": 3.07,
+            "low": 0.5,
+            "trend": 3.35,
+            "avg1": 2.68,
+            "avg7": 3.19,
+            "avg30": 3.11,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 4.3,
+            "avg1-holo": 4.29,
+            "avg7-holo": 5.58,
+            "avg30-holo": 5.65
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      252
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Quick Attack",
+        "effect": "Flip a coin. If heads, this attack does 10 more damage.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538798,
+        "avg": 0.22,
+        "low": 0.02,
+        "trend": 0.2,
+        "avg1": 0.42,
+        "avg7": 0.28,
+        "avg30": 0.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 5.48,
+        "avg1-holo": 4.35,
+        "avg7-holo": 5.56,
+        "avg30-holo": 5.08
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-4",
+    "illustrator": "OOYAMA",
+    "localId": "4",
+    "name": "Turtwig",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538808,
+            "avg": 0.23,
+            "low": 0.02,
+            "trend": 0.26,
+            "avg1": 0.52,
+            "avg7": 0.31,
+            "avg30": 0.24,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.17,
+            "avg1-holo": 2.87,
+            "avg7-holo": 2.7,
+            "avg30-holo": 3.09
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538813,
+            "avg": 2.07,
+            "low": 0.19,
+            "trend": 2.15,
+            "avg1": 1.48,
+            "avg7": 2.04,
+            "avg30": 1.98,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.51,
+            "avg1-holo": 2.99,
+            "avg7-holo": 2.79,
+            "avg30-holo": 3.74
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      387
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "description": "It undertakes photosynthesis with its body, making oxygen. The leaf on its head wilts if it is thirsty.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Tackle",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Razor Leaf",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538808,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.26,
+        "avg1": 0.52,
+        "avg7": 0.31,
+        "avg30": 0.24,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.17,
+        "avg1-holo": 2.87,
+        "avg7-holo": 2.7,
+        "avg30-holo": 3.09
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-5",
+    "illustrator": "Ken Sugimori",
+    "localId": "5",
+    "name": "Snivy",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538808,
+            "avg": 0.23,
+            "low": 0.02,
+            "trend": 0.26,
+            "avg1": 0.52,
+            "avg7": 0.31,
+            "avg30": 0.24,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.17,
+            "avg1-holo": 2.87,
+            "avg7-holo": 2.7,
+            "avg30-holo": 3.09
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538823,
+            "avg": 1.23,
+            "low": 0.02,
+            "trend": 1.71,
+            "avg1": 1.07,
+            "avg7": 1.24,
+            "avg30": 1.25,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.97,
+            "avg1-holo": 0.7,
+            "avg7-holo": 2.63,
+            "avg30-holo": 2.95
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      495
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Slam",
+        "effect": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538808,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.26,
+        "avg1": 0.52,
+        "avg7": 0.31,
+        "avg30": 0.24,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.17,
+        "avg1-holo": 2.87,
+        "avg7-holo": 2.7,
+        "avg30-holo": 3.09
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-6",
+    "illustrator": "5ban Graphics",
+    "localId": "6",
+    "name": "Chespin",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538828,
+            "avg": 0.21,
+            "low": 0.02,
+            "trend": 0.32,
+            "avg1": 0.52,
+            "avg7": 0.28,
+            "avg30": 0.21,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.01,
+            "avg1-holo": 1.1,
+            "avg7-holo": 2.46,
+            "avg30-holo": 2.51
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538833,
+            "avg": 1.24,
+            "low": 0.02,
+            "trend": 1.17,
+            "avg1": 1.38,
+            "avg7": 1.44,
+            "avg30": 1.31,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 1.56,
+            "avg1-holo": 2.5,
+            "avg7-holo": 1.87,
+            "avg30-holo": 2.61
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      650
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Vine Whip",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Seed Bomb",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538828,
+        "avg": 0.21,
+        "low": 0.02,
+        "trend": 0.32,
+        "avg1": 0.52,
+        "avg7": 0.28,
+        "avg30": 0.21,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.01,
+        "avg1-holo": 1.1,
+        "avg7-holo": 2.46,
+        "avg30-holo": 2.51
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-7",
+    "illustrator": "Megumi Mizutani",
+    "localId": "7",
+    "name": "Rowlet",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538838,
+            "avg": 0.21,
+            "low": 0.02,
+            "trend": 0.18,
+            "avg1": 0.48,
+            "avg7": 0.29,
+            "avg30": 0.23,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.8,
+            "avg1-holo": 2.06,
+            "avg7-holo": 3.16,
+            "avg30-holo": 3.02
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538843,
+            "avg": 1.16,
+            "low": 0.07,
+            "trend": 1.54,
+            "avg1": 1.64,
+            "avg7": 1.43,
+            "avg30": 1.25,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 1.19,
+            "avg1-holo": 2,
+            "avg7-holo": 2.19,
+            "avg30-holo": 2.74
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      722
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Tackle",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Leafage",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538838,
+        "avg": 0.21,
+        "low": 0.02,
+        "trend": 0.18,
+        "avg1": 0.48,
+        "avg7": 0.29,
+        "avg30": 0.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.8,
+        "avg1-holo": 2.06,
+        "avg7-holo": 3.16,
+        "avg30-holo": 3.02
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-8",
+    "illustrator": "kirisAki",
+    "localId": "8",
+    "name": "Grookey",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538848,
+            "avg": 0.2,
+            "low": 0.02,
+            "trend": 0.13,
+            "avg1": 0.33,
+            "avg7": 0.22,
+            "avg30": 0.21,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.02,
+            "avg1-holo": 0.25,
+            "avg7-holo": 2.27,
+            "avg30-holo": 3.37
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538853,
+            "avg": 1.13,
+            "low": 0.02,
+            "trend": 1.48,
+            "avg1": 1.25,
+            "avg7": 1.38,
+            "avg30": 1.23,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.91,
+            "avg1-holo": 2.8,
+            "avg7-holo": 3.32,
+            "avg30-holo": 3.96
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      810
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Branch Poke",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538848,
+        "avg": 0.2,
+        "low": 0.02,
+        "trend": 0.13,
+        "avg1": 0.33,
+        "avg7": 0.22,
+        "avg30": 0.21,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.02,
+        "avg1-holo": 0.25,
+        "avg7-holo": 2.27,
+        "avg30-holo": 3.37
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-9",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "9",
+    "name": "Charmander",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538858,
+            "avg": 0.41,
+            "low": 0.02,
+            "trend": 0.34,
+            "avg1": 0.3,
+            "avg7": 0.46,
+            "avg30": 0.45,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 10.27,
+            "avg1-holo": 10.09,
+            "avg7-holo": 10.69,
+            "avg30-holo": 10.49
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538863,
+            "avg": 3.74,
+            "low": 0.4,
+            "trend": 3.87,
+            "avg1": 7,
+            "avg7": 4.56,
+            "avg30": 3.77,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 9.47,
+            "avg1-holo": 13.9,
+            "avg7-holo": 11.21,
+            "avg30-holo": 12.88
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      4
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "description": "The flame on its tail indicates Charmander’s life force. If it is healthy, the flame burns brightly.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Scratch",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Flame Tail",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538858,
+        "avg": 0.41,
+        "low": 0.02,
+        "trend": 0.34,
+        "avg1": 0.3,
+        "avg7": 0.46,
+        "avg30": 0.45,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 10.27,
+        "avg1-holo": 10.09,
+        "avg7-holo": 10.69,
+        "avg30-holo": 10.49
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-10",
+    "illustrator": "kirisAki",
+    "localId": "10",
+    "name": "Cyndaquil",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538868,
+            "avg": 0.2,
+            "low": 0.02,
+            "trend": 0.23,
+            "avg1": 0.33,
+            "avg7": 0.27,
+            "avg30": 0.23,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 3.97,
+            "avg1-holo": 4.67,
+            "avg7-holo": 4.4,
+            "avg30-holo": 3.94
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538873,
+            "avg": 2.5,
+            "low": 0.2,
+            "trend": 1.93,
+            "avg1": 2.4,
+            "avg7": 2.27,
+            "avg30": 2.51,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.69,
+            "avg1-holo": 3.99,
+            "avg7-holo": 3.85,
+            "avg30-holo": 4.29
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      155
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "description": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Hammer In",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538868,
+        "avg": 0.2,
+        "low": 0.02,
+        "trend": 0.23,
+        "avg1": 0.33,
+        "avg7": 0.27,
+        "avg30": 0.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.97,
+        "avg1-holo": 4.67,
+        "avg7-holo": 4.4,
+        "avg30-holo": 3.94
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-11",
+    "illustrator": "sui",
+    "localId": "11",
+    "name": "Torchic",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538878,
+            "avg": 0.28,
+            "low": 0.02,
+            "trend": 0.25,
+            "avg1": 0.4,
+            "avg7": 0.32,
+            "avg30": 0.29,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.75,
+            "avg1-holo": 2.6,
+            "avg7-holo": 2.83,
+            "avg30-holo": 3.53
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538883,
+            "avg": 1.72,
+            "low": 0.2,
+            "trend": 1.9,
+            "avg1": 1.8,
+            "avg7": 1.62,
+            "avg30": 1.79,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.84,
+            "avg1-holo": 5.83,
+            "avg7-holo": 4.29,
+            "avg30-holo": 4.82
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      255
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "description": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Ember",
+        "effect": "Flip a coin. If tails, discard a Fire Energy attached to this Pokémon.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538878,
+        "avg": 0.28,
+        "low": 0.02,
+        "trend": 0.25,
+        "avg1": 0.4,
+        "avg7": 0.32,
+        "avg30": 0.29,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.75,
+        "avg1-holo": 2.6,
+        "avg7-holo": 2.83,
+        "avg30-holo": 3.53
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-12",
+    "illustrator": "Kouki Saitou",
+    "localId": "12",
+    "name": "Chimchar",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538888,
+            "avg": 0.24,
+            "low": 0.02,
+            "trend": 0.2,
+            "avg1": 0.35,
+            "avg7": 0.3,
+            "avg30": 0.26,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 3.12,
+            "avg1-holo": 2.9,
+            "avg7-holo": 3.17,
+            "avg30-holo": 2.93
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538893,
+            "avg": 1.16,
+            "low": 0.15,
+            "trend": 1.7,
+            "avg1": 0.99,
+            "avg7": 1.45,
+            "avg30": 1.18,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 3.36,
+            "avg1-holo": 2.9,
+            "avg7-holo": 3.93,
+            "avg30-holo": 4.06
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      391
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Chimchar",
+    "description": "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Fury Swipes",
+        "effect": "Flip 3 coins. This attack does 10 damage for each heads.",
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538888,
+        "avg": 0.24,
+        "low": 0.02,
+        "trend": 0.2,
+        "avg1": 0.35,
+        "avg7": 0.3,
+        "avg30": 0.26,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.12,
+        "avg1-holo": 2.9,
+        "avg7-holo": 3.17,
+        "avg30-holo": 2.93
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-13",
+    "illustrator": "Ken Sugimori",
+    "localId": "13",
+    "name": "Tepig",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538898,
+            "avg": 0.19,
+            "low": 0.02,
+            "trend": 0.17,
+            "avg1": 0.32,
+            "avg7": 0.25,
+            "avg30": 0.2,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.16,
+            "avg1-holo": 2.8,
+            "avg7-holo": 2.16,
+            "avg30-holo": 2.39
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538903,
+            "avg": 1.28,
+            "low": 0.1,
+            "trend": 1.07,
+            "avg1": 2,
+            "avg7": 1.77,
+            "avg30": 1.43,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.03,
+            "avg1-holo": 2.05,
+            "avg7-holo": 2.89,
+            "avg30-holo": 2.91
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      498
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "description": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Ember",
+        "effect": "Discard an Energy attached to this Pokémon.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538898,
+        "avg": 0.19,
+        "low": 0.02,
+        "trend": 0.17,
+        "avg1": 0.32,
+        "avg7": 0.25,
+        "avg30": 0.2,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.16,
+        "avg1-holo": 2.8,
+        "avg7-holo": 2.16,
+        "avg30-holo": 2.39
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-14",
+    "illustrator": "5ban Graphics",
+    "localId": "14",
+    "name": "Fennekin",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538908,
+            "avg": 0.19,
+            "low": 0.02,
+            "trend": 0.18,
+            "avg1": 0.16,
+            "avg7": 0.23,
+            "avg30": 0.19,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 3.37,
+            "avg1-holo": 3.4,
+            "avg7-holo": 3.45,
+            "avg30-holo": 3.07
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538913,
+            "avg": 1.34,
+            "low": 0.14,
+            "trend": 1.52,
+            "avg1": 1.5,
+            "avg7": 1.56,
+            "avg30": 1.39,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 1.98,
+            "avg1-holo": 2.25,
+            "avg7-holo": 3.06,
+            "avg30-holo": 3.57
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      653
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "description": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Scratch",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Live Coal",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538908,
+        "avg": 0.19,
+        "low": 0.02,
+        "trend": 0.18,
+        "avg1": 0.16,
+        "avg7": 0.23,
+        "avg30": 0.19,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.37,
+        "avg1-holo": 3.4,
+        "avg7-holo": 3.45,
+        "avg30-holo": 3.07
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-15",
+    "illustrator": "Akira Komayama",
+    "localId": "15",
+    "name": "Litten",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538918,
+            "avg": 0.23,
+            "low": 0.02,
+            "trend": 0.26,
+            "avg1": 0.48,
+            "avg7": 0.37,
+            "avg30": 0.27,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.5,
+            "avg1-holo": 3.3,
+            "avg7-holo": 2.56,
+            "avg30-holo": 3.03
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538923,
+            "avg": 1.52,
+            "low": 0.02,
+            "trend": 1.6,
+            "avg1": 1.1,
+            "avg7": 2.07,
+            "avg30": 1.58,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.44,
+            "avg1-holo": 2.7,
+            "avg7-holo": 3.04,
+            "avg30-holo": 3.28
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      725
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "description": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Bite",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Flare",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538918,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.26,
+        "avg1": 0.48,
+        "avg7": 0.37,
+        "avg30": 0.27,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.5,
+        "avg1-holo": 3.3,
+        "avg7-holo": 2.56,
+        "avg30-holo": 3.03
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-16",
+    "illustrator": "Hitoshi Ariga",
+    "localId": "16",
+    "name": "Scorbunny",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538918,
+            "avg": 0.23,
+            "low": 0.02,
+            "trend": 0.26,
+            "avg1": 0.48,
+            "avg7": 0.37,
+            "avg30": 0.27,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.5,
+            "avg1-holo": 3.3,
+            "avg7-holo": 2.56,
+            "avg30-holo": 3.03
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538933,
+            "avg": 1.51,
+            "low": 0.1,
+            "trend": 1.14,
+            "avg1": 1.95,
+            "avg7": 1.72,
+            "avg30": 1.88,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.54,
+            "avg1-holo": 3.02,
+            "avg7-holo": 2.56,
+            "avg30-holo": 3.02
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      813
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "description": "A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Super Singe",
+        "effect": "Flip a coin. If heads, your opponent’s Active Pokémon is now Burned.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538918,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.26,
+        "avg1": 0.48,
+        "avg7": 0.37,
+        "avg30": 0.27,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.5,
+        "avg1-holo": 3.3,
+        "avg7-holo": 2.56,
+        "avg30-holo": 3.03
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-17",
+    "illustrator": "tetsuya koizumi",
+    "localId": "17",
+    "name": "Squirtle",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538938,
+            "avg": 0.35,
+            "low": 0.02,
+            "trend": 0.46,
+            "avg1": 0.37,
+            "avg7": 0.48,
+            "avg30": 0.4,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 7.5,
+            "avg1-holo": 10,
+            "avg7-holo": 9.92,
+            "avg30-holo": 9.68
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538943,
+            "avg": 4.43,
+            "low": 0.49,
+            "trend": 4.39,
+            "avg1": 4.62,
+            "avg7": 4.13,
+            "avg30": 4.25,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 5.59,
+            "avg1-holo": 8,
+            "avg7-holo": 6.45,
+            "avg30-holo": 9.2
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      7
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Bubble",
+        "effect": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538938,
+        "avg": 0.35,
+        "low": 0.02,
+        "trend": 0.46,
+        "avg1": 0.37,
+        "avg7": 0.48,
+        "avg30": 0.4,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 7.5,
+        "avg1-holo": 10,
+        "avg7-holo": 9.92,
+        "avg30-holo": 9.68
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-18",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "18",
+    "name": "Totodile",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538948,
+            "avg": 0.25,
+            "low": 0.02,
+            "trend": 0.25,
+            "avg1": 0.39,
+            "avg7": 0.32,
+            "avg30": 0.26,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.84,
+            "avg1-holo": 3.99,
+            "avg7-holo": 3.23,
+            "avg30-holo": 3.63
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538953,
+            "avg": 2.17,
+            "low": 0.3,
+            "trend": 1.69,
+            "avg1": 2.02,
+            "avg7": 1.82,
+            "avg30": 2.14,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.64,
+            "avg1-holo": 3.1,
+            "avg7-holo": 3.16,
+            "avg30-holo": 4.16
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      158
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "It is small but rough and tough. It won’t hesitate to take a bite out of anything that moves.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Fury Strikes",
+        "effect": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538948,
+        "avg": 0.25,
+        "low": 0.02,
+        "trend": 0.25,
+        "avg1": 0.39,
+        "avg7": 0.32,
+        "avg30": 0.26,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.84,
+        "avg1-holo": 3.99,
+        "avg7-holo": 3.23,
+        "avg30-holo": 3.63
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-19",
+    "illustrator": "Aya Kusube",
+    "localId": "19",
+    "name": "Mudkip",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538958,
+            "avg": 0.36,
+            "low": 0.02,
+            "trend": 0.36,
+            "avg1": 0.55,
+            "avg7": 0.45,
+            "avg30": 0.35,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 3.59,
+            "avg1-holo": 3.25,
+            "avg7-holo": 3.48,
+            "avg30-holo": 3.42
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538963,
+            "avg": 2.7,
+            "low": 0.2,
+            "trend": 1.6,
+            "avg1": 2.99,
+            "avg7": 2.84,
+            "avg30": 2.53,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 1.48,
+            "avg1-holo": 2.89,
+            "avg7-holo": 3.2,
+            "avg30-holo": 4.01
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      258
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Tackle",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Mud-Slap",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538958,
+        "avg": 0.36,
+        "low": 0.02,
+        "trend": 0.36,
+        "avg1": 0.55,
+        "avg7": 0.45,
+        "avg30": 0.35,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.59,
+        "avg1-holo": 3.25,
+        "avg7-holo": 3.48,
+        "avg30-holo": 3.42
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-20",
+    "illustrator": "Shibuzoh.",
+    "localId": "20",
+    "name": "Piplup",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538968,
+            "avg": 0.27,
+            "low": 0.02,
+            "trend": 0.25,
+            "avg1": 0.38,
+            "avg7": 0.36,
+            "avg30": 0.29,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.65,
+            "avg1-holo": 2.1,
+            "avg7-holo": 2.62,
+            "avg30-holo": 3.47
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538973,
+            "avg": 2.18,
+            "low": 0.3,
+            "trend": 2.56,
+            "avg1": 2.04,
+            "avg7": 2.72,
+            "avg30": 2.34,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 3.6,
+            "avg1-holo": 4,
+            "avg7-holo": 3.01,
+            "avg30-holo": 3.07
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      393
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Peck",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Wave Splash",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538968,
+        "avg": 0.27,
+        "low": 0.02,
+        "trend": 0.25,
+        "avg1": 0.38,
+        "avg7": 0.36,
+        "avg30": 0.29,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.65,
+        "avg1-holo": 2.1,
+        "avg7-holo": 2.62,
+        "avg30-holo": 3.47
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-21",
+    "illustrator": "Ken Sugimori",
+    "localId": "21",
+    "name": "Oshawott",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538968,
+            "avg": 0.27,
+            "low": 0.02,
+            "trend": 0.25,
+            "avg1": 0.38,
+            "avg7": 0.36,
+            "avg30": 0.29,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 2.65,
+            "avg1-holo": 2.1,
+            "avg7-holo": 2.62,
+            "avg30-holo": 3.47
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538978,
+            "avg": 0.23,
+            "low": 0.02,
+            "trend": 0.25,
+            "avg1": 0.34,
+            "avg7": 0.29,
+            "avg30": 0.24,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 1.96,
+            "avg1-holo": 2.2,
+            "avg7-holo": 2.32,
+            "avg30-holo": 2.91
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      501
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Water Pulse",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538968,
+        "avg": 0.27,
+        "low": 0.02,
+        "trend": 0.25,
+        "avg1": 0.38,
+        "avg7": 0.36,
+        "avg30": 0.29,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 2.65,
+        "avg1-holo": 2.1,
+        "avg7-holo": 2.62,
+        "avg30-holo": 3.47
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-22",
+    "illustrator": "5ban Graphics",
+    "localId": "22",
+    "name": "Froakie",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538988,
+            "avg": 0.2,
+            "low": 0.02,
+            "trend": 0.21,
+            "avg1": 0.36,
+            "avg7": 0.24,
+            "avg30": 0.21,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 1.7,
+            "avg1-holo": 4.42,
+            "avg7-holo": 3,
+            "avg30-holo": 2.85
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538993,
+            "avg": 1.31,
+            "low": 0.15,
+            "trend": 1.92,
+            "avg1": 2,
+            "avg7": 1.78,
+            "avg30": 1.45,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 1.4,
+            "avg1-holo": 2,
+            "avg7-holo": 2.68,
+            "avg30-holo": 3.51
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      656
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Pound",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Water Drip",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538988,
+        "avg": 0.2,
+        "low": 0.02,
+        "trend": 0.21,
+        "avg1": 0.36,
+        "avg7": 0.24,
+        "avg30": 0.21,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.7,
+        "avg1-holo": 4.42,
+        "avg7-holo": 3,
+        "avg30-holo": 2.85
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-23",
+    "illustrator": "Kouki Saitou",
+    "localId": "23",
+    "name": "Popplio",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 538998,
+            "avg": 0.2,
+            "low": 0.02,
+            "trend": 0.23,
+            "avg1": 0.38,
+            "avg7": 0.27,
+            "avg30": 0.22,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 4.26,
+            "avg1-holo": 4,
+            "avg7-holo": 4.68,
+            "avg30-holo": 4.11
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 539003,
+            "avg": 2.78,
+            "low": 0.4,
+            "trend": 2.92,
+            "avg1": 3,
+            "avg7": 2.81,
+            "avg30": 2.86,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 3.75,
+            "avg1-holo": 4,
+            "avg7-holo": 3.97,
+            "avg30-holo": 3.42
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      728
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "description": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It’s famous for being a hard worker.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Pound",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Water Gun",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 538998,
+        "avg": 0.2,
+        "low": 0.02,
+        "trend": 0.23,
+        "avg1": 0.38,
+        "avg7": 0.27,
+        "avg30": 0.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 4.26,
+        "avg1-holo": 4,
+        "avg7-holo": 4.68,
+        "avg30-holo": 4.11
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-24",
+    "illustrator": "Mizue",
+    "localId": "24",
+    "name": "Sobble",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 539008,
+            "avg": 0.22,
+            "low": 0.02,
+            "trend": 0.19,
+            "avg1": 0.39,
+            "avg7": 0.24,
+            "avg30": 0.22,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 4,
+            "avg1-holo": 4.38,
+            "avg7-holo": 4.48,
+            "avg30-holo": 4.18
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 539013,
+            "avg": 2.9,
+            "low": 0.3,
+            "trend": 3.68,
+            "avg1": 3.9,
+            "avg7": 2.92,
+            "avg30": 2.93,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 4.55,
+            "avg1-holo": 5.5,
+            "avg7-holo": 4.95,
+            "avg30-holo": 4.85
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      816
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Bind",
+        "effect": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 539008,
+        "avg": 0.22,
+        "low": 0.02,
+        "trend": 0.19,
+        "avg1": 0.39,
+        "avg7": 0.24,
+        "avg30": 0.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 4,
+        "avg1-holo": 4.38,
+        "avg7-holo": 4.48,
+        "avg30-holo": 4.18
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2021swsh-25",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "25",
+    "name": "Pikachu",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "2021swsh",
+      "name": "McDonald's Collection 2021",
+      "symbol": "https://assets.tcgdex.net/univ/mc/2021swsh/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "15i9grynjbo8voa2ns314iyq03m8eq34",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 539018,
+            "avg": 1.48,
+            "low": 0.02,
+            "trend": 1.7,
+            "avg1": 1.11,
+            "avg7": 1.6,
+            "avg30": 1.44,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 25.1,
+            "avg1-holo": 28.39,
+            "avg7-holo": 26.7,
+            "avg30-holo": 28.1
+          },
+          "tcgplayer": null
+        }
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "25th-celebration"
+        ],
+        "variantId": "1jz5lzkp5cepu3arxr74ehuwlerveb",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 539023,
+            "avg": 22.34,
+            "low": 1.5,
+            "trend": 23.74,
+            "avg1": 14.66,
+            "avg7": 28.14,
+            "avg30": 19.69,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 28.25,
+            "avg1-holo": 35,
+            "avg7-holo": 32.72,
+            "avg30-holo": 33.92
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "description": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Meal Time",
+        "effect": "Flip a coin until you get tails. For each heads, draw a card."
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Gnaw",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 539018,
+        "avg": 1.48,
+        "low": 0.02,
+        "trend": 1.7,
+        "avg1": 1.11,
+        "avg7": 1.6,
+        "avg30": 1.44,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 25.1,
+        "avg1-holo": 28.39,
+        "avg7-holo": 26.7,
+        "avg30-holo": 28.1
+      },
+      "tcgplayer": null
+    }
+  }
+]

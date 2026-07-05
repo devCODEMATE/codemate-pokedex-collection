@@ -1,0 +1,630 @@
+{
+  "name": "Uta",
+  "totalCards": 48,
+  "cards": [
+    {
+      "id": "A1-042",
+      "name": "Ponyta",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "042",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/042",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "me01-070",
+      "name": "Onix",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "070",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/070",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "me02-016",
+      "name": "Darmanitan",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "016",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02/016",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "me02-051",
+      "name": "Trapinch",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "051",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/051",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "me04-007",
+      "name": "Chesnaught",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "007",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me04/007",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sm12-23",
+      "name": "Ponyta",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "23",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/23",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sm12-48",
+      "name": "Glalie",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "48",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/48",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sm12-70",
+      "name": "Jolteon",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "70",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/70",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv02-032",
+      "name": "Pyroar",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "032",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/032",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv02-150",
+      "name": "Copperajah ex",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "150",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/150",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv03.5-074",
+      "name": "Geodude",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "074",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/074",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv03.5-075",
+      "name": "Graveler",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "075",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/075",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv03.5-076",
+      "name": "Golem ex",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "076",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/076",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv04-093",
+      "name": "Groudon",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "093",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/093",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv04-112",
+      "name": "Crobat",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "112",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/112",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv05-053",
+      "name": "Electabuzz",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "053",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/053",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv06-092",
+      "name": "Palossand",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "092",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/092",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv08.5-049",
+      "name": "Groudon",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "049",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/049",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv08-054",
+      "name": "Cetitan",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "054",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/054",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv08-101",
+      "name": "Tauros de Paldea",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "101",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/101",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv09-057",
+      "name": "Marowak de Alola",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "057",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/057",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv09-082",
+      "name": "Regirock",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "082",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/082",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv10.5b-042",
+      "name": "Golett",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "042",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/042",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv10.5b-043",
+      "name": "Golurk",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "043",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/043",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv10.5b-138",
+      "name": "Escavalier",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "138",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/138",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv10-108",
+      "name": "Mudsdale",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "108",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/108",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv10-124",
+      "name": "Muk del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "124",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/124",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "svp-024",
+      "name": "Growlithe",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "024",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/024",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "svp-090",
+      "name": "Metang",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "090",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/090",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "svp-202",
+      "name": "Kangaskhan",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "202",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh1-101",
+      "name": "Baltoy",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "101",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/101",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh2-1",
+      "name": "Caterpie",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "1",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/1",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh2-60",
+      "name": "Shinx",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "60",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/60",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh3.5-33",
+      "name": "Ekans",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "33",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/33",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh3-139",
+      "name": "Ursaring",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "139",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/139",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh3-29",
+      "name": "Larvesta",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "29",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/29",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh4.5-31",
+      "name": "Shinx",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "31",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/31",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh4.5-4",
+      "name": "Cacnea",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "4",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/4",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh4-12",
+      "name": "Shiftry",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "12",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/12",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh4-7",
+      "name": "Yanmega",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "7",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/7",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh5-74",
+      "name": "Gurdurr",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "74",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/74",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh5-79",
+      "name": "Carkol",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "79",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/79",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh6-170",
+      "name": "Articuno de Galar V",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "170",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/170",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh6-79",
+      "name": "Sirfetch'd de Galar",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "79",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/79",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh7-100",
+      "name": "Garbodor V",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "100",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/100",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh7-81",
+      "name": "Hitmonchan",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "81",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/81",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swshp-SWSH090",
+      "name": "Houndoom",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH090",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH090",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swshp-SWSH092",
+      "name": "Charmander",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH092",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH092",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Uta"
+    }
+  ]
+}

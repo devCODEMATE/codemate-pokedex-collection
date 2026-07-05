@@ -1,0 +1,110 @@
+{
+  "name": "Palafin",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "B2a-028",
+      "name": "Palafin",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "028",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "sv03-062",
+      "name": "Palafin",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "062",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/062",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "sv03-200",
+      "name": "Palafin",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "200",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/200",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "sv04.5-124",
+      "name": "Palafin",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "124",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/124",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sv04.5-225",
+      "name": "Palafin",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "225",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/225",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv05-049",
+      "name": "Palafin",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "049",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/049",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv06-060",
+      "name": "Palafin",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "060",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/060",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Ligton"
+    },
+    {
+      "id": "svp-036",
+      "name": "Palafin",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "036",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/036",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "nagimiso"
+    }
+  ]
+}

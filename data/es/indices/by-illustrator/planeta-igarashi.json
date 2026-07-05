@@ -1,0 +1,929 @@
+{
+  "name": "PLANETA Igarashi",
+  "totalCards": 71,
+  "cards": [
+    {
+      "id": "A1-076",
+      "name": "Starmie ex",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "076",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/076",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A1-195",
+      "name": "Wigglytuff ex",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "195",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/195",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A1-257",
+      "name": "Starmie ex",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "257",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/257",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A1-263",
+      "name": "Machamp ex",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "263",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/263",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A1-265",
+      "name": "Wigglytuff ex",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "265",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/265",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A2-067",
+      "name": "Mismagius ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "067",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/067",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A2-125",
+      "name": "Lickilicky ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "125",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/125",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A2b-003",
+      "name": "Beedrill ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "003",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/003",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A2b-010",
+      "name": "Charizard ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "010",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/010",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A2b-022",
+      "name": "Pikachu ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "022",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/022",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A2b-079",
+      "name": "Beedrill ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "079",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/079",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A2b-080",
+      "name": "Charizard ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "080",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/080",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A2b-082",
+      "name": "Pikachu ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "082",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/082",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A2b-085",
+      "name": "Clodsirede Paldea ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "085",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/085",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A2b-086",
+      "name": "Tinkaton ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "086",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/086",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A2b-107",
+      "name": "Beedrill ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "107",
+      "rarity": "Two Shiny",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/107",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A2b-108",
+      "name": "Charizard ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "108",
+      "rarity": "Two Shiny",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/108",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A3-233",
+      "name": "Starmie ex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "233",
+      "rarity": "Two Shiny",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/233",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A3-235",
+      "name": "Machamp ex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "235",
+      "rarity": "Two Shiny",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/235",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "A3-237",
+      "name": "Wigglytuff ex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "237",
+      "rarity": "Two Shiny",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/237",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "B2a-129",
+      "name": "Tinkaton",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "129",
+      "rarity": "Two Shiny",
+      "image": null,
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "B2a-130",
+      "name": "Baxcalibur",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "130",
+      "rarity": "Corona",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "P-A-025",
+      "name": "Moltres ex",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "025",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/025",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm10-140",
+      "name": "Whimsicott GX",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "140",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/140",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm10-149",
+      "name": "Persian GX",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "149",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/149",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm10-163",
+      "name": "Celesteela GX",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "163",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/163",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm10-57",
+      "name": "Dedenne GX",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "57",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/57",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm11-106",
+      "name": "Aerodactyl GX",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "106",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/106",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm11-152",
+      "name": "Dragonite GX",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "152",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/152",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm6-127",
+      "name": "Ultra-Necrozma GX",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "127",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/127",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm6-140",
+      "name": "Ultra-Necrozma GX",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "140",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/140",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm7.5-65",
+      "name": "Reshiram GX",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "65",
+      "rarity": "Ultra Rara",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm7.5-71",
+      "name": "Reshiram GX",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "71",
+      "rarity": "Rara Secreta",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm7.5-78",
+      "name": "Ultra-Necrozma GX",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "78",
+      "rarity": "Rara Secreta",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm7-14",
+      "name": "Shiftry GX",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "14",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/14",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm7-152",
+      "name": "Shiftry GX",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "152",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/152",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm7-169",
+      "name": "Shiftry GX",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "169",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/169",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm8-159",
+      "name": "Lugia GX",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "159",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/159",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm8-202",
+      "name": "Sigilyph GX",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "202",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/202",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm8-207",
+      "name": "Lugia GX",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "207",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/207",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm8-222",
+      "name": "Sigilyph GX",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "222",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/222",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sm8-227",
+      "name": "Lugia GX",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "227",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/227",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv03.5-189",
+      "name": "Golem ex",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "189",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/189",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv03-153",
+      "name": "Melmetal ex",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "153",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/153",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv04-222",
+      "name": "Tapu Koko ex",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "222",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/222",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv05-120",
+      "name": "Koraidon ex",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "120",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/120",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv06.5-080",
+      "name": "Kingdra ex",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "080",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/080",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv07-030",
+      "name": "Blastoise ex",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "030",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/030",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv07-082",
+      "name": "Lucario ex",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "082",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/082",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv08.5-091",
+      "name": "Noivern ex",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "091",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/091",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv08-147",
+      "name": "Slaking ex",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "147",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/147",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv08-216",
+      "name": "Scovillain ex",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "216",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/216",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv08-227",
+      "name": "Slaking ex",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "227",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/227",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv09-051",
+      "name": "Tapu Koko ex",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "051",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/051",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv09-069",
+      "name": "Mimikyu ex",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "069",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/069",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv10.5b-003",
+      "name": "Serperior ex",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "003",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/003",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv10.5w-045",
+      "name": "Jellicent ex",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "045",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/045",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv10-218",
+      "name": "Mabosstiff ex de Damián",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "218",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/218",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "svp-104",
+      "name": "Melmetal ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "104",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/104",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "svp-179",
+      "name": "Xerneas ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "179",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "svp-204",
+      "name": "Garchomp ex de Cintia",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "204",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "swsh1-1",
+      "name": "Celebi V",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "1",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/1",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "swsh1-53",
+      "name": "Keldeo V",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "53",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/53",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "swsh2-72",
+      "name": "Pincurchin V",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "72",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/72",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "swsh3.5-32",
+      "name": "Grapploct V",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "32",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/32",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "swsh3.5-72",
+      "name": "Grapploct V",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "72",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/72",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "swsh4.5-53",
+      "name": "Greedent V",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "53",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/53",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "swsh4-167",
+      "name": "Zarude V",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "167",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/167",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "swsh4-22",
+      "name": "Zarude V",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "22",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/22",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "swshp-SWSH021",
+      "name": "Polteageist V",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH021",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH021",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "swshp-SWSH055",
+      "name": "Hatterene V",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH055",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH055",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    }
+  ]
+}

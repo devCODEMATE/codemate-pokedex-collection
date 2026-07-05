@@ -1,0 +1,45 @@
+{
+  "name": "Spidops",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "B2a-005",
+      "name": "Spidops",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "005",
+      "rarity": "Dos Diamantes",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv02-018",
+      "name": "Spidops",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "018",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/018",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "svp-009",
+      "name": "Spidops",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "009",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/009",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    }
+  ]
+}

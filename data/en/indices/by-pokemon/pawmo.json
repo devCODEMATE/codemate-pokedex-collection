@@ -1,0 +1,97 @@
+{
+  "name": "Pawmo",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "A2b-027",
+      "name": "Pawmo",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "027",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/027",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "B2a-039",
+      "name": "Pawmo",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "039",
+      "rarity": "One Diamond",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kanami Ogata"
+    },
+    {
+      "id": "B2a-120",
+      "name": "Pawmo",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "120",
+      "rarity": "One Shiny",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "whomor Inc."
+    },
+    {
+      "id": "me02-033",
+      "name": "Pawmo",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "033",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02/033",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Taiga Kayama"
+    },
+    {
+      "id": "sv01-075",
+      "name": "Pawmo",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "075",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/075",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "sv02-075",
+      "name": "Pawmo",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "075",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/075",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "sv04.5-143",
+      "name": "Pawmo",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "143",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/143",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mizue"
+    }
+  ]
+}

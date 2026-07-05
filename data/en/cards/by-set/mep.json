@@ -1,0 +1,3984 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "mep-001",
+    "illustrator": "Uninori",
+    "localId": "001",
+    "name": "Meganium",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo"
+        ],
+        "variantId": "555jb0efopmyclvkikic41"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo",
+          "staff"
+        ],
+        "variantId": "2fnyg4g5382k6pl1ij0u1km1pdn"
+      }
+    ],
+    "dexId": [
+      154
+    ],
+    "hp": 160,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Wild Growth",
+        "effect": "Each Basic {G} Energy attached to all of your Pokémon provides {G}{G} Energy. The effect of Wild Growth doesn't stack."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Solar Beam",
+        "damage": 140
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 851043,
+        "avg": 17.7,
+        "low": 7.9,
+        "trend": 19.2,
+        "avg1": 20.75,
+        "avg7": 18.48,
+        "avg30": 17.82,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-002",
+    "illustrator": "Kazumasa Yasukuni",
+    "localId": "002",
+    "name": "Inteleon",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo"
+        ],
+        "variantId": "555jb0efopmyclvkikic41"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo",
+          "staff"
+        ],
+        "variantId": "2fnyg4g5382k6pl1ij0u1km1pdn"
+      }
+    ],
+    "dexId": [
+      818
+    ],
+    "hp": 150,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Bring Down",
+        "effect": "Choose a Pokémon in play (yours or your opponent's) that has the least HP remaining, except for this Pokémon, and it is Knocked Out."
+      },
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Water Shot",
+        "effect": "Discard an Energy from this Pokémon.",
+        "damage": 110
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 851045,
+        "avg": 10.47,
+        "low": 3.5,
+        "trend": 11.63,
+        "avg1": 9,
+        "avg7": 10.39,
+        "avg30": 10.12,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-003",
+    "illustrator": "cochi8i",
+    "localId": "003",
+    "name": "Alakazam",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo"
+        ],
+        "variantId": "555jb0efopmyclvkikic41"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo",
+          "staff"
+        ],
+        "variantId": "2fnyg4g5382k6pl1ij0u1km1pdn"
+      }
+    ],
+    "dexId": [
+      65
+    ],
+    "hp": 140,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Psychic Draw",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Draw 3 cards."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Powerful Hand",
+        "effect": "Place 2 damage counters on your opponent's Active Pokémon for each card in your hand."
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 851047,
+        "avg": 17.68,
+        "low": 10,
+        "trend": 18.35,
+        "avg1": 19.95,
+        "avg7": 16.24,
+        "avg30": 17.43,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-004",
+    "illustrator": "Ounishi",
+    "localId": "004",
+    "name": "Lunatone",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo"
+        ],
+        "variantId": "555jb0efopmyclvkikic41"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo",
+          "staff"
+        ],
+        "variantId": "2fnyg4g5382k6pl1ij0u1km1pdn"
+      }
+    ],
+    "dexId": [
+      337
+    ],
+    "hp": 110,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Lunar Cycle",
+        "effect": "Once during your turn, if you have Solrock in play, you may discard a Basic {F} Energy card from your hand in order to use this Ability. Draw 3 cards. You can't use more than 1 Lunar Cycle Ability each turn."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Power Gem",
+        "damage": 50
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 851049,
+        "avg": 15.88,
+        "low": 7,
+        "trend": 16.86,
+        "avg1": 19,
+        "avg7": 15.89,
+        "avg30": 15.82,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-005",
+    "illustrator": "Shimaris Yukichi",
+    "localId": "005",
+    "name": "Drifloon",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      425
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Pull",
+        "effect": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon."
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 851051,
+        "avg": 3.84,
+        "low": 4,
+        "trend": 5.29,
+        "avg1": 4.77,
+        "avg7": 5,
+        "avg30": 3.99,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-006",
+    "illustrator": "Shimaris Yukichi",
+    "localId": "006",
+    "name": "Drifblim",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      426
+    ],
+    "hp": 110,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Disruptive Wind",
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": "Balloon Return",
+        "effect": "Put this Pokémon and all attached cards into your hand.",
+        "damage": 110
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 851052,
+        "avg": 4.04,
+        "low": 3.9,
+        "trend": 4.41,
+        "avg1": 3.92,
+        "avg7": 3.99,
+        "avg30": 4.08,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-007",
+    "illustrator": "Jiro Sasumo",
+    "localId": "007",
+    "name": "Psyduck",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      54
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Damp",
+        "effect": "Pokémon in play (both yours and your opponent's) lose all Abilities that require those Pokémon to be Knocked Out."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Collision",
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 851053,
+        "avg": 5.53,
+        "low": 0.75,
+        "trend": 8.36,
+        "avg1": 5,
+        "avg7": 5.33,
+        "avg30": 5.93,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-008",
+    "illustrator": "Jiro Sasumo",
+    "localId": "008",
+    "name": "Golduck",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      55
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Damp",
+        "effect": "Pokémon in play (both yours and your opponent's) lose all Abilities that require those Pokémon to be Knocked Out."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Hydro Pump",
+        "effect": "This attack does 20 more damage for each {W} Energy attached to this Pokémon.",
+        "damage": "60+"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 851054,
+        "avg": 0.46,
+        "low": 0.02,
+        "trend": 0.5,
+        "avg1": 0.17,
+        "avg7": 0.65,
+        "avg30": 0.52,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-009",
+    "illustrator": "Aya Kusube",
+    "localId": "009",
+    "name": "Alakazam",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "pokemon-center"
+        ],
+        "variantId": "23hmnvtwdrrnjw8wxr5005pugcpk"
+      }
+    ],
+    "dexId": [
+      65
+    ],
+    "hp": 140,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Psychic Draw",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Draw 3 cards."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Powerful Hand",
+        "effect": "Place 2 damage counters on your opponent's Active Pokémon for each card in your hand."
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 851047,
+        "avg": 17.68,
+        "low": 10,
+        "trend": 18.35,
+        "avg1": 19.95,
+        "avg7": 16.24,
+        "avg30": 17.43,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-010",
+    "illustrator": "GOSSAN",
+    "localId": "010",
+    "name": "Riolu",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "pokemon-center"
+        ],
+        "variantId": "23hmnvtwdrrnjw8wxr5005pugcpk"
+      }
+    ],
+    "dexId": [
+      447
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Accelerating Stab",
+        "effect": "During your next turn, this Pokémon can't use Accelerating Stab.",
+        "damage": 30
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-11-13T23:57:23+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 851058,
+        "avg": 11.59,
+        "low": 4.99,
+        "trend": 14.29,
+        "avg1": 11.11,
+        "avg7": 12.09,
+        "avg30": 11.98,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-011",
+    "illustrator": "5ban Graphics",
+    "localId": "011",
+    "name": "Mega Latias ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "jumbo",
+        "variantId": "slwlv6rn87"
+      }
+    ],
+    "dexId": [
+      380
+    ],
+    "hp": 280,
+    "types": [
+      "Dragon"
+    ],
+    "stage": "Basic",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Strafe",
+        "effect": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fire",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Illusory Impulse",
+        "effect": "Discard all Energy from this Pokémon.",
+        "damage": 300
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 851063,
+        "avg": 0.63,
+        "low": 0.08,
+        "trend": 0.57,
+        "avg1": 0.68,
+        "avg7": 0.61,
+        "avg30": 0.64,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-012",
+    "illustrator": "5ban Graphics",
+    "localId": "012",
+    "name": "Mega Lucario ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "jumbo",
+        "variantId": "slwlv6rn87"
+      }
+    ],
+    "dexId": [
+      448
+    ],
+    "hp": 340,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Riolu",
+    "stage": "Stage1",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Aura Jab",
+        "effect": "Attach up to 3 Basic {F} Energy cards from your discard pile to your Benched Pokémon in any way you like.",
+        "damage": 130
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Mega Brave",
+        "effect": "During your next turn, this Pokémon can't use Mega Brave.",
+        "damage": 270
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 858146,
+        "avg": 1.4,
+        "low": 0.3,
+        "trend": 1.51,
+        "avg1": 1.23,
+        "avg7": 1.37,
+        "avg30": 1.42,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-013",
+    "illustrator": "5ban Graphics",
+    "localId": "013",
+    "name": "Mega Venusaur ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "jumbo",
+        "variantId": "slwlv6rn87"
+      }
+    ],
+    "dexId": [
+      3
+    ],
+    "hp": 380,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Ivysaur",
+    "stage": "Stage2",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Solar Transfer",
+        "effect": "As often as you like during your turn, you may use this Ability. Move a Basic {G} Energy from 1 of your Pokémon to another of your Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "name": "Jungle Dump",
+        "effect": "Heal 30 damage from this Pokémon.",
+        "damage": 240
+      }
+    ],
+    "retreat": 4,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 851074,
+        "avg": 1.17,
+        "low": 0.08,
+        "trend": 1.12,
+        "avg1": 1.29,
+        "avg7": 1.32,
+        "avg30": 1.17,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:58.533Z",
+        "holofoil": {
+          "productId": 654342,
+          "lowPrice": 0.25,
+          "midPrice": 1,
+          "highPrice": 96.95,
+          "marketPrice": 1.04,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-014",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "014",
+    "name": "Ceruledge",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo"
+        ],
+        "variantId": "555jb0efopmyclvkikic41"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo",
+          "staff"
+        ],
+        "variantId": "2fnyg4g5382k6pl1ij0u1km1pdn"
+      }
+    ],
+    "hp": 140,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Infernal Slash",
+        "effect": "Discard 4 Basic {R} Energy cards from your hand. If you can't discard 4 cards in this way, this attack does nothing.",
+        "damage": 220
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-03-20T21:51:21Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 857390,
+        "avg": 17.96,
+        "low": 8,
+        "trend": 18.74,
+        "avg1": 21.99,
+        "avg7": 18.04,
+        "avg30": 18.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-015",
+    "illustrator": "Shiburingaru",
+    "localId": "015",
+    "name": "Zacian",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo"
+        ],
+        "variantId": "555jb0efopmyclvkikic41"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo",
+          "staff"
+        ],
+        "variantId": "2fnyg4g5382k6pl1ij0u1km1pdn"
+      }
+    ],
+    "hp": 130,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Limit Break",
+        "effect": "If your opponent has 3 or fewer Prize cards remaining, this attack does 90 more damage.",
+        "damage": "50+"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-03-20T21:51:21Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 857393,
+        "avg": 15.83,
+        "low": 5,
+        "trend": 13.99,
+        "avg1": 10,
+        "avg7": 13.15,
+        "avg30": 14.99,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-016",
+    "illustrator": "Oswaldo KATO",
+    "localId": "016",
+    "name": "Flygon",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo"
+        ],
+        "variantId": "555jb0efopmyclvkikic41"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo",
+          "staff"
+        ],
+        "variantId": "2fnyg4g5382k6pl1ij0u1km1pdn"
+      }
+    ],
+    "hp": 150,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Sandy Flapping",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. You may also use this Ability if this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon. Discard the top 2 cards of your opponent's deck."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Cutting Wind",
+        "damage": 130
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-03-20T21:51:21Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 857396,
+        "avg": 15.98,
+        "low": 5,
+        "trend": 16.07,
+        "avg1": 15.73,
+        "avg7": 16.54,
+        "avg30": 15.46,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-017",
+    "illustrator": "Krgc",
+    "localId": "017",
+    "name": "Toxtricity",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo"
+        ],
+        "variantId": "555jb0efopmyclvkikic41"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "set-logo",
+          "staff"
+        ],
+        "variantId": "2fnyg4g5382k6pl1ij0u1km1pdn"
+      }
+    ],
+    "hp": 140,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Sinister Surge",
+        "effect": "Once during your turn, you may use this Ability. Search your deck for a Basic {D} Energy card and attach it to 1 of your Benched {D} Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, place 2 damage counters on that Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Gentle Slap",
+        "damage": 100
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-18T00:22:04+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 857400,
+        "avg": 14.33,
+        "low": 6,
+        "trend": 13.85,
+        "avg1": 10,
+        "avg7": 11.62,
+        "avg30": 14.12,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-018",
+    "illustrator": "Kariya",
+    "localId": "018",
+    "name": "Cottonee",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      546
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Collect",
+        "effect": "Draw a card."
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-03-20T21:51:21Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-019",
+    "illustrator": "Yuka Tanaka",
+    "localId": "019",
+    "name": "Whimsicott",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      547
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Cottonee",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Healing Fluff",
+        "effect": "Heal all damage from 1 of your Benched Pokémon."
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "U-turn",
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "damage": 50
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-03-20T21:51:21Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-020",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "020",
+    "name": "Sneasel",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      215
+    ],
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Dig Claws",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": "Scratch",
+        "damage": 30
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-03-20T21:51:21Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-021",
+    "illustrator": "matazo",
+    "localId": "021",
+    "name": "Weavile",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      461
+    ],
+    "hp": 90,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Sneasel",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": "Retaliatory Claw",
+        "effect": "If this Pokémon's remaining HP is 50 or less, this attack does 170 more damage.",
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": "Cut",
+        "damage": 60
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-03-20T21:51:21Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-022",
+    "illustrator": "Teeziro",
+    "localId": "022",
+    "name": "Charcadet",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "pokemon-center"
+        ],
+        "variantId": "23hmnvtwdrrnjw8wxr5005pugcpk"
+      }
+    ],
+    "dexId": [
+      935
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Gather Strength",
+        "effect": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+      },
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Chop",
+        "damage": 10
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-03-20T21:51:21Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-023",
+    "illustrator": "Saboteri",
+    "localId": "023",
+    "name": "Mega Charizard X ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 360,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Charmeleon",
+    "stage": "Stage2",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": "Inferno X",
+        "effect": "Discard any amount of [R] Energy from among your Pokémon, and this attack does 90 damage for each card you discarded in this way.",
+        "damage": "90×"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-024",
+    "illustrator": "Shinji Kanda",
+    "localId": "024",
+    "name": "Oricorio ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      741
+    ],
+    "hp": 190,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Excited Turbo",
+        "effect": "As often as you like during your turn, if you have any {R} Mega Evolution Pokémon ex in play, you may use this Ability. Attach a Basic {R} Energy card from your hand to 1 of your Benched {R} Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Fire Wing",
+        "damage": 110
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-025",
+    "illustrator": "5ban Graphics",
+    "localId": "025",
+    "name": "Mega Kangaskhan ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "jumbo",
+        "variantId": "slwlv6rn87"
+      }
+    ],
+    "dexId": [
+      115
+    ],
+    "hp": 300,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "suffix": "ex",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Run Errand",
+        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may use this Ability. Draw 2 cards. You can't use more than 1 Run Errand Ability each turn."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Rapid-Fire Combo",
+        "effect": "Flip a coin until you get tails. This attack does 50 more damage for each heads.",
+        "damage": "200+"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-026",
+    "illustrator": "Keisin",
+    "localId": "026",
+    "name": "Meloetta",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      648
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Soothing Melody",
+        "effect": "Heal 120 damage from 1 of your Benched {P} Pokémon."
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Magical Shot",
+        "damage": 50
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-03-20T21:51:21Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-027",
+    "illustrator": "Arai Kiriko",
+    "localId": "027",
+    "name": "Haunter",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      93
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Gastly",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Spooky Shot",
+        "damage": 40
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-03-20T21:51:21Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "mep-028",
+    "illustrator": "Yuu Nishida",
+    "localId": "028",
+    "name": "Celebratory Fanfare",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "ace-trainer"
+        ],
+        "variantId": "3a83wf50tx1wqfqfzx1tg3cwq"
+      }
+    ],
+    "effect": "Once during each player's turn, that player may heal 10 damage from each of their Pokémon. If a player healed any damage in this way, their turn ends.",
+    "trainerType": "Stadium",
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-03-20T21:51:21Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-029",
+    "illustrator": "takuyoa",
+    "localId": "029",
+    "name": "Mega Charizard X ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 360,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Charmeleon",
+    "stage": "Stage2",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": "Inferno X",
+        "effect": "Discard any amount of [R] Energy from among your Pokémon, and this attack does 90 damage for each card you discarded in this way.",
+        "damage": "90×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-030",
+    "illustrator": "Ultimateinudog",
+    "localId": "030",
+    "name": "Mega Charizard Y ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 360,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Charmeleon",
+    "stage": "Stage2",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Explosion Y",
+        "effect": "Discard 3 Energy from this Pokémon, and this attack does 280 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-031",
+    "illustrator": "Bun Toujo",
+    "localId": "031",
+    "name": "N's Zekrom",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "standard",
+        "stamp": [
+          "pokemon-center"
+        ],
+        "variantId": "23hmnvtwdrrnjw8wxr5005pugcpk"
+      }
+    ],
+    "dexId": [
+      644
+    ],
+    "hp": 130,
+    "types": [
+      "Dragon"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Shred",
+        "effect": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+        "damage": 70
+      },
+      {
+        "cost": [
+          "Fire",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Rampaging Thunder",
+        "effect": "During your next turn, this Pokémon can't use attacks.",
+        "damage": 250
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-18T00:22:04+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-032",
+    "illustrator": "Saboteri",
+    "localId": "032",
+    "name": "Mega Gardevoir ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      282
+    ],
+    "hp": 360,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Kirlia",
+    "stage": "Stage2",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Overflowing Wishes",
+        "effect": "For each of your Benched Pokémon, search your deck for a Basic {P} Energy card and attach it to that Pokémon. Then, shuffle your deck."
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Mega Symphonia",
+        "effect": "This attack does 50 damage for each {P} Energy attached to all of your Pokémon.",
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-033",
+    "illustrator": "5ban Graphics",
+    "localId": "033",
+    "name": "Mega Lucario ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      448
+    ],
+    "hp": 340,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Riolu",
+    "stage": "Stage1",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Aura Jab",
+        "effect": "Attach up to 3 Basic {F} Energy cards from your discard pile to your Benched Pokémon in any way you like.",
+        "damage": 130
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Mega Brave",
+        "effect": "During your next turn, this Pokémon can't use Mega Brave.",
+        "damage": 270
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-034",
+    "illustrator": "5ban Graphics",
+    "localId": "034",
+    "name": "Mega Meganium ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "jumbo",
+        "variantId": "slwlv6rn87"
+      }
+    ],
+    "dexId": [
+      154
+    ],
+    "hp": 360,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Bayleef",
+    "stage": "Stage2",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Giant Bouquet",
+        "effect": "This attack does 50 more damage for each {G} Energy attached to this Pokémon.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-035",
+    "illustrator": "5ban Graphics",
+    "localId": "035",
+    "name": "Mega Emboar ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "jumbo",
+        "variantId": "slwlv6rn87"
+      }
+    ],
+    "dexId": [
+      500
+    ],
+    "hp": 380,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Pignite",
+    "stage": "Stage2",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Crimson Blast",
+        "effect": "This Pokémon also does 60 damage to itself.",
+        "damage": 320
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 4,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-036",
+    "illustrator": "5ban Graphics",
+    "localId": "036",
+    "name": "Mega Feraligatr ex",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      },
+      {
+        "type": "holo",
+        "size": "jumbo",
+        "variantId": "slwlv6rn87"
+      }
+    ],
+    "dexId": [
+      160
+    ],
+    "hp": 370,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Croconaw",
+    "stage": "Stage2",
+    "suffix": "ex",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Mortal Crunch",
+        "effect": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 200 more damage.",
+        "damage": "200+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-25T21:46:36+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-037",
+    "illustrator": "Saboteri",
+    "localId": "037",
+    "name": "Bulbasaur",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      1
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Leech Seed",
+        "effect": "Heal 10 damage from this Pokémon.",
+        "damage": 10
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-02T20:26:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 875186,
+        "avg": 44.13,
+        "low": 21.99,
+        "trend": 40.68,
+        "avg1": 50.96,
+        "avg7": 42.55,
+        "avg30": 44.5,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-038",
+    "illustrator": "Saboteri",
+    "localId": "038",
+    "name": "Charmander",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      4
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Ember",
+        "effect": "Discard an Energy from this Pokémon.",
+        "damage": 30
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-02T20:26:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 875187,
+        "avg": 52.55,
+        "low": 15,
+        "trend": 43.44,
+        "avg1": 44.44,
+        "avg7": 51.71,
+        "avg30": 52.86,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-039",
+    "illustrator": "Saboteri",
+    "localId": "039",
+    "name": "Squirtle",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      7
+    ],
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Bubble",
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "damage": 10
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-02T20:26:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 875188,
+        "avg": 32.35,
+        "low": 13,
+        "trend": 31.15,
+        "avg1": 32.54,
+        "avg7": 32.63,
+        "avg30": 32.26,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-040",
+    "illustrator": "Saboteri",
+    "localId": "040",
+    "name": "Turtwig",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      387
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Razor Leaf",
+        "damage": 60
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-02T20:26:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 875189,
+        "avg": 9.45,
+        "low": 4.5,
+        "trend": 9.18,
+        "avg1": 9.65,
+        "avg7": 9.46,
+        "avg30": 9.49,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-041",
+    "illustrator": "Saboteri",
+    "localId": "041",
+    "name": "Chimchar",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      390
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Fury Swipes",
+        "effect": "Flip 3 coins. This attack does 20 damage for each heads.",
+        "damage": "20×"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-02T20:26:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 875190,
+        "avg": 9.65,
+        "low": 4.99,
+        "trend": 10.52,
+        "avg1": 9.99,
+        "avg7": 9.86,
+        "avg30": 9.6,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-042",
+    "illustrator": "Saboteri",
+    "localId": "042",
+    "name": "Piplup",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      393
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Peck",
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-02T20:26:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 875191,
+        "avg": 13.41,
+        "low": 7.8,
+        "trend": 13.56,
+        "avg1": 14.38,
+        "avg7": 13.7,
+        "avg30": 13.41,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-043",
+    "illustrator": "Saboteri",
+    "localId": "043",
+    "name": "Rowlet",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      722
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Tackle",
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-02T20:26:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 875192,
+        "avg": 9.21,
+        "low": 3.99,
+        "trend": 9.69,
+        "avg1": 8.65,
+        "avg7": 9.06,
+        "avg30": 9.2,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-044",
+    "illustrator": "Saboteri",
+    "localId": "044",
+    "name": "Litten",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      725
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": "Fire Fang",
+        "effect": "Your opponent's Active Pokémon is now Burned.",
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-02T20:26:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 875193,
+        "avg": 7.99,
+        "low": 4.8,
+        "trend": 7.77,
+        "avg1": 7.94,
+        "avg7": 8.01,
+        "avg30": 8.01,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-045",
+    "illustrator": "Saboteri",
+    "localId": "045",
+    "name": "Popplio",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      728
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Disarming Voice",
+        "effect": "Your opponent's Active Pokémon is now Confused.",
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-02T20:26:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 875194,
+        "avg": 7.45,
+        "low": 4.49,
+        "trend": 7.2,
+        "avg1": 7.49,
+        "avg7": 7.45,
+        "avg30": 7.45,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-064",
+    "illustrator": "LINNE",
+    "localId": "064",
+    "name": "Serperior",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      497
+    ],
+    "hp": 160,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Servine",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Regal Command",
+        "effect": "This attack does 20 damage for each of your Pokémon in play.",
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "name": "Solar Coiling",
+        "effect": "If Rosa's Encouragement is in your discard pile, this attack does 150 more damage.",
+        "damage": "100+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-18T00:22:04+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-065",
+    "illustrator": "Hasuno",
+    "localId": "065",
+    "name": "Barbaracle",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      689
+    ],
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Binacle",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Stone Arms",
+        "effect": "Once during your turn, you may use this Ability. Attach a Basic {F} Energy card from your hand to 1 of your {F} Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Hammer In",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-18T00:22:04+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-066",
+    "illustrator": "Nisota Niso",
+    "localId": "066",
+    "name": "Tyrantrum",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      697
+    ],
+    "hp": 180,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Tyrunt",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Tyrannically Gutsy",
+        "effect": "If this Pokémon has any Special Energy attached, it gets +150 HP."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Wreak Havoc",
+        "effect": "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck.",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-18T00:22:04+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-067",
+    "illustrator": "Yukihiro Tada",
+    "localId": "067",
+    "name": "Doublade",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      680
+    ],
+    "hp": 100,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Honedge",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Weaponized Swords",
+        "effect": "Reveal any number of Honedge, Doublade, and Aegislash from your hand, and this attack does 60 damage for each card you revealed in this way.",
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-18T00:22:04+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-068",
+    "illustrator": "Takeshi Nakamura",
+    "localId": "068",
+    "name": "Makuhita",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      296
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Corkscrew Punch",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Confront",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-18T00:22:04+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-069",
+    "illustrator": "Makura Tami",
+    "localId": "069",
+    "name": "Chikorita",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      152
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Razor Leaf",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "I",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-18T00:22:04+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "mep-070",
+    "illustrator": "Shimaris Yukichi",
+    "localId": "070",
+    "name": "Tyrunt",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 0,
+        "total": 52
+      },
+      "id": "mep",
+      "name": "MEP Black Star Promos"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9"
+      }
+    ],
+    "dexId": [
+      696
+    ],
+    "hp": 100,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Antique Jaw Fossil",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Get Angry",
+        "effect": "This attack does 20 damage for each damage counter on this Pokémon.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "J",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2026-04-18T00:22:04+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

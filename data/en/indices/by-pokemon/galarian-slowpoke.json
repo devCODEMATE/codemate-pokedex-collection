@@ -1,0 +1,45 @@
+{
+  "name": "Galarian Slowpoke",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh5-54",
+      "name": "Galarian Slowpoke",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "54",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/54",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh6-54",
+      "name": "Galarian Slowpoke",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "54",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/54",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "swshp-SWSH126",
+      "name": "Galarian Slowpoke",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH126",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH126",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "sowsow"
+    }
+  ]
+}

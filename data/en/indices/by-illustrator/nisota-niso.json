@@ -1,0 +1,630 @@
+{
+  "name": "Nisota Niso",
+  "totalCards": 48,
+  "cards": [
+    {
+      "id": "A1-121",
+      "name": "Haunter",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "121",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/121",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "A2a-026",
+      "name": "Raichu",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "026",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/026",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "A3-215",
+      "name": "Squirtle",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "215",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/215",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "A3-216",
+      "name": "Wartortle",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "216",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/216",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "A3-217",
+      "name": "Blastoise",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "217",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/217",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "A3b-074",
+      "name": "Jolteon",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "074",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/074",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "A4-141",
+      "name": "Noctowl",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "141",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/141",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "A4a-097",
+      "name": "Pyukumuku",
+      "set": "A4a",
+      "setName": "Secluded Springs",
+      "number": "097",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4a/097",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "B2-223",
+      "name": "Tyrogue",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "223",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/223",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "B2-224",
+      "name": "Tauros",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "224",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/224",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "me01-034",
+      "name": "Kyogre",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "034",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me01/034",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "me02.5-107",
+      "name": "Regirock ex",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "107",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/107",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "me02.5-120",
+      "name": "Coalossal",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "120",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/120",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "me02.5-138",
+      "name": "Vullaby",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "138",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/138",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "mep-066",
+      "name": "Tyrantrum",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "066",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv01-069",
+      "name": "Rotom",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "069",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/069",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv01-131",
+      "name": "Toxicroak ex",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "131",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/131",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv02-030",
+      "name": "Talonflame",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "030",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/030",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv02-132",
+      "name": "Honchkrow",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "132",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/132",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv02-137",
+      "name": "Seviper",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "137",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/137",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv02-153",
+      "name": "Noivern ex",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "153",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/153",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv03.5-088",
+      "name": "Grimer",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "088",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/088",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv03.5-089",
+      "name": "Muk",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "089",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/089",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv03-135",
+      "name": "Absol ex",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "135",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/135",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv04.5-069",
+      "name": "Noivern ex",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "069",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/069",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv04.5-118",
+      "name": "Staryu",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "118",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/118",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv04.5-146",
+      "name": "Kilowattrel",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "146",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/146",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv04.5-180",
+      "name": "Paldean Wooper",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "180",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/180",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv04-022",
+      "name": "Volcanion",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "022",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/022",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv04-095",
+      "name": "Gabite",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "095",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/095",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv05-104",
+      "name": "Gengar ex",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "104",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/104",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv06.5-029",
+      "name": "Crobat",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "029",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/029",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv06-043",
+      "name": "Poliwrath",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "043",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/043",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv06-098",
+      "name": "Sandslash",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "098",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/098",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv07-050",
+      "name": "Joltik",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "050",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/050",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv08-059",
+      "name": "Magneton",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "059",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/059",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv09-073",
+      "name": "Grimmsnarl",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "073",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/073",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv09-079",
+      "name": "Mamoswine ex",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "079",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/079",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv10.5b-098",
+      "name": "Darmanitan",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "098",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/098",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv10.5w-078",
+      "name": "Tornadus",
+      "set": "sv10.5w",
+      "setName": "White Flare",
+      "number": "078",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5w/078",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv10-028",
+      "name": "Arcanine",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "028",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/028",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv10-101",
+      "name": "Regirock ex",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "101",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/101",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "sv10-142",
+      "name": "Steven's Skarmory",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "142",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/142",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "svp-022",
+      "name": "Pelipper",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "022",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/022",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "svp-070",
+      "name": "Greavard",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "070",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/070",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "svp-121",
+      "name": "Revavroom",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "121",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/121",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "svp-157",
+      "name": "Zapdos",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "157",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/157",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "svp-169",
+      "name": "Jolteon",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "169",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/169",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Nisota Niso"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Arctovish",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh3-54",
+      "name": "Arctovish",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "54",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/54",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh4.5-SV037",
+      "name": "Arctovish",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV037",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV037",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    }
+  ]
+}

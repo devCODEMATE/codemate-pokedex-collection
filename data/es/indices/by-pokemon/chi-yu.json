@@ -1,0 +1,71 @@
+{
+  "name": "Chi-Yu",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "B2a-021",
+      "name": "Chi-Yu",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "021",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "me01-031",
+      "name": "Chi-Yu",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "031",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/031",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Gemi"
+    },
+    {
+      "id": "sv04-029",
+      "name": "Chi-Yu",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "029",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/029",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "sv06-039",
+      "name": "Chi-Yu",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "039",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/039",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Oku"
+    },
+    {
+      "id": "svp-057",
+      "name": "Chi-Yu",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "057",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/057",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Dsuke"
+    }
+  ]
+}

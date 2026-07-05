@@ -1,0 +1,2534 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "cel25-1",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/1",
+    "localId": "1",
+    "name": "Ho-Oh",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      250
+    ],
+    "hp": 130,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Fuego Sagrado",
+        "effect": "Este ataque hace 50 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Llamarada",
+        "effect": "Descarta 1 Energía de este Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576746,
+        "avg": 0.24,
+        "low": 0.02,
+        "trend": 0.24,
+        "avg1": 0.19,
+        "avg7": 0.3,
+        "avg30": 0.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250300,
+          "lowPrice": 0.01,
+          "midPrice": 0.34,
+          "highPrice": 35,
+          "marketPrice": 0.29,
+          "directLowPrice": 0.2
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-2",
+    "illustrator": "Aya Kusube",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/2",
+    "localId": "2",
+    "name": "Reshiram",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      643
+    ],
+    "hp": 130,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Viento Abrasador",
+        "effect": "Este ataque hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Llama Negra",
+        "effect": "Si Zekrom está en tu Banca, este ataque hace 80 puntos de daño más.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576747,
+        "avg": 0.2,
+        "low": 0.02,
+        "trend": 0.21,
+        "avg1": 0.2,
+        "avg7": 0.27,
+        "avg30": 0.2,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250301,
+          "lowPrice": 0.01,
+          "midPrice": 0.33,
+          "highPrice": 5.95,
+          "marketPrice": 0.3,
+          "directLowPrice": 0.11
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-3",
+    "illustrator": "Ryuta Fuse",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/3",
+    "localId": "3",
+    "name": "Kyogre",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      382
+    ],
+    "hp": 130,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Tormenta Aqua",
+        "effect": "Descarta las 5 primeras cartas de tu baraja y luego elige 2 de los Pokémon en Banca de tu rival. Este ataque hace 50 puntos de daño a cada uno de esos Pokémon por cada carta de Energía que hayas descartado de esta manera. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Surf",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576748,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.24,
+        "avg1": 0.23,
+        "avg7": 0.26,
+        "avg30": 0.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250298,
+          "lowPrice": 0.05,
+          "midPrice": 0.4,
+          "highPrice": 10,
+          "marketPrice": 0.4,
+          "directLowPrice": 0.34
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-4",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/4",
+    "localId": "4",
+    "name": "Palkia",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      484
+    ],
+    "hp": 130,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Espacio Absoluto",
+        "effect": "Mientras este Pokémon esté en el Puesto Activo, tu rival no puede jugar ninguna carta de Estadio de su mano."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Sacudida Superdirecta",
+        "effect": "Durante tu próximo turno, el ataque Sacudida Superdirecta de este Pokémon hace 80 puntos de daño más (antes de aplicar Debilidad y Resistencia).",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576749,
+        "avg": 0.19,
+        "low": 0.02,
+        "trend": 0.17,
+        "avg1": 0.23,
+        "avg7": 0.26,
+        "avg30": 0.18,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250302,
+          "lowPrice": 0.03,
+          "midPrice": 0.26,
+          "highPrice": 10,
+          "marketPrice": 0.27,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-5",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/5",
+    "localId": "5",
+    "name": "Pikachu",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Roer",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Sacudida Atronadora",
+        "effect": "Lanza 1 moneda. Si sale cruz, este Pokémon también se hace 10 puntos de daño a sí mismo.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576750,
+        "avg": 5.7,
+        "low": 2.2,
+        "trend": 5.5,
+        "avg1": 5.24,
+        "avg7": 5.26,
+        "avg30": 5.72,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250303,
+          "lowPrice": 3,
+          "midPrice": 8.11,
+          "highPrice": 1000,
+          "marketPrice": 6.54,
+          "directLowPrice": 4.6
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-6",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/6",
+    "localId": "6",
+    "name": "Pikachu Vuelo V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 190,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Impactrueno",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Vuelo",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576751,
+        "avg": 4.05,
+        "low": 1.39,
+        "trend": 3.64,
+        "avg1": 3.54,
+        "avg7": 3.54,
+        "avg30": 4.02,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250304,
+          "lowPrice": 3.68,
+          "midPrice": 5,
+          "highPrice": 49.99,
+          "marketPrice": 4.71,
+          "directLowPrice": 4.4
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-7",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/7",
+    "localId": "7",
+    "name": "Pikachu Vuelo VMAX",
+    "rarity": "Holo Rara VMAX",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 310,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Pikachu Vuelo V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Maxiglobo",
+        "effect": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon Básicos.",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576752,
+        "avg": 7.15,
+        "low": 2,
+        "trend": 7.51,
+        "avg1": 6.15,
+        "avg7": 7.07,
+        "avg30": 7.15,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250305,
+          "lowPrice": 5.9,
+          "midPrice": 8.98,
+          "highPrice": 1000,
+          "marketPrice": 6.82,
+          "directLowPrice": 7.98
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-8",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/8",
+    "localId": "8",
+    "name": "Pikachu Surf V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 200,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Surf",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576753,
+        "avg": 5.06,
+        "low": 1.47,
+        "trend": 4.03,
+        "avg1": 3.47,
+        "avg7": 3.53,
+        "avg30": 5.16,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250306,
+          "lowPrice": 3.44,
+          "midPrice": 5.79,
+          "highPrice": 125,
+          "marketPrice": 4.79,
+          "directLowPrice": 6.09
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-9",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/9",
+    "localId": "9",
+    "name": "Pikachu Surf VMAX",
+    "rarity": "Holo Rara VMAX",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 310,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Pikachu Surf V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Maxisurfista",
+        "effect": "Este ataque también hace 30 puntos de daño a cada uno de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576754,
+        "avg": 6.63,
+        "low": 3.9,
+        "trend": 5.29,
+        "avg1": 6.56,
+        "avg7": 6.01,
+        "avg30": 6.64,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250307,
+          "lowPrice": 5.34,
+          "midPrice": 8.5,
+          "highPrice": 100,
+          "marketPrice": 6.48,
+          "directLowPrice": 6.94
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-10",
+    "illustrator": "Aya Kusube",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/10",
+    "localId": "10",
+    "name": "Zekrom",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      644
+    ],
+    "hp": 130,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Arrasamiento de Campo",
+        "effect": "Si tu rival tiene un Estadio en juego, descártalo.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Incolora"
+        ],
+        "name": "Trueno Blanco",
+        "effect": "Si Reshiram está en tu Banca, este ataque hace 80 puntos de daño más.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576755,
+        "avg": 0.19,
+        "low": 0.02,
+        "trend": 0.18,
+        "avg1": 0.22,
+        "avg7": 0.25,
+        "avg30": 0.18,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250308,
+          "lowPrice": 0.05,
+          "midPrice": 0.38,
+          "highPrice": 14.99,
+          "marketPrice": 0.33,
+          "directLowPrice": 0.24
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-11",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/11",
+    "localId": "11",
+    "name": "Mew",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cola Misteriosa",
+        "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes mirar las 6 primeras cartas de tu baraja, enseñar 1 carta de Objeto que encuentres entre ellas y ponerla en tu mano. Pon el resto de las cartas de nuevo en tu baraja y barájalas todas."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Disparo Psi",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576756,
+        "avg": 2.56,
+        "low": 0.49,
+        "trend": 2.86,
+        "avg1": 2.56,
+        "avg7": 2.56,
+        "avg30": 2.58,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250309,
+          "lowPrice": 1.5,
+          "midPrice": 4.61,
+          "highPrice": 4321,
+          "marketPrice": 4.23,
+          "directLowPrice": 4.8
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-12",
+    "illustrator": "AKIRA EGAWA",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/12",
+    "localId": "12",
+    "name": "Xerneas",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      716
+    ],
+    "hp": 120,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Soplo de Creación",
+        "effect": "Busca en tu baraja hasta 3 cartas de Energía Básica de diferentes tipos y únelas a tus Pokémon de la manera que desees. Después, baraja las cartas de tu baraja."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cuernos Aurora",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576757,
+        "avg": 0.17,
+        "low": 0.02,
+        "trend": 0.17,
+        "avg1": 0.18,
+        "avg7": 0.24,
+        "avg30": 0.18,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250310,
+          "lowPrice": 0.04,
+          "midPrice": 0.3,
+          "highPrice": 5.04,
+          "marketPrice": 0.28,
+          "directLowPrice": 0.14
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-13",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/13",
+    "localId": "13",
+    "name": "Cosmog",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      789
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Protección Estelar",
+        "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576758,
+        "avg": 0.19,
+        "low": 0.02,
+        "trend": 0.18,
+        "avg1": 0.18,
+        "avg7": 0.26,
+        "avg30": 0.19,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250311,
+          "lowPrice": 0.01,
+          "midPrice": 0.33,
+          "highPrice": 7.5,
+          "marketPrice": 0.34,
+          "directLowPrice": 0.14
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-14",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/14",
+    "localId": "14",
+    "name": "Cosmoem",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      790
+    ],
+    "hp": 90,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Cosmog",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Protección Estelar",
+        "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576759,
+        "avg": 0.18,
+        "low": 0.02,
+        "trend": 0.19,
+        "avg1": 0.15,
+        "avg7": 0.24,
+        "avg30": 0.17,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250297,
+          "lowPrice": 0.02,
+          "midPrice": 0.31,
+          "highPrice": 17.02,
+          "marketPrice": 0.27,
+          "directLowPrice": 0.12
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-15",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/15",
+    "localId": "15",
+    "name": "Lunala",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      792
+    ],
+    "hp": 160,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Cosmoem",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Dolor Lunar",
+        "effect": "Dobla la cantidad de contadores de daño en cada uno de los Pokémon de tu rival."
+      },
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Disparo Psíquico",
+        "effect": "Este ataque también hace 30 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca).",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576773,
+        "avg": 19.5,
+        "low": 5,
+        "trend": 33.18,
+        "avg1": 22.87,
+        "avg7": 16.95,
+        "avg30": 19.25,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250312,
+          "lowPrice": 0.13,
+          "midPrice": 0.39,
+          "highPrice": 7.99,
+          "marketPrice": 0.33,
+          "directLowPrice": 0.19
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-16",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/16",
+    "localId": "16",
+    "name": "Zacian V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      888
+    ],
+    "hp": 220,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Rugido de la Espada",
+        "effect": "Una vez durante tu turno, puedes buscar en tu baraja 1 carta de Energía Psychic y unirla a 1 de tus Pokémon. Después, baraja las cartas de tu baraja. Si usas esta habilidad, tu turno termina."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Estocada Tormentosa",
+        "effect": "Este ataque hace 30 puntos de daño más por cada Energía Psychic unida a este Pokémon.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576761,
+        "avg": 0.77,
+        "low": 0.15,
+        "trend": 0.84,
+        "avg1": 0.86,
+        "avg7": 0.92,
+        "avg30": 0.86,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250313,
+          "lowPrice": 0.49,
+          "midPrice": 0.99,
+          "highPrice": 10,
+          "marketPrice": 0.84,
+          "directLowPrice": 0.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-17",
+    "illustrator": "Ryuta Fuse",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/17",
+    "localId": "17",
+    "name": "Groudon",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      383
+    ],
+    "hp": 130,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Poke-POWER"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Volcán Magma",
+        "effect": "Descarta las 5 primeras cartas de tu baraja. Este ataque hace 80 puntos de daño por cada carta de Energía que hayas descartado de esta manera.",
+        "damage": "80×"
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Corte Masivo",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576762,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.22,
+        "avg1": 0.21,
+        "avg7": 0.27,
+        "avg30": 0.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250314,
+          "lowPrice": 0.07,
+          "midPrice": 0.37,
+          "highPrice": 10,
+          "marketPrice": 0.35,
+          "directLowPrice": 0.4
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-18",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/18",
+    "localId": "18",
+    "name": "Zamazenta V",
+    "rarity": "Holo Rara V",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      889
+    ],
+    "hp": 220,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Gruñido del Escudo",
+        "effect": "Los ataques de los Pokémon VMAX de tu rival hacen 20 puntos de daño menos a todos tus Pokémon Fighting (después de aplicar Debilidad y Resistencia). No puedes aplicar más de 1 habilidad Gruñido del Escudo a la vez."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Impacto Pesado",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576763,
+        "avg": 0.78,
+        "low": 0.05,
+        "trend": 0.78,
+        "avg1": 0.9,
+        "avg7": 0.95,
+        "avg30": 0.82,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250299,
+          "lowPrice": 0.35,
+          "midPrice": 0.94,
+          "highPrice": 17.8,
+          "marketPrice": 0.81,
+          "directLowPrice": 0.68
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-19",
+    "illustrator": "AKIRA EGAWA",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/19",
+    "localId": "19",
+    "name": "Yveltal",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      717
+    ],
+    "hp": 120,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Alaridos de Destrucción",
+        "effect": "Descarta hasta 3 Energías Especiales de los Pokémon de tu rival."
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Pluma Oscura",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576764,
+        "avg": 0.16,
+        "low": 0.02,
+        "trend": 0.18,
+        "avg1": 0.14,
+        "avg7": 0.21,
+        "avg30": 0.16,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250315,
+          "lowPrice": 0.01,
+          "midPrice": 0.25,
+          "highPrice": 5.04,
+          "marketPrice": 0.15,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-20",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/20",
+    "localId": "20",
+    "name": "Dialga",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      483
+    ],
+    "hp": 130,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Regresión Temporal",
+        "effect": "Pon 1 carta de tu pila de descartes en tu mano."
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Explosión Metálica",
+        "effect": "Este ataque hace 20 puntos de daño más por cada Energía Metal unida a este Pokémon.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576765,
+        "avg": 0.22,
+        "low": 0.02,
+        "trend": 0.17,
+        "avg1": 0.22,
+        "avg7": 0.27,
+        "avg30": 0.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250296,
+          "lowPrice": 0.01,
+          "midPrice": 0.29,
+          "highPrice": 58,
+          "marketPrice": 0.29,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-21",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/21",
+    "localId": "21",
+    "name": "Solgaleo",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      791
+    ],
+    "hp": 170,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Cosmoem",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Apremio",
+        "effect": "Una vez durante tu turno, si este Pokémon está en tu Banca, puedes cambiarlo por tu Pokémon Activo."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Géiser Solar",
+        "effect": "Une hasta 2 cartas de Energía Básica de tu pila de descartes a 1 de tus Pokémon en Banca.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Planta",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576766,
+        "avg": 0.26,
+        "low": 0.02,
+        "trend": 0.22,
+        "avg1": 0.25,
+        "avg7": 0.28,
+        "avg30": 0.27,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250316,
+          "lowPrice": 0.1,
+          "midPrice": 0.4,
+          "highPrice": 7.5,
+          "marketPrice": 0.4,
+          "directLowPrice": 0.24
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-22",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/22",
+    "localId": "22",
+    "name": "Lugia",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      249
+    ],
+    "hp": 130,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Bola Aérea",
+        "effect": "Este ataque hace 20 puntos de daño por cada Energía unida a ambos Pokémon Activos.",
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Aplastamiento Profundo",
+        "effect": "Durante tu próximo turno, este Pokémon no puede atacar.",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576767,
+        "avg": 0.36,
+        "low": 0.02,
+        "trend": 0.41,
+        "avg1": 0.26,
+        "avg7": 0.35,
+        "avg30": 0.34,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250317,
+          "lowPrice": 0.01,
+          "midPrice": 0.9,
+          "highPrice": 19.99,
+          "marketPrice": 0.9,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "cel25-23",
+    "illustrator": "KIYOTAKA OSHIYAMA",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/23",
+    "localId": "23",
+    "name": "Investigación de Profesores (Profesor Oak)",
+    "rarity": "Holo Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Descarta las cartas de tu mano y roba 7 cartas.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2023-12-27T19:30:08+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "cel25-24",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/es/swsh/cel25/24",
+    "localId": "24",
+    "name": "Investigación de Profesores (Profesor Oak)",
+    "rarity": "Ultra Rara",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Descarta las cartas de tu mano y roba 7 cartas.",
+    "trainerType": "Partidario",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-10-26T17:21:38+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "cel25-25",
+    "illustrator": "Saki Hayashiro",
+    "localId": "25",
+    "name": "Mew",
+    "rarity": "Rara Secreta",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 25
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/es/swsh/cel25/logo",
+      "name": "Celebraciones",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Cola Misteriosa",
+        "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes mirar las 6 primeras cartas de tu baraja, enseñar 1 carta de Objeto que encuentres entre ellas y ponerla en tu mano. Pon el resto de las cartas de nuevo en tu baraja y barájalas todas."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Disparo Psi",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576756,
+        "avg": 2.56,
+        "low": 0.49,
+        "trend": 2.86,
+        "avg1": 2.56,
+        "avg7": 2.56,
+        "avg30": 2.58,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250295,
+          "lowPrice": 60,
+          "midPrice": 76.71,
+          "highPrice": 5000,
+          "marketPrice": 67.12,
+          "directLowPrice": 75.47
+        }
+      }
+    }
+  }
+]

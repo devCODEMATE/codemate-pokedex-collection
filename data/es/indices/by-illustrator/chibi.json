@@ -1,0 +1,552 @@
+{
+  "name": "chibi",
+  "totalCards": 42,
+  "cards": [
+    {
+      "id": "2022swsh-7",
+      "name": "Pikachu",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "7",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "2023sv-12",
+      "name": "Blissey",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "12",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "A2-018",
+      "name": "Vespiquen",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "018",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/018",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "A3-056",
+      "name": "Tapu Fini",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "056",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/056",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "A3-116",
+      "name": "Toxapex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "116",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/116",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "me02.5-072",
+      "name": "Kilowattrel de e-Nigma",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "072",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/072",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "me02.5-289",
+      "name": "Metagross ex de Máximo",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "289",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/289",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm10-67",
+      "name": "Gastly",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "67",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/67",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm10-81",
+      "name": "Marshadow",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "81",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/81",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm11-153",
+      "name": "Latias",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "153",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/153",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm11-226",
+      "name": "Mega-Sableye y Tyranitar GX",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "226",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/226",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm11-97",
+      "name": "Toxapex",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "97",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/97",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm12-178",
+      "name": "Braviary",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "178",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/178",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm1-3",
+      "name": "Butterfree",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "3",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm3-6",
+      "name": "Vileplume",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "6",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/6",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm4-40",
+      "name": "Mismagius",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "40",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/40",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm5-59",
+      "name": "Cresselia",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "59",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/59",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm8-32",
+      "name": "Vespiquen",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "32",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/32",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sv01-113",
+      "name": "Riolu",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "113",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/113",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sv01-145",
+      "name": "Blissey",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "145",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/145",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sv02-152",
+      "name": "Noibat",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "152",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/152",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sv03.5-144",
+      "name": "Articuno",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "144",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/144",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sv04.5-068",
+      "name": "Noibat",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "068",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/068",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sv04-073",
+      "name": "Latios",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "073",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/073",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sv05-080",
+      "name": "Ferropaladín",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "080",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/080",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sv07-047",
+      "name": "Electivire",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "047",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/047",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sv08.5-086",
+      "name": "Regigigas",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "086",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/086",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sv08-118",
+      "name": "Zweilous",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "118",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/118",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sv09-055",
+      "name": "Kilowattrel de e-Nigma",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "055",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/055",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sv10.5b-165",
+      "name": "Kyurem ex",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "165",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/165",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh1-140",
+      "name": "Snorlax",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "140",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/140",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh1-4",
+      "name": "Roserade",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "4",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/4",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh2-11",
+      "name": "Masquerain",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "11",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/11",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh3-146",
+      "name": "Staravia",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "146",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/146",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh5-146",
+      "name": "Empoleon V",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "146",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/146",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh5-38",
+      "name": "Corphish",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "38",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/38",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh5-53",
+      "name": "Boltund",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "53",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/53",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh6-53",
+      "name": "Zeraora V",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "53",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/53",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh6-73",
+      "name": "Hatterene",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "73",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/73",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh7-49",
+      "name": "Pikachu",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "49",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/49",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh7-72",
+      "name": "Floette",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "72",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/72",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh8-85",
+      "name": "Frosmoth",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "85",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/85",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "chibi"
+    }
+  ]
+}

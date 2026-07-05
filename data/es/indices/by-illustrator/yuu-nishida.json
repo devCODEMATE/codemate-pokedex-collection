@@ -1,0 +1,936 @@
+{
+  "name": "Yuu Nishida",
+  "totalCards": 76,
+  "cards": [
+    {
+      "id": "A1-132",
+      "name": "Gardevoir",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "132",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/132",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A1-162",
+      "name": "Clobbopus",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "162",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/162",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A1-225",
+      "name": "Sabrina",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "225",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/225",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A1a-066",
+      "name": "Explorador Novel",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "066",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/066",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A1a-073",
+      "name": "Dedenne",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "073",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/073",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A1a-080",
+      "name": "Explorador Novel",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "080",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/080",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A2-155",
+      "name": "Venus",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "155",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/155",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A2-163",
+      "name": "Shinx",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "163",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/163",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A2-195",
+      "name": "Venus",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "195",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/195",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A2a-031",
+      "name": "Gastly",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "031",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/031",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A2a-073",
+      "name": "Anciana de Pueblo Caelestis",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "073",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/073",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A2a-088",
+      "name": "Anciana de Pueblo Caelestis",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "088",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/088",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A3-152",
+      "name": "Capitana Nereida",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "152",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/152",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A3-194",
+      "name": "Capitana Nereida",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "194",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/194",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "cel25-11",
+      "name": "Mew",
+      "set": "cel25",
+      "setName": "Celebraciones",
+      "number": "11",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/cel25/11",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "me01-113",
+      "name": "Travesura de Zarala",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "113",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/113",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "me01-165",
+      "name": "Travesura de Zarala",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "165",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me01/165",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "me02.5-180",
+      "name": "Travesura de Zarala",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "180",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/180",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "me02.5-225",
+      "name": "Scorbunny",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "225",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/225",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "me02-087",
+      "name": "Maya",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "087",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02/087",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "me02-118",
+      "name": "Maya",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "118",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02/118",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "me02-129",
+      "name": "Maya",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "129",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/me/me02/129",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "mep-028",
+      "name": "Algarabía Celebratoria",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "028",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "P-A-008",
+      "name": "Pokédex",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "008",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/008",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv01-071",
+      "name": "Toxel",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "071",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/071",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv01-090",
+      "name": "Drifblim",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "090",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/090",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv02-031",
+      "name": "Litleo",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "031",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/031",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv02-083",
+      "name": "Jigglypuff",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "083",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/083",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv03.5-001",
+      "name": "Bulbasaur",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "001",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/001",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv03.5-002",
+      "name": "Ivysaur",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "002",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/002",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv04.5-131",
+      "name": "Pikachu",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "131",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/131",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv04.5-166",
+      "name": "Tinkatuff",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "166",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/166",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv04.5-176",
+      "name": "Nacli",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "176",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/176",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv04-119",
+      "name": "Nickit",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "119",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/119",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv04-206",
+      "name": "Morpeko",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "206",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/206",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv05-137",
+      "name": "Cinccino",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "137",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/137",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv06.5-031",
+      "name": "Zorua",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "031",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/031",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv06-066",
+      "name": "Shinx",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "066",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/066",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv07-068",
+      "name": "Flittle",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "068",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/068",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv07-078",
+      "name": "Meditite",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "078",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/078",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv07-169",
+      "name": "Dachsbun ex",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "169",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/169",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv08.5-143",
+      "name": "Mila",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "143",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/143",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv09-183",
+      "name": "Bellibolt ex de e-Nigma",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "183",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/183",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv10.5b-082",
+      "name": "Oryza",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "082",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/082",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv10.5b-162",
+      "name": "Oryza",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "162",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/162",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv10.5w-055",
+      "name": "Purrloin",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "055",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/055",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv10.5w-056",
+      "name": "Liepard",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "056",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/056",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv10.5w-167",
+      "name": "Keldeo ex",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "167",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/167",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "sv10-045",
+      "name": "Psyduck de Misty",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "045",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/045",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "svp-001",
+      "name": "Sprigatito",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "001",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/001",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh4.5-3",
+      "name": "Celebi",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "3",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh5-159",
+      "name": "Malta",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "159",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/159",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh5-173",
+      "name": "Malta",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "173",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/173",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh5-61",
+      "name": "Meowstic",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "61",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/61",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh6-15",
+      "name": "Tsareena",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "15",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/15",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh6-41",
+      "name": "Sobble",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "41",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/41",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh6-86",
+      "name": "Rockruff",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "86",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/86",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh7-184",
+      "name": "Sylveon V",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "184",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/184",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh8-155",
+      "name": "Falinks",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "155",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/155",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh8-193",
+      "name": "Latias",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "193",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/193",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh8-212",
+      "name": "Buneary",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "212",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/212",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh8-226",
+      "name": "Cazabichos",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "226",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/226",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh8-240",
+      "name": "Xana",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "240",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/240",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh8-259",
+      "name": "Bailarina",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "259",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/259",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh8-263",
+      "name": "Xana",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "263",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/263",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh8-274",
+      "name": "Bailarina",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "274",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/274",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh8-278",
+      "name": "Xana",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "278",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/278",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh8-33",
+      "name": "Arcanine",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "33",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/33",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swshp-SWSH080",
+      "name": "Dedenne",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH080",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH080",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swshp-SWSH094",
+      "name": "Jolteon",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH094",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH094",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swshp-SWSH118",
+      "name": "Eevee",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH118",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH118",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swshp-SWSH287",
+      "name": "Morpeko V-UNIÓN",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH287",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swshp-SWSH288",
+      "name": "Morpeko V-UNIÓN",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH288",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swshp-SWSH289",
+      "name": "Morpeko V-UNIÓN",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH289",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swshp-SWSH290",
+      "name": "Morpeko V-UNIÓN",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH290",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swshp-SWSH302",
+      "name": "Sófora",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH302",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    }
+  ]
+}

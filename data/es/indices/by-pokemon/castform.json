@@ -1,0 +1,58 @@
+{
+  "name": "Castform",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm2-105",
+      "name": "Castform",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "105",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/105",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh11-TG11",
+      "name": "Castform",
+      "set": "swsh11",
+      "setName": "Origen Perdido",
+      "number": "TG11",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh11/TG11",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh6-121",
+      "name": "Castform",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "121",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/121",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Asako Ito"
+    },
+    {
+      "id": "swsh9-116",
+      "name": "Castform",
+      "set": "swsh9",
+      "setName": "Astros Brillantes",
+      "number": "116",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh9/116",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": null
+    }
+  ]
+}

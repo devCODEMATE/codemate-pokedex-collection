@@ -1,0 +1,45 @@
+{
+  "name": "Buzzwole",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm12-21",
+      "name": "Buzzwole",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "21",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/21",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm6-77",
+      "name": "Buzzwole",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "77",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/77",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "smp-SM218",
+      "name": "Buzzwole",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM218",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    }
+  ]
+}

@@ -1,0 +1,1570 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-e-1",
+    "illustrator": "Mosakazu Fukuda",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/1",
+    "localId": "1",
+    "name": "Lillipup",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      506
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ]
+      },
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-e-2",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/2",
+    "localId": "2",
+    "name": "Energía Lucha",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-e-3",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/3",
+    "localId": "3",
+    "name": "Energía Lucha",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-bw-e-4",
+    "illustrator": "Kent Kanetsuna",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/4",
+    "localId": "4",
+    "name": "Interruptor de Energía",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Mueve una Energía Básica de 1 de tus Pokémon a otro de tus Pokémon.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-e-5",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/5",
+    "localId": "5",
+    "name": "Energía Lucha",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-e-6",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/6",
+    "localId": "6",
+    "name": "Energía Lucha",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-e-7",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/7",
+    "localId": "7",
+    "name": "Energía Lucha",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-e-8",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/8",
+    "localId": "8",
+    "name": "Energía Lucha",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-e-9",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/9",
+    "localId": "9",
+    "name": "Energía Lucha",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-e-10",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/10",
+    "localId": "10",
+    "name": "Energía Lucha",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-e-11",
+    "illustrator": "match",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/11",
+    "localId": "11",
+    "name": "Timburr",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      532
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "2x"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-e-12",
+    "illustrator": "MAHOU",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/12",
+    "localId": "12",
+    "name": "Audino",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      531
+    ],
+    "hp": 80,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": "30x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "2x"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-e-13",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/13",
+    "localId": "13",
+    "name": "Drilbur",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      529
+    ],
+    "hp": 70,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ]
+      },
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "2x"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Rayo",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-e-14",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/14",
+    "localId": "14",
+    "name": "Gurdurr",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      533
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Timburr",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ]
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-bw-e-15",
+    "illustrator": "Ayaka Yoshida",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/15",
+    "localId": "15",
+    "name": "Poción",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 30 puntos de daño a 1 de tus Pokémon.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-bw-e-16",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/16",
+    "localId": "16",
+    "name": "PoderPlus",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante este turno, los ataques de tus Pokémon hacen 10 puntos de daño más a los Pokémon Activos (antes de aplicar Debilidad y Resistencia).",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-e-17",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/17",
+    "localId": "17",
+    "name": "Excadrill",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      530
+    ],
+    "hp": 110,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Drilbur",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha"
+        ],
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Rayo",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-e-18",
+    "illustrator": "MAHOU",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/18",
+    "localId": "18",
+    "name": "Audino",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      531
+    ],
+    "hp": 80,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": "30x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "2x"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-e-19",
+    "illustrator": "Midori Harada",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/19",
+    "localId": "19",
+    "name": "Herdier",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      507
+    ],
+    "hp": 80,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Lillipup",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ]
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-e-20",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/20",
+    "localId": "20",
+    "name": "Energía Lucha",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-bw-e-21",
+    "illustrator": "Ryo Ueda",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/21",
+    "localId": "21",
+    "name": "Búsqueda de Energía",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Busca en tu baraja una carta de Energía Básica, enséñala y ponla en tu mano. Baraja las cartas de tu baraja después.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-e-22",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/22",
+    "localId": "22",
+    "name": "Energía Lucha",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-bw-e-23",
+    "illustrator": "Ayaka Yoshida",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/23",
+    "localId": "23",
+    "name": "Poción",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 30 puntos de daño a 1 de tus Pokémon.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-bw-e-24",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/24",
+    "localId": "24",
+    "name": "Comunicación Pokémon",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Enseña un Pokémon de tu mano y ponlo en la parte superior de tu baraja. Si lo haces, busca en tu baraja un Pokémon, enséñalo y ponlo en tu mano. Baraja las cartas de tu baraja después.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-e-25",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/25",
+    "localId": "25",
+    "name": "Drilbur",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      529
+    ],
+    "hp": 70,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ]
+      },
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Rayo",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-e-26",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/26",
+    "localId": "26",
+    "name": "Energía Lucha",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-e-27",
+    "illustrator": "Mosakazu Fukuda",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/27",
+    "localId": "27",
+    "name": "Lillipup",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      506
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ]
+      },
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-e-28",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/28",
+    "localId": "28",
+    "name": "Energía Lucha",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-e-29",
+    "illustrator": "match",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/29",
+    "localId": "29",
+    "name": "Timburr",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      532
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "2x"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-e-30",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/30",
+    "localId": "30",
+    "name": "Excadrill",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-e",
+      "name": "Kit de Entrenador BW (Excadrill)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      530
+    ],
+    "hp": 110,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Drilbur",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha"
+        ],
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Rayo",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

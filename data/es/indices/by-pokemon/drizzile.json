@@ -1,0 +1,71 @@
+{
+  "name": "Drizzile",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "me01-040",
+      "name": "Drizzile",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "040",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/040",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "swsh1-56",
+      "name": "Drizzile",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "56",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/56",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "swsh1-57",
+      "name": "Drizzile",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/57",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "swsh4.5-SV026",
+      "name": "Drizzile",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV026",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV026",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "swsh6-42",
+      "name": "Drizzile",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/42",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

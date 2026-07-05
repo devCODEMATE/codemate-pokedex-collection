@@ -1,0 +1,32 @@
+{
+  "name": "Team Aqua's Seviper",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dc1-9",
+      "name": "Team Aqua's Seviper",
+      "set": "dc1",
+      "setName": "Double Crisis",
+      "number": "9",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/dc1/9",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "ex4-17",
+      "name": "Team Aqua's Seviper",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "17",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/17",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Jungo Suzuki"
+    }
+  ]
+}

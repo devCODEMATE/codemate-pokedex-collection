@@ -1,0 +1,32 @@
+{
+  "name": "Mika Pikazo",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh6-24",
+      "name": "Volcarona",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "24",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/24",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Mika Pikazo"
+    },
+    {
+      "id": "swsh7-9",
+      "name": "Petilil",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "9",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/9",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mika Pikazo"
+    }
+  ]
+}

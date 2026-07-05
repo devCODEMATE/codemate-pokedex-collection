@@ -1,0 +1,30 @@
+{
+  "name": "Mana Ibe",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "pl4-22",
+      "name": "Manectric",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/22",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mana Ibe"
+    },
+    {
+      "id": "sm12-232",
+      "name": "N’s Resolve",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "232",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/232",
+      "types": null,
+      "illustrator": "Mana Ibe"
+    }
+  ]
+}

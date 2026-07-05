@@ -1,0 +1,474 @@
+{
+  "name": "Shiburingaru",
+  "totalCards": 36,
+  "cards": [
+    {
+      "id": "A1-191",
+      "name": "Spearow",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "191",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/191",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "A2a-009",
+      "name": "Carnivine",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "009",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/009",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "A4-095",
+      "name": "Gliscor",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "095",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/095",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "A4-114",
+      "name": "Honchkrow",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "114",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/114",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "B1-132",
+      "name": "Krookodile",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "132",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/132",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "B2-178",
+      "name": "Salamence",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "178",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/178",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "me01-030",
+      "name": "Centiskorch",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "030",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me01/030",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "me02.5-066",
+      "name": "Vikavolt",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "066",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/066",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "me04-031",
+      "name": "Deoxys",
+      "set": "me04",
+      "setName": "Chaos Rising",
+      "number": "031",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me04/031",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "mep-015",
+      "name": "Zacian",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "015",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv01-064",
+      "name": "Magneton",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "064",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/064",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv01-130",
+      "name": "Croagunk",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "130",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/130",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv02-092",
+      "name": "Gothitelle",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "092",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/092",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03.5-032",
+      "name": "Nidoran♂",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "032",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/032",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03.5-033",
+      "name": "Nidorino",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "033",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/033",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03.5-034",
+      "name": "Nidoking",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "034",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/034",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03.5-202",
+      "name": "Zapdos ex",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "202",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/202",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03-032",
+      "name": "Camerupt",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "032",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/032",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03-139",
+      "name": "Salandit",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "139",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/139",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv04-066",
+      "name": "Zekrom",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "066",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/066",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv04-090",
+      "name": "Onix",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "090",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/090",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv05-095",
+      "name": "Coalossal",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "095",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/095",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv06.5-047",
+      "name": "Kyurem",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "047",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/047",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv06-117",
+      "name": "Scolipede",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "117",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/117",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv07-053",
+      "name": "Vikavolt",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "053",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/053",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv07-108",
+      "name": "Varoom",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "108",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/108",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv08-083",
+      "name": "Cofagrigus",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "083",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/083",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv08-125",
+      "name": "Registeel",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "125",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/125",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv09-064",
+      "name": "N's Sigilyph",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "064",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/064",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv09-085",
+      "name": "Lycanroc",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "085",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/085",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv10.5w-135",
+      "name": "Terrakion",
+      "set": "sv10.5w",
+      "setName": "White Flare",
+      "number": "135",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5w/135",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv10-074",
+      "name": "Team Rocket's Ampharos",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "074",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/074",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv10-092",
+      "name": "Annihilape",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "092",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/092",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "svp-021",
+      "name": "Murkrow",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "021",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/021",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "svp-120",
+      "name": "Pupitar",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "120",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/120",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "swshp-SWSH282",
+      "name": "Galarian Articuno",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH282",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shiburingaru"
+    }
+  ]
+}

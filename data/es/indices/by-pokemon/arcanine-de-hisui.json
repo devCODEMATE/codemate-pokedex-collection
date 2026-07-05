@@ -1,0 +1,58 @@
+{
+  "name": "Arcanine de Hisui",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sv06-100",
+      "name": "Arcanine de Hisui",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "100",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/100",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "SIE NANAHARA"
+    },
+    {
+      "id": "swsh10-071",
+      "name": "Arcanine de Hisui",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "071",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/071",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh11-084",
+      "name": "Arcanine de Hisui",
+      "set": "swsh11",
+      "setName": "Origen Perdido",
+      "number": "084",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh11/084",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh11-TG08",
+      "name": "Arcanine de Hisui",
+      "set": "swsh11",
+      "setName": "Origen Perdido",
+      "number": "TG08",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh11/TG08",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": null
+    }
+  ]
+}

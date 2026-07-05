@@ -1,0 +1,45 @@
+{
+  "name": "Chesnaught",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "me04-007",
+      "name": "Chesnaught",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "007",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me04/007",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "xy1-14",
+      "name": "Chesnaught",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "14",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/14",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "xy8-11",
+      "name": "Chesnaught",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "11",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/11",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

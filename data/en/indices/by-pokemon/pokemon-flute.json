@@ -1,0 +1,28 @@
+{
+  "name": "Pokémon Flute",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "A1a-064",
+      "name": "Pokémon Flute",
+      "set": "A1a",
+      "setName": "Mythical Island",
+      "number": "064",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1a/064",
+      "types": null,
+      "illustrator": "Toyste Beach"
+    },
+    {
+      "id": "base1-86",
+      "name": "Pokémon Flute",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "86",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base1/86",
+      "types": null,
+      "illustrator": "Keiji Kinebuchi"
+    }
+  ]
+}

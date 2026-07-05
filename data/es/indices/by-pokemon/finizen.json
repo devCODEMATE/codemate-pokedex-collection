@@ -1,0 +1,84 @@
+{
+  "name": "Finizen",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2a-027",
+      "name": "Finizen",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "027",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sv03-060",
+      "name": "Finizen",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "060",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/060",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sv03-061",
+      "name": "Finizen",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "061",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/061",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv04.5-123",
+      "name": "Finizen",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "123",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/123",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv05-048",
+      "name": "Finizen",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "048",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/048",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "sv06-059",
+      "name": "Finizen",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "059",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/059",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Narumi Sato"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Bellossom",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "A2-003",
+      "name": "Bellossom",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "003",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/003",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "bw7-4",
+      "name": "Bellossom",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "4",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/4",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sv03-003",
+      "name": "Bellossom",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "003",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/003",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh12.5-003",
+      "name": "Bellossom",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "003",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/003",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy7-4",
+      "name": "Bellossom",
+      "set": "xy7",
+      "setName": "Antiguos Orígenes",
+      "number": "4",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy7/4",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mizue"
+    }
+  ]
+}

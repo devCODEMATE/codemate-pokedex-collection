@@ -1,0 +1,45 @@
+{
+  "name": "Tapu Fini GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm3-133",
+      "name": "Tapu Fini GX",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "133",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/133",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm3-152",
+      "name": "Tapu Fini GX",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "152",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/152",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm3-39",
+      "name": "Tapu Fini GX",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "39",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/39",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

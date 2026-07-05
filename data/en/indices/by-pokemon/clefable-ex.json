@@ -1,0 +1,32 @@
+{
+  "name": "Clefable ex",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "ex6-106",
+      "name": "Clefable ex",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "106",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/106",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sv03-082",
+      "name": "Clefable ex",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "082",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/082",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Satoshi Shirai"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Magcargo de Eco",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "me02.5-024",
+      "name": "Magcargo de Eco",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "024",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/024",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "me02.5-222",
+      "name": "Magcargo de Eco",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "222",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/222",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Hideki Ishikawa"
+    },
+    {
+      "id": "sv10-036",
+      "name": "Magcargo de Eco",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "036",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/036",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "kodama"
+    }
+  ]
+}

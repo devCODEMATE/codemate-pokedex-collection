@@ -1,0 +1,45 @@
+{
+  "name": "Pheromosa GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm5-140",
+      "name": "Pheromosa GX",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "140",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/140",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm5-158",
+      "name": "Pheromosa GX",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "158",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/158",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM66",
+      "name": "Pheromosa GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM66",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM66",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

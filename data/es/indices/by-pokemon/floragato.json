@@ -1,0 +1,110 @@
+{
+  "name": "Floragato",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "A2b-006",
+      "name": "Floragato",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "006",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "B2a-002",
+      "name": "Floragato",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "002",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "B2a-117",
+      "name": "Floragato",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "117",
+      "rarity": "One Shiny",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "sv01-014",
+      "name": "Floragato",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "014",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/014",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv02-014",
+      "name": "Floragato",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "014",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/014",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv02-197",
+      "name": "Floragato",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "197",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/197",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv09-017",
+      "name": "Floragato",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "017",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/017",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Felicia Chen"
+    },
+    {
+      "id": "svp-077",
+      "name": "Floragato",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "077",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/077",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GIDORA"
+    }
+  ]
+}

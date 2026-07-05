@@ -1,0 +1,45 @@
+{
+  "name": "Corviknight VMAX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh12-TG19",
+      "name": "Corviknight VMAX",
+      "set": "swsh12",
+      "setName": "Tempestad Plateada",
+      "number": "TG19",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12/TG19",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh5-110",
+      "name": "Corviknight VMAX",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "110",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/110",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Mochizuki"
+    },
+    {
+      "id": "swsh5-171",
+      "name": "Corviknight VMAX",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "171",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/171",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Mochizuki"
+    }
+  ]
+}

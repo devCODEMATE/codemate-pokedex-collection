@@ -1,0 +1,70 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "tk-hs-g-20",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "20",
+    "name": "Gyarados",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-hs-g",
+      "name": "HS trainer Kit (Gyarados)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-hs-g/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      130
+    ],
+    "hp": 130,
+    "description": "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "name": "Hydro Splash",
+        "damage": 50
+      },
+      {
+        "name": "Hyper Beam",
+        "effect": "Discard an Energy card attached to the Defending Pokémon.",
+        "damage": 80
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T17:28:18Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:44.534Z",
+        "normal": {
+          "productId": 85997,
+          "lowPrice": 6.15,
+          "midPrice": 10.06,
+          "highPrice": 119.9,
+          "marketPrice": 7.47,
+          "directLowPrice": null
+        }
+      }
+    }
+  }
+]

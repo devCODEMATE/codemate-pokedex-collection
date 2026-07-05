@@ -1,0 +1,58 @@
+{
+  "name": "Celebi y Venusaur GX",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm9-1",
+      "name": "Celebi y Venusaur GX",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "1",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/1",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sm9-159",
+      "name": "Celebi y Venusaur GX",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "159",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/159",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm9-182",
+      "name": "Celebi y Venusaur GX",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "182",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/182",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM167",
+      "name": "Celebi y Venusaur GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM167",
+      "rarity": "Ultra Rara",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

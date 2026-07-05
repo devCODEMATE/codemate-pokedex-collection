@@ -1,0 +1,97 @@
+{
+  "name": "Sobble",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "me01-039",
+      "name": "Sobble",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "039",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/039",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh1-54",
+      "name": "Sobble",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "54",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/54",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Megumi Mizutani"
+    },
+    {
+      "id": "swsh1-55",
+      "name": "Sobble",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "55",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/55",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "swsh4.5-SV025",
+      "name": "Sobble",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV025",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV025",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "swsh6-41",
+      "name": "Sobble",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "41",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/41",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swshp-SWSH003",
+      "name": "Sobble",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH003",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH003",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "swshp-SWSH073",
+      "name": "Sobble",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH073",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH073",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Akira Komayama"
+    }
+  ]
+}

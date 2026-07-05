@@ -1,0 +1,84 @@
+{
+  "name": "Dottler",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "sv04-011",
+      "name": "Dottler",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "011",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/011",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Haru Akasaka"
+    },
+    {
+      "id": "sv04-184",
+      "name": "Dottler",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "184",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/184",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Tetsu Kayama"
+    },
+    {
+      "id": "swsh11-019",
+      "name": "Dottler",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "019",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/019",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh1-18",
+      "name": "Dottler",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "18",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/18",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Misa Tsutsui"
+    },
+    {
+      "id": "swsh4.5-SV008",
+      "name": "Dottler",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV008",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV008",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "tetsuya koizumi"
+    },
+    {
+      "id": "swsh5-64",
+      "name": "Dottler",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "64",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/64",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Midori Harada"
+    }
+  ]
+}

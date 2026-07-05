@@ -1,0 +1,123 @@
+{
+  "name": "Raboot",
+  "totalCards": 9,
+  "cards": [
+    {
+      "id": "B2-025",
+      "name": "Raboot",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "025",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/025",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "me01-027",
+      "name": "Raboot",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "027",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/027",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Narumi Sato"
+    },
+    {
+      "id": "me02.5-037",
+      "name": "Raboot",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "037",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/037",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv07-027",
+      "name": "Raboot",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "027",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/027",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sv07-147",
+      "name": "Raboot",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "147",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/147",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "swsh1-32",
+      "name": "Raboot",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "32",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/32",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "swsh1-33",
+      "name": "Raboot",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "33",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/33",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "swsh4.5-SV016",
+      "name": "Raboot",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV016",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV016",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Lee HyunJung"
+    },
+    {
+      "id": "swsh6-27",
+      "name": "Raboot",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "27",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/27",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    }
+  ]
+}

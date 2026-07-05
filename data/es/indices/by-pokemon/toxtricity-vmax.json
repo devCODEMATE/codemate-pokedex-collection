@@ -1,0 +1,45 @@
+{
+  "name": "Toxtricity VMAX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh2-196",
+      "name": "Toxtricity VMAX",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "196",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/196",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh2-71",
+      "name": "Toxtricity VMAX",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "71",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/71",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh4.5-SV113",
+      "name": "Toxtricity VMAX",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV113",
+      "rarity": "Shiny rare VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV113",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

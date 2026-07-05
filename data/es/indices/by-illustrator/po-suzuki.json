@@ -1,0 +1,84 @@
+{
+  "name": "Po-Suzuki",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "me02.5-170",
+      "name": "Staraptor de Laureano",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "170",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/170",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Po-Suzuki"
+    },
+    {
+      "id": "sv02-200",
+      "name": "Pyroar",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "200",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/200",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Po-Suzuki"
+    },
+    {
+      "id": "sv04-125",
+      "name": "Steelix",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "125",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/125",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Po-Suzuki"
+    },
+    {
+      "id": "sv08-060",
+      "name": "Magnezone",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "060",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/060",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Po-Suzuki"
+    },
+    {
+      "id": "sv10-012",
+      "name": "Crustle",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "012",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/012",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Po-Suzuki"
+    },
+    {
+      "id": "svp-122",
+      "name": "Snorlax",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "122",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/122",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Po-Suzuki"
+    }
+  ]
+}

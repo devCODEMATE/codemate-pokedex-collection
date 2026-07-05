@@ -1,0 +1,45 @@
+{
+  "name": "Hironobu Yoshida",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm7.5-22",
+      "name": "Totodile",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "22",
+      "rarity": "Común",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hironobu Yoshida"
+    },
+    {
+      "id": "sm7-75",
+      "name": "Pupitar",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "75",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/75",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hironobu Yoshida"
+    },
+    {
+      "id": "sm7-87",
+      "name": "Tyranitar",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "87",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/87",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hironobu Yoshida"
+    }
+  ]
+}

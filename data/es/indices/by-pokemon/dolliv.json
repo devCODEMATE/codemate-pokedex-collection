@@ -1,0 +1,84 @@
+{
+  "name": "Dolliv",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2a-008",
+      "name": "Dolliv",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "008",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sv01-022",
+      "name": "Dolliv",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "022",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/022",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mina Nakai"
+    },
+    {
+      "id": "sv01-200",
+      "name": "Dolliv",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "200",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/200",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "sv03-020",
+      "name": "Dolliv",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "020",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/020",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sv04.5-103",
+      "name": "Dolliv",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "103",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/103",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "saino misaki"
+    },
+    {
+      "id": "sv10-022",
+      "name": "Dolliv",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "022",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/022",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Felicia Chen"
+    }
+  ]
+}

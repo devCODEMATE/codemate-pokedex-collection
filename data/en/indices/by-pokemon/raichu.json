@@ -1,0 +1,693 @@
+{
+  "name": "Raichu",
+  "totalCards": 53,
+  "cards": [
+    {
+      "id": "A1-095",
+      "name": "Raichu",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "095",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/095",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "A1a-026",
+      "name": "Raichu",
+      "set": "A1a",
+      "setName": "Mythical Island",
+      "number": "026",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1a/026",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "A2a-026",
+      "name": "Raichu",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "026",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/026",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "base1-14",
+      "name": "Raichu",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base1/14",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base3-14",
+      "name": "Raichu",
+      "set": "base3",
+      "setName": "Fossil",
+      "number": "14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base3/14",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base3-29",
+      "name": "Raichu",
+      "set": "base3",
+      "setName": "Fossil",
+      "number": "29",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base3/29",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base4-16",
+      "name": "Raichu",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base4/16",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "bw4-40",
+      "name": "Raichu",
+      "set": "bw4",
+      "setName": "Next Destinies",
+      "number": "40",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw4/40",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "bwp-BW78",
+      "name": "Raichu",
+      "set": "bwp",
+      "setName": "BW Black Star Promos",
+      "number": "BW78",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bwp/BW78",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "dp2-15",
+      "name": "Raichu",
+      "set": "dp2",
+      "setName": "Mysterious Treasures",
+      "number": "15",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/dp/dp2/15",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Daisuke Ito"
+    },
+    {
+      "id": "dp5-45",
+      "name": "Raichu",
+      "set": "dp5",
+      "setName": "Majestic Dawn",
+      "number": "45",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp5/45",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Daisuke Ito"
+    },
+    {
+      "id": "dp7-8",
+      "name": "Raichu",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "8",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/8",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "dp7-99",
+      "name": "Raichu",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "99",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/99",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "dpp-DP21",
+      "name": "Raichu",
+      "set": "dpp",
+      "setName": "DP Black Star Promos",
+      "number": "DP21",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dpp/DP21",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Daisuke Ito"
+    },
+    {
+      "id": "ecard1-25",
+      "name": "Raichu",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "25",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/25",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "ecard1-61",
+      "name": "Raichu",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "61",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/61",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "ecard3-27",
+      "name": "Raichu",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "27",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/27",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "ecard3-H25",
+      "name": "Raichu",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "H25",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "ex13-15",
+      "name": "Raichu δ",
+      "set": "ex13",
+      "setName": "Holon Phantoms",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex13/15",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "ex13-51",
+      "name": "Raichu",
+      "set": "ex13",
+      "setName": "Holon Phantoms",
+      "number": "51",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex13/51",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ex16-12",
+      "name": "Raichu",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "12",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/12",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex4-13",
+      "name": "Raichu",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "13",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/13",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ex6-12",
+      "name": "Raichu",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "12",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/12",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "g1-27",
+      "name": "Raichu",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "27",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/g1/27",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "g1-RC9",
+      "name": "Raichu",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "RC9",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/g1/RC9",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "hgss1-10",
+      "name": "Raichu",
+      "set": "hgss1",
+      "setName": "HeartGold SoulSilver",
+      "number": "10",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss1/10",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "hgss3-33",
+      "name": "Raichu",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "33",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/33",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "hgss3-83",
+      "name": "Raichu",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "83",
+      "rarity": "Rare PRIME",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/83",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Takashi Yamaguchi"
+    },
+    {
+      "id": "me02.5-056",
+      "name": "Raichu",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "056",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/056",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Iori Suzuki"
+    },
+    {
+      "id": "mfb-18",
+      "name": "Raichu",
+      "set": "mfb",
+      "setName": "My First Battle",
+      "number": "18",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kariya"
+    },
+    {
+      "id": "neo3-21",
+      "name": "Raichu",
+      "set": "neo3",
+      "setName": "Neo Revelation",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo3/21",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Masako Yamashita"
+    },
+    {
+      "id": "P-A-044",
+      "name": "Raichu",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "044",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/tcgp/P-A/044",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kazumasa Yasukuni"
+    },
+    {
+      "id": "pl3-77",
+      "name": "Raichu",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "77",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/77",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Takao Unno"
+    },
+    {
+      "id": "pl4-27",
+      "name": "Raichu",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "27",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/27",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "pop9-3",
+      "name": "Raichu",
+      "set": "pop9",
+      "setName": "POP Series 9",
+      "number": "3",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pop/pop9/3",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "sm10-55",
+      "name": "Raichu",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "55",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/55",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sm12-67",
+      "name": "Raichu",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "67",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/67",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "sm3-41",
+      "name": "Raichu",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "41",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/41",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sv02-064",
+      "name": "Raichu",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "064",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/064",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv02-211",
+      "name": "Raichu",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "211",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/211",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "sv03.5-026",
+      "name": "Raichu",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "026",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/026",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "sv04.5-019",
+      "name": "Raichu",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "019",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/019",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "sv04.5-132",
+      "name": "Raichu",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "132",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/132",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "sv05-052",
+      "name": "Raichu",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "052",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/052",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "cochi8i"
+    },
+    {
+      "id": "swsh11-053",
+      "name": "Raichu",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "053",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/053",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh12-050",
+      "name": "Raichu",
+      "set": "swsh12",
+      "setName": "Silver Tempest",
+      "number": "050",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12/050",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh1-66",
+      "name": "Raichu",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "66",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/66",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh7-50",
+      "name": "Raichu",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "50",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/50",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "tk-hs-r-19",
+      "name": "Raichu",
+      "set": "tk-hs-r",
+      "setName": "HS trainer Kit (Raichu)",
+      "number": "19",
+      "rarity": "None",
+      "image": null,
+      "types": null,
+      "illustrator": "match"
+    },
+    {
+      "id": "xy12-36",
+      "name": "Raichu",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "36",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/36",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "xy1-43",
+      "name": "Raichu",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "43",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy1/43",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "xy3-28",
+      "name": "Raichu",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "28",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/28",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "xy8-49",
+      "name": "Raichu",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "49",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/49",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    }
+  ]
+}

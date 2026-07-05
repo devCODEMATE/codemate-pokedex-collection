@@ -1,0 +1,110 @@
+{
+  "name": "Framestore",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "det1-14",
+      "name": "Jigglypuff",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "14",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/det1/14",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Framestore"
+    },
+    {
+      "id": "det1-15",
+      "name": "Snubbull",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "15",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/det1/15",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Framestore"
+    },
+    {
+      "id": "det1-18",
+      "name": "Slaking",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "18",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/det1/18",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Framestore"
+    },
+    {
+      "id": "det1-2",
+      "name": "Ludicolo",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "2",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/det1/2",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Framestore"
+    },
+    {
+      "id": "det1-5",
+      "name": "Charizard",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "5",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/det1/5",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Framestore"
+    },
+    {
+      "id": "det1-7",
+      "name": "Psyduck",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "7",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/det1/7",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Framestore"
+    },
+    {
+      "id": "det1-8",
+      "name": "Magikarp",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "8",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/det1/8",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Framestore"
+    },
+    {
+      "id": "smp-SM195",
+      "name": "Charizard GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM195",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Framestore"
+    }
+  ]
+}

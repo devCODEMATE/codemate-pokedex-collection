@@ -1,0 +1,71 @@
+{
+  "name": "Polteageist",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sv03-098",
+      "name": "Polteageist",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "098",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/098",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Megumi Mizutani"
+    },
+    {
+      "id": "swsh1-90",
+      "name": "Polteageist",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "90",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/90",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh3-83",
+      "name": "Polteageist",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "83",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/83",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "swsh4.5-SV053",
+      "name": "Polteageist",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV053",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV053",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "swshp-SWSH081",
+      "name": "Polteageist",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH081",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH081",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Misa Tsutsui"
+    }
+  ]
+}

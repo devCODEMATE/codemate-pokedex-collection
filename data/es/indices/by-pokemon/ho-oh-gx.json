@@ -1,0 +1,58 @@
+{
+  "name": "Ho-Oh GX",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm3-131",
+      "name": "Ho-Oh GX",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "131",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/131",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm3-21",
+      "name": "Ho-Oh GX",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "21",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/21",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "smp-SM57",
+      "name": "Ho-Oh GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM57",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM80",
+      "name": "Ho-Oh GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM80",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

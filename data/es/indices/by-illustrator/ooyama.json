@@ -1,0 +1,396 @@
+{
+  "name": "OOYAMA",
+  "totalCards": 30,
+  "cards": [
+    {
+      "id": "A1-090",
+      "name": "Pyukumuku",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "090",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/090",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "A1-177",
+      "name": "Weezing",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "177",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/177",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "A2-010",
+      "name": "Turtwig",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "010",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/010",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "A3-006",
+      "name": "Karrablast",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "006",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "A3-082",
+      "name": "Palossand",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "082",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/082",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "P-A-058",
+      "name": "Pachirisu",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "058",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/058",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "P-A-085",
+      "name": "Vanillite",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "085",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm10-74",
+      "name": "Weezing",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "74",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/74",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm11-52",
+      "name": "Pyukumuku",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "52",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/52",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm12-127",
+      "name": "Palossand",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "127",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/127",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm1-60",
+      "name": "Hypno",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "60",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/60",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm2-30",
+      "name": "Wailord",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "30",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/30",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm2-33",
+      "name": "Vanillite",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "33",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/33",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm3-45",
+      "name": "Eelektrik",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "45",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/45",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm3-89",
+      "name": "Inkay",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "89",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/89",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm4-7",
+      "name": "Karrablast",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "7",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/7",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm4-8",
+      "name": "Shelmet",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "8",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm5-49",
+      "name": "Pachirisu",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "49",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/49",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm5-7",
+      "name": "Turtwig",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "7",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/7",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm7-122",
+      "name": "Kecleon",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "122",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/122",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm8-161",
+      "name": "Kecleon",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "161",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/161",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm8-162",
+      "name": "Kecleon",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "162",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/162",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sm9-161",
+      "name": "Magikarp y Wailord GX",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "161",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/161",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "smp-SM119",
+      "name": "Exeggcute",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM119",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sv03.5-122",
+      "name": "Mr. Mime",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "122",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/122",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sv10.5b-025",
+      "name": "Cubchoo",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "025",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/025",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "sv10.5b-026",
+      "name": "Beartic",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "026",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/026",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "xy10-9",
+      "name": "Moltres",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "9",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/9",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "xy11-1",
+      "name": "Tangela",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "1",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/1",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "xy9-56",
+      "name": "Trubbish",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "56",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/56",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "OOYAMA"
+    }
+  ]
+}

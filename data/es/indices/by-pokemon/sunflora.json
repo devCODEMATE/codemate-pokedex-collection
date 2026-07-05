@@ -1,0 +1,71 @@
+{
+  "name": "Sunflora",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sm12-8",
+      "name": "Sunflora",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "8",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yumi"
+    },
+    {
+      "id": "sv06-007",
+      "name": "Sunflora",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "007",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/007",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Ounishi"
+    },
+    {
+      "id": "sv06-169",
+      "name": "Sunflora",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "169",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/169",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Shinya Komatsu"
+    },
+    {
+      "id": "swsh12-006",
+      "name": "Sunflora",
+      "set": "swsh12",
+      "setName": "Tempestad Plateada",
+      "number": "006",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH269",
+      "name": "Sunflora",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH269",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    }
+  ]
+}

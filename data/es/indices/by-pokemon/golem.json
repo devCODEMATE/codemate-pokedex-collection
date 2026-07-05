@@ -1,0 +1,71 @@
+{
+  "name": "Golem",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "A1-149",
+      "name": "Golem",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "149",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/149",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "A1a-045",
+      "name": "Golem",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "045",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/045",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm10-89",
+      "name": "Golem",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "89",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/89",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "swsh8-137",
+      "name": "Golem",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "137",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/137",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "xy2-47",
+      "name": "Golem",
+      "set": "xy2",
+      "setName": "Destellos de Fuego",
+      "number": "47",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy2/47",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    }
+  ]
+}

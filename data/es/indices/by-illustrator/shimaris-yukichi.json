@@ -1,0 +1,331 @@
+{
+  "name": "Shimaris Yukichi",
+  "totalCards": 25,
+  "cards": [
+    {
+      "id": "A2-164",
+      "name": "Rotom",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "164",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/164",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "A2b-074",
+      "name": "Buizel",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "074",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/074",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "B2a-094",
+      "name": "Fuecoco",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "094",
+      "rarity": "Una Estrella",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "me01-032",
+      "name": "Mantine",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "032",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/032",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "me01-149",
+      "name": "Shroodle",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "149",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me01/149",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "me02.5-134",
+      "name": "Scraggy",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "134",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/134",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "me02-032",
+      "name": "Pawmi",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "032",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/032",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "me04-058",
+      "name": "Skrelp",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "058",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me04/058",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "mep-005",
+      "name": "Drifloon",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "005",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "mep-006",
+      "name": "Drifblim",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "006",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "mep-070",
+      "name": "Tyrunt",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "070",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv05-100",
+      "name": "Ekans",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "100",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/100",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv06.5-010",
+      "name": "Horsea",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "010",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/010",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv06-069",
+      "name": "Emolga",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "069",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/069",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv07-091",
+      "name": "Gulpin",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "091",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/091",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv08.5-047",
+      "name": "Larvitar",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "047",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/047",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv08-073",
+      "name": "Marill",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "073",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/073",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv08-112",
+      "name": "Clobbopus",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "112",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/112",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv09-001",
+      "name": "Caterpie",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "001",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/001",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv10.5b-129",
+      "name": "Dwebble",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "129",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/129",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv10.5w-033",
+      "name": "Joltik",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "033",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/033",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv10.5w-034",
+      "name": "Galvantula",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "034",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/034",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv10-048",
+      "name": "Magikarp de Misty",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "048",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/048",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "sv10-203",
+      "name": "Meowth del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "203",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/203",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "svp-118",
+      "name": "Tatsugiri",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "118",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/118",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    }
+  ]
+}

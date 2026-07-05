@@ -1,0 +1,84 @@
+{
+  "name": "Nidorino",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A1-170",
+      "name": "Nidorino",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "170",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/170",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "bw9-44",
+      "name": "Nidorino",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/44",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "sm9-58",
+      "name": "Nidorino",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "58",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/58",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv03.5-033",
+      "name": "Nidorino",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "033",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/033",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "xy11-44",
+      "name": "Nidorino",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/44",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy12-44",
+      "name": "Nidorino",
+      "set": "xy12",
+      "setName": "Evoluciones",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy12/44",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

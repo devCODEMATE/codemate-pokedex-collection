@@ -1,0 +1,32 @@
+{
+  "name": "Dracozolt",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh3-65",
+      "name": "Dracozolt",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "65",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/65",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Misa Tsutsui"
+    },
+    {
+      "id": "swsh4.5-SV045",
+      "name": "Dracozolt",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV045",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV045",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

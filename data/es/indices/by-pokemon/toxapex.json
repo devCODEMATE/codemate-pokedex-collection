@@ -1,0 +1,84 @@
+{
+  "name": "Toxapex",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A3-116",
+      "name": "Toxapex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "116",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/116",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm11-97",
+      "name": "Toxapex",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "97",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/97",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm1-63",
+      "name": "Toxapex",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "63",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/63",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sm8-69",
+      "name": "Toxapex",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "69",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/69",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "swsh12-115",
+      "name": "Toxapex",
+      "set": "swsh12",
+      "setName": "Tempestad Plateada",
+      "number": "115",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12/115",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh3-52",
+      "name": "Toxapex",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "52",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/52",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    }
+  ]
+}

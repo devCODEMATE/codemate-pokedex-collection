@@ -1,0 +1,45 @@
+{
+  "name": "Suicune V",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh12.5-GG38",
+      "name": "Suicune V",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "GG38",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG38",
+      "types": [
+        "Water"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh7-173",
+      "name": "Suicune V",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "173",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/173",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ayaka Yoshida"
+    },
+    {
+      "id": "swsh7-31",
+      "name": "Suicune V",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "31",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/31",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ayaka Yoshida"
+    }
+  ]
+}

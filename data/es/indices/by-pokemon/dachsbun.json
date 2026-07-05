@@ -1,0 +1,58 @@
+{
+  "name": "Dachsbun",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "B2a-047",
+      "name": "Dachsbun",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "047",
+      "rarity": "Dos Diamantes",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "You Iribi"
+    },
+    {
+      "id": "sv01-099",
+      "name": "Dachsbun",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "099",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/099",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "You Iribi"
+    },
+    {
+      "id": "sv04.5-039",
+      "name": "Dachsbun",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "039",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/039",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "You Iribi"
+    },
+    {
+      "id": "sv04.5-161",
+      "name": "Dachsbun",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "161",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/161",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    }
+  ]
+}

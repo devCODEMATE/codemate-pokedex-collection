@@ -1,0 +1,71 @@
+{
+  "name": "Aerodactyl",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "A1-210",
+      "name": "Aerodactyl",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "210",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/210",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "bw5-53",
+      "name": "Aerodactyl",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "53",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/53",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "sm9-130",
+      "name": "Aerodactyl",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "130",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/130",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "hatachu"
+    },
+    {
+      "id": "sv03.5-142",
+      "name": "Aerodactyl",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "142",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/142",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Shinji Kanda"
+    },
+    {
+      "id": "xy10-76",
+      "name": "Aerodactyl",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "76",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/76",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "kawayoo"
+    }
+  ]
+}

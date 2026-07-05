@@ -1,0 +1,565 @@
+{
+  "name": "ryoma uratsuka",
+  "totalCards": 43,
+  "cards": [
+    {
+      "id": "A1-092",
+      "name": "Snom",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "092",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/092",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "A2-070",
+      "name": "Duskull",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "070",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/070",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "A3-038",
+      "name": "Sandshrewde Alola",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "038",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/038",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "me01-090",
+      "name": "Thievul",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "090",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/090",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "me01-107",
+      "name": "Buneary",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "107",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/107",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "me02.5-175",
+      "name": "Komala de Laureano",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "175",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/175",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "me03-090",
+      "name": "Rowlet",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "090",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me03/090",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "me04-072",
+      "name": "Minccino",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "072",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me04/072",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sm11-174",
+      "name": "Pidove",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "174",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/174",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sm11-80",
+      "name": "Drifloon",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "80",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/80",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sm12-137",
+      "name": "Sandshrew de Alola",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "137",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/137",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sm12-43",
+      "name": "Sneasel",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "43",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/43",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sm12-83",
+      "name": "Duskull",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "83",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/83",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv02-035",
+      "name": "Fuecoco",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "035",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/035",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv02-047",
+      "name": "Luvdisc",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "047",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/047",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv02-065",
+      "name": "Magnemite",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "065",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/065",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv03.5-035",
+      "name": "Clefairy",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "035",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/035",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv03.5-036",
+      "name": "Clefable",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "036",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/036",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv03-166",
+      "name": "Eevee",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "166",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/166",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv04.5-050",
+      "name": "Barboach",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "050",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/050",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv04-071",
+      "name": "Natu",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "071",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/071",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv05-126",
+      "name": "Hoothoot",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "126",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/126",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv06.5-052",
+      "name": "Stufful",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "052",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/052",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv08.5-038",
+      "name": "Spritzee",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "038",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/038",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv08-102",
+      "name": "Phanpy",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "102",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/102",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv10.5b-113",
+      "name": "Tynamo",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "113",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/113",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv10-027",
+      "name": "Growlithe",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "027",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/027",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh1-42",
+      "name": "Krabby",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "42",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/42",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh1-5",
+      "name": "Cottonee",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "5",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/5",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh2-142",
+      "name": "Chatot",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "142",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/142",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh2-61",
+      "name": "Luxio",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "61",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/61",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh3-41",
+      "name": "Panpour",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "41",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/41",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh4.5-22",
+      "name": "Buizel",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "22",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/22",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh4.5-34",
+      "name": "Rotom",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/34",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh4-103",
+      "name": "Poochyena",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "103",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/103",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh4-90",
+      "name": "Riolu",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "90",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/90",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh5-72",
+      "name": "Gliscor",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "72",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/72",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh6-116",
+      "name": "Porygon",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "116",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/116",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh7-102",
+      "name": "Zorua",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "102",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/102",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh7-107",
+      "name": "Bagon",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "107",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/107",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh7-53",
+      "name": "Lanturn",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "53",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/53",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh8-207",
+      "name": "Dunsparce",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "207",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/207",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh8-3",
+      "name": "Butterfree",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "3",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "ryoma uratsuka"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Pokémon Breeder",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "base1-76",
+      "name": "Pokémon Breeder",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "76",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base1/76",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base4-105",
+      "name": "Pokémon Breeder",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "105",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base4/105",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "lc-102",
+      "name": "Pokémon Breeder",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "102",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/lc/lc/102",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "sm3.5-63",
+      "name": "Pokémon Breeder",
+      "set": "sm3.5",
+      "setName": "Shining Legends",
+      "number": "63",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": null,
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "sm3.5-73",
+      "name": "Pokémon Breeder",
+      "set": "sm3.5",
+      "setName": "Shining Legends",
+      "number": "73",
+      "rarity": "Ultra Rare",
+      "image": null,
+      "types": null,
+      "illustrator": "Sanosuke Sakuma"
+    }
+  ]
+}

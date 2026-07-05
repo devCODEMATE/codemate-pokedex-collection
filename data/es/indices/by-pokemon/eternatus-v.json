@@ -1,0 +1,71 @@
+{
+  "name": "Eternatus V",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "swsh11-TG21",
+      "name": "Eternatus V",
+      "set": "swsh11",
+      "setName": "Origen Perdido",
+      "number": "TG21",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh11/TG21",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh3-116",
+      "name": "Eternatus V",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "116",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/116",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh4.5-SV121",
+      "name": "Eternatus V",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV121",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV121",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swshp-SWSH044",
+      "name": "Eternatus V",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH044",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH044",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swshp-SWSH064",
+      "name": "Eternatus V",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH064",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH064",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

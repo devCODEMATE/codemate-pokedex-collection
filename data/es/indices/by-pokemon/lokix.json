@@ -1,0 +1,84 @@
+{
+  "name": "Lokix",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2a-066",
+      "name": "Lokix",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "066",
+      "rarity": "Dos Diamantes",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "me02-010",
+      "name": "Lokix",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "010",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02/010",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Taiga Kasai"
+    },
+    {
+      "id": "sv02-021",
+      "name": "Lokix",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "021",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/021",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv04-122",
+      "name": "Lokix",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "122",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/122",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "sv07-016",
+      "name": "Lokix",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "016",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/016",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv09-100",
+      "name": "Lokix",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "100",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/100",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    }
+  ]
+}

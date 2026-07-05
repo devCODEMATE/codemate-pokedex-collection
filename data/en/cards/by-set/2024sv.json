@@ -1,0 +1,1614 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "2024sv-1",
+    "illustrator": "Ryuta Fuse",
+    "localId": "1",
+    "name": "Charizard",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802823,
+            "avg": 1.93,
+            "low": 0.1,
+            "trend": 1.96,
+            "avg1": 2.2,
+            "avg7": 1.77,
+            "avg30": 1.82,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 170,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Charmeleon",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Battle Sense",
+        "effect": "Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": "Royal Blaze",
+        "effect": "This attack does 50 more damage for each Leon card in your discard pile.",
+        "damage": "100+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802823,
+        "avg": 1.93,
+        "low": 0.1,
+        "trend": 1.96,
+        "avg1": 2.2,
+        "avg7": 1.77,
+        "avg30": 1.82,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-2",
+    "illustrator": "Naoyo Kimura",
+    "localId": "2",
+    "name": "Pikachu",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802824,
+            "avg": 1.85,
+            "low": 0.2,
+            "trend": 4.03,
+            "avg1": 1.73,
+            "avg7": 1.49,
+            "avg30": 1.52,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Charge",
+        "effect": "Search your deck for a Basic Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Pika Punch",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802824,
+        "avg": 1.85,
+        "low": 0.2,
+        "trend": 4.03,
+        "avg1": 1.73,
+        "avg7": 1.49,
+        "avg30": 1.52,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-3",
+    "illustrator": "Kouki Saitou",
+    "localId": "3",
+    "name": "Miraidon",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802825,
+            "avg": 0.54,
+            "low": 0.02,
+            "trend": 0.71,
+            "avg1": 0.58,
+            "avg7": 0.39,
+            "avg30": 0.4,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      1008
+    ],
+    "hp": 120,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Sharp Fang",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Lightning Laser",
+        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802825,
+        "avg": 0.54,
+        "low": 0.02,
+        "trend": 0.71,
+        "avg1": 0.58,
+        "avg7": 0.39,
+        "avg30": 0.4,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-4",
+    "illustrator": "Saya Tsuruta",
+    "localId": "4",
+    "name": "Jigglypuff",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802826,
+            "avg": 0.1,
+            "low": 0.02,
+            "trend": 0.14,
+            "avg1": 0.14,
+            "avg7": 0.14,
+            "avg30": 0.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      39
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Pound",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Let's All Rollout",
+        "effect": "This attack does 20 more damage for each of your Benched Pokémon that has the Let's Rollout Attack.",
+        "damage": "20x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802826,
+        "avg": 0.1,
+        "low": 0.02,
+        "trend": 0.14,
+        "avg1": 0.14,
+        "avg7": 0.14,
+        "avg30": 0.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-5",
+    "illustrator": "Akira Komayama",
+    "localId": "5",
+    "name": "Hatenna",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802827,
+            "avg": 0.05,
+            "low": 0.02,
+            "trend": 0.05,
+            "avg1": 0.02,
+            "avg7": 0.06,
+            "avg30": 0.05,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      856
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Stampede",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Magical Shot",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802827,
+        "avg": 0.05,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.02,
+        "avg7": 0.06,
+        "avg30": 0.05,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-6",
+    "illustrator": "Teeziro",
+    "localId": "6",
+    "name": "Dragapult",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802828,
+            "avg": 0.07,
+            "low": 0.02,
+            "trend": 0.09,
+            "avg1": 0.08,
+            "avg7": 0.1,
+            "avg30": 0.07,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      887
+    ],
+    "hp": 150,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Drakloak",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Dragon Launcher",
+        "effect": "Discard a number of your Benched Dreepy up to the number of your opponent's Pokémon in play. Then, for each Dreepy you discarded in this way, choose 1 of your opponent's Pokémon and do 100 damage to it. You can't choose the same Pokémon more than once. This damage isn't affected by Weakness or Resistance"
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Spooky Shot",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802828,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.08,
+        "avg7": 0.1,
+        "avg30": 0.07,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-7",
+    "illustrator": "otumami",
+    "localId": "7",
+    "name": "Quagsire",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      195
+    ],
+    "hp": 120,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Wooper",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Beat",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Fickle Impact",
+        "effect": "If you have exactly 2, 4, or 6 Prize cards remaining, this attack does nothing.",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-8",
+    "illustrator": "Kouki Saitou",
+    "localId": "8",
+    "name": "Koraidon",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802830,
+            "avg": 0.43,
+            "low": 0.02,
+            "trend": 0.39,
+            "avg1": 0.6,
+            "avg7": 0.39,
+            "avg30": 0.41,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      1007
+    ],
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Claw Clash",
+        "damage": 70
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Wild Impact",
+        "effect": "Discard 3 Energy from this Pokémon.",
+        "damage": 190
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802830,
+        "avg": 0.43,
+        "low": 0.02,
+        "trend": 0.39,
+        "avg1": 0.6,
+        "avg7": 0.39,
+        "avg30": 0.41,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-9",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "9",
+    "name": "Umbreon",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802831,
+            "avg": 0.47,
+            "low": 0.02,
+            "trend": 0.42,
+            "avg1": 0.15,
+            "avg7": 0.57,
+            "avg30": 0.44,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      197
+    ],
+    "hp": 110,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Blindside",
+        "effect": "This attack does 60 damage to 1 of your opponent's Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Moon Mirage",
+        "effect": "Your opponent's Active Pokémon is now Confused.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802831,
+        "avg": 0.47,
+        "low": 0.02,
+        "trend": 0.42,
+        "avg1": 0.15,
+        "avg7": 0.57,
+        "avg30": 0.44,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-10",
+    "illustrator": "Teeziro",
+    "localId": "10",
+    "name": "Hydreigon",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802832,
+            "avg": 0.57,
+            "low": 0.1,
+            "trend": 0.51,
+            "avg1": 0.56,
+            "avg7": 0.39,
+            "avg30": 0.46,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      635
+    ],
+    "hp": 180,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Zweilous",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Tri Howl",
+        "effect": "Once during your turn, you may look at the top 3 cards of your deck and attach any number of Energy cards you find there to your Pokémon in any way you like. Discard the other cards."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Dark Cutter",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802832,
+        "avg": 0.57,
+        "low": 0.1,
+        "trend": 0.51,
+        "avg1": 0.56,
+        "avg7": 0.39,
+        "avg30": 0.46,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-11",
+    "illustrator": "hncl",
+    "localId": "11",
+    "name": "Roaring Moon",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802833,
+            "avg": 0.61,
+            "low": 0.05,
+            "trend": 0.61,
+            "avg1": 0.33,
+            "avg7": 0.56,
+            "avg30": 0.57,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      1005
+    ],
+    "hp": 140,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Vengeance Fletching",
+        "effect": "This attack does 10 more damage for each Ancient card in your discard pile.",
+        "damage": "70+"
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Speed Wing",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802833,
+        "avg": 0.61,
+        "low": 0.05,
+        "trend": 0.61,
+        "avg1": 0.33,
+        "avg7": 0.56,
+        "avg30": 0.57,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-12",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "12",
+    "name": "Dragonite",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802834,
+            "avg": 1.78,
+            "low": 0.09,
+            "trend": 1.23,
+            "avg1": 0.7,
+            "avg7": 1.19,
+            "avg30": 1.72,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      149
+    ],
+    "hp": 160,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": "Dragonair",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Jet Cruise",
+        "effect": "Your Pokémon in play have no Retreat Cost."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Dragon Pulse",
+        "effect": "Discard the top 2 cards of your deck.",
+        "damage": 180
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802834,
+        "avg": 1.78,
+        "low": 0.09,
+        "trend": 1.23,
+        "avg1": 0.7,
+        "avg7": 1.19,
+        "avg30": 1.72,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-13",
+    "illustrator": "0313",
+    "localId": "13",
+    "name": "Eevee",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802835,
+            "avg": 0.13,
+            "low": 0.02,
+            "trend": 0.17,
+            "avg1": 0.09,
+            "avg7": 0.2,
+            "avg30": 0.13,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Continuous Steps",
+        "effect": "Flip a coin until you get tails. This attack does 30 damage for each heads.",
+        "damage": "30x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802835,
+        "avg": 0.13,
+        "low": 0.02,
+        "trend": 0.17,
+        "avg1": 0.09,
+        "avg7": 0.2,
+        "avg30": 0.13,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-14",
+    "illustrator": "so-taro",
+    "localId": "14",
+    "name": "Rayquaza",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802836,
+            "avg": 0.27,
+            "low": 0.02,
+            "trend": 0.28,
+            "avg1": 0.12,
+            "avg7": 0.26,
+            "avg30": 0.27,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      384
+    ],
+    "hp": 130,
+    "types": [
+      "Dragon"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Jaw Lock",
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Power Blast",
+        "effect": "Discard an Energy from this Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802836,
+        "avg": 0.27,
+        "low": 0.02,
+        "trend": 0.28,
+        "avg1": 0.12,
+        "avg7": 0.26,
+        "avg30": 0.27,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2024sv-15",
+    "illustrator": "Toshinao Aoki",
+    "localId": "15",
+    "name": "Drampa",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2024sv",
+      "name": "McDonald's Collection 2024"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-04T22:58:40.354Z",
+            "unit": "EUR",
+            "idProduct": 802837,
+            "avg": 0.65,
+            "low": 0.02,
+            "trend": 0.78,
+            "avg1": 0.02,
+            "avg7": 0.67,
+            "avg30": 0.55,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      780
+    ],
+    "hp": 120,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Gentle Slap",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Raging Cannon",
+        "effect": "If all your Benched Pokémon have at least 1 damage counter on them, this attack does 120 more damage.",
+        "damage": "100+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 802837,
+        "avg": 0.65,
+        "low": 0.02,
+        "trend": 0.78,
+        "avg1": 0.02,
+        "avg7": 0.67,
+        "avg30": 0.55,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  }
+]

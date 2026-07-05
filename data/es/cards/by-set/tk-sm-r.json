@@ -1,0 +1,1251 @@
+[
+  {
+    "category": "Energía",
+    "id": "tk-sm-r-2",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/2",
+    "localId": "2",
+    "name": "Energía Rayo",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152851,
+          "lowPrice": 0.01,
+          "midPrice": 0.24,
+          "highPrice": 19.98,
+          "marketPrice": 0.1,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-sm-r-4",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/4",
+    "localId": "4",
+    "name": "Stufful",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      759
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152862,
+          "lowPrice": 0.05,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.14,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-sm-r-6",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/6",
+    "localId": "6",
+    "name": "Golbat",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      42
+    ],
+    "hp": 80,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Zubat",
+    "stage": "Fase 1",
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152863,
+          "lowPrice": 0.04,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.17,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-sm-r-11",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/11",
+    "localId": "11",
+    "name": "Zubat",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      41
+    ],
+    "hp": 50,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152864,
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.15,
+          "directLowPrice": 0.05
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-sm-r-13",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/13",
+    "localId": "13",
+    "name": "Spearow",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      21
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152865,
+          "lowPrice": 0.04,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.16,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-sm-r-14",
+    "illustrator": "kodama",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/14",
+    "localId": "14",
+    "name": "Pikachu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "damage": 10
+      },
+      {
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metálica",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-07T20:36:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152868,
+          "lowPrice": 0.45,
+          "midPrice": 0.83,
+          "highPrice": 19.98,
+          "marketPrice": 0.83,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-sm-r-15",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/15",
+    "localId": "15",
+    "name": "Poción",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 30 puntos de daño a 1 de tus Pokémon.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152870,
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.12,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-sm-r-16",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/16",
+    "localId": "16",
+    "name": "Grubbin",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      736
+    ],
+    "hp": 70,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152871,
+          "lowPrice": 0.05,
+          "midPrice": 0.21,
+          "highPrice": 19.98,
+          "marketPrice": 0.18,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-sm-r-17",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/17",
+    "localId": "17",
+    "name": "Raichu de Alola",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      26
+    ],
+    "hp": 110,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Pikachu",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "damage": "10+"
+      },
+      {
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metálica",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-07T20:36:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152872,
+          "lowPrice": 0.13,
+          "midPrice": 0.26,
+          "highPrice": 19.98,
+          "marketPrice": 0.28,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-sm-r-18",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/18",
+    "localId": "18",
+    "name": "Bewear",
+    "rarity": "Rara",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      760
+    ],
+    "hp": 130,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Stufful",
+    "stage": "Fase 1",
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152874,
+          "lowPrice": 0.04,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.15,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-sm-r-19",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/19",
+    "localId": "19",
+    "name": "Tilo",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Roba 3 cartas.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152840,
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.09,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-sm-r-20",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/20",
+    "localId": "20",
+    "name": "Energía Psíquica",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152858,
+          "lowPrice": 0.04,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.11,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-sm-r-21",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/21",
+    "localId": "21",
+    "name": "Super Ball",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Mira las 7 primeras cartas de tu baraja. Puedes enseñar 1 Pokémon que encuentres entre ellas y ponerlo en tu mano. Pon el resto de cartas de nuevo en tu baraja y barájalas todas.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152844,
+          "lowPrice": 0.01,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.09,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-sm-r-22",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/22",
+    "localId": "22",
+    "name": "Drowzee",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      96
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152875,
+          "lowPrice": 0.04,
+          "midPrice": 0.2,
+          "highPrice": 63,
+          "marketPrice": 0.15,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-sm-r-23",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/23",
+    "localId": "23",
+    "name": "Tilo",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Roba 3 cartas.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152841,
+          "lowPrice": 0.01,
+          "midPrice": 0.19,
+          "highPrice": 19.98,
+          "marketPrice": 0.04,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-sm-r-25",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/25",
+    "localId": "25",
+    "name": "Super Ball",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Mira las 7 primeras cartas de tu baraja. Puedes enseñar 1 Pokémon que encuentres entre ellas y ponerlo en tu mano. Pon el resto de cartas de nuevo en tu baraja y barájalas todas.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152845,
+          "lowPrice": 0.01,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.27,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-sm-r-26",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/26",
+    "localId": "26",
+    "name": "Togedemaru",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      777
+    ],
+    "hp": 70,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metálica",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152877,
+          "lowPrice": 0.02,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.17,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-sm-r-29",
+    "illustrator": "kodama",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/29",
+    "localId": "29",
+    "name": "Pikachu",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "damage": 10
+      },
+      {
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metálica",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-07T20:36:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "normal": {
+          "productId": 152869,
+          "lowPrice": 0.25,
+          "midPrice": 1.32,
+          "highPrice": 19.98,
+          "marketPrice": 1.31,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-sm-r-30",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/30",
+    "localId": "30",
+    "name": "Raichu de Alola",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-sm-r",
+      "name": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      26
+    ],
+    "hp": 110,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Pikachu",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "damage": "10+"
+      },
+      {
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metálica",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-07T20:36:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:50.181Z",
+        "holofoil": {
+          "productId": 152873,
+          "lowPrice": 1,
+          "midPrice": 3.05,
+          "highPrice": 19.98,
+          "marketPrice": 3.08,
+          "directLowPrice": null
+        }
+      }
+    }
+  }
+]

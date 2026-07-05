@@ -1,0 +1,448 @@
+{
+  "name": "N-DESIGN Inc.",
+  "totalCards": 34,
+  "cards": [
+    {
+      "id": "A2-204",
+      "name": "Palkia ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "204",
+      "rarity": "Tres Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/204",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "A2-205",
+      "name": "Dialga ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "205",
+      "rarity": "Tres Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/205",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv01-086",
+      "name": "Gardevoir ex",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "086",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/086",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv01-228",
+      "name": "Gardevoir ex",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "228",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/228",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv02-063",
+      "name": "Pikachu ex",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "063",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/063",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv03.5-115",
+      "name": "Kangaskhan ex",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "115",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/115",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv03.5-190",
+      "name": "Kangaskhan ex",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "190",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/190",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv04.5-029",
+      "name": "Gardevoir ex",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "029",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/029",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv04.5-217",
+      "name": "Gardevoir ex",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "217",
+      "rarity": "Rara Ultra Variocolor",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/217",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv04-050",
+      "name": "Golisopod ex",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "050",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/050",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv04-221",
+      "name": "Golisopod ex",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "221",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/221",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv05-034",
+      "name": "Incineroar ex",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "034",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/034",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv05-168",
+      "name": "Snom",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "168",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/168",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv05-187",
+      "name": "Incineroar ex",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "187",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/187",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv08.5-028",
+      "name": "Pikachu ex",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "028",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/028",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv08.5-076",
+      "name": "Snorlax ex",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "076",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/076",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv08-160",
+      "name": "Flamigo ex",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "160",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/160",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv08-202",
+      "name": "Stunfisk",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "202",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/202",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv08-217",
+      "name": "Milotic ex",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "217",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/217",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv08-218",
+      "name": "Kyurem Negro ex",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "218",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/218",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv09-174",
+      "name": "Mamoswine ex",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "174",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/174",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv10.5b-028",
+      "name": "Kyurem ex",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "028",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/028",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv10.5b-046",
+      "name": "Excadrill ex",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "046",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/046",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv10.5b-156",
+      "name": "Serperior ex",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "156",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/156",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv10.5b-157",
+      "name": "Kyurem ex",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "157",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/157",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv10.5b-160",
+      "name": "Excadrill ex",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "160",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/160",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv10.5w-159",
+      "name": "Keldeo ex",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "159",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/159",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv10.5w-160",
+      "name": "Jellicent ex",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "160",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/160",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv10.5w-162",
+      "name": "Bouffalant ex",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "162",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/162",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv10-025",
+      "name": "Rabsca ex",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "025",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/025",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv10-066",
+      "name": "Dondozo ex",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "066",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/066",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "sv10-211",
+      "name": "Dondozo ex",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "211",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/211",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "svp-055",
+      "name": "Kangaskhan ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "055",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/055",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "svp-160",
+      "name": "Squawkabilly ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "160",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/160",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Hyper Potion",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "ecard3-127",
+      "name": "Hyper Potion",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "127",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/127",
+      "types": null,
+      "illustrator": "Katsura Tabata"
+    },
+    {
+      "id": "swsh1-166",
+      "name": "Hyper Potion",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "166",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/166",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "swsh3.5-54",
+      "name": "Hyper Potion",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "54",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/54",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    }
+  ]
+}

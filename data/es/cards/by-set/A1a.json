@@ -1,0 +1,5578 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "A1a-001",
+    "illustrator": "Yuka Morii",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/001",
+    "localId": "001",
+    "name": "Exeggcute",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      102
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "description": "Pese a su aspecto de mera piña de huevos,\nse trata de un Pokémon. Al parecer, sus\ncabezas se comunican entre sí por telepatía.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Crecimiento Repentino",
+        "effect": "Une 1 Energía {G} de tu área de Energía a este Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-002",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/002",
+    "localId": "002",
+    "name": "Exeggutor",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      103
+    ],
+    "hp": 130,
+    "types": [
+      "Planta"
+    ],
+    "description": "Cada una de las tres cabezas piensa\nde forma independiente y apenas\nmuestra interés por el resto.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Psíquico",
+        "effect": "Este ataque hace 20 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-003",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/003",
+    "localId": "003",
+    "name": "Celebi ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      251
+    ],
+    "hp": 130,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Floración Potente",
+        "effect": "Lanza 1 moneda por cada Energía unida a este Pokémon. Este ataque hace 50 puntos de daño por cada cara.",
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-004",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/004",
+    "localId": "004",
+    "name": "Snivy",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      495
+    ],
+    "hp": 70,
+    "types": [
+      "Planta"
+    ],
+    "description": "Cuando recibe los rayos de sol, se mueve\nmucho más rápido que de costumbre.\nUsa mejor sus lianas que sus manos.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Látigo Cepa",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-005",
+    "illustrator": "Shigenori Negishi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/005",
+    "localId": "005",
+    "name": "Servine",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      496
+    ],
+    "hp": 80,
+    "types": [
+      "Planta"
+    ],
+    "description": "Parece que se desliza al correr. Engaña a sus rivales\ncon su velocidad y los fustiga con su látigo.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Látigo Cepa",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-006",
+    "illustrator": "Yoshioka",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/006",
+    "localId": "006",
+    "name": "Serperior",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      497
+    ],
+    "hp": 110,
+    "types": [
+      "Planta"
+    ],
+    "description": "Tan solo muestra su verdadero poder\na quienes no se amedrentan ante su\nnoble pero inquisitoria mirada.",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Dominio de la Selva",
+        "effect": "Cada Energía {G} unida a tus Pokémon {G} proporciona 2 Energías {G}. Este efecto no se acumula."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Rayo Solar",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-007",
+    "illustrator": "Saya Tsuruta",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/007",
+    "localId": "007",
+    "name": "Morelull",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      755
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "description": "Sus sombrerillos tienen un sabor delicioso.\nAunque los Pokémon del bosque se los\ncoman, les vuelven a crecer al día siguiente.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Apisonar",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-008",
+    "illustrator": "Mizue",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/008",
+    "localId": "008",
+    "name": "Shiinotic",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      756
+    ],
+    "hp": 90,
+    "types": [
+      "Planta"
+    ],
+    "description": "Atrae y duerme a su presa con la luz parpadeante\nde sus esporas y luego le absorbe la energía vital\ncon la punta de los dedos.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Esporas Parpadeantes",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-009",
+    "illustrator": "Hasuno",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/009",
+    "localId": "009",
+    "name": "Dhelmise",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      781
+    ],
+    "hp": 100,
+    "types": [
+      "Planta"
+    ],
+    "description": "Este Pokémon de tipo Fantasma no es sino la\nreencarnación de las algas que flotan a la deriva\ny arrastran consigo vestigios de barcos hundidos.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Látigo Energético",
+        "effect": "Si este Pokémon tiene por lo menos 3 Energías {G} adicionales unidas a él, este ataque hace 70 puntos de daño más.",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-010",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/010",
+    "localId": "010",
+    "name": "Ponyta",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      77
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Al nacer es un poco lento, pero va\nfortaleciendo las patas paulatinamente\nal disputar carreras con sus congéneres.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Pisotón",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-011",
+    "illustrator": "AKIRA EGAWA",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/011",
+    "localId": "011",
+    "name": "Rapidash",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      78
+    ],
+    "hp": 100,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Su ardiente crin ondea al viento mientras atraviesa\nextensas praderas a una velocidad de 240 km/h.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Embestida Ascendente",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 60 puntos de daño más.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-012",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/012",
+    "localId": "012",
+    "name": "Magmar",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      126
+    ],
+    "hp": 80,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Abate a sus presas con las llamas\nque genera y con frecuencia acaba\nreduciéndolas a carbonilla por accidente.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego"
+        ],
+        "name": "Llamarada",
+        "effect": "Descarta 2 Energías {R} de este Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-013",
+    "illustrator": "kawayoo",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/013",
+    "localId": "013",
+    "name": "Larvesta",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      636
+    ],
+    "hp": 80,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Antaño lo llamaron la Larva que Hurtó el Sol.\nLas llamas que brotan de sus cuernos pueden\nfundir sin problema una plancha de acero.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Combustión",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-014",
+    "illustrator": "DOM",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/014",
+    "localId": "014",
+    "name": "Volcarona",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      637
+    ],
+    "hp": 120,
+    "types": [
+      "Fuego"
+    ],
+    "description": "El calor que irradia le granjea pocas simpatías en\ntierras cálidas. Por el contrario, en las regiones\nmás frías lo veneran como encarnación del sol.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Ceniza Volcánica",
+        "effect": "Descarta 2 Energías {R} de este Pokémon. Este ataque hace 80 puntos de daño a 1 de los Pokémon de tu rival."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-015",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/015",
+    "localId": "015",
+    "name": "Salandit",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      757
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Provoca a sus presas para conducirlas a zonas\nrocosas y estrechas, donde las aturde con un\ngas venenoso antes de acabar con ellas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Carga Tóxica",
+        "effect": "Si el Pokémon Activo de tu rival está Envenenado, este ataque hace 40 puntos de daño más.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-016",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/016",
+    "localId": "016",
+    "name": "Salazzle",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      758
+    ],
+    "hp": 80,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Convierte a sus rivales en devotos súbditos\ntras marearlos con su gas venenoso y seducirlos\ncon los cautivadores movimientos de su cuerpo.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Garras Venenosas",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-017",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/017",
+    "localId": "017",
+    "name": "Magikarp",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      129
+    ],
+    "hp": 30,
+    "types": [
+      "Agua"
+    ],
+    "description": "Un Pokémon desvalido y patético. A veces es\ncapaz de saltar alto, pero rara vez más de 2 m.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Saltar del Agua",
+        "effect": "Cambia este Pokémon por 1 de tus Pokémon en Banca."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-018",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/018",
+    "localId": "018",
+    "name": "Gyarados ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      130
+    ],
+    "hp": 180,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Torbellino Furioso",
+        "effect": "Descarta 1 Energía aleatoria de entre las Energías unidas a todos los Pokémon (tanto tuyos como de tu rival).",
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-019",
+    "illustrator": "LINNE",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/019",
+    "localId": "019",
+    "name": "Vaporeon",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      134
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "description": "Vive cerca del agua. Su cola termina en una\naleta parecida a la de un pez, por lo que hay\ngente que lo confunde con una sirena.",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Hacer Limpieza",
+        "effect": "Todas las veces que quieras durante tu turno, puedes mover 1 Energía {W} de 1 de tus Pokémon {W} en Banca a tu Pokémon {W} Activo."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Chapoteo Ondulante",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-020",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/020",
+    "localId": "020",
+    "name": "Finneon",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      456
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "description": "La línea que le recorre el costado puede almacenar\nluz solar. Brilla con mucha fuerza por la noche.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Pistola Agua",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-021",
+    "illustrator": "Sekio",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/021",
+    "localId": "021",
+    "name": "Lumineon",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      457
+    ],
+    "hp": 80,
+    "types": [
+      "Agua"
+    ],
+    "description": "Atrae a sus presas con el destello que emite,\naunque eso también llama la atención de sus\nferoces depredadores marinos.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "name": "Agua en Tromba",
+        "effect": "Este ataque hace 50 puntos de daño a 1 de los Pokémon en Banca de tu rival."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-022",
+    "illustrator": "Taiga Kayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/022",
+    "localId": "022",
+    "name": "Chewtle",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      833
+    ],
+    "hp": 80,
+    "types": [
+      "Agua"
+    ],
+    "description": "Su gran incisivo no le ha terminado de salir.\nCuando le molesta, juguetea con uno de sus\ncompañeros mordisqueándole el cuerno.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Mordisco",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-023",
+    "illustrator": "nisimono",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/023",
+    "localId": "023",
+    "name": "Drednaw",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      834
+    ],
+    "hp": 130,
+    "types": [
+      "Agua"
+    ],
+    "description": "Con sus fuertes mandíbulas serradas es capaz\nde destrozar rocas de un mordisco. Tiene un\ntemperamento extremadamente violento.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Triturar",
+        "effect": "Lanza 1 moneda. Si sale cara, descarta 1 Energía aleatoria del Pokémon Activo de tu rival.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-024",
+    "illustrator": "Jerky",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/024",
+    "localId": "024",
+    "name": "Cramorant",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      845
+    ],
+    "hp": 80,
+    "types": [
+      "Agua"
+    ],
+    "description": "Su colosal potencia le permite machacar al rival\nde un solo golpe, aunque su carácter despistado\nlo lleva a olvidarse de su presencia.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Buceo",
+        "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-025",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/025",
+    "localId": "025",
+    "name": "Pikachu",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Circuito Circular",
+        "effect": "Este ataque hace 10 puntos de daño por cada uno de tus Pokémon {L} en Banca.",
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-026",
+    "illustrator": "hncl",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/026",
+    "localId": "026",
+    "name": "Raichu",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      26
+    ],
+    "hp": 120,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Su cola actúa como toma de tierra\ny descarga electricidad al suelo, lo\nque le protege de los calambrazos.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Gigasacudida",
+        "effect": "Este ataque también hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-027",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/027",
+    "localId": "027",
+    "name": "Electabuzz",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      125
+    ],
+    "hp": 70,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Es habitual que las centrales eléctricas cuenten\ncon Pokémon de tipo Tierra para hacer frente\na los Electabuzz ávidos de electricidad.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Lanza del Trueno",
+        "effect": "Este ataque hace 40 puntos de daño a 1 de los Pokémon de tu rival."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-028",
+    "illustrator": "MINAMINAMI Take",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/028",
+    "localId": "028",
+    "name": "Joltik",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      595
+    ],
+    "hp": 40,
+    "types": [
+      "Rayo"
+    ],
+    "description": "No puede generar electricidad por sí mismo,\nasí que se encarama a otros Pokémon\ny absorbe su energía estática.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Picadura",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-029",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/029",
+    "localId": "029",
+    "name": "Galvantula",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      596
+    ],
+    "hp": 80,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Ataca lanzando hilos electrificados por el\nabdomen, que inmovilizan por completo al\nenemigo durante tres días y tres noches.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Electrotela",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-030",
+    "illustrator": "Taiga Kayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/030",
+    "localId": "030",
+    "name": "Dedenne",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      702
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Como es menudo y su órgano electrógeno está\npoco desarrollado, absorbe electricidad de las\ncasas con la cola para recargar sus reservas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Impactrueno",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-031",
+    "illustrator": "Saya Tsuruta",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/031",
+    "localId": "031",
+    "name": "Mew",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Varios científicos lo consideran el antecesor de los\nPokémon porque usa todo tipo de movimientos.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Psicoinforme",
+        "effect": "Tu rival enseña las cartas de su mano.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-032",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/032",
+    "localId": "032",
+    "name": "Mew ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 130,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Disparo Psi",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Hackeo Genoma",
+        "effect": "Elige 1 de los ataques del Pokémon Activo de tu rival y úsalo para este ataque."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-033",
+    "illustrator": "Shigenori Negishi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/033",
+    "localId": "033",
+    "name": "Sigilyph",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      561
+    ],
+    "hp": 80,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Vuela gracias a sus poderes psíquicos. Dicen que\nhabía sido la deidad protectora de una antigua\nciudad, si bien otros creen que era su mensajero.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Robo Pico",
+        "effect": "Roba 1 carta.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-034",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/034",
+    "localId": "034",
+    "name": "Elgyem",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      605
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Cuando se halla junto a un televisor, la pantalla\nmuestra imágenes de extraños paisajes. Se cree\nque corresponden a su lugar de origen.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Golpe Cabeza",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-035",
+    "illustrator": "sowsow",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/035",
+    "localId": "035",
+    "name": "Beheeyem",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      606
+    ],
+    "hp": 90,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Por algún extraño motivo, siempre que se avista un\nBeheeyem en una granja desaparece un Dubwool.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Levantamente",
+        "effect": "Este ataque hace 20 puntos de daño más por cada uno de los Pokémon en Banca de tu rival.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-036",
+    "illustrator": "Cona Nitanda",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/036",
+    "localId": "036",
+    "name": "Flabébé",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      669
+    ],
+    "hp": 40,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Posee el don de extraer el poder oculto de\nlas flores silvestres. Siente una predilección\nespecial por las flores rojas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Mirada Hipnótica",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-037",
+    "illustrator": "Cona Nitanda",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/037",
+    "localId": "037",
+    "name": "Floette",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      670
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Puede extraer la fuerza que les resta\na las flores marchitas para reanimarlas.\nLleva consigo una flor de color rojo.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Hoja Drenante",
+        "effect": "Cura 10 puntos de daño a este Pokémon.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-038",
+    "illustrator": "Cona Nitanda",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/038",
+    "localId": "038",
+    "name": "Florges",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      671
+    ],
+    "hp": 120,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Hace de su territorio un jardín esplendoroso.\nExtrae su poder de las flores rojas que lleva\nen torno al cuello.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Resplandeflor",
+        "effect": "Cura 20 puntos de daño a cada uno de tus Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-039",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/039",
+    "localId": "039",
+    "name": "Swirlix",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      684
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Ingiere diariamente una cantidad de azúcar\nequivalente a su peso corporal. De lo contrario,\nse pone de muy mal humor.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Viento Feérico",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-040",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/040",
+    "localId": "040",
+    "name": "Slurpuff",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      685
+    ],
+    "hp": 100,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Puede percibir el estado físico y mental de\nalguien solo con olerlo, lo que podría tener\naplicaciones útiles en el campo de la medicina.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Disparo Mágico",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-041",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/041",
+    "localId": "041",
+    "name": "Mankey",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      56
+    ],
+    "hp": 50,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Vive en grupos en las copas de\nlos árboles. Si pierde de vista a su\nmanada, se siente solo y se enfada.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Puño Infalible",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-042",
+    "illustrator": "Taiga Kayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/042",
+    "localId": "042",
+    "name": "Primeape",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      57
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Se pone furioso si nota que alguien lo\nestá mirando. Persigue a cualquiera\nque establezca contacto visual con él.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Puño",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-043",
+    "illustrator": "GOSSAN",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/043",
+    "localId": "043",
+    "name": "Geodude",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      74
+    ],
+    "hp": 70,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Con la edad, su temperamento se amansa\ny su cuerpo se va alisando hasta adquirir\nuna forma completamente redonda.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Puño Ligero",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-044",
+    "illustrator": "Ayaka Yoshida",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/044",
+    "localId": "044",
+    "name": "Graveler",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      75
+    ],
+    "hp": 100,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Escala los riscos de las montañas\ny, una vez alcanzada la cima,\ndesciende rodando por los senderos.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Arremeter",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-045",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/045",
+    "localId": "045",
+    "name": "Golem",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      76
+    ],
+    "hp": 160,
+    "types": [
+      "Lucha"
+    ],
+    "description": "A medida que envejece, pierde la facultad de\nmudar la piel. Se han observado ejemplares de\nedad avanzada totalmente cubiertos de musgo.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Presión de Guardia",
+        "effect": "Durante el próximo turno de tu rival, los ataques hacen -30 puntos de daño a este Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-046",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/046",
+    "localId": "046",
+    "name": "Aerodactyl ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      142
+    ],
+    "hp": 140,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Ley Primitiva",
+        "effect": "Tu rival no puede jugar ningún Pokémon de su mano para hacer evolucionar al Pokémon Activo."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Aterrizaje",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-047",
+    "illustrator": "kantaro",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/047",
+    "localId": "047",
+    "name": "Marshadow",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      802
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Se oculta en la sombra de su oponente y copia\nsus movimientos y su fuerza. Su imitación\nresulta más poderosa que el original.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Desquite",
+        "effect": "Si alguno de tus Pokémon quedó Fuera de Combate por el daño de un ataque durante el último turno de tu rival, este ataque hace 60 puntos de daño más.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-048",
+    "illustrator": "Teeziro",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/048",
+    "localId": "048",
+    "name": "Stonjourner",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      874
+    ],
+    "hp": 120,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Los elementos que componen las rocas de\nsu cuerpo se han encontrado en lechos de\nroca muy alejados de su hábitat.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Megapatada",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-049",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/049",
+    "localId": "049",
+    "name": "Koffing",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      109
+    ],
+    "hp": 70,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Su cuerpo está lleno a rebosar de gas venenoso.\nAcude a los vertederos atraído por el putrefacto\nolor que emana de los desperdicios.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "División",
+        "effect": "Pon 1 Koffing aleatorio de tu baraja en tu Banca."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-050",
+    "illustrator": "Mousho",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/050",
+    "localId": "050",
+    "name": "Weezing",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      110
+    ],
+    "hp": 110,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Si uno de los gemelos Koffing se\ninfla, el otro se desinfla. Mezclan\nconstantemente sus venenosos gases.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Pantalla de Humo",
+        "effect": "Durante el próximo turno de tu rival, si el Pokémon Defensor intenta usar un ataque, tu rival lanza 1 moneda. Si sale cruz, ese ataque no se lleva a cabo.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-051",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/051",
+    "localId": "051",
+    "name": "Purrloin",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      509
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Sustrae las pertenencias de las personas solo para\nverlas pasar apuros. Es un rival encarnizado de Nickit.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Arañazo",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-052",
+    "illustrator": "GIDORA",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/052",
+    "localId": "052",
+    "name": "Liepard",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      510
+    ],
+    "hp": 90,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Bajo su hermoso pelaje y cautivador estilo,\nque puede llevar fácilmente a engaño, se\noculta un carácter imprevisible y agresivo.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Cuchillada",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-053",
+    "illustrator": "Yukiko Baba",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/053",
+    "localId": "053",
+    "name": "Venipede",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      543
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Aunque se trata de una especie emparentada\ncon los Sizzlipede, si se encuentran ejemplares\nde ambas, entablarán una lucha encarnizada.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Apisonar",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-054",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/054",
+    "localId": "054",
+    "name": "Whirlipede",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      544
+    ],
+    "hp": 90,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Gira a gran velocidad y carga contra sus\nrivales. Puede alcanzar los 100 km/h.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Picotazo Veneno",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-055",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/055",
+    "localId": "055",
+    "name": "Scolipede",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      545
+    ],
+    "hp": 140,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Usa las garras que le sobresalen del cuello para\natrapar a su presa, golpearla contra el suelo y\nrematarla inoculando un potente veneno.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Carga Tóxica",
+        "effect": "Si el Pokémon Activo de tu rival está Envenenado, este ataque hace 50 puntos de daño más.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-056",
+    "illustrator": "Ryota Murayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/056",
+    "localId": "056",
+    "name": "Druddigon",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      621
+    ],
+    "hp": 100,
+    "types": [
+      "Dragón"
+    ],
+    "description": "Habita en túneles. Pierde la movilidad si baja su\ntemperatura corporal, por lo que aprovecha la\nmenor oportunidad para tomar el sol.",
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Piel Tosca",
+        "effect": "Si este Pokémon está en el Puesto Activo y resulta dañado por un ataque de los Pokémon de tu rival, el Pokémon Atacante sufre 20 puntos de daño."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Garra Dragón",
+        "damage": 90
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-057",
+    "illustrator": "Shigenori Negishi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/057",
+    "localId": "057",
+    "name": "Pidgey",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      16
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Muy común en bosques y selvas.\nAletea al nivel del suelo para levantar la gravilla.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Aleteo",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-058",
+    "illustrator": "Taiga Kayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/058",
+    "localId": "058",
+    "name": "Pidgeotto",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      17
+    ],
+    "hp": 90,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Tiene unas garras desarrolladas. Puede\natrapar un Exeggcute y transportarlo\ndesde una distancia de casi 100 km.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ataque Ala",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-059",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/059",
+    "localId": "059",
+    "name": "Pidgeot ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      18
+    ],
+    "hp": 170,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ciclón Fragmentado",
+        "effect": "Este ataque hace 20 puntos de daño más por cada uno de los Pokémon en Banca de tu rival.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-060",
+    "illustrator": "KEIICHIRO ITO",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/060",
+    "localId": "060",
+    "name": "Tauros",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      128
+    ],
+    "hp": 100,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Conviene tener cuidado si empieza a\nfustigarse con las colas, pues es señal\nde que va a cargar a máxima velocidad.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Placaje Lucha",
+        "effect": "Si el Pokémon Activo de tu rival es un Pokémon {ex}, este ataque hace 80 puntos de daño más.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-061",
+    "illustrator": "Hitoshi Ariga",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/061",
+    "localId": "061",
+    "name": "Eevee",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Es capaz de evolucionar de muchas maneras\npara adaptarse sin problemas a cualquier medio.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Pasos Incesantes",
+        "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 20 puntos de daño por cada cara.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-062",
+    "illustrator": "Masako Tomii",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/062",
+    "localId": "062",
+    "name": "Chatot",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      441
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Imita los sonidos de sus rivales, haciéndoles creer\nque son amigos e impidiendo que le ataquen.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Mimético",
+        "effect": "Pon las cartas de tu mano en tu baraja y barájalas todas. Roba 1 carta por cada carta en la mano de tu rival."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A1a-063",
+    "illustrator": "Toyste Beach",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/063",
+    "localId": "063",
+    "name": "Ámbar Viejo",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Juega esta carta como si fuera un Pokémon {C} Básico de 40 PS. En cualquier momento durante tu turno, puedes descartar esta carta del juego.\nEsta carta no puede retirarse.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A1a-064",
+    "illustrator": "Toyste Beach",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/064",
+    "localId": "064",
+    "name": "Pokéflauta",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Pon 1 Pokémon Básico de la pila de descartes de tu rival en su Banca.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A1a-065",
+    "illustrator": "AYUMI ODASHIMA",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/065",
+    "localId": "065",
+    "name": "Losa Singular",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Mira la primera carta de tu baraja. Si es un Pokémon {P}, ponla en tu mano. Si no es un Pokémon {P}, ponla en la parte inferior de tu baraja.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A1a-066",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/066",
+    "localId": "066",
+    "name": "Explorador Novel",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Pon a tu Mew ex que esté en el Puesto Activo en tu mano.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A1a-067",
+    "illustrator": "Ryuta Fuse",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/067",
+    "localId": "067",
+    "name": "Azul",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante el próximo turno de tu rival, los ataques de los Pokémon de tu rival hacen -10 puntos de daño a todos tus Pokémon.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A1a-068",
+    "illustrator": "En Morikura",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/068",
+    "localId": "068",
+    "name": "Hoja",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante este turno, el Coste de Retirada de tu Pokémon Activo es de 2 menos.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-069",
+    "illustrator": "Gapao",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/069",
+    "localId": "069",
+    "name": "Exeggutor",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      103
+    ],
+    "hp": 130,
+    "types": [
+      "Planta"
+    ],
+    "description": "Cada una de las tres cabezas piensa\nde forma independiente y apenas\nmuestra interés por el resto.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Psíquico",
+        "effect": "Este ataque hace 20 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-070",
+    "illustrator": "rika",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/070",
+    "localId": "070",
+    "name": "Serperior",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      497
+    ],
+    "hp": 110,
+    "types": [
+      "Planta"
+    ],
+    "description": "Tan solo muestra su verdadero poder\na quienes no se amedrentan ante su\nnoble pero inquisitoria mirada.",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Dominio de la Selva",
+        "effect": "Cada Energía {G} unida a tus Pokémon {G} proporciona 2 Energías {G}. Este efecto no se acumula."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Rayo Solar",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-071",
+    "illustrator": "Nurikabe",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/071",
+    "localId": "071",
+    "name": "Salandit",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      757
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Provoca a sus presas para conducirlas a zonas\nrocosas y estrechas, donde las aturde con un\ngas venenoso antes de acabar con ellas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Carga Tóxica",
+        "effect": "Si el Pokémon Activo de tu rival está Envenenado, este ataque hace 40 puntos de daño más.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-072",
+    "illustrator": "aspara",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/072",
+    "localId": "072",
+    "name": "Vaporeon",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      134
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "description": "Vive cerca del agua. Su cola termina en una\naleta parecida a la de un pez, por lo que hay\ngente que lo confunde con una sirena.",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Hacer Limpieza",
+        "effect": "Todas las veces que quieras durante tu turno, puedes mover 1 Energía {W} de 1 de tus Pokémon {W} en Banca a tu Pokémon {W} Activo."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Chapoteo Ondulante",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-073",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/073",
+    "localId": "073",
+    "name": "Dedenne",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      702
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Como es menudo y su órgano electrógeno está\npoco desarrollado, absorbe electricidad de las\ncasas con la cola para recargar sus reservas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Impactrueno",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-074",
+    "illustrator": "OKACHEKE",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/074",
+    "localId": "074",
+    "name": "Marshadow",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      802
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Se oculta en la sombra de su oponente y copia\nsus movimientos y su fuerza. Su imitación\nresulta más poderosa que el original.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Desquite",
+        "effect": "Si alguno de tus Pokémon quedó Fuera de Combate por el daño de un ataque durante el último turno de tu rival, este ataque hace 60 puntos de daño más.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-075",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/075",
+    "localId": "075",
+    "name": "Celebi ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      251
+    ],
+    "hp": 130,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Floración Potente",
+        "effect": "Lanza 1 moneda por cada Energía unida a este Pokémon. Este ataque hace 50 puntos de daño por cada cara.",
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-076",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/076",
+    "localId": "076",
+    "name": "Gyarados ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      130
+    ],
+    "hp": 180,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Torbellino Furioso",
+        "effect": "Descarta 1 Energía aleatoria de entre las Energías unidas a todos los Pokémon (tanto tuyos como de tu rival).",
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-077",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/077",
+    "localId": "077",
+    "name": "Mew ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 130,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Disparo Psi",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Hackeo Genoma",
+        "effect": "Elige 1 de los ataques del Pokémon Activo de tu rival y úsalo para este ataque."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-078",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/078",
+    "localId": "078",
+    "name": "Aerodactyl ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      142
+    ],
+    "hp": 140,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Ley Primitiva",
+        "effect": "Tu rival no puede jugar ningún Pokémon de su mano para hacer evolucionar al Pokémon Activo."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Aterrizaje",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-079",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/079",
+    "localId": "079",
+    "name": "Pidgeot ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      18
+    ],
+    "hp": 170,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ciclón Fragmentado",
+        "effect": "Este ataque hace 20 puntos de daño más por cada uno de los Pokémon en Banca de tu rival.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A1a-080",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/080",
+    "localId": "080",
+    "name": "Explorador Novel",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Pon a tu Mew ex que esté en el Puesto Activo en tu mano.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A1a-081",
+    "illustrator": "Ryuta Fuse",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/081",
+    "localId": "081",
+    "name": "Azul",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante el próximo turno de tu rival, los ataques de los Pokémon de tu rival hacen -10 puntos de daño a todos tus Pokémon.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A1a-082",
+    "illustrator": "En Morikura",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/082",
+    "localId": "082",
+    "name": "Hoja",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante este turno, el Coste de Retirada de tu Pokémon Activo es de 2 menos.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-083",
+    "illustrator": "HYOGONOSUKE",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/083",
+    "localId": "083",
+    "name": "Mew ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 130,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Disparo Psi",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Hackeo Genoma",
+        "effect": "Elige 1 de los ataques del Pokémon Activo de tu rival y úsalo para este ataque."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-084",
+    "illustrator": "danciao",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/084",
+    "localId": "084",
+    "name": "Aerodactyl ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      142
+    ],
+    "hp": 140,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Ley Primitiva",
+        "effect": "Tu rival no puede jugar ningún Pokémon de su mano para hacer evolucionar al Pokémon Activo."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Aterrizaje",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-085",
+    "illustrator": "kantaro",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/085",
+    "localId": "085",
+    "name": "Celebi ex",
+    "rarity": "Tres Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      251
+    ],
+    "hp": 130,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Floración Potente",
+        "effect": "Lanza 1 moneda por cada Energía unida a este Pokémon. Este ataque hace 50 puntos de daño por cada cara.",
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A1a-086",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A1a/086",
+    "localId": "086",
+    "name": "Mew ex",
+    "rarity": "Corona",
+    "set": {
+      "cardCount": {
+        "official": 68,
+        "total": 86
+      },
+      "id": "A1a",
+      "name": "La Isla Singular"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 130,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Disparo Psi",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Hackeo Genoma",
+        "effect": "Elige 1 de los ataques del Pokémon Activo de tu rival y úsalo para este ataque."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

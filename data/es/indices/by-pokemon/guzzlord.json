@@ -1,0 +1,32 @@
+{
+  "name": "Guzzlord",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sm12-136",
+      "name": "Guzzlord",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "136",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/136",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sm6-80",
+      "name": "Guzzlord",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "80",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/80",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    }
+  ]
+}

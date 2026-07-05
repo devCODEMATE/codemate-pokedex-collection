@@ -1,0 +1,71 @@
+{
+  "name": "Scovillain",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "B2a-013",
+      "name": "Scovillain",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "013",
+      "rarity": "Dos Diamantes",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sv01-029",
+      "name": "Scovillain",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "029",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/029",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv01-202",
+      "name": "Scovillain",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "202",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/202",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KIYOTAKA OSHIYAMA"
+    },
+    {
+      "id": "sv03-025",
+      "name": "Scovillain",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "025",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/025",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sv04.5-107",
+      "name": "Scovillain",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "107",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/107",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

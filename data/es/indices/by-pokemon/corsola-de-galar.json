@@ -1,0 +1,45 @@
+{
+  "name": "Corsola de Galar",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh2-78",
+      "name": "Corsola de Galar",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "78",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/78",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "swsh4.5-SV049",
+      "name": "Corsola de Galar",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV049",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV049",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "swsh8-117",
+      "name": "Corsola de Galar",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "117",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/117",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

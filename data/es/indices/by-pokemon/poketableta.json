@@ -1,0 +1,39 @@
+{
+  "name": "Pokétableta",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "me02.5-198",
+      "name": "Pokétableta",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "198",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/198",
+      "types": null,
+      "illustrator": "Studio Bora Inc."
+    },
+    {
+      "id": "me03-081",
+      "name": "Pokétableta",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "081",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me03/081",
+      "types": null,
+      "illustrator": "Studio Bora Inc."
+    },
+    {
+      "id": "me03-113",
+      "name": "Pokétableta",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "113",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me03/113",
+      "types": null,
+      "illustrator": "Studio Bora Inc."
+    }
+  ]
+}

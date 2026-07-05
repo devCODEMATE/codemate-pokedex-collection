@@ -1,0 +1,4535 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "cel25-1",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/1",
+    "localId": "1",
+    "name": "Ho-Oh",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      250
+    ],
+    "hp": 130,
+    "types": [
+      "Fire"
+    ],
+    "description": "It will reveal itself before a pure-hearted Trainer by shining its bright, rainbow-colored wings.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Sacred Fire",
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Fire Blast",
+        "effect": "Discard an Energy from this Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576746,
+        "avg": 0.24,
+        "low": 0.02,
+        "trend": 0.24,
+        "avg1": 0.19,
+        "avg7": 0.3,
+        "avg30": 0.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250300,
+          "lowPrice": 0.01,
+          "midPrice": 0.34,
+          "highPrice": 35,
+          "marketPrice": 0.29,
+          "directLowPrice": 0.2
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-2",
+    "illustrator": "Aya Kusube",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/2",
+    "localId": "2",
+    "name": "Reshiram",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      643
+    ],
+    "hp": 130,
+    "types": [
+      "Fire"
+    ],
+    "description": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Scorching Wind",
+        "effect": "This attack does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Black Flame",
+        "effect": "If Zekrom is on your Bench, this attack does 80 more damage.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576747,
+        "avg": 0.2,
+        "low": 0.02,
+        "trend": 0.21,
+        "avg1": 0.2,
+        "avg7": 0.27,
+        "avg30": 0.2,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250301,
+          "lowPrice": 0.01,
+          "midPrice": 0.33,
+          "highPrice": 5.95,
+          "marketPrice": 0.3,
+          "directLowPrice": 0.11
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-2A",
+    "illustrator": "Ken Sugimori",
+    "localId": "2A",
+    "name": "Blastoise",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      9
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "description": "A brutal Pokémon with pressurized water jets on its shell. They are used for high-speed tackles.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Rain Dance",
+        "effect": "As often as you like during your turn (before your attack), you may attach 1 Water Energy card to 1 of your Water Pokémon. (This doesn't use up your 1 Energy card attachment for the turn.) This power can't be used if Blastoise is Asleep, Confused, or Paralyzed."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Hydro Pump",
+        "effect": "Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": ""
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576771,
+        "avg": 24.87,
+        "low": 6,
+        "trend": 28.83,
+        "avg1": 24.56,
+        "avg7": 23.71,
+        "avg30": 24.14,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-3",
+    "illustrator": "Ryuta Fuse",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/3",
+    "localId": "3",
+    "name": "Kyogre",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      382
+    ],
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "description": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Aqua Storm",
+        "effect": "Discard the top 5 cards of your deck, and then choose 2 of your opponent's Benched Pokémon. This attack does 50 damage for each Energy card you discarded in this way to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Surf",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576748,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.24,
+        "avg1": 0.23,
+        "avg7": 0.26,
+        "avg30": 0.23,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250298,
+          "lowPrice": 0.05,
+          "midPrice": 0.4,
+          "highPrice": 10,
+          "marketPrice": 0.4,
+          "directLowPrice": 0.34
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-4",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/4",
+    "localId": "4",
+    "name": "Palkia",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      484
+    ],
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Absolute Space",
+        "effect": "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Overdrive Smash",
+        "effect": "During your next turn, this Pokémon's Overdrive Smash attack does 80 more damage (before applying Weakness and Resistance).",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576749,
+        "avg": 0.19,
+        "low": 0.02,
+        "trend": 0.17,
+        "avg1": 0.23,
+        "avg7": 0.26,
+        "avg30": 0.18,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250302,
+          "lowPrice": 0.03,
+          "midPrice": 0.26,
+          "highPrice": 10,
+          "marketPrice": 0.27,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-4A",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "4A",
+    "name": "Charizard",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      6
+    ],
+    "hp": 120,
+    "types": [
+      "Fire"
+    ],
+    "description": "Spits fire that is hot enough to melt boulders. Known to unintentionally cause forest fires.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Energy Burn",
+        "effect": "As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "name": "Fire Spin",
+        "effect": "Discard 2 Energy cards attached to Charizard in order to use this attack.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": ""
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576772,
+        "avg": 239.11,
+        "low": 145,
+        "trend": 262.7,
+        "avg1": 98,
+        "avg7": 234.99,
+        "avg30": 216.21,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-5",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/5",
+    "localId": "5",
+    "name": "Pikachu",
+    "rarity": "Holo Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "description": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Gnaw",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Thunder Jolt",
+        "effect": "Flip a coin. If tails, this Pokémon also does 10 damage to itself.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576750,
+        "avg": 5.7,
+        "low": 2.2,
+        "trend": 5.5,
+        "avg1": 5.24,
+        "avg7": 5.26,
+        "avg30": 5.72,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250303,
+          "lowPrice": 3,
+          "midPrice": 8.11,
+          "highPrice": 1000,
+          "marketPrice": 6.54,
+          "directLowPrice": 4.6
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-6",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/6",
+    "localId": "6",
+    "name": "Flying Pikachu V",
+    "rarity": "Holo Rare V",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 190,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Thunder Shock",
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Fly",
+        "effect": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576751,
+        "avg": 4.05,
+        "low": 1.39,
+        "trend": 3.64,
+        "avg1": 3.54,
+        "avg7": 3.54,
+        "avg30": 4.02,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250304,
+          "lowPrice": 3.68,
+          "midPrice": 5,
+          "highPrice": 49.99,
+          "marketPrice": 4.71,
+          "directLowPrice": 4.4
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-7",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/7",
+    "localId": "7",
+    "name": "Flying Pikachu VMAX",
+    "rarity": "Holo Rare VMAX",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 310,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Flying Pikachu V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Max Balloon",
+        "effect": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576752,
+        "avg": 7.15,
+        "low": 2,
+        "trend": 7.51,
+        "avg1": 6.15,
+        "avg7": 7.07,
+        "avg30": 7.15,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250305,
+          "lowPrice": 5.9,
+          "midPrice": 8.98,
+          "highPrice": 1000,
+          "marketPrice": 6.82,
+          "directLowPrice": 7.98
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-8A",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "8A",
+    "name": "Dark Gyarados",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      130
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "description": "Normally found only in the deep ocean, it has recently been seen in shallow waters as well.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Pokemon Power",
+        "name": "Final Beam",
+        "effect": "When Dark Gyarados is Knocked Out by an attack, flip a coin. If heads, this power does 20 damage for each Water Energy attached to Dark Gyarados to the Pokémon that Knocked Out Dark Gyarados. Apply Weakness and Resistance. This power doesn't work if Dark Gyarados is Asleep, Confused, or Paralyzed."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Ice Beam",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": ""
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576775,
+        "avg": 7.52,
+        "low": 1.99,
+        "trend": 6.88,
+        "avg1": 5.49,
+        "avg7": 5.48,
+        "avg30": 7.01,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-8",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/8",
+    "localId": "8",
+    "name": "Surfing Pikachu V",
+    "rarity": "Holo Rare V",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 200,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "suffix": "V",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Surf",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576753,
+        "avg": 5.06,
+        "low": 1.47,
+        "trend": 4.03,
+        "avg1": 3.47,
+        "avg7": 3.53,
+        "avg30": 5.16,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250306,
+          "lowPrice": 3.44,
+          "midPrice": 5.79,
+          "highPrice": 125,
+          "marketPrice": 4.79,
+          "directLowPrice": 6.09
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-9",
+    "illustrator": "aky CG Works",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/9",
+    "localId": "9",
+    "name": "Surfing Pikachu VMAX",
+    "rarity": "Holo Rare VMAX",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 310,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Surfing Pikachu V",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Max Surfer",
+        "effect": "This attack also does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576754,
+        "avg": 6.63,
+        "low": 3.9,
+        "trend": 5.29,
+        "avg1": 6.56,
+        "avg7": 6.01,
+        "avg30": 6.64,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250307,
+          "lowPrice": 5.34,
+          "midPrice": 8.5,
+          "highPrice": 100,
+          "marketPrice": 6.48,
+          "directLowPrice": 6.94
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-9A",
+    "illustrator": "Kazuo Yazawa",
+    "localId": "9A",
+    "name": "Team Magma's Groudon",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      383
+    ],
+    "hp": 100,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": "Power Saver",
+        "effect": "As long as the number of Pokémon in play (both yours and your opponent's) that has Team Magma in its name is 3 or less, Team Magma's Groudon can't attack."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Linear Attack",
+        "effect": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Pulverize",
+        "effect": "If the Defending Pokémon already has at least 2 damage counters on it, this attack does 50 damage plus 20 more damage.",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": ""
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576781,
+        "avg": 3.38,
+        "low": 0.5,
+        "trend": 3.33,
+        "avg1": 3.42,
+        "avg7": 4.09,
+        "avg30": 3.37,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-10",
+    "illustrator": "Aya Kusube",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/10",
+    "localId": "10",
+    "name": "Zekrom",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      644
+    ],
+    "hp": 130,
+    "types": [
+      "Lightning"
+    ],
+    "description": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Field Crush",
+        "effect": "If your opponent has a Stadium in play, discard it.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "White Thunder",
+        "effect": "If Reshiram is on your Bench, this attack does 80 more damage.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576755,
+        "avg": 0.19,
+        "low": 0.02,
+        "trend": 0.18,
+        "avg1": 0.22,
+        "avg7": 0.25,
+        "avg30": 0.18,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250308,
+          "lowPrice": 0.05,
+          "midPrice": 0.38,
+          "highPrice": 14.99,
+          "marketPrice": 0.33,
+          "directLowPrice": 0.24
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-11",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/11",
+    "localId": "11",
+    "name": "Mew",
+    "rarity": "Holo Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Mysterious Tail",
+        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Psyshot",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576756,
+        "avg": 2.56,
+        "low": 0.49,
+        "trend": 2.86,
+        "avg1": 2.56,
+        "avg7": 2.56,
+        "avg30": 2.58,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250309,
+          "lowPrice": 1.5,
+          "midPrice": 4.61,
+          "highPrice": 4321,
+          "marketPrice": 4.23,
+          "directLowPrice": 4.8
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-12",
+    "illustrator": "AKIRA EGAWA",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/12",
+    "localId": "12",
+    "name": "Xerneas",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      716
+    ],
+    "hp": 120,
+    "types": [
+      "Psychic"
+    ],
+    "description": "When the horns on its head shine in seven different colors, it is said to be sharing everlasting life.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Breath of Life",
+        "effect": "Search your deck for up to 3 basic Energy cards of different types and attach them to your Pokémon in any way you like. Then, shuffle your deck."
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Aurora Horns",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576757,
+        "avg": 0.17,
+        "low": 0.02,
+        "trend": 0.17,
+        "avg1": 0.18,
+        "avg7": 0.24,
+        "avg30": 0.18,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250310,
+          "lowPrice": 0.04,
+          "midPrice": 0.3,
+          "highPrice": 5.04,
+          "marketPrice": 0.28,
+          "directLowPrice": 0.14
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-13",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/13",
+    "localId": "13",
+    "name": "Cosmog",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      789
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "Whether or not it's a Pokémon from this world is a mystery. When it's in a jam, it warps away to a safe place to hide.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Star Protection",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576758,
+        "avg": 0.19,
+        "low": 0.02,
+        "trend": 0.18,
+        "avg1": 0.18,
+        "avg7": 0.26,
+        "avg30": 0.19,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250311,
+          "lowPrice": 0.01,
+          "midPrice": 0.33,
+          "highPrice": 7.5,
+          "marketPrice": 0.34,
+          "directLowPrice": 0.14
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-14",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/14",
+    "localId": "14",
+    "name": "Cosmoem",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      790
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Cosmog",
+    "description": "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Star Protection",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576759,
+        "avg": 0.18,
+        "low": 0.02,
+        "trend": 0.19,
+        "avg1": 0.15,
+        "avg7": 0.24,
+        "avg30": 0.17,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250297,
+          "lowPrice": 0.02,
+          "midPrice": 0.31,
+          "highPrice": 17.02,
+          "marketPrice": 0.27,
+          "directLowPrice": 0.12
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-15A4",
+    "illustrator": "Midori Harada",
+    "localId": "15A4",
+    "name": "Claydol",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      344
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": "Cosmic Power",
+        "effect": "Once during your turn (before your attack), you may choose up to 2 cards from your hand and put them on the bottom of your deck in any order. If you do, draw cards until you have 6 cards in your hand. This power can't be used if Claydol is affected by a Special Condition."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Spinning Attack",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576786,
+        "avg": 0.77,
+        "low": 0.08,
+        "trend": 1.24,
+        "avg1": 1.7,
+        "avg7": 1.23,
+        "avg30": 0.76,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-15",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/15",
+    "localId": "15",
+    "name": "Lunala",
+    "rarity": "Holo Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      792
+    ],
+    "hp": 160,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Cosmoem",
+    "description": "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Lunar Pain",
+        "effect": "Double the number of damage counters on each of your opponent's Pokémon."
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Psychic Shot",
+        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-17T23:24:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576773,
+        "avg": 19.5,
+        "low": 5,
+        "trend": 33.18,
+        "avg1": 22.87,
+        "avg7": 16.95,
+        "avg30": 19.25,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250312,
+          "lowPrice": 0.13,
+          "midPrice": 0.39,
+          "highPrice": 7.99,
+          "marketPrice": 0.33,
+          "directLowPrice": 0.19
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-15A1",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "15A1",
+    "name": "Venusaur",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      3
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "name": "Solarbeam",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": ""
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576773,
+        "avg": 19.5,
+        "low": 5,
+        "trend": 33.18,
+        "avg1": 22.87,
+        "avg7": 16.95,
+        "avg30": 19.25,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-15A3",
+    "illustrator": "Shin-ichi Yoshida",
+    "localId": "15A3",
+    "name": "Rocket's Zapdos",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      145
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Plasma",
+        "effect": "If there are any Lightning Energy cards in your discard pile, attach 1 of them to Rocket's Zapdos.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Electroburn",
+        "effect": "Rocket's Zapdos does damage to itself equal to 10 times the number of Lightning Energy cards attached to it.",
+        "damage": 70
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576777,
+        "avg": 6.16,
+        "low": 1.6,
+        "trend": 6.1,
+        "avg1": 5.11,
+        "avg7": 4.75,
+        "avg30": 5.96,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "cel25-15A2",
+    "illustrator": "Ken Sugimori",
+    "localId": "15A2",
+    "name": "Here Comes Team Rocket!",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576776,
+        "avg": 1.46,
+        "low": 0.19,
+        "trend": 1.15,
+        "avg1": 1.19,
+        "avg7": 1.3,
+        "avg30": 1.5,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-16",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/16",
+    "localId": "16",
+    "name": "Zacian V",
+    "rarity": "Holo Rare V",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      888
+    ],
+    "hp": 220,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Roar of the Sword",
+        "effect": "Once during your turn, you may search your deck for a Psychic Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck. If you use this Ability, your turn ends."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Storm Slash",
+        "effect": "This attack does 30 more damage for each Psychic Energy attached to this Pokémon.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576761,
+        "avg": 0.77,
+        "low": 0.15,
+        "trend": 0.84,
+        "avg1": 0.86,
+        "avg7": 0.92,
+        "avg30": 0.86,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250313,
+          "lowPrice": 0.49,
+          "midPrice": 0.99,
+          "highPrice": 10,
+          "marketPrice": 0.84,
+          "directLowPrice": 0.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-17A",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "17A",
+    "name": "Umbreon Star",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      197
+    ],
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": "Dark Ray",
+        "effect": "Once during your turn, when you put Umbreon Star from your hand onto your Bench, you may choose 1 card from your opponent's hand without looking and discard it."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": "Feint Attack",
+        "effect": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": ""
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-17",
+    "illustrator": "Ryuta Fuse",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/17",
+    "localId": "17",
+    "name": "Groudon",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      383
+    ],
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "description": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-POWER"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Magma Volcano",
+        "effect": "Discard the top 5 cards of your deck. This attack does 80 damage for each Energy card you discarded in this way.",
+        "damage": "80×"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Massive Rend",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576762,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.22,
+        "avg1": 0.21,
+        "avg7": 0.27,
+        "avg30": 0.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250314,
+          "lowPrice": 0.07,
+          "midPrice": 0.37,
+          "highPrice": 10,
+          "marketPrice": 0.35,
+          "directLowPrice": 0.4
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-18",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/18",
+    "localId": "18",
+    "name": "Zamazenta V",
+    "rarity": "Holo Rare V",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      889
+    ],
+    "hp": 220,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "suffix": "V",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Growl of the Shield",
+        "effect": "All of your Fighting Pokémon take 20 less damage from attacks from your opponent's Pokémon VMAX (after applying Weakness and Resistance). You can't apply more than 1 Growl of the Shield Ability at a time."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Heavy Impact",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576763,
+        "avg": 0.78,
+        "low": 0.05,
+        "trend": 0.78,
+        "avg1": 0.9,
+        "avg7": 0.95,
+        "avg30": 0.82,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250299,
+          "lowPrice": 0.35,
+          "midPrice": 0.94,
+          "highPrice": 17.8,
+          "marketPrice": 0.81,
+          "directLowPrice": 0.68
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-19",
+    "illustrator": "AKIRA EGAWA",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/19",
+    "localId": "19",
+    "name": "Yveltal",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      717
+    ],
+    "hp": 120,
+    "types": [
+      "Darkness"
+    ],
+    "description": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Cry of Destruction",
+        "effect": "Discard up to 3 Special Energy from your opponent's Pokémon."
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Dark Feather",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576764,
+        "avg": 0.16,
+        "low": 0.02,
+        "trend": 0.18,
+        "avg1": 0.14,
+        "avg7": 0.21,
+        "avg30": 0.16,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250315,
+          "lowPrice": 0.01,
+          "midPrice": 0.25,
+          "highPrice": 5.04,
+          "marketPrice": 0.15,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-20",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/20",
+    "localId": "20",
+    "name": "Dialga",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      483
+    ],
+    "hp": 130,
+    "types": [
+      "Metal"
+    ],
+    "description": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": "Temporal Backflow",
+        "effect": "Put a card from your discard pile into your hand."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Metal Blast",
+        "effect": "This attack does 20 more damage for each Metal Energy attached to this Pokémon.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576765,
+        "avg": 0.22,
+        "low": 0.02,
+        "trend": 0.17,
+        "avg1": 0.22,
+        "avg7": 0.27,
+        "avg30": 0.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250296,
+          "lowPrice": 0.01,
+          "midPrice": 0.29,
+          "highPrice": 58,
+          "marketPrice": 0.29,
+          "directLowPrice": 0.1
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-20A",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "20A",
+    "name": "Cleffa",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      173
+    ],
+    "hp": 30,
+    "types": [
+      "Colorless"
+    ],
+    "description": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Eeeeeeek",
+        "effect": "Shuffle your hand into your deck, then draw 7 cards."
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576779,
+        "avg": 2.01,
+        "low": 0.7,
+        "trend": 2.01,
+        "avg1": 2.19,
+        "avg7": 1.98,
+        "avg30": 2.07,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-21",
+    "illustrator": "kirisAki",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/21",
+    "localId": "21",
+    "name": "Solgaleo",
+    "rarity": "Holo Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      791
+    ],
+    "hp": 170,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Cosmoem",
+    "description": "In writings from the distant past, it's called by the name \"the beast that devours the sun.\"",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Rush In",
+        "effect": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Solar Geyser",
+        "effect": "Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576766,
+        "avg": 0.26,
+        "low": 0.02,
+        "trend": 0.22,
+        "avg1": 0.25,
+        "avg7": 0.28,
+        "avg30": 0.27,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250316,
+          "lowPrice": 0.1,
+          "midPrice": 0.4,
+          "highPrice": 7.5,
+          "marketPrice": 0.4,
+          "directLowPrice": 0.24
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-22",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/22",
+    "localId": "22",
+    "name": "Lugia",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      249
+    ],
+    "hp": 130,
+    "types": [
+      "Colorless"
+    ],
+    "description": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Aero Ball",
+        "effect": "This attack does 20 damage for each Energy attached to both Active Pokémon.",
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Deep Crush",
+        "effect": "During your next turn, this Pokémon can't attack.",
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576767,
+        "avg": 0.36,
+        "low": 0.02,
+        "trend": 0.41,
+        "avg1": 0.26,
+        "avg7": 0.35,
+        "avg30": 0.34,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250317,
+          "lowPrice": 0.01,
+          "midPrice": 0.9,
+          "highPrice": 19.99,
+          "marketPrice": 0.9,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "cel25-23",
+    "illustrator": "KIYOTAKA OSHIYAMA",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/23",
+    "localId": "23",
+    "name": "Professor's Research (Professor Oak)",
+    "rarity": "Holo Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Discard your hand and draw 7 cards.",
+    "trainerType": "Supporter",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2023-12-27T19:30:08+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "cel25-24",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/swsh/cel25/24",
+    "localId": "24",
+    "name": "Professor's Research (Professor Oak)",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Discard your hand and draw 7 cards.",
+    "trainerType": "Supporter",
+    "regulationMark": "D",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-10-26T17:21:38+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-24A",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "24A",
+    "name": "_____'s Pikachu",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      25
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "description": "Your Birthdate: ______________________________",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Birthday Surprise",
+        "effect": "If it's not your birthday, this attack does 30 damage. If it is your birthday, flip a coin. If heads, this attack does 30 damage plus 50 more damage; if tails, this attack does 30 damage.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": ""
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576778,
+        "avg": 43,
+        "low": 19.99,
+        "trend": 64.89,
+        "avg1": 130.6,
+        "avg7": 48.2,
+        "avg30": 42.28,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-25",
+    "illustrator": "Saki Hayashiro",
+    "localId": "25",
+    "name": "Mew",
+    "rarity": "Secret Rare",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Mysterious Tail",
+        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Psyshot",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "regulationMark": "E",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576756,
+        "avg": 2.56,
+        "low": 0.49,
+        "trend": 2.86,
+        "avg1": 2.56,
+        "avg7": 2.56,
+        "avg30": 2.58,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:55.074Z",
+        "holofoil": {
+          "productId": 250295,
+          "lowPrice": 60,
+          "midPrice": 76.71,
+          "highPrice": 5000,
+          "marketPrice": 67.12,
+          "directLowPrice": 75.47
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-54A",
+    "illustrator": "Shizurow",
+    "localId": "54A",
+    "name": "Mewtwo EX",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      150
+    ],
+    "hp": 170,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "X Ball",
+        "effect": "Does 20 damage times the amount of Energy attached to this Pokémon and the Defending Pokémon.",
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Psydrive",
+        "effect": "Discard an Energy attached to this Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576792,
+        "avg": 19.75,
+        "low": 8,
+        "trend": 18.77,
+        "avg1": 15,
+        "avg7": 22.9,
+        "avg30": 20.56,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-60A",
+    "illustrator": "5ban Graphics",
+    "localId": "60A",
+    "name": "Tapu Lele GX",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      786
+    ],
+    "hp": 170,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "suffix": "GX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Wonder Tag",
+        "effect": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Energy Drive",
+        "effect": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance.",
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Tapu Cure GX",
+        "effect": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576795,
+        "avg": 7.83,
+        "low": 3.99,
+        "trend": 6.75,
+        "avg1": 12.23,
+        "avg7": 7.6,
+        "avg30": 7.84,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-66A",
+    "illustrator": "Ken Sugimori",
+    "localId": "66A",
+    "name": "Shining Magikarp",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      129
+    ],
+    "hp": 30,
+    "types": [
+      "Water"
+    ],
+    "description": "An underpowered, pathetic Pokémon. It may jump high on rare occasions, but never more than seven feet.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Gold Scale",
+        "effect": "Your opponent may draw 2 cards. Either way, you may draw 2 cards."
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Dragon Bond",
+        "effect": "Search your deck for a card named Gyarados, Dark Gyarados, or Shining Gyarados. Show it to your opponent and put it into your hand. Shuffle your deck afterward."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": ""
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576780,
+        "avg": 56.49,
+        "low": 20,
+        "trend": 52.86,
+        "avg1": 45,
+        "avg7": 44.19,
+        "avg30": 57.18,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "cel25-73A",
+    "illustrator": "Ken Sugimori",
+    "localId": "73A",
+    "name": "Imposter Professor Oak",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "effect": "Your opponent shuffles his or her hand into his or her deck, then draws 7 cards.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576774,
+        "avg": 0.71,
+        "low": 0.02,
+        "trend": 0.77,
+        "avg1": 1,
+        "avg7": 1.3,
+        "avg30": 0.74,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-76A",
+    "illustrator": "5ban Graphics",
+    "localId": "76A",
+    "name": "M Rayquaza EX",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      384
+    ],
+    "hp": 220,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "MEGA",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ancient Trait",
+        "name": "Δ Evolution",
+        "effect": "You may play this card from your hand to evolve a Pokémon during your first turn or the turn you play that Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Emerald Break",
+        "effect": "This attack does 30 damage times the number of your Benched Pokémon.",
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "cel25-86A",
+    "illustrator": "Ken Sugimori",
+    "localId": "86A",
+    "name": "Rocket's Admin.",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "effect": "Each player shuffles his or her hand into his or her deck. Then, each player counts his or her Prize cards left and draws up to that many cards. (You draw your cards first.)",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576782,
+        "avg": 0.65,
+        "low": 0.05,
+        "trend": 0.8,
+        "avg1": 1.1,
+        "avg7": 0.79,
+        "avg30": 0.67,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-88A",
+    "illustrator": "Ryo Ueda",
+    "localId": "88A",
+    "name": "Mew ex",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      151
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": "Versatile",
+        "effect": "Mew ex can use the attacks of all Pokémon in play as its own. (You still need the necessary Energy to use each attack.)"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Power Move",
+        "effect": "Search your deck for an Energy card and attach it to Mew ex. Shuffle your deck afterward. Then, you may switch Mew ex with 1 of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": ""
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576783,
+        "avg": 22.78,
+        "low": 8.47,
+        "trend": 24.04,
+        "avg1": 39,
+        "avg7": 26.93,
+        "avg30": 22.91,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-93A",
+    "illustrator": "Masahiko Ishii",
+    "localId": "93A",
+    "name": "Gardevoir ex",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      282
+    ],
+    "hp": 150,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Stage2",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": "Imprison",
+        "effect": "Once during your turn (before your attack), if Gardevoir ex is your Active Pokémon, you may put an Imprison marker on 1 of your opponent's Pokémon. Any Pokémon that has any Imprison markers on it can't use any Poké-Powers or Poké-Bodies. This power can't be used if Gardevoir ex is affected by a Special Condition."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Flame Ball",
+        "effect": "You may move a Fire Energy card attached to Gardevoir ex to 1 of your Benched Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": ""
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576784,
+        "avg": 15.84,
+        "low": 4.49,
+        "trend": 14.66,
+        "avg1": 12.43,
+        "avg7": 14.82,
+        "avg30": 18.46,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-97A",
+    "illustrator": "5ban Graphics",
+    "localId": "97A",
+    "name": "Xerneas EX",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      716
+    ],
+    "hp": 170,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Break Through",
+        "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "X Blast",
+        "effect": "This Pokémon can't use X Blast during your next turn.",
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576793,
+        "avg": 7.8,
+        "low": 2.9,
+        "trend": 8.35,
+        "avg1": 6,
+        "avg7": 10.63,
+        "avg30": 7.82,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-107A",
+    "illustrator": "Kent Kanetsuna",
+    "localId": "107A",
+    "name": "Donphan",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      232
+    ],
+    "hp": 120,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage1",
+    "suffix": "Prime",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": "Exoskeleton",
+        "effect": "Any damage done to Donphan by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Earthquake",
+        "effect": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Heavy Impact",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576789,
+        "avg": 4.35,
+        "low": 0.49,
+        "trend": 4,
+        "avg1": 13.98,
+        "avg7": 4.93,
+        "avg30": 4.42,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-109A",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "109A",
+    "name": "Luxray GL LV.X",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      405
+    ],
+    "hp": 110,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "LEVEL-UP",
+    "suffix": "SP",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": "Bright Look",
+        "effect": "Once during your turn (before your attack), when you put Luxray GL LV.X from your hand onto your Active Luxray GL, you may switch the Defending Pokémon with 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Flash Impact",
+        "effect": "Does 30 damage to 1 of your Pokémon, and don't apply Weakness and Resistance to this damage.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-113A",
+    "illustrator": "5ban Graphics",
+    "localId": "113A",
+    "name": "Reshiram",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      643
+    ],
+    "hp": 130,
+    "types": [
+      "Fire"
+    ],
+    "description": "This Pokémon appears in legends. It sends flames into the air from its tail, burning up everything around it.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Outrage",
+        "effect": "Does 10 more damage for each damage counter on this Pokémon.",
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Blue Flare",
+        "effect": "Discard 2 Fire Energy attached to this Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-01-24T23:11:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576747,
+        "avg": 0.2,
+        "low": 0.02,
+        "trend": 0.21,
+        "avg1": 0.2,
+        "avg7": 0.27,
+        "avg30": 0.2,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-114A",
+    "illustrator": "5ban Graphics",
+    "localId": "114A",
+    "name": "Zekrom",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      644
+    ],
+    "hp": 130,
+    "types": [
+      "Lightning"
+    ],
+    "description": "This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Outrage",
+        "effect": "Does 10 more damage for each damage counter on this Pokémon.",
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Bolt Strike",
+        "effect": "This Pokémon does 40 damage to itself.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-01-24T23:11:12+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 576755,
+        "avg": 0.19,
+        "low": 0.02,
+        "trend": 0.18,
+        "avg1": 0.22,
+        "avg7": 0.25,
+        "avg30": 0.18,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "cel25-145A",
+    "illustrator": "Shizurow",
+    "localId": "145A",
+    "name": "Garchomp C LV.X",
+    "rarity": "Classic Collection",
+    "set": {
+      "cardCount": {
+        "official": 25,
+        "total": 50
+      },
+      "id": "cel25",
+      "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+      "name": "Celebrations",
+      "symbol": "https://assets.tcgdex.net/univ/swsh/cel25/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "dexId": [
+      445
+    ],
+    "hp": 110,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "LEVEL-UP",
+    "suffix": "SP",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": "Healing Breath",
+        "effect": "Once during your turn (before your attack), when you put Garchomp C LV.X from your hand onto your Active Garchomp C, you may remove all damage counters from each of your Pokémon SP."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Dragon Rush",
+        "effect": "Discard 2 Energy attached to Garchomp C. Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Garchomp C can't use Dragon Rush during your next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "×2"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-03-24T21:48:56Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

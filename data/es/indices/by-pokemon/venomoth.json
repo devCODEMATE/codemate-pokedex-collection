@@ -1,0 +1,71 @@
+{
+  "name": "Venomoth",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "A1-017",
+      "name": "Venomoth",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "017",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/017",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mina Nakai"
+    },
+    {
+      "id": "sm10-11",
+      "name": "Venomoth",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "11",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/11",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mina Nakai"
+    },
+    {
+      "id": "sv03.5-049",
+      "name": "Venomoth",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "049",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/049",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "swsh12-002",
+      "name": "Venomoth",
+      "set": "swsh12",
+      "setName": "Tempestad Plateada",
+      "number": "002",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12/002",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy4-2",
+      "name": "Venomoth",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "2",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/2",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

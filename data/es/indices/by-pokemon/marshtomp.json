@@ -1,0 +1,45 @@
+{
+  "name": "Marshtomp",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm7-34",
+      "name": "Marshtomp",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/34",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "swsh8-63",
+      "name": "Marshtomp",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "63",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/63",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "tetsuya koizumi"
+    },
+    {
+      "id": "xy5-34",
+      "name": "Marshtomp",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/34",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    }
+  ]
+}

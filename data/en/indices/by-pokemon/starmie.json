@@ -1,0 +1,359 @@
+{
+  "name": "Starmie",
+  "totalCards": 27,
+  "cards": [
+    {
+      "id": "A1-075",
+      "name": "Starmie",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "075",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/075",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "A3-219",
+      "name": "Starmie",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "219",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/219",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "base1-64",
+      "name": "Starmie",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base1/64",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "base4-94",
+      "name": "Starmie",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "94",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base4/94",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "bw4-24",
+      "name": "Starmie",
+      "set": "bw4",
+      "setName": "Next Destinies",
+      "number": "24",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw4/24",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "dp6-71",
+      "name": "Starmie",
+      "set": "dp6",
+      "setName": "Legends Awakened",
+      "number": "71",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp6/71",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ecard3-30",
+      "name": "Starmie",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "30",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/30",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "CR CG gangs"
+    },
+    {
+      "id": "ecard3-44",
+      "name": "Starmie",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/44",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ecard3-H28",
+      "name": "Starmie",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "H28",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex11-15",
+      "name": "Starmie δ",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/15",
+      "types": [
+        "Water",
+        "Metal"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "ex11-30",
+      "name": "Starmie δ",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "30",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/30",
+      "types": [
+        "Water",
+        "Metal"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ex5-49",
+      "name": "Starmie",
+      "set": "ex5",
+      "setName": "Hidden Legends",
+      "number": "49",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex5/49",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "ex8-48",
+      "name": "Starmie",
+      "set": "ex8",
+      "setName": "Deoxys",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex8/48",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "hgss1-53",
+      "name": "Starmie",
+      "set": "hgss1",
+      "setName": "HeartGold SoulSilver",
+      "number": "53",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss1/53",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "neo3-25",
+      "name": "Starmie",
+      "set": "neo3",
+      "setName": "Neo Revelation",
+      "number": "25",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo3/25",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "pl2-50",
+      "name": "Starmie",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/50",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ru1-5",
+      "name": "Starmie",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "5",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/5",
+      "types": [
+        "Water"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "sm4-16",
+      "name": "Starmie",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/16",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "sm9-65",
+      "name": "Starmie",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "65",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/65",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sv03.5-121",
+      "name": "Starmie",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "121",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/121",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Arai Kiriko"
+    },
+    {
+      "id": "sv04.5-119",
+      "name": "Starmie",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "119",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/119",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "swsh8-53",
+      "name": "Starmie",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "53",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/53",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Megumi Mizutani"
+    },
+    {
+      "id": "swsh9-055",
+      "name": "Starmie",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "055",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/055",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy12-31",
+      "name": "Starmie",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "31",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/31",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "xy1-34",
+      "name": "Starmie",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "34",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy1/34",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "xy5-73",
+      "name": "Starmie",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "73",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/73",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "HiRON"
+    },
+    {
+      "id": "xy8-30",
+      "name": "Starmie",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "30",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/30",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

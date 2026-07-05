@@ -1,0 +1,45 @@
+{
+  "name": "Primarina",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "A3-048",
+      "name": "Primarina",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "048",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/048",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sm1-41",
+      "name": "Primarina",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "41",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/41",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sm8-67",
+      "name": "Primarina",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "67",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/67",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

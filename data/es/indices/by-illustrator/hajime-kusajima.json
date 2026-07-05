@@ -1,0 +1,526 @@
+{
+  "name": "Hajime Kusajima",
+  "totalCards": 40,
+  "cards": [
+    {
+      "id": "A1-008",
+      "name": "Weedle",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "008",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/008",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "A1-175",
+      "name": "Muk",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "175",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/175",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "A2-035",
+      "name": "Piplup",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "035",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/035",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "A2-090",
+      "name": "Wormadam",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "090",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/090",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "A2-108",
+      "name": "Toxicroak",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "108",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/108",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "A2a-012",
+      "name": "Houndoom",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "012",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/012",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "A2b-034",
+      "name": "Drifblim",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "034",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/034",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "bw5-64",
+      "name": "Sandile",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "64",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/64",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "bw5-77",
+      "name": "Klinklang",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "77",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/77",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "bw6-40",
+      "name": "Ampharos",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "40",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/40",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "bw6-95",
+      "name": "Zweilous",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "95",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/95",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "bw7-125",
+      "name": "Unfezant",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "125",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/125",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "bw7-96",
+      "name": "Skarmory",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "96",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/96",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "bw8-5",
+      "name": "Vespiquen",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "5",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/5",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "bw8-51",
+      "name": "Galvantula",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "51",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/51",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "bw9-45",
+      "name": "Grimer",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "45",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/45",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "bw9-97",
+      "name": "Staraptor",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "97",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/97",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "sm1-85",
+      "name": "Krookodile",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "85",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/85",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "sm2-66",
+      "name": "Sudowoodo",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "66",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/66",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "sm7-4",
+      "name": "Scyther",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "4",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/4",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy10-44",
+      "name": "Wormadam",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/44",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy10-60",
+      "name": "Bronzor",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "60",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/60",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy11-59",
+      "name": "Toxicroak",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "59",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/59",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy11-60",
+      "name": "Sneasel",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "60",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/60",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy11-65",
+      "name": "Yveltal",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "65",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/65",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy3-33",
+      "name": "Thundurus",
+      "set": "xy3",
+      "setName": "Puños Furiosos",
+      "number": "33",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy3/33",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy3-79",
+      "name": "Lickilicky",
+      "set": "xy3",
+      "setName": "Puños Furiosos",
+      "number": "79",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy3/79",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy4-37",
+      "name": "Gulpin",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "37",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/37",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy4-52",
+      "name": "Honchkrow",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "52",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/52",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy5-8",
+      "name": "Sceptile",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "8",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy5-92",
+      "name": "Crawdaunt",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "92",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/92",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy6-29",
+      "name": "Xatu",
+      "set": "xy6",
+      "setName": "Cielos Rugientes",
+      "number": "29",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy6/29",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy6-37",
+      "name": "Gliscor",
+      "set": "xy6",
+      "setName": "Cielos Rugientes",
+      "number": "37",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy6/37",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy7-6",
+      "name": "Ariados",
+      "set": "xy7",
+      "setName": "Antiguos Orígenes",
+      "number": "6",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy7/6",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy8-1",
+      "name": "Paras",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "1",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/1",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy8-103",
+      "name": "Florges",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "103",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/103",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy8-5",
+      "name": "Pansage",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "5",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/5",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy8-54",
+      "name": "Magnezone",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "54",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/54",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy9-49",
+      "name": "Zebstrika",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "49",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/49",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy9-61",
+      "name": "Doublade",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "61",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/61",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hajime Kusajima"
+    }
+  ]
+}

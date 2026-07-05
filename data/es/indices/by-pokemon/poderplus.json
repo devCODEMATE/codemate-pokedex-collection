@@ -1,0 +1,39 @@
+{
+  "name": "PoderPlus",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "bw1-96",
+      "name": "PoderPlus",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "96",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/96",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "tk-bw-e-16",
+      "name": "PoderPlus",
+      "set": "tk-bw-e",
+      "setName": "Kit de Entrenador BW (Excadrill)",
+      "number": "16",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/16",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "tk-bw-z-11",
+      "name": "PoderPlus",
+      "set": "tk-bw-z",
+      "setName": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "number": "11",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/11",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

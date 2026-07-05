@@ -1,0 +1,50 @@
+{
+  "name": "Giovanni",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "A1-223",
+      "name": "Giovanni",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "223",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/223",
+      "types": null,
+      "illustrator": "Hideki Ishikawa"
+    },
+    {
+      "id": "A1-270",
+      "name": "Giovanni",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "270",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/270",
+      "types": null,
+      "illustrator": "Hideki Ishikawa"
+    },
+    {
+      "id": "gym2-104",
+      "name": "Giovanni",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "104",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/104",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym2-18",
+      "name": "Giovanni",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "18",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/18",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

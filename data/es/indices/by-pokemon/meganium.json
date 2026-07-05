@@ -1,0 +1,58 @@
+{
+  "name": "Meganium",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "me01-010",
+      "name": "Meganium",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "010",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me01/010",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yoriyuki Ikegami"
+    },
+    {
+      "id": "mep-001",
+      "name": "Meganium",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "001",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sm8-8",
+      "name": "Meganium",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "8",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "xy9-3",
+      "name": "Meganium",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "3",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "kawayoo"
+    }
+  ]
+}

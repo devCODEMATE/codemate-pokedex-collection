@@ -1,0 +1,84 @@
+{
+  "name": "Bramblin",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2a-010",
+      "name": "Bramblin",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "010",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "me02-046",
+      "name": "Bramblin",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "046",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/046",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Takeshi Nakamura"
+    },
+    {
+      "id": "sv02-022",
+      "name": "Bramblin",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "022",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/022",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Pani Kobayashi"
+    },
+    {
+      "id": "sv02-023",
+      "name": "Bramblin",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "023",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/023",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "sv02-198",
+      "name": "Bramblin",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "198",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/198",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "sv05-020",
+      "name": "Bramblin",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "020",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/020",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Tetsu Kayama"
+    }
+  ]
+}

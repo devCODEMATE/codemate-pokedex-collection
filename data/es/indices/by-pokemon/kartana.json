@@ -1,0 +1,45 @@
+{
+  "name": "Kartana",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "P-A-075",
+      "name": "Kartana",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "075",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm10-19",
+      "name": "Kartana",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "19",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/19",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sm7-101",
+      "name": "Kartana",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "101",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/101",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hasuno"
+    }
+  ]
+}

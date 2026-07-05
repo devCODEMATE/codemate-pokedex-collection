@@ -1,0 +1,614 @@
+{
+  "name": "DOM",
+  "totalCards": 48,
+  "cards": [
+    {
+      "id": "A1-235",
+      "name": "Electrode",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "235",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/235",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "A1a-014",
+      "name": "Volcarona",
+      "set": "A1a",
+      "setName": "Mythical Island",
+      "number": "014",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1a/014",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "A2a-065",
+      "name": "Noctowl",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "065",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/065",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "A3b-088",
+      "name": "Primarina ex",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "088",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/088",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "B1-165",
+      "name": "Grimmsnarl",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "165",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/165",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "B1a-011",
+      "name": "Charmander",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "011",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/011",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "B1a-012",
+      "name": "Charmeleon",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "012",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/012",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "B1a-013",
+      "name": "Charizard",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "013",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/013",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "B1a-085",
+      "name": "Mega Lopunny ex",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "085",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/085",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "B2-203",
+      "name": "Mega Gardevoir ex",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "203",
+      "rarity": "Three Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/203",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-097",
+      "name": "Team Rocket's Mimikyu",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "097",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/097",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-204",
+      "name": "Team Rocket's Giovanni",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "204",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/204",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-266",
+      "name": "Mega Eelektross ex",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "266",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/266",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-267",
+      "name": "Mega Diancie ex",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "267",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/267",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-271",
+      "name": "Mega Dragonite ex",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "271",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/271",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-290",
+      "name": "Mega Dragonite ex",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "290",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/290",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02-068",
+      "name": "Toxtricity",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "068",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me02/068",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02-103",
+      "name": "Toxtricity",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "103",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me02/103",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me03-079",
+      "name": "Naveen",
+      "set": "me03",
+      "setName": "Perfect Order",
+      "number": "079",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me03/079",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me03-112",
+      "name": "Naveen",
+      "set": "me03",
+      "setName": "Perfect Order",
+      "number": "112",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/me/me03/112",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv01-006",
+      "name": "Cacturne",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "006",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/006",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv02-141",
+      "name": "Maschiff",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "141",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/141",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv02-268",
+      "name": "Grusha",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "268",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/268",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv03.5-107",
+      "name": "Hitmonchan",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "107",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/107",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv03-026",
+      "name": "Charmander",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "026",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/026",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv03-226",
+      "name": "Geeta",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "226",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/226",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv04.5-026",
+      "name": "Xatu",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "026",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/026",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv04.5-056",
+      "name": "Haunter",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "056",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/056",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv04.5-062",
+      "name": "Maschiff",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "062",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/062",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv05-049",
+      "name": "Palafin",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "049",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/049",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv05-098",
+      "name": "Sandy Shocks",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "098",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/098",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv05-210",
+      "name": "Eri",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "210",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/210",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv06.5-005",
+      "name": "Decidueye",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "005",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/005",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv06-093",
+      "name": "Enamorus",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "093",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/093",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv07-018",
+      "name": "Toedscruel",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "018",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/018",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv07-171",
+      "name": "Briar",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "171",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/171",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv08-034",
+      "name": "Armarouge",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "034",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/034",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv08-158",
+      "name": "Maushold",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "158",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/158",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv08-244",
+      "name": "Drayton",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "244",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/244",
+      "types": null,
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv09-186",
+      "name": "Hop's Zacian ex",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "186",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/186",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv10.5b-009",
+      "name": "Karrablast",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "009",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/009",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv10.5b-060",
+      "name": "Escavalier",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "060",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/060",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv10.5w-107",
+      "name": "Samurott",
+      "set": "sv10.5w",
+      "setName": "White Flare",
+      "number": "107",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5w/107",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv10-087",
+      "name": "Team Rocket's Mimikyu",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "087",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/087",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "svp-008",
+      "name": "Revavroom",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "008",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/008",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "svp-140",
+      "name": "Tinkaton",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "140",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/140",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "svp-182",
+      "name": "Iono's Kilowattrel",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "182",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/182",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "svp-225",
+      "name": "Pikachu",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "225",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "DOM"
+    }
+  ]
+}

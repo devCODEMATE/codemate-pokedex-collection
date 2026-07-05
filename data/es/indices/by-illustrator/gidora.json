@@ -1,0 +1,896 @@
+{
+  "name": "GIDORA",
+  "totalCards": 74,
+  "cards": [
+    {
+      "id": "A1-230",
+      "name": "Charmander",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "230",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/230",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "A1-272",
+      "name": "Sabrina",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "272",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/272",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "A1a-052",
+      "name": "Liepard",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "052",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/052",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "A2-153",
+      "name": "Lectro",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "153",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/153",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "A2-193",
+      "name": "Lectro",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "193",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/193",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "B2a-012",
+      "name": "Capsakid",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "012",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "B2a-091",
+      "name": "Damián",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "091",
+      "rarity": "Dos Diamantes",
+      "image": null,
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "B2a-108",
+      "name": "Damián",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "108",
+      "rarity": "Dos Estrellas",
+      "image": null,
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "B2a-115",
+      "name": "Damián",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "115",
+      "rarity": "Tres Estrellas",
+      "image": null,
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "me01-025",
+      "name": "Volcanion",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "025",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/025",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "me01-029",
+      "name": "Sizzlipede",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "029",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/029",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "me02.5-007",
+      "name": "Tangela de Erika",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "007",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/007",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "me02.5-104",
+      "name": "Medicham",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "104",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/104",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "me02.5-178",
+      "name": "Terapagos",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "178",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/178",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "me02-090",
+      "name": "Movimiento de Aza",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "090",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02/090",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "me02-120",
+      "name": "Movimiento de Aza",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "120",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02/120",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "me04-076",
+      "name": "Tranquilidad de A. Z.",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "076",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me04/076",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "me04-106",
+      "name": "Tranquilidad de A. Z.",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "106",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me04/106",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "P-A-074",
+      "name": "Zeraora",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "074",
+      "rarity": "Una Estrella",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv01-028",
+      "name": "Capsakid",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "028",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/028",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv01-166",
+      "name": "Damián",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "166",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/166",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv01-175",
+      "name": "Cinio",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "175",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/175",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv01-235",
+      "name": "Damián",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "235",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/235",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv01-236",
+      "name": "Cinio",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "236",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/236",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv02-122",
+      "name": "Naclstack",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "122",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/122",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv02-161",
+      "name": "Vigoroth",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "161",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/161",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv02-184",
+      "name": "Grusha",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "184",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/184",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv02-253",
+      "name": "Grusha",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "253",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/253",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv02-266",
+      "name": "Kendra",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "266",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/266",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv03.5-004",
+      "name": "Charmander",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "004",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/004",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv03.5-005",
+      "name": "Charmeleon",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "005",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/005",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv03.5-156",
+      "name": "Transferencia de Bill",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "156",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/156",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv03.5-194",
+      "name": "Transferencia de Bill",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "194",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/194",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv03-122",
+      "name": "Glimmet",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "122",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/122",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv03-149",
+      "name": "Bisharp",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "149",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/149",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv03-186",
+      "name": "Damián",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "186",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/186",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv03-187",
+      "name": "Brais",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "187",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/187",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv04.5-007",
+      "name": "Charmander",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "007",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/007",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv04.5-070",
+      "name": "Cyclizar",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "070",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/070",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv04.5-141",
+      "name": "Toxtricity",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "141",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/141",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv04-172",
+      "name": "Cayena",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "172",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/172",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv04-216",
+      "name": "Ferrocuello",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "216",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/216",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv04-241",
+      "name": "Cayena",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "241",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/241",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv05-097",
+      "name": "Colmilargo",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "097",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/097",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv05-155",
+      "name": "Convicción de Morti",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "155",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/155",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv05-201",
+      "name": "Convicción de Morti",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "201",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/201",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv06-154",
+      "name": "Cass",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "154",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/154",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv06-181",
+      "name": "Growlithe de Hisui",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "181",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/181",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv06-206",
+      "name": "Cass",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "206",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/206",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv06-220",
+      "name": "Gama",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "220",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/220",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv07-071",
+      "name": "Ferromole",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "071",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/071",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv07-133",
+      "name": "Denis",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "133",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/133",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv07-164",
+      "name": "Denis",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "164",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/164",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv08.5-046",
+      "name": "Ferromole",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "046",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/046",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv08.5-055",
+      "name": "Colmilargo",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "055",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/055",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv08.5-105",
+      "name": "Denis",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "105",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/105",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv08.5-113",
+      "name": "Cass",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "113",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/113",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv08.5-134",
+      "name": "Henzo",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "134",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/134",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv08.5-135",
+      "name": "Brais",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "135",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/135",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv08-161",
+      "name": "Terapagos",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "161",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/161",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv08-174",
+      "name": "Levi",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "174",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/174",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv08-232",
+      "name": "Levi",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "232",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/232",
+      "types": null,
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv08-238",
+      "name": "Pikachu ex",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "238",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/238",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv09-108",
+      "name": "Corviknight de Paul",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "108",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/108",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv09-166",
+      "name": "Lycanroc",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "166",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/166",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv10.5w-109",
+      "name": "Ducklett",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "109",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/109",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv10-001",
+      "name": "Pinsir de Eco",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "001",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/001",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv10-128",
+      "name": "Sneasel del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "128",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/128",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv10-190",
+      "name": "Typhlosion de Eco",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "190",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/190",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "svp-006",
+      "name": "Pawmot",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "006",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/006",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "svp-065",
+      "name": "Colagrito",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "065",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/065",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "svp-077",
+      "name": "Floragato",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "077",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/077",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "svp-082",
+      "name": "Quaxly",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "082",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/082",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "svp-109",
+      "name": "Ampharos",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "109",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/109",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "GIDORA"
+    }
+  ]
+}

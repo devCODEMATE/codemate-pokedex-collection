@@ -1,0 +1,331 @@
+{
+  "name": "Kangaskhan",
+  "totalCards": 25,
+  "cards": [
+    {
+      "id": "A1-203",
+      "name": "Kangaskhan",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "203",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/203",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "A4-133",
+      "name": "Kangaskhan",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "133",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/133",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "B2-126",
+      "name": "Kangaskhan",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "126",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/126",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "base2-21",
+      "name": "Kangaskhan",
+      "set": "base2",
+      "setName": "Jungle",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base2/21",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base2-5",
+      "name": "Kangaskhan",
+      "set": "base2",
+      "setName": "Jungle",
+      "number": "5",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base2/5",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base4-26",
+      "name": "Kangaskhan",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "26",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base4/26",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "bw10-71",
+      "name": "Kangaskhan",
+      "set": "bw10",
+      "setName": "Plasma Blast",
+      "number": "71",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw10/71",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "dp5-38",
+      "name": "Kangaskhan",
+      "set": "dp5",
+      "setName": "Majestic Dawn",
+      "number": "38",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp5/38",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "ecard2-88",
+      "name": "Kangaskhan",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "88",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/88",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "ex6-6",
+      "name": "Kangaskhan",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "6",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/6",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "hgss4-36",
+      "name": "Kangaskhan",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "36",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/36",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "P-A-097",
+      "name": "Kangaskhan",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "097",
+      "rarity": "Three Diamond",
+      "image": null,
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sm11-163",
+      "name": "Kangaskhan",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "163",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/163",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "sm115-47",
+      "name": "Kangaskhan",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "47",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/47",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "You Iribi"
+    },
+    {
+      "id": "sm1-99",
+      "name": "Kangaskhan",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "99",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/99",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm7.5-55",
+      "name": "Kangaskhan",
+      "set": "sm7.5",
+      "setName": "Dragon Majesty",
+      "number": "55",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "sm9-128",
+      "name": "Kangaskhan",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "128",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/128",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sv03-165",
+      "name": "Kangaskhan",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "165",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/165",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv10-151",
+      "name": "Kangaskhan",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "151",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/151",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "sv10-204",
+      "name": "Kangaskhan",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "204",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/204",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mékayu"
+    },
+    {
+      "id": "svp-202",
+      "name": "Kangaskhan",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "202",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh3-133",
+      "name": "Kangaskhan",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "133",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/133",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "swsh8-204",
+      "name": "Kangaskhan",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "204",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/204",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "swshp-SWSH038",
+      "name": "Kangaskhan",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH038",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH038",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "xy10-75",
+      "name": "Kangaskhan",
+      "set": "xy10",
+      "setName": "Fates Collide",
+      "number": "75",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/75",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    }
+  ]
+}

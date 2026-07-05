@@ -1,0 +1,45 @@
+{
+  "name": "Sandshrew de Alola",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm12-137",
+      "name": "Sandshrew de Alola",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "137",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/137",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sm2-19",
+      "name": "Sandshrew de Alola",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "19",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/19",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sm5-28",
+      "name": "Sandshrew de Alola",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "28",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/28",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

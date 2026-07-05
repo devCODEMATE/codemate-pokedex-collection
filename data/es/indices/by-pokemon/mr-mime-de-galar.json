@@ -1,0 +1,71 @@
+{
+  "name": "Mr. Mime de Galar",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "swsh12.5-030",
+      "name": "Mr. Mime de Galar",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "030",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/030",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh2-37",
+      "name": "Mr. Mime de Galar",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "37",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/37",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "swsh3-35",
+      "name": "Mr. Mime de Galar",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "35",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/35",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Misa Tsutsui"
+    },
+    {
+      "id": "swsh4.5-SV020",
+      "name": "Mr. Mime de Galar",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV020",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV020",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh5-34",
+      "name": "Mr. Mime de Galar",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "34",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/34",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "kodama"
+    }
+  ]
+}

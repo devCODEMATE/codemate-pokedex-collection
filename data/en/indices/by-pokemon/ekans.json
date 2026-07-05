@@ -1,0 +1,266 @@
+{
+  "name": "Ekans",
+  "totalCards": 20,
+  "cards": [
+    {
+      "id": "A1-164",
+      "name": "Ekans",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "164",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/164",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "A2b-045",
+      "name": "Ekans",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "045",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/045",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "A3b-100",
+      "name": "Ekans",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "100",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/100",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "base3-46",
+      "name": "Ekans",
+      "set": "base3",
+      "setName": "Fossil",
+      "number": "46",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base3/46",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "base5-56",
+      "name": "Ekans",
+      "set": "base5",
+      "setName": "Team Rocket",
+      "number": "56",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base5/56",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "dp4-66",
+      "name": "Ekans",
+      "set": "dp4",
+      "setName": "Great Encounters",
+      "number": "66",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp4/66",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ecard1-108",
+      "name": "Ekans",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "108",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/108",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex15-47",
+      "name": "Ekans δ",
+      "set": "ex15",
+      "setName": "Dragon Frontiers",
+      "number": "47",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex15/47",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "ex2-64",
+      "name": "Ekans",
+      "set": "ex2",
+      "setName": "Sandstorm",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex2/64",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ex7-55",
+      "name": "Ekans",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "55",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/55",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "P-A-056",
+      "name": "Ekans",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "056",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/tcgp/P-A/056",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Krgc"
+    },
+    {
+      "id": "sm10-62",
+      "name": "Ekans",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "62",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/62",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yumi"
+    },
+    {
+      "id": "sm115-25",
+      "name": "Ekans",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "25",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/25",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "sm115-26",
+      "name": "Ekans",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "26",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/26",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm3.5-36",
+      "name": "Ekans",
+      "set": "sm3.5",
+      "setName": "Shining Legends",
+      "number": "36",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DemizuPosuka"
+    },
+    {
+      "id": "sv03.5-023",
+      "name": "Ekans",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "023",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/023",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kedamahadaitai Yawarakai"
+    },
+    {
+      "id": "sv05-100",
+      "name": "Ekans",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "100",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/100",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shimaris Yukichi"
+    },
+    {
+      "id": "swsh3.5-33",
+      "name": "Ekans",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "33",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/33",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "tk-xy-n-16",
+      "name": "Ekans",
+      "set": "tk-xy-n",
+      "setName": "XY trainer Kit (Noivern)",
+      "number": "16",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy1-47",
+      "name": "Ekans",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "47",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy1/47",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shigenori Negishi"
+    }
+  ]
+}

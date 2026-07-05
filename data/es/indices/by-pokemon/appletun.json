@@ -1,0 +1,71 @@
+{
+  "name": "Appletun",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sv08-140",
+      "name": "Appletun",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "140",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/140",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "sv08-211",
+      "name": "Appletun",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "211",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/211",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "MINAMINAMI Take"
+    },
+    {
+      "id": "swsh2-23",
+      "name": "Appletun",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "23",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/23",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "swsh4.5-SV014",
+      "name": "Appletun",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV014",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV014",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh7-121",
+      "name": "Appletun",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "121",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/121",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Yuya Oka"
+    }
+  ]
+}

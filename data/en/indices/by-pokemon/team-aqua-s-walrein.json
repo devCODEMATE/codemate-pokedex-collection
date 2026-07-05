@@ -1,0 +1,33 @@
+{
+  "name": "Team Aqua's Walrein",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dc1-5",
+      "name": "Team Aqua's Walrein",
+      "set": "dc1",
+      "setName": "Double Crisis",
+      "number": "5",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/dc1/5",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "ex4-6",
+      "name": "Team Aqua's Walrein",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "6",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/6",
+      "types": [
+        "Water",
+        "Darkness"
+      ],
+      "illustrator": "Ken Ikuji"
+    }
+  ]
+}

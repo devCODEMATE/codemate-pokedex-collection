@@ -1,0 +1,43 @@
+{
+  "name": "burari",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "A2a-063",
+      "name": "Snorlax",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "063",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/063",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "burari"
+    },
+    {
+      "id": "sv06.5-008",
+      "name": "Houndoom",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "008",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/008",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "burari"
+    },
+    {
+      "id": "sv06.5-094",
+      "name": "Cassiopeia",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "094",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/094",
+      "types": null,
+      "illustrator": "burari"
+    }
+  ]
+}

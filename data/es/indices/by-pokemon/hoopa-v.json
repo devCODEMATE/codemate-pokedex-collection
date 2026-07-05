@@ -1,0 +1,45 @@
+{
+  "name": "Hoopa V",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh12.5-GG53",
+      "name": "Hoopa V",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "GG53",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/GG53",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh8-253",
+      "name": "Hoopa V",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "253",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/253",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "takuyoa"
+    },
+    {
+      "id": "swshp-SWSH176",
+      "name": "Hoopa V",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH176",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH176",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": null
+    }
+  ]
+}

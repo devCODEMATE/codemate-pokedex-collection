@@ -1,0 +1,58 @@
+{
+  "name": "Lucario y Melmetal GX",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm10-120",
+      "name": "Lucario y Melmetal GX",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "120",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/120",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sm10-203",
+      "name": "Lucario y Melmetal GX",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "203",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/203",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm10-224",
+      "name": "Lucario y Melmetal GX",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "224",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/224",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM192",
+      "name": "Lucario y Melmetal GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM192",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "nagimiso"
+    }
+  ]
+}

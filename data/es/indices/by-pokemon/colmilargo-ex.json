@@ -1,0 +1,71 @@
+{
+  "name": "Colmilargo ex",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sv01-123",
+      "name": "Colmilargo ex",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "123",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/123",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sv01-230",
+      "name": "Colmilargo ex",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "230",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/230",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sv01-246",
+      "name": "Colmilargo ex",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "246",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/246",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Pani Kobayashi"
+    },
+    {
+      "id": "sv04.5-053",
+      "name": "Colmilargo ex",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "053",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/053",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "svp-072",
+      "name": "Colmilargo ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "072",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/072",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

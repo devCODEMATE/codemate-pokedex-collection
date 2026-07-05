@@ -1,0 +1,71 @@
+{
+  "name": "Tapu Koko GX",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sm2-135",
+      "name": "Tapu Koko GX",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "135",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/135",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm2-153",
+      "name": "Tapu Koko GX",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "153",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/153",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm2-47",
+      "name": "Tapu Koko GX",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "47",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/47",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM33",
+      "name": "Tapu Koko GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM33",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM50",
+      "name": "Tapu Koko GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM50",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

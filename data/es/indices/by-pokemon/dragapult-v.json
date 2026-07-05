@@ -1,0 +1,45 @@
+{
+  "name": "Dragapult V",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh2-183",
+      "name": "Dragapult V",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "183",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/183",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "aky CG Works"
+    },
+    {
+      "id": "swsh2-92",
+      "name": "Dragapult V",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "92",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/92",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "aky CG Works"
+    },
+    {
+      "id": "swshp-SWSH096",
+      "name": "Dragapult V",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH096",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH096",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "aky CG Works"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Venusaur V",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh3.5-1",
+      "name": "Venusaur V",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "1",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "PLANETA Mochizuki"
+    },
+    {
+      "id": "swshp-SWSH100",
+      "name": "Venusaur V",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH100",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH100",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "aky CG Works"
+    }
+  ]
+}

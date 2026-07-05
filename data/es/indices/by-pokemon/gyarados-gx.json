@@ -1,0 +1,58 @@
+{
+  "name": "Gyarados GX",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm4-101",
+      "name": "Gyarados GX",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "101",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/101",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm4-112",
+      "name": "Gyarados GX",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "112",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/112",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm4-18",
+      "name": "Gyarados GX",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "18",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/18",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM212",
+      "name": "Gyarados GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM212",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    }
+  ]
+}

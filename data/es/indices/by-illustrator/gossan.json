@@ -1,0 +1,847 @@
+{
+  "name": "GOSSAN",
+  "totalCards": 69,
+  "cards": [
+    {
+      "id": "A1-052",
+      "name": "Centiskorch",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "052",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/052",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "A1-221",
+      "name": "Blaine",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "221",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/221",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "A1-268",
+      "name": "Blaine",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "268",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/268",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "A1-276",
+      "name": "Zapdos ex",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "276",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/276",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "A1a-043",
+      "name": "Geodude",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "043",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/043",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "A2-151",
+      "name": "Recluta del Equipo Galaxia",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "151",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/151",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "A2-173",
+      "name": "Croagunk",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "173",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/173",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "A2-191",
+      "name": "Recluta del Equipo Galaxia",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "191",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/191",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "A2b-102",
+      "name": "Dondozo",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "102",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/102",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "A2b-104",
+      "name": "Riolu",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "104",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/104",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "A3-151",
+      "name": "Guzmán",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "151",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/151",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "A3-193",
+      "name": "Guzmán",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "193",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/193",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "me01-073",
+      "name": "Hariyama",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "073",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me01/073",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "me02.5-207",
+      "name": "Petrel del Team Rocket",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "207",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/207",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "me02.5-238",
+      "name": "Mimikyu del Team Rocket",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "238",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/238",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "me02.5-255",
+      "name": "Entrenamiento de Karateka",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "255",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/255",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "me04-033",
+      "name": "Deoxys",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "033",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me04/033",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "mep-010",
+      "name": "Riolu",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "010",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv01-096",
+      "name": "Klefki",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "096",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/096",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv01-118",
+      "name": "Hawlucha",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "118",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/118",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv02-006",
+      "name": "Heracross",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "006",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv02-225",
+      "name": "Rookidee",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "225",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/225",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv03.5-111",
+      "name": "Rhyhorn",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "111",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/111",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv03.5-112",
+      "name": "Rhydon",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "112",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/112",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv03-070",
+      "name": "Thundurus",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "070",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/070",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv03-090",
+      "name": "Spoink",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "090",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/090",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv04.5-078",
+      "name": "Cael",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "078",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/078",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv04.5-120",
+      "name": "Tauros de Paldea",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "120",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/120",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv04.5-130",
+      "name": "Baxcalibur",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "130",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/130",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv04.5-191",
+      "name": "Scizor",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "191",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/191",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv04.5-193",
+      "name": "Revavroom",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "193",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/193",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv04.5-227",
+      "name": "Cael",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "227",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/227",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv04-063",
+      "name": "Zebstrika",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "063",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/063",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv04-092",
+      "name": "Gliscor",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "092",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/092",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv04-214",
+      "name": "Porygon-Z",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "214",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/214",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv05-041",
+      "name": "Feraligatr",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "041",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/041",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv05-121",
+      "name": "Miraidon",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "121",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/121",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv05-146",
+      "name": "Erin",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "146",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/146",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv05-199",
+      "name": "Erin",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "199",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/199",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv06.5-006",
+      "name": "Tapu Bulu",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "006",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv06.5-064",
+      "name": "Maquinaciones de Xero",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "064",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/064",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv06.5-089",
+      "name": "Maquinaciones de Xero",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "089",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/089",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv06-015",
+      "name": "Thwackey",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "015",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/015",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv06-065",
+      "name": "Zapdos",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "065",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/065",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv06-151",
+      "name": "Hesperio",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "151",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/151",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv06-205",
+      "name": "Hesperio",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "205",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/205",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv07-109",
+      "name": "Revavroom",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "109",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/109",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv07-119",
+      "name": "Bouffalant",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "119",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/119",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv08.5-096",
+      "name": "Entrenamiento de Karateka",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "096",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/096",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv08.5-097",
+      "name": "Entrenamiento de Karateka",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "097",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/097",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv08.5-098",
+      "name": "Entrenamiento de Karateka",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "098",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/098",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv08.5-099",
+      "name": "Entrenamiento de Karateka",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "099",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/099",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv08.5-138",
+      "name": "Anán",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "138",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/138",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv08-011",
+      "name": "Zarude",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "011",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/011",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv08-103",
+      "name": "Donphan",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "103",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/103",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv09-117",
+      "name": "Snorlax de Paul",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "117",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/117",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv09-143",
+      "name": "Entrenamiento de Karateka",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "143",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/143",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv09-144",
+      "name": "Entrenamiento de Karateka",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "144",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/144",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv09-145",
+      "name": "Entrenamiento de Karateka",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "145",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/145",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv10.5b-128",
+      "name": "Throh",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "128",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/128",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv10-049",
+      "name": "Gyarados de Misty",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "049",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/049",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv10-176",
+      "name": "Petrel del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "176",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/176",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv10-226",
+      "name": "Petrel del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "226",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/226",
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "svp-051",
+      "name": "Snorlax",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "051",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/051",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "svp-059",
+      "name": "Xatu",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "059",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/059",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "svp-063",
+      "name": "Cetitan",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "063",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/063",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "svp-138",
+      "name": "Porygon2",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "138",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/138",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "svp-219",
+      "name": "Entrenamiento de Karateka",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "219",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": null,
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "svp-220",
+      "name": "Entrenamiento de Karateka",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "220",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": null,
+      "illustrator": "GOSSAN"
+    }
+  ]
+}

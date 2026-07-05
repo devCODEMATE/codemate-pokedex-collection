@@ -1,0 +1,318 @@
+{
+  "name": "Uninori",
+  "totalCards": 24,
+  "cards": [
+    {
+      "id": "me01-015",
+      "name": "Shiftry",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "015",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/015",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "me01-101",
+      "name": "Latios",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "101",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/101",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "me02.5-029",
+      "name": "Tepig",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "029",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/029",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "me02.5-228",
+      "name": "Weavile",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "228",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/228",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "me02-012",
+      "name": "Charmeleon",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "012",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/012",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "me02-065",
+      "name": "Krokorok",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "065",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/065",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "me02-106",
+      "name": "Meowth",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "106",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02/106",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "me04-039",
+      "name": "Trevenant",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "039",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me04/039",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "mep-001",
+      "name": "Meganium",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "001",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "P-A-046",
+      "name": "Gible",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "046",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/046",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv05-011",
+      "name": "Grotle",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "011",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/011",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv06.5-045",
+      "name": "Fraxure",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "045",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/045",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv06-081",
+      "name": "Kadabra",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "081",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/081",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv07-112",
+      "name": "Tauros",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "112",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/112",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv07-120",
+      "name": "Tornadus",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "120",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/120",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv08.5-003",
+      "name": "Pinsir",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "003",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/003",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv08.5-166",
+      "name": "Electrofuria ex",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "166",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/166",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv08-087",
+      "name": "Dedenne",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "087",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/087",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv08-210",
+      "name": "Flapple",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "210",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/210",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv10.5b-137",
+      "name": "Krookodile",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "137",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/137",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv10-148",
+      "name": "Raticate del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "148",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/148",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "sv10-233",
+      "name": "Nidoking ex del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "233",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/233",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "svp-115",
+      "name": "Thwackey",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "115",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/115",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "svp-199",
+      "name": "Zarude",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "199",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Uninori"
+    }
+  ]
+}

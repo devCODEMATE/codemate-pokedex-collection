@@ -1,0 +1,58 @@
+{
+  "name": "Team Aqua's Carvanha",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "dc1-20",
+      "name": "Team Aqua's Carvanha",
+      "set": "dc1",
+      "setName": "Double Crisis",
+      "number": "20",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/dc1/20",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "ex4-25",
+      "name": "Team Aqua's Carvanha",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "25",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/25",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mt. TBT"
+    },
+    {
+      "id": "ex4-47",
+      "name": "Team Aqua's Carvanha",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "47",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/47",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yosuke Da Silva"
+    },
+    {
+      "id": "ex4-48",
+      "name": "Team Aqua's Carvanha",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "48",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/48",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hiromichi Sugiyama"
+    }
+  ]
+}

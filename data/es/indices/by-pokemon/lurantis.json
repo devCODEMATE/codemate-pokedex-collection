@@ -1,0 +1,71 @@
+{
+  "name": "Lurantis",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "A3-015",
+      "name": "Lurantis",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "015",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/015",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "sm11-16",
+      "name": "Lurantis",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "16",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/16",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "smp-SM25",
+      "name": "Lurantis",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM25",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sv10-014",
+      "name": "Lurantis",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "014",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/014",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masako Tomii"
+    },
+    {
+      "id": "swsh5-15",
+      "name": "Lurantis",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "15",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/15",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    }
+  ]
+}

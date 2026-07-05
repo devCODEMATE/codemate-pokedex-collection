@@ -1,0 +1,58 @@
+{
+  "name": "Raita Kazama",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "B2a-111",
+      "name": "Armarouge",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "111",
+      "rarity": "Dos Estrellas",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Raita Kazama"
+    },
+    {
+      "id": "me01-178",
+      "name": "Mega-Gardevoir ex",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "178",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/me/me01/178",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Raita Kazama"
+    },
+    {
+      "id": "me02.5-286",
+      "name": "Zoroark ex de N",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "286",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/286",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Raita Kazama"
+    },
+    {
+      "id": "me02-039",
+      "name": "Cresselia",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "039",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02/039",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Raita Kazama"
+    }
+  ]
+}

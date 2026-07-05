@@ -1,0 +1,45 @@
+{
+  "name": "Armaldo",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm12-112",
+      "name": "Armaldo",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "112",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/112",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Ayaka Yoshida"
+    },
+    {
+      "id": "swsh12-096",
+      "name": "Armaldo",
+      "set": "swsh12",
+      "setName": "Tempestad Plateada",
+      "number": "096",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12/096",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy11-57",
+      "name": "Armaldo",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "57",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/57",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Satoshi Shirai"
+    }
+  ]
+}

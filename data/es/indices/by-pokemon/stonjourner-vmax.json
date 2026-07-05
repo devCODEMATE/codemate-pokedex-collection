@@ -1,0 +1,32 @@
+{
+  "name": "Stonjourner VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh1-116",
+      "name": "Stonjourner VMAX",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "116",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/116",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh1-205",
+      "name": "Stonjourner VMAX",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "205",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/205",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

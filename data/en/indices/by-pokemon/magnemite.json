@@ -1,0 +1,669 @@
+{
+  "name": "Magnemite",
+  "totalCards": 51,
+  "cards": [
+    {
+      "id": "2018sm-8",
+      "name": "Magnemite",
+      "set": "2018sm",
+      "setName": "McDonald's Collection 2018",
+      "number": "8",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "A1-097",
+      "name": "Magnemite",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "097",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/097",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "A2-051",
+      "name": "Magnemite",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "051",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/051",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "A2a-053",
+      "name": "Magnemite",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "053",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/053",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "A2a-080",
+      "name": "Magnemite",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "080",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/080",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Yukihiro Tada"
+    },
+    {
+      "id": "A4-217",
+      "name": "Magnemite",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "217",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/217",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "B1a-024",
+      "name": "Magnemite",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "024",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/024",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "base1-53",
+      "name": "Magnemite",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "53",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base1/53",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "base4-79",
+      "name": "Magnemite",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "79",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base4/79",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "base5-60",
+      "name": "Magnemite",
+      "set": "base5",
+      "setName": "Team Rocket",
+      "number": "60",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base5/60",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "bw8-42",
+      "name": "Magnemite",
+      "set": "bw8",
+      "setName": "Plasma Storm",
+      "number": "42",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw8/42",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "bw8-43",
+      "name": "Magnemite",
+      "set": "bw8",
+      "setName": "Plasma Storm",
+      "number": "43",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw8/43",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "dp1-87",
+      "name": "Magnemite",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "87",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/87",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "dp7-66",
+      "name": "Magnemite",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "66",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/66",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "dp7-67",
+      "name": "Magnemite",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "67",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/67",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kent Kanetsuna"
+    },
+    {
+      "id": "ecard2-52",
+      "name": "Magnemite",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "52",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/52",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Shin-ichi Yoshida"
+    },
+    {
+      "id": "ecard2-91",
+      "name": "Magnemite",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "91",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/91",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ecard3-76",
+      "name": "Magnemite",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "76",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/76",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shin-ichi Yoshida"
+    },
+    {
+      "id": "ex11-74",
+      "name": "Magnemite",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "74",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/74",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "ex12-59",
+      "name": "Magnemite",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "59",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/59",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hiroki Fuchino"
+    },
+    {
+      "id": "ex16-54",
+      "name": "Magnemite",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "54",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/54",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex3-61",
+      "name": "Magnemite",
+      "set": "ex3",
+      "setName": "Dragon",
+      "number": "61",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex3/61",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "ex3-62",
+      "name": "Magnemite",
+      "set": "ex3",
+      "setName": "Dragon",
+      "number": "62",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex3/62",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ex3-63",
+      "name": "Magnemite",
+      "set": "ex3",
+      "setName": "Dragon",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex3/63",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex6-68",
+      "name": "Magnemite",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/68",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ex7-66",
+      "name": "Magnemite",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "66",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/66",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "hgss4-68",
+      "name": "Magnemite",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/68",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Noriko Hotta"
+    },
+    {
+      "id": "lc-80",
+      "name": "Magnemite",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "80",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/lc/lc/80",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "me01-045",
+      "name": "Magnemite",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "045",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/045",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Krgc"
+    },
+    {
+      "id": "mfb-19",
+      "name": "Magnemite",
+      "set": "mfb",
+      "setName": "My First Battle",
+      "number": "19",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shibuzoh"
+    },
+    {
+      "id": "neo2-26",
+      "name": "Magnemite",
+      "set": "neo2",
+      "setName": "Neo Discovery",
+      "number": "26",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo2/26",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "neo2-7",
+      "name": "Magnemite",
+      "set": "neo2",
+      "setName": "Neo Discovery",
+      "number": "7",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo2/7",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "P-A-024",
+      "name": "Magnemite",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "024",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/tcgp/P-A/024",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl3-111",
+      "name": "Magnemite",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "111",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/111",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm11-58",
+      "name": "Magnemite",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "58",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/58",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "sm12-242",
+      "name": "Magnemite",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "242",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/242",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Fumie Kittaka"
+    },
+    {
+      "id": "sm12-68",
+      "name": "Magnemite",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/68",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "sm5-80",
+      "name": "Magnemite",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "80",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/80",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "sm5-81",
+      "name": "Magnemite",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "81",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/81",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "sm6-34",
+      "name": "Magnemite",
+      "set": "sm6",
+      "setName": "Forbidden Light",
+      "number": "34",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm6/34",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "sma-SV27",
+      "name": "Magnemite",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV27",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV27",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sv01-063",
+      "name": "Magnemite",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "063",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/063",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "KIYOTAKA OSHIYAMA"
+    },
+    {
+      "id": "sv02-065",
+      "name": "Magnemite",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "065",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/065",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sv03.5-081",
+      "name": "Magnemite",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "081",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/081",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "sv03-063",
+      "name": "Magnemite",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "063",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/063",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sv08-058",
+      "name": "Magnemite",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "058",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/058",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hoshino KURO"
+    },
+    {
+      "id": "swsh10-105",
+      "name": "Magnemite",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "105",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/105",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "tk-ex-latio-4",
+      "name": "Magnemite",
+      "set": "tk-ex-latio",
+      "setName": "EX trainer Kit (Latios)",
+      "number": "4",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "xy12-37",
+      "name": "Magnemite",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "37",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/37",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "xy8-51",
+      "name": "Magnemite",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "51",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/51",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "xy8-52",
+      "name": "Magnemite",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "52",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/52",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Akira Komayama"
+    }
+  ]
+}

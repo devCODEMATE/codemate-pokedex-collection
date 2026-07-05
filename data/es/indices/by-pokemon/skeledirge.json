@@ -1,0 +1,45 @@
+{
+  "name": "Skeledirge",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "B2a-018",
+      "name": "Skeledirge",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "018",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv01-038",
+      "name": "Skeledirge",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "038",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/038",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv08-031",
+      "name": "Skeledirge",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "031",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/031",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "akagi"
+    }
+  ]
+}

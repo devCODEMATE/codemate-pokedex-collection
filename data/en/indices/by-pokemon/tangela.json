@@ -1,0 +1,409 @@
+{
+  "name": "Tangela",
+  "totalCards": 31,
+  "cards": [
+    {
+      "id": "A1-024",
+      "name": "Tangela",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "024",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/024",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "A2-004",
+      "name": "Tangela",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "004",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/004",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Narumi Sato"
+    },
+    {
+      "id": "A4-004",
+      "name": "Tangela",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "004",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/004",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "B2-205",
+      "name": "Tangela",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "205",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/205",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Taiga Kasai"
+    },
+    {
+      "id": "base1-66",
+      "name": "Tangela",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "66",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base1/66",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base4-96",
+      "name": "Tangela",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "96",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base4/96",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "bw11-1",
+      "name": "Tangela",
+      "set": "bw11",
+      "setName": "Legendary Treasures",
+      "number": "1",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw11/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "bw7-5",
+      "name": "Tangela",
+      "set": "bw7",
+      "setName": "Boundaries Crossed",
+      "number": "5",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw7/5",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "col1-72",
+      "name": "Tangela",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "72",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/col/col1/72",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hideaki Hakozaki"
+    },
+    {
+      "id": "dp4-87",
+      "name": "Tangela",
+      "set": "dp4",
+      "setName": "Great Encounters",
+      "number": "87",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp4/87",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "dp7-78",
+      "name": "Tangela",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "78",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/78",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "ecard2-112",
+      "name": "Tangela",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "112",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/112",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "ex12-44",
+      "name": "Tangela",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/44",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "ex6-30",
+      "name": "Tangela",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "30",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/30",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "g1-8",
+      "name": "Tangela",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "8",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/g1/8",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "me01-006",
+      "name": "Tangela",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "006",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/006",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yuriko Akase"
+    },
+    {
+      "id": "pl4-76",
+      "name": "Tangela",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "76",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/76",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl4-77",
+      "name": "Tangela",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "77",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/77",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sm10-16",
+      "name": "Tangela",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "16",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/16",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "sm12-5",
+      "name": "Tangela",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "5",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/5",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sm3-7",
+      "name": "Tangela",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "7",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/7",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "sm8-1",
+      "name": "Tangela",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "1",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "sv03.5-114",
+      "name": "Tangela",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "114",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/114",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "sv03.5-178",
+      "name": "Tangela",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "178",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/178",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "sv06-001",
+      "name": "Tangela",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "001",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/001",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yoriyuki Ikegami"
+    },
+    {
+      "id": "swsh12.5-004",
+      "name": "Tangela",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "004",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/004",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-latia-13",
+      "name": "Tangela",
+      "set": "tk-xy-latia",
+      "setName": "XY trainer Kit (Latias)",
+      "number": "13",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-latia-26",
+      "name": "Tangela",
+      "set": "tk-xy-latia",
+      "setName": "XY trainer Kit (Latias)",
+      "number": "26",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy11-1",
+      "name": "Tangela",
+      "set": "xy11",
+      "setName": "Steam Siege",
+      "number": "1",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy11/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "OOYAMA"
+    },
+    {
+      "id": "xy12-8",
+      "name": "Tangela",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "8",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/8",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "xy5-4",
+      "name": "Tangela",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "4",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/4",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "match"
+    }
+  ]
+}

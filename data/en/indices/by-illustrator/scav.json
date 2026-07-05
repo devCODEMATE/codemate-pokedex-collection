@@ -1,0 +1,552 @@
+{
+  "name": "Scav",
+  "totalCards": 42,
+  "cards": [
+    {
+      "id": "A1-186",
+      "name": "Pidgey",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "186",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/186",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "A1-187",
+      "name": "Pidgeotto",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "187",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/187",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "A1-188",
+      "name": "Pidgeot",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "188",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/188",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "A1-229",
+      "name": "Pinsir",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "229",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/229",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "A3b-095",
+      "name": "Voltorb",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "095",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/095",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "A3b-096",
+      "name": "Electrode",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "096",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/096",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "A4-039",
+      "name": "Poliwhirl",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "039",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/039",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "A4a-093",
+      "name": "Psyduck",
+      "set": "A4a",
+      "setName": "Secluded Springs",
+      "number": "093",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4a/093",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "A4a-094",
+      "name": "Golduck",
+      "set": "A4a",
+      "setName": "Secluded Springs",
+      "number": "094",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4a/094",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "B1-127",
+      "name": "Hariyama",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "127",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/127",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "B1a-046",
+      "name": "Muk",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "046",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/046",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "me01-102",
+      "name": "Spearow",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "102",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/102",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "me02.5-147",
+      "name": "Bisharp",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "147",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/147",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "me02.5-158",
+      "name": "Dreepy",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "158",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/158",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "me02.5-176",
+      "name": "Drampa",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "176",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/176",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv02-067",
+      "name": "Electrode",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "067",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/067",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv02-148",
+      "name": "Corviknight",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "148",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/148",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv03.5-041",
+      "name": "Zubat",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "041",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/041",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv03.5-042",
+      "name": "Golbat",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "042",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/042",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv03-091",
+      "name": "Grumpig",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "091",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/091",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv03-094",
+      "name": "Baltoy",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "094",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/094",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv03-108",
+      "name": "Barboach",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "108",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/108",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv03-131",
+      "name": "Houndour",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "131",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/131",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04.5-013",
+      "name": "Heat Rotom",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "013",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/013",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04.5-099",
+      "name": "Pineco",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "099",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/099",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04.5-145",
+      "name": "Wattrel",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "145",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/145",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04.5-170",
+      "name": "Primeape",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "170",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/170",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04.5-190",
+      "name": "Grafaiai",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "190",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/190",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04-006",
+      "name": "Dwebble",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "006",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/006",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv05-181",
+      "name": "Chatot",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "181",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/181",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv06-032",
+      "name": "Monferno",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "032",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/032",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv06-049",
+      "name": "Feebas",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "049",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/049",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv06-128",
+      "name": "Dreepy",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "128",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/128",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv07-087",
+      "name": "Crabrawler",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "087",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/087",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv08.5-067",
+      "name": "Bronzong",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "067",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/067",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv08.5-071",
+      "name": "Dreepy",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "071",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/071",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv08-097",
+      "name": "Gimmighoul",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "097",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/097",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv08-107",
+      "name": "Gastrodon",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "107",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/107",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv09-081",
+      "name": "Pupitar",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "081",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/081",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv10.5w-150",
+      "name": "Durant",
+      "set": "sv10.5w",
+      "setName": "White Flare",
+      "number": "150",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5w/150",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv10-055",
+      "name": "Huntail",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "055",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/055",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv10-088",
+      "name": "Team Rocket's Dottler",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "088",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/088",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Scav"
+    }
+  ]
+}

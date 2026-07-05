@@ -1,0 +1,370 @@
+{
+  "name": "Weedle",
+  "totalCards": 28,
+  "cards": [
+    {
+      "id": "2014xy-1",
+      "name": "Weedle",
+      "set": "2014xy",
+      "setName": "McDonald's Collection 2014",
+      "number": "1",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "A1-008",
+      "name": "Weedle",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "008",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/008",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "A2b-001",
+      "name": "Weedle",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "001",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/001",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "A2b-097",
+      "name": "Weedle",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "097",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/097",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "base1-69",
+      "name": "Weedle",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "69",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base1/69",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base4-100",
+      "name": "Weedle",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "100",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base4/100",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "bw9-1",
+      "name": "Weedle",
+      "set": "bw9",
+      "setName": "Plasma Freeze",
+      "number": "1",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw9/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "dp4-93",
+      "name": "Weedle",
+      "set": "dp4",
+      "setName": "Great Encounters",
+      "number": "93",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp4/93",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "ecard3-114",
+      "name": "Weedle",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "114",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/114",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Keiko Fukuyama"
+    },
+    {
+      "id": "ecard3-115",
+      "name": "Weedle",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "115",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/115",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "ex11-87",
+      "name": "Weedle",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "87",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/87",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "ex6-86",
+      "name": "Weedle",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "86",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/86",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "hgss2-69",
+      "name": "Weedle",
+      "set": "hgss2",
+      "setName": "Unleashed",
+      "number": "69",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss2/69",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "lc-99",
+      "name": "Weedle",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "99",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/lc/lc/99",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "me04-001",
+      "name": "Weedle",
+      "set": "me04",
+      "setName": "Chaos Rising",
+      "number": "001",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me04/001",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "neo2-70",
+      "name": "Weedle",
+      "set": "neo2",
+      "setName": "Neo Discovery",
+      "number": "70",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/neo/neo2/70",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl2-86",
+      "name": "Weedle",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "86",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/86",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "sm4-1",
+      "name": "Weedle",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "1",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "sm9-2",
+      "name": "Weedle",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "2",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/2",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "sm9-3",
+      "name": "Weedle",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "3",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sv03.5-013",
+      "name": "Weedle",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "013",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/013",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "nisimono"
+    },
+    {
+      "id": "swsh3.5-2",
+      "name": "Weedle",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "2",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/2",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "swsh4-1",
+      "name": "Weedle",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "1",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh6-1",
+      "name": "Weedle",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "1",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "xy0-1",
+      "name": "Weedle",
+      "set": "xy0",
+      "setName": "Kalos Starter Set",
+      "number": "1",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xy0/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "xy12-5",
+      "name": "Weedle",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "5",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/5",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "xy1-3",
+      "name": "Weedle",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "3",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy1/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "xy5-1",
+      "name": "Weedle",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "1",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    }
+  ]
+}

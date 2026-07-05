@@ -1,0 +1,340 @@
+{
+  "name": "REND",
+  "totalCards": 26,
+  "cards": [
+    {
+      "id": "A2-133",
+      "name": "Staravia",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "133",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/133",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "A2-159",
+      "name": "Shaymin",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "159",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/159",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "A2b-044",
+      "name": "Flamigo",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "044",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/044",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "A2b-093",
+      "name": "Clodsirede Paldea ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "093",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/093",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "B2a-113",
+      "name": "Bellibolt",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "113",
+      "rarity": "Dos Estrellas",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "me01-007",
+      "name": "Tangrowth",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "007",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/007",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "me01-028",
+      "name": "Cinderace",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "028",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me01/028",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "me02.5-041",
+      "name": "Totodile",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "041",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/041",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "me02.5-226",
+      "name": "Psyduck",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "226",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/226",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "me02.5-258",
+      "name": "Cheren",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "258",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/258",
+      "types": null,
+      "illustrator": "REND"
+    },
+    {
+      "id": "me02-080",
+      "name": "Smeargle",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "080",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/080",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "P-A-054",
+      "name": "Pawmot",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "054",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/054",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv04.5-226",
+      "name": "Pawmi",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "226",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/226",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv05-032",
+      "name": "Litten",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "032",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/032",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv05-172",
+      "name": "Cutiefly",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "172",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/172",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv06.5-007",
+      "name": "Houndour",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "007",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/007",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv06.5-075",
+      "name": "Zorua",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "075",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/075",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv06-179",
+      "name": "Chimecho",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "179",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/179",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv07-126",
+      "name": "Lechonk",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "126",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/126",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv08-193",
+      "name": "Vivillon",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "193",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/193",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv09-077",
+      "name": "Swinub",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "077",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/077",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv09-168",
+      "name": "Furret",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "168",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/168",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv10.5b-170",
+      "name": "Plan de N",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "170",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/170",
+      "types": null,
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv10.5w-115",
+      "name": "Zebstrika",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "115",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/115",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv10-114",
+      "name": "Nidoran♀ del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "114",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/114",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv10-130",
+      "name": "Purrloin de Roxy",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "130",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/130",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "REND"
+    }
+  ]
+}

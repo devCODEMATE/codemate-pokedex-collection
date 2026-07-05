@@ -1,0 +1,50 @@
+{
+  "name": "Pokédex",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "bw1-98",
+      "name": "Pokédex",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "98",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/98",
+      "types": null,
+      "illustrator": "Noriko Hotta"
+    },
+    {
+      "id": "P-A-004",
+      "name": "Pokédex",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "004",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/004",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "P-A-008",
+      "name": "Pokédex",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "008",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/008",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "xy12-82",
+      "name": "Pokédex",
+      "set": "xy12",
+      "setName": "Evoluciones",
+      "number": "82",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy12/82",
+      "types": null,
+      "illustrator": "Keiji Kinebuchi"
+    }
+  ]
+}

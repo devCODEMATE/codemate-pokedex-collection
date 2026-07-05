@@ -1,0 +1,32 @@
+{
+  "name": "Regieleki",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh10-051",
+      "name": "Regieleki",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "051",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/051",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh7-60",
+      "name": "Regieleki",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "60",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/60",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

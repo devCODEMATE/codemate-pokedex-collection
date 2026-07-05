@@ -1,0 +1,32 @@
+{
+  "name": "Brock's Zubat",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym1-24",
+      "name": "Brock's Zubat",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "24",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/24",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym1-74",
+      "name": "Brock's Zubat",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "74",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/74",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Atsuko Nishida"
+    }
+  ]
+}

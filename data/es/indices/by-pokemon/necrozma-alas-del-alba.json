@@ -1,0 +1,45 @@
+{
+  "name": "Necrozma Alas del Alba",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "P-A-078",
+      "name": "Necrozma Alas del Alba",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "078",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "smp-SM106",
+      "name": "Necrozma Alas del Alba",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM106",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "smp-SM123",
+      "name": "Necrozma Alas del Alba",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM123",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "nagimiso"
+    }
+  ]
+}

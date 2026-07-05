@@ -1,0 +1,32 @@
+{
+  "name": "Flamariete",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv08-038",
+      "name": "Flamariete",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "038",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/038",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "svp-151",
+      "name": "Flamariete",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "151",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/151",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Hasuno"
+    }
+  ]
+}

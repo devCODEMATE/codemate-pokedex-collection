@@ -1,0 +1,32 @@
+{
+  "name": "Jolteon VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh7-51",
+      "name": "Jolteon VMAX",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "51",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/51",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swshp-SWSH184",
+      "name": "Jolteon VMAX",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH184",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH184",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": null
+    }
+  ]
+}

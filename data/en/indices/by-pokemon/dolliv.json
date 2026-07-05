@@ -1,0 +1,84 @@
+{
+  "name": "Dolliv",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2a-008",
+      "name": "Dolliv",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "008",
+      "rarity": "One Diamond",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sv01-022",
+      "name": "Dolliv",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "022",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/022",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mina Nakai"
+    },
+    {
+      "id": "sv01-200",
+      "name": "Dolliv",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "200",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/200",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "sv03-020",
+      "name": "Dolliv",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "020",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/020",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sv04.5-103",
+      "name": "Dolliv",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "103",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/103",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "saino misaki"
+    },
+    {
+      "id": "sv10-022",
+      "name": "Dolliv",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "022",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/022",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Felicia Chen"
+    }
+  ]
+}

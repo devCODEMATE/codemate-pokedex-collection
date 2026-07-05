@@ -1,0 +1,32 @@
+{
+  "name": "Ferropaladín",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv05-079",
+      "name": "Ferropaladín",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "079",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/079",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "takuyoa"
+    },
+    {
+      "id": "sv05-080",
+      "name": "Ferropaladín",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "080",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/080",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "chibi"
+    }
+  ]
+}

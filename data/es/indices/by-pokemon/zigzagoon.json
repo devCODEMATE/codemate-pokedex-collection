@@ -1,0 +1,45 @@
+{
+  "name": "Zigzagoon",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "me02-081",
+      "name": "Zigzagoon",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "081",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/081",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv03-167",
+      "name": "Zigzagoon",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "167",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/167",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "xy5-111",
+      "name": "Zigzagoon",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "111",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/111",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    }
+  ]
+}

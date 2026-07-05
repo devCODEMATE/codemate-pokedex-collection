@@ -1,0 +1,45 @@
+{
+  "name": "Rampardos",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "A2-089",
+      "name": "Rampardos",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "089",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/089",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yoshinobu Saito"
+    },
+    {
+      "id": "sm5-65",
+      "name": "Rampardos",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "65",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/65",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yoshinobu Saito"
+    },
+    {
+      "id": "swsh10-077",
+      "name": "Rampardos",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "077",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/077",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": null
+    }
+  ]
+}

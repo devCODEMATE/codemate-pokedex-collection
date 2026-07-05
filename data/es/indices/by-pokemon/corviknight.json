@@ -1,0 +1,71 @@
+{
+  "name": "Corviknight",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sv02-148",
+      "name": "Corviknight",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "148",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/148",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "swsh1-135",
+      "name": "Corviknight",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "135",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/135",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh3-156",
+      "name": "Corviknight",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "156",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/156",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh4.5-SV089",
+      "name": "Corviknight",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV089",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV089",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "swsh8-190",
+      "name": "Corviknight",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "190",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/190",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Ryuta Fuse"
+    }
+  ]
+}

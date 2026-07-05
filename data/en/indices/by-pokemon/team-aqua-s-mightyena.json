@@ -1,0 +1,45 @@
+{
+  "name": "Team Aqua's Mightyena",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "dc1-18",
+      "name": "Team Aqua's Mightyena",
+      "set": "dc1",
+      "setName": "Double Crisis",
+      "number": "18",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/dc1/18",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "ex4-15",
+      "name": "Team Aqua's Mightyena",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/15",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shin-ichi Yoshikawa"
+    },
+    {
+      "id": "ex4-30",
+      "name": "Team Aqua's Mightyena",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "30",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/30",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shin-ichi Yoshikawa"
+    }
+  ]
+}

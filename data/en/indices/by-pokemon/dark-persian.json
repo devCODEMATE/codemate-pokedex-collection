@@ -1,0 +1,45 @@
+{
+  "name": "Dark Persian",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "base5-42",
+      "name": "Dark Persian",
+      "set": "base5",
+      "setName": "Team Rocket",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base5/42",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shin-ichi Yoshida"
+    },
+    {
+      "id": "basep-17",
+      "name": "Dark Persian",
+      "set": "basep",
+      "setName": "Wizards Black Star Promos",
+      "number": "17",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/basep/17",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "lc-6",
+      "name": "Dark Persian",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "6",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/lc/lc/6",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shin-ichi Yoshida"
+    }
+  ]
+}

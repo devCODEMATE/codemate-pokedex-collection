@@ -1,0 +1,786 @@
+{
+  "name": "KEIICHIRO ITO",
+  "totalCards": 60,
+  "cards": [
+    {
+      "id": "A1-243",
+      "name": "Weezing",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "243",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/243",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "A1a-060",
+      "name": "Tauros",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "060",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/060",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "A2-024",
+      "name": "Magmortar",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "024",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/024",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "A2-094",
+      "name": "Hippowdon",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "094",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/094",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "B2a-011",
+      "name": "Brambleghast",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "011",
+      "rarity": "Dos Diamantes",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "B2a-067",
+      "name": "Maschiff",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "067",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "B2a-074",
+      "name": "Tinkaton",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "074",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "me01-024",
+      "name": "Pyroar",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "024",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/024",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "me01-097",
+      "name": "Tinkatuff",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "097",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/097",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "me02.5-101",
+      "name": "Dugtrio del Team Rocket",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "101",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/101",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "me02.5-241",
+      "name": "Medicham",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "241",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/241",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "me04-042",
+      "name": "Xerneas",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "042",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me04/042",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sm11-164",
+      "name": "Tauros",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "164",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/164",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sm11-22",
+      "name": "Magmortar",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "22",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/22",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sm12-139",
+      "name": "Steelix",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "139",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/139",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sm12-183",
+      "name": "Código Cero",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "183",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/183",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sm12-37",
+      "name": "Pyroar",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "37",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/37",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv01-029",
+      "name": "Scovillain",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "029",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/029",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv01-136",
+      "name": "Maschiff",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "136",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/136",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv01-248",
+      "name": "Ferrodada ex",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "248",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/248",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv02-024",
+      "name": "Brambleghast",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "024",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/024",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv02-039",
+      "name": "Charcadet",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "039",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/039",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv02-263",
+      "name": "Ting-Lu ex",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "263",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/263",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv03.5-146",
+      "name": "Moltres",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "146",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/146",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv03-021",
+      "name": "Arboliva",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "021",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/021",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv03-201",
+      "name": "Bellibolt",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "201",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/201",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv04-085",
+      "name": "Tinkaton",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "085",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/085",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv04-103",
+      "name": "Naclstack",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "103",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/103",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv04-185",
+      "name": "Toedscruel",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "185",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/185",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv05-139",
+      "name": "Ferrocuello",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "139",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/139",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv06.5-073",
+      "name": "Fezandipiti",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "073",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/073",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv06-027",
+      "name": "Ninetales",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "027",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/027",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv06-138",
+      "name": "Ambipom",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "138",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/138",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv07-093",
+      "name": "Pangoro",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "093",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/093",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv08.5-089",
+      "name": "Hawlucha",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "089",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/089",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv08-067",
+      "name": "Kilowattrel",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "067",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/067",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv08-113",
+      "name": "Grapploct",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "113",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/113",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv09-014",
+      "name": "Durant",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "014",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/014",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv09-092",
+      "name": "Weezing",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "092",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/092",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv09-104",
+      "name": "Klang de N",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "104",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/104",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv10.5b-104",
+      "name": "Palpitoad",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "104",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/104",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv10.5w-024",
+      "name": "Basculin",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "024",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/024",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv10-112",
+      "name": "Ekans del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "112",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/112",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv10-118",
+      "name": "Nidorino del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "118",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/118",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv10-134",
+      "name": "Impidimp de Roxy",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "134",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/134",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "svp-134",
+      "name": "Crabominable",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "134",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/134",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh1-29",
+      "name": "Turtonator",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "29",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/29",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh1-98",
+      "name": "Rhydon",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "98",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/98",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh2-4",
+      "name": "Scyther",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "4",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/4",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh3-94",
+      "name": "Hippowdon",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "94",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/94",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh4-105",
+      "name": "Sableye",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "105",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/105",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh4-3",
+      "name": "Beedrill",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "3",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh6-39",
+      "name": "Walrein",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "39",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/39",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh6-83",
+      "name": "Runerigus de Galar",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "83",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/83",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh7-215",
+      "name": "Umbreon VMAX",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "215",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/215",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh8-137",
+      "name": "Golem",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "137",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/137",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh8-138",
+      "name": "Onix",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "138",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/138",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh8-192",
+      "name": "Copperajah",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "192",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/192",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swshp-SWSH079",
+      "name": "Mr. Rime de Galar",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH079",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH079",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swshp-SWSH125",
+      "name": "Moltres de Galar",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH125",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH125",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Kommo-o",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "A3-127",
+      "name": "Kommo-o",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "127",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/127",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "hatachu"
+    },
+    {
+      "id": "sm12-163",
+      "name": "Kommo-o",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "163",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/163",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "hatachu"
+    },
+    {
+      "id": "sm4-77",
+      "name": "Kommo-o",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "77",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/77",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "sm7.5-54",
+      "name": "Kommo-o",
+      "set": "sm7.5",
+      "setName": "Dragon Majesty",
+      "number": "54",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "so-taro"
+    }
+  ]
+}

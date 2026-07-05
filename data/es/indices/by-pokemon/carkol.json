@@ -1,0 +1,71 @@
+{
+  "name": "Carkol",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "me02.5-119",
+      "name": "Carkol",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "119",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/119",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Apios"
+    },
+    {
+      "id": "sv05-094",
+      "name": "Carkol",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "094",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/094",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh2-106",
+      "name": "Carkol",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "106",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/106",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "swsh4.5-SV068",
+      "name": "Carkol",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV068",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV068",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "tetsuya koizumi"
+    },
+    {
+      "id": "swsh5-79",
+      "name": "Carkol",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "79",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/79",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Uta"
+    }
+  ]
+}

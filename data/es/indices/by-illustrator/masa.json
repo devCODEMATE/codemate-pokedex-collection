@@ -1,0 +1,71 @@
+{
+  "name": "Masa",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "A2a-094",
+      "name": "Probopass ex",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "094",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/094",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masa"
+    },
+    {
+      "id": "me03-092",
+      "name": "Aurorus",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "092",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me03/092",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Masa"
+    },
+    {
+      "id": "sv05-179",
+      "name": "Meltan",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "179",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/179",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masa"
+    },
+    {
+      "id": "sv06-172",
+      "name": "Torkoal",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "172",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/172",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masa"
+    },
+    {
+      "id": "sv10.5w-097",
+      "name": "Pignite",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "097",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/097",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Masa"
+    }
+  ]
+}

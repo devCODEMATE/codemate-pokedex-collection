@@ -1,0 +1,71 @@
+{
+  "name": "Hiroaki Ito",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "dp1-15",
+      "name": "Skuntank",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "15",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/15",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Hiroaki Ito"
+    },
+    {
+      "id": "dp2-12",
+      "name": "Magmortar",
+      "set": "dp2",
+      "setName": "Mysterious Treasures",
+      "number": "12",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/dp/dp2/12",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hiroaki Ito"
+    },
+    {
+      "id": "dpp-DP20",
+      "name": "Magmortar",
+      "set": "dpp",
+      "setName": "DP Black Star Promos",
+      "number": "DP20",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dpp/DP20",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hiroaki Ito"
+    },
+    {
+      "id": "ecard1-64",
+      "name": "Typhlosion",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "64",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/64",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hiroaki Ito"
+    },
+    {
+      "id": "ecard1-76",
+      "name": "Electabuzz",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "76",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/76",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hiroaki Ito"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "name": "En Morikura",
+  "totalCards": 21,
+  "cards": [
+    {
+      "id": "A1a-068",
+      "name": "Hoja",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "068",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/068",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "A1a-082",
+      "name": "Hoja",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "082",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/082",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "A3-154",
+      "name": "Lulú",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "154",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/154",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "A3-196",
+      "name": "Lulú",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "196",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/196",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "P-A-030",
+      "name": "Eevee",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "030",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/030",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv02-045",
+      "name": "Azumarill",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "045",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/045",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv04-243",
+      "name": "Anís",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "243",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/243",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv04-255",
+      "name": "Dama Parasol",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "255",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/255",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv05-142",
+      "name": "Devoción de Bel",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "142",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/142",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv05-197",
+      "name": "Devoción de Bel",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "197",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/197",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv06-217",
+      "name": "Corin",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "217",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/217",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv08-179",
+      "name": "Atracción de Ariana",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "179",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/179",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv08-234",
+      "name": "Atracción de Ariana",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "234",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/234",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv09-126",
+      "name": "Cinccino",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "126",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/126",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv10.5b-092",
+      "name": "Lilligant",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "092",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/092",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv10-008",
+      "name": "Roserade de Cintia",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "008",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/008",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv10-050",
+      "name": "Lapras de Misty",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "050",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/050",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "swsh6-189",
+      "name": "Catleya",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "189",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/189",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "swsh6-213",
+      "name": "Catleya",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "213",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/213",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "swsh7-199",
+      "name": "Señorita Aroma",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "199",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/199",
+      "types": null,
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "swsh7-221",
+      "name": "Señorita Aroma",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "221",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/221",
+      "types": null,
+      "illustrator": "En Morikura"
+    }
+  ]
+}

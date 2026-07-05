@@ -1,0 +1,43 @@
+{
+  "name": "burari",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "A2a-063",
+      "name": "Snorlax",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "063",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/063",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "burari"
+    },
+    {
+      "id": "sv06.5-008",
+      "name": "Houndoom",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "008",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/008",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "burari"
+    },
+    {
+      "id": "sv06.5-094",
+      "name": "Casiopea",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "094",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/094",
+      "types": null,
+      "illustrator": "burari"
+    }
+  ]
+}

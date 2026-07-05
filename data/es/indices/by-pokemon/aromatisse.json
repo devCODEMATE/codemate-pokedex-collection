@@ -1,0 +1,84 @@
+{
+  "name": "Aromatisse",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "me03-036",
+      "name": "Aromatisse",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "036",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me03/036",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Mori Yuu"
+    },
+    {
+      "id": "sm10-142",
+      "name": "Aromatisse",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "142",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/142",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "sv08.5-039",
+      "name": "Aromatisse",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "039",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/039",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Wintr Wandr"
+    },
+    {
+      "id": "xy1-93",
+      "name": "Aromatisse",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "93",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/93",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "xy8-106",
+      "name": "Aromatisse",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "106",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/106",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "xy9-85",
+      "name": "Aromatisse",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "85",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/85",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "kirisAki"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Minato",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "me02.5-115",
+      "name": "Pancham",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "115",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/115",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Minato"
+    },
+    {
+      "id": "sv05-101",
+      "name": "Arbok",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "101",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/101",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Minato"
+    }
+  ]
+}

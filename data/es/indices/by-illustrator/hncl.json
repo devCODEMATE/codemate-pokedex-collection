@@ -1,0 +1,527 @@
+{
+  "name": "hncl",
+  "totalCards": 43,
+  "cards": [
+    {
+      "id": "2024sv-11",
+      "name": "Bramaluna",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "11",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "A1-274",
+      "name": "Moltres ex",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "274",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/274",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "A1a-026",
+      "name": "Raichu",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "026",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/026",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "A2-201",
+      "name": "Weavile ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "201",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/201",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "me01-076",
+      "name": "Riolu",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "076",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/076",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "me02.5-112",
+      "name": "Riolu",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "112",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/112",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "me02.5-127",
+      "name": "Honchkrow del Team Rocket",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "127",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/127",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "me02.5-202",
+      "name": "Atenea del Team Rocket",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "202",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/202",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "me02.5-244",
+      "name": "Spiritomb de Cintia",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "244",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/244",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "me02-062",
+      "name": "Seviper",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "062",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02/062",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "me02-079",
+      "name": "Ambipom",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "079",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02/079",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "me04-034",
+      "name": "Deoxys",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "034",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me04/034",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv01-034",
+      "name": "Houndoom",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "034",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/034",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv01-065",
+      "name": "Magnezone ex",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "065",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/065",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv02-135",
+      "name": "Tyranitar",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "135",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/135",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv02-265",
+      "name": "Órdenes de Jefes",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "265",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/265",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv03.5-161",
+      "name": "Carisma de Giovanni",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "161",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/161",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv03.5-197",
+      "name": "Carisma de Giovanni",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "197",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/197",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv04-068",
+      "name": "Tapu Koko ex",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "068",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/068",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv04-171",
+      "name": "Plan del Profesor Turo",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "171",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/171",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv04-240",
+      "name": "Plan del Profesor Turo",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "240",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/240",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv05-109",
+      "name": "Bramaluna",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "109",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/109",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv06.5-057",
+      "name": "Tenacidad de Acromo",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "057",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/057",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv06.5-087",
+      "name": "Tenacidad de Acromo",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "087",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/087",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv06-157",
+      "name": "Delos",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "157",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/157",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv06-161",
+      "name": "Cloe",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "161",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/161",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv06-208",
+      "name": "Delos",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "208",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/208",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv08.5-065",
+      "name": "Bramaluna",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "065",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/065",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv08.5-115",
+      "name": "Talento de Laureano",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "115",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/115",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv08.5-121",
+      "name": "Plan del Profesor Turo",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "121",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/121",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv08.5-139",
+      "name": "Talento de Laureano",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "139",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/139",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv08.5-142",
+      "name": "Cloe",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "142",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/142",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv08-042",
+      "name": "Milotic ex",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "042",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/042",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv10.5b-033",
+      "name": "Thundurus",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "033",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/033",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv10.5b-083",
+      "name": "Plan de N",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "083",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/083",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv10.5b-144",
+      "name": "Cobalion",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "144",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/144",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv10.5b-163",
+      "name": "Plan de N",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "163",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/163",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv10-116",
+      "name": "Nidoqueen del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "116",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/116",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv10-171",
+      "name": "Atenea del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "171",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/171",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv10-224",
+      "name": "Atenea del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "224",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/224",
+      "types": null,
+      "illustrator": "hncl"
+    },
+    {
+      "id": "svp-139",
+      "name": "Latias",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "139",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/139",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "svp-148",
+      "name": "Miraidon",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "148",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/148",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "svp-207",
+      "name": "Beldum de Máximo",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "207",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "hncl"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Kabuto",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "A1-158",
+      "name": "Kabuto",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "158",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/158",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm9-77",
+      "name": "Kabuto",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "77",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/77",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv03.5-140",
+      "name": "Kabuto",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "140",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/140",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "xy10-38",
+      "name": "Kabuto",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "38",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/38",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "MAHOU"
+    }
+  ]
+}

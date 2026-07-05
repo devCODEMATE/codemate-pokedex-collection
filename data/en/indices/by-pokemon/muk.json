@@ -1,0 +1,240 @@
+{
+  "name": "Muk",
+  "totalCards": 18,
+  "cards": [
+    {
+      "id": "A1-175",
+      "name": "Muk",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "175",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/175",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "B1a-046",
+      "name": "Muk",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "046",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/046",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "base3-13",
+      "name": "Muk",
+      "set": "base3",
+      "setName": "Fossil",
+      "number": "13",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base3/13",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base3-28",
+      "name": "Muk",
+      "set": "base3",
+      "setName": "Fossil",
+      "number": "28",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base3/28",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "bw4-53",
+      "name": "Muk",
+      "set": "bw4",
+      "setName": "Next Destinies",
+      "number": "53",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw4/53",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "bw9-46",
+      "name": "Muk",
+      "set": "bw9",
+      "setName": "Plasma Freeze",
+      "number": "46",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw9/46",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "dp3-56",
+      "name": "Muk",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "56",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/56",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Daisuke Ito"
+    },
+    {
+      "id": "ecard2-23",
+      "name": "Muk",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "23",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/23",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ecard2-H17",
+      "name": "Muk",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "H17",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex12-11",
+      "name": "Muk",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "11",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/11",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "hgss3-31",
+      "name": "Muk",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "31",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/31",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "lc-16",
+      "name": "Muk",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/lc/lc/16",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-57",
+      "name": "Muk",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/57",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "sm9-63",
+      "name": "Muk",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "63",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/63",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv01-127",
+      "name": "Muk",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "127",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/127",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Haru Akasaka"
+    },
+    {
+      "id": "sv03.5-089",
+      "name": "Muk",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "089",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/089",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "swsh3-101",
+      "name": "Muk",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "101",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/101",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Eri Yamaki"
+    },
+    {
+      "id": "swsh9-085",
+      "name": "Muk",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "085",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/085",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    }
+  ]
+}

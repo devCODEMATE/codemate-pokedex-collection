@@ -1,0 +1,97 @@
+{
+  "name": "Seviper",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "me02-062",
+      "name": "Seviper",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "062",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02/062",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sm3-50",
+      "name": "Seviper",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/50",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Eri Yamaki"
+    },
+    {
+      "id": "smp-SM46",
+      "name": "Seviper",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM46",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Eri Yamaki"
+    },
+    {
+      "id": "sv01-128",
+      "name": "Seviper",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "128",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/128",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv02-137",
+      "name": "Seviper",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "137",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/137",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "swsh11-116",
+      "name": "Seviper",
+      "set": "swsh11",
+      "setName": "Origen Perdido",
+      "number": "116",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh11/116",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh6-102",
+      "name": "Seviper",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "102",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/102",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    }
+  ]
+}

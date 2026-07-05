@@ -1,0 +1,32 @@
+{
+  "name": "Salamence VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh3-144",
+      "name": "Salamence VMAX",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "144",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/144",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh3-194",
+      "name": "Salamence VMAX",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "194",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/194",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

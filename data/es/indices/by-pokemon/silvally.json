@@ -1,0 +1,32 @@
+{
+  "name": "Silvally",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sm11-184",
+      "name": "Silvally",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "184",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/184",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Eske Yoshinob"
+    },
+    {
+      "id": "smp-SM64",
+      "name": "Silvally",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM64",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

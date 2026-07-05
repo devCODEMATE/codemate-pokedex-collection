@@ -1,0 +1,32 @@
+{
+  "name": "Lapras de Misty",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv10-050",
+      "name": "Lapras de Misty",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "050",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/050",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "En Morikura"
+    },
+    {
+      "id": "sv10-194",
+      "name": "Lapras de Misty",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "194",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/194",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Orca"
+    }
+  ]
+}

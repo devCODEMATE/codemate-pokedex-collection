@@ -1,0 +1,32 @@
+{
+  "name": "Flareon VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh7-18",
+      "name": "Flareon VMAX",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "18",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/18",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swshp-SWSH180",
+      "name": "Flareon VMAX",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH180",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH180",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": null
+    }
+  ]
+}

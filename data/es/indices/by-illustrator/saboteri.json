@@ -1,0 +1,656 @@
+{
+  "name": "Saboteri",
+  "totalCards": 50,
+  "cards": [
+    {
+      "id": "A2-047",
+      "name": "Rotom Lavado",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "047",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/047",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "A2-156",
+      "name": "Tangrowth",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "156",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/156",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "A2b-026",
+      "name": "Pawmi",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "026",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/026",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "A2b-027",
+      "name": "Pawmo",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "027",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/027",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "A2b-028",
+      "name": "Pawmot",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "028",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/028",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "A3-156",
+      "name": "Exeggutorde Alola",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "156",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/156",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me01-046",
+      "name": "Magneton",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "046",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/046",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me01-055",
+      "name": "Kadabra",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "055",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/055",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me01-103",
+      "name": "Fearow",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "103",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/103",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me02.5-018",
+      "name": "Tarountula del Team Rocket",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "018",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/018",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me02.5-123",
+      "name": "Gastly",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "123",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/123",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me02.5-177",
+      "name": "Cramorant de Paul",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "177",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/177",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me02.5-265",
+      "name": "Mega-Froslass ex",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "265",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/265",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me02-054",
+      "name": "Gastly",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "054",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/054",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me02-078",
+      "name": "Aipom",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "078",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/078",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me03-026",
+      "name": "Shinx",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "026",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me03/026",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me04-018",
+      "name": "Delibird",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "018",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me04/018",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mep-023",
+      "name": "Mega-Charizard X ex",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "023",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mep-032",
+      "name": "Mega-Gardevoir ex",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "032",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mep-037",
+      "name": "Bulbasaur",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "037",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mep-038",
+      "name": "Charmander",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "038",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mep-039",
+      "name": "Squirtle",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "039",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mep-040",
+      "name": "Turtwig",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "040",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mep-041",
+      "name": "Chimchar",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "041",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mep-042",
+      "name": "Piplup",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "042",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mep-043",
+      "name": "Rowlet",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "043",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mep-044",
+      "name": "Litten",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "044",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mep-045",
+      "name": "Popplio",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "045",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv05-023",
+      "name": "Rellor",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "023",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/023",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv05-174",
+      "name": "Excadrill",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "174",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/174",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv06-018",
+      "name": "Dipplin",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "018",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/018",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv06-171",
+      "name": "Poltchageist",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "171",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/171",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv06-210",
+      "name": "Sinistcha ex",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "210",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/210",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv07-117",
+      "name": "Purugly",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "117",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/117",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv07-148",
+      "name": "Squirtle",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "148",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/148",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv07-170",
+      "name": "Terapagos ex",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "170",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/170",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv08.5-010",
+      "name": "Dipplin",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "010",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/010",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv08-050",
+      "name": "Quaxly",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "050",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/050",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv08-156",
+      "name": "Oranguru",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "156",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/156",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv08-205",
+      "name": "Phanpy",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "205",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/205",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv09-010",
+      "name": "Foongus",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "010",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/010",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv09-103",
+      "name": "Klink de N",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "103",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/103",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv09-138",
+      "name": "Cramorant de Paul",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "138",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/138",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv10.5w-008",
+      "name": "Shelmet",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "008",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/008",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv10.5w-009",
+      "name": "Accelgor",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "009",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/009",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv10.5w-120",
+      "name": "Swoobat",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "120",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/120",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv10-019",
+      "name": "Tarountula del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "019",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/019",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "svp-155",
+      "name": "Wooper",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "155",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/155",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "svp-156",
+      "name": "Quagsire",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "156",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/156",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "svp-203",
+      "name": "Wobbuffet del Team Rocket",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "203",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Saboteri"
+    }
+  ]
+}

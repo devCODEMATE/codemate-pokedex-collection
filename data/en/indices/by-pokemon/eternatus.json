@@ -1,0 +1,32 @@
+{
+  "name": "Eternatus",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "me02-069",
+      "name": "Eternatus",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "069",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02/069",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "sv08-141",
+      "name": "Eternatus",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "141",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/141",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    }
+  ]
+}

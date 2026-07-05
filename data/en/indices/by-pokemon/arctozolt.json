@@ -1,0 +1,45 @@
+{
+  "name": "Arctozolt",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh3-66",
+      "name": "Arctozolt",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "66",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/66",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "swsh4.5-SV046",
+      "name": "Arctozolt",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV046",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV046",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "swshp-SWSH036",
+      "name": "Arctozolt",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH036",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH036",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hasuno"
+    }
+  ]
+}

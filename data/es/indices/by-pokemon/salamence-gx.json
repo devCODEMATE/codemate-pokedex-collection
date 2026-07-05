@@ -1,0 +1,45 @@
+{
+  "name": "Salamence GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm7.5-44",
+      "name": "Salamence GX",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "44",
+      "rarity": "Ultra Rara",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm7.5-73",
+      "name": "Salamence GX",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "73",
+      "rarity": "Rara Secreta",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM139",
+      "name": "Salamence GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM139",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

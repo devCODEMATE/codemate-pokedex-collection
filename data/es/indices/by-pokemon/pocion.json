@@ -1,0 +1,292 @@
+{
+  "name": "Poción",
+  "totalCards": 26,
+  "cards": [
+    {
+      "id": "bw1-100",
+      "name": "Poción",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "100",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/100",
+      "types": null,
+      "illustrator": "Ayaka Yoshida"
+    },
+    {
+      "id": "bw7-132",
+      "name": "Poción",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "132",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/132",
+      "types": null,
+      "illustrator": "Ayaka Yoshida"
+    },
+    {
+      "id": "me03-083",
+      "name": "Poción",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "083",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me03/083",
+      "types": null,
+      "illustrator": "Ayaka Yoshida"
+    },
+    {
+      "id": "P-A-001",
+      "name": "Poción",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "001",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/001",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm1-127",
+      "name": "Poción",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "127",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/127",
+      "types": null,
+      "illustrator": "Toyste Beach"
+    },
+    {
+      "id": "sv01-188",
+      "name": "Poción",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "188",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/188",
+      "types": null,
+      "illustrator": "Ayaka Yoshida"
+    },
+    {
+      "id": "swsh1-177",
+      "name": "Poción",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "177",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/177",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "swsh12.5-139",
+      "name": "Poción",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "139",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/139",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "swsh3.5-61",
+      "name": "Poción",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "61",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/61",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "tk-bw-e-15",
+      "name": "Poción",
+      "set": "tk-bw-e",
+      "setName": "Kit de Entrenador BW (Excadrill)",
+      "number": "15",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/15",
+      "types": null,
+      "illustrator": "Ayaka Yoshida"
+    },
+    {
+      "id": "tk-bw-e-23",
+      "name": "Poción",
+      "set": "tk-bw-e",
+      "setName": "Kit de Entrenador BW (Excadrill)",
+      "number": "23",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-bw-e/23",
+      "types": null,
+      "illustrator": "Ayaka Yoshida"
+    },
+    {
+      "id": "tk-sm-r-15",
+      "name": "Poción",
+      "set": "tk-sm-r",
+      "setName": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
+      "number": "15",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/tk/tk-sm-r/15",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-b-25",
+      "name": "Poción",
+      "set": "tk-xy-b",
+      "setName": "Kit de Entrenador XY (Bisharp)",
+      "number": "25",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-b/25",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-b-29",
+      "name": "Poción",
+      "set": "tk-xy-b",
+      "setName": "Kit de Entrenador XY (Bisharp)",
+      "number": "29",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-b/29",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-latia-15",
+      "name": "Poción",
+      "set": "tk-xy-latia",
+      "setName": "Kit de Entrenador XY (Latias)",
+      "number": "15",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-latia/15",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-latio-21",
+      "name": "Poción",
+      "set": "tk-xy-latio",
+      "setName": "Kit de Entrenador XY (Latios)",
+      "number": "21",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-latio/21",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-n-15",
+      "name": "Poción",
+      "set": "tk-xy-n",
+      "setName": "Kit de Entrenador XY (Noivern)",
+      "number": "15",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-n/15",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-n-27",
+      "name": "Poción",
+      "set": "tk-xy-n",
+      "setName": "Kit de Entrenador XY (Noivern)",
+      "number": "27",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-n/27",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-p-21",
+      "name": "Poción",
+      "set": "tk-xy-p",
+      "setName": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "number": "21",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-p/21",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-su-15",
+      "name": "Poción",
+      "set": "tk-xy-su",
+      "setName": "Kit de Entrenador XY (Suicune)",
+      "number": "15",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-su/15",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-sy-20",
+      "name": "Poción",
+      "set": "tk-xy-sy",
+      "setName": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "number": "20",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/20",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-sy-24",
+      "name": "Poción",
+      "set": "tk-xy-sy",
+      "setName": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "number": "24",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/24",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-w-15",
+      "name": "Poción",
+      "set": "tk-xy-w",
+      "setName": "Kit de Entrenador XY (Wigglytuff)",
+      "number": "15",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-w/15",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-w-20",
+      "name": "Poción",
+      "set": "tk-xy-w",
+      "setName": "Kit de Entrenador XY (Wigglytuff)",
+      "number": "20",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/tk/tk-xy-w/20",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "xy12-83",
+      "name": "Poción",
+      "set": "xy12",
+      "setName": "Evoluciones",
+      "number": "83",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy12/83",
+      "types": null,
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "xy9-106",
+      "name": "Poción",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "106",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/106",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

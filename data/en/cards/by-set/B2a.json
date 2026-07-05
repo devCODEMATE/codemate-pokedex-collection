@@ -1,0 +1,8378 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "B2a-001",
+    "illustrator": "Saya Tsuruta",
+    "localId": "001",
+    "name": "Sprigatito",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      906
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Leafage",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-002",
+    "illustrator": "Kouki Saitou",
+    "localId": "002",
+    "name": "Floragato",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      907
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Sprigatito",
+    "description": "The hardness of Floragato's fur depends on the Pokémon's mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Leaf Step",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-003",
+    "illustrator": "5ban Graphics",
+    "localId": "003",
+    "name": "Meowscarada",
+    "rarity": "Four Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      908
+    ],
+    "hp": 160,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Floragato",
+    "stage": "Stage2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Flower Trick",
+        "effect": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose."
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": "Solar Beam",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-03T13:17:03+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-004",
+    "illustrator": "Mina Nakai",
+    "localId": "004",
+    "name": "Tarountula",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      917
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "description": "The thread it secretes from its rear is as strong as wire. The secret behind the thread's strength is the topic of ongoing research.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Hook",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-005",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "005",
+    "name": "Spidops",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      918
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Tarountula",
+    "description": "Spidops covers its territory in tough, sticky threads to set up traps for intruders.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Bind Down",
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-006",
+    "illustrator": "Kouki Saitou",
+    "localId": "006",
+    "name": "Nymble",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      919
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "description": "It's highly skilled at a fighting style in which it uses its jumping capabilities to dodge incoming attacks while also dealing damage to opponents.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "U-turn",
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "damage": "10"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-007",
+    "illustrator": "yuu",
+    "localId": "007",
+    "name": "Smoliv",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      928
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Absorb",
+        "effect": "Heal 10 damage from this Pokémon.",
+        "damage": "10"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-008",
+    "illustrator": "Mizue",
+    "localId": "008",
+    "name": "Dolliv",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      929
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Smoliv",
+    "description": "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Seed Bomb",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-009",
+    "illustrator": "Kouki Saitou",
+    "localId": "009",
+    "name": "Arboliva",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      930
+    ],
+    "hp": 130,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Dolliv",
+    "description": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Extra Heal",
+        "effect": "Once during your turn, you may heal 60 damage from 1 of your Pokémon ex that has any Energy attached. If you do, discard a random Energy from that Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Seed Bomb",
+        "damage": "70"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-010",
+    "illustrator": "Miki Tanaka",
+    "localId": "010",
+    "name": "Bramblin",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      946
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "description": "Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Rollout",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-011",
+    "illustrator": "KEIICHIRO ITO",
+    "localId": "011",
+    "name": "Brambleghast",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      947
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Bramblin",
+    "description": "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Continuous Tumble",
+        "effect": "Flip a coin until you get tails. This attack does 60 damage for each heads.",
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-012",
+    "illustrator": "GIDORA",
+    "localId": "012",
+    "name": "Capsakid",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      951
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Playful Kick",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-013",
+    "illustrator": "kodama",
+    "localId": "013",
+    "name": "Scovillain",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      952
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Capsakid",
+    "description": "The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Red-Hot Headbutt",
+        "effect": "If your opponent's Active Pokémon is a Grass or Metal Pokémon, this attack does 40 more damage.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-014",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "014",
+    "name": "Rellor",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      953
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "description": "It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Ball Roll",
+        "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-015",
+    "illustrator": "Kouki Saitou",
+    "localId": "015",
+    "name": "Wo-Chien",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1001
+    ],
+    "hp": 120,
+    "types": [
+      "Grass"
+    ],
+    "description": "It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Binding Greed",
+        "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost {C}{C} more.",
+        "damage": "90"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-016",
+    "illustrator": "Akira Komayama",
+    "localId": "016",
+    "name": "Fuecoco",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      909
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "description": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Cheerful Singing",
+        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-017",
+    "illustrator": "kantaro",
+    "localId": "017",
+    "name": "Crocalor",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      910
+    ],
+    "hp": 100,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Fuecoco",
+    "description": "The valve in Crocalor's flame sac is closely connected to its vocal cords. This Pokémon utters a guttural cry as it spews flames every which way.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Bite",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-018",
+    "illustrator": "nagimiso",
+    "localId": "018",
+    "name": "Skeledirge",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      911
+    ],
+    "hp": 150,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Crocalor",
+    "description": "Skeledirge's gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Passionate Voice",
+        "effect": "Once during your turn, you may discard 1 Fire Energy from this Pokémon in order to use this Ability. During this turn, attacks used by your Fire Pokémon do +50 damage to your opponent's Active Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Heat Crash",
+        "damage": "70"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-019",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "019",
+    "name": "Charcadet",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      935
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "description": "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Punch",
+        "damage": "10"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-020",
+    "illustrator": "takuyoa",
+    "localId": "020",
+    "name": "Armarouge",
+    "rarity": "Four Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      936
+    ],
+    "hp": 140,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Charcadet",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Armor",
+        "effect": "This Pokémon takes –30 damage from attacks."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Armor Cannon",
+        "effect": "Discard a {R} Energy from this Pokémon.",
+        "damage": "120"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-03T13:17:03+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-021",
+    "illustrator": "Dsuke",
+    "localId": "021",
+    "name": "Chi-Yu",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1004
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "description": "The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Megafire of Envy",
+        "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-022",
+    "illustrator": "Naoki Saito",
+    "localId": "022",
+    "name": "Quaxly",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      912
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Splashing Dodge",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+        "damage": "10"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-023",
+    "illustrator": "kirisAki",
+    "localId": "023",
+    "name": "Quaxwell",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      913
+    ],
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Quaxly",
+    "description": "The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Splashing Turn",
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-024",
+    "illustrator": "Kouki Saitou",
+    "localId": "024",
+    "name": "Quaquaval",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      914
+    ],
+    "hp": 150,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Quaxwell",
+    "description": "Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Torrent",
+        "effect": "If this Pokémon's remaining HP is 50 or less, attacks used by this Pokémon do +60 damage to your opponent's Active Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Hydro Kick",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-025",
+    "illustrator": "Shin Nagasawa",
+    "localId": "025",
+    "name": "Wiglett",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      960
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "Though it looks like Diglett, Wiglett is an entirely different species. The resemblance seems to be a coincidental result of environmental adaptation.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Water Gun",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-026",
+    "illustrator": "Kouki Saitou",
+    "localId": "026",
+    "name": "Wugtrio",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      961
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Wiglett",
+    "description": "A variety of fish Pokémon, Wugtrio was once considered to be a regional form of Dugtrio.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Triple Whip",
+        "effect": "Flip 3 coins. This attack does 30 damage for each heads.",
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-027",
+    "illustrator": "kodama",
+    "localId": "027",
+    "name": "Finizen",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      963
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Razor Fin",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-028",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "028",
+    "name": "Palafin",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      964
+    ],
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Finizen",
+    "description": "This hero of the ocean swims at a speed of 50 knots and saves drowning people and Pokémon.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Jet Punch",
+        "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-029",
+    "illustrator": "Sekio",
+    "localId": "029",
+    "name": "Cetoddle",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      974
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "description": "It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Icicle Missile",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-030",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "030",
+    "name": "Cetitan",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      975
+    ],
+    "hp": 150,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Cetoddle",
+    "description": "Ice energy builds up in the horn on its upper jaw, causing the horn to reach cryogenic temperatures that freeze its surroundings.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Ice Punch",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "damage": "80"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-031",
+    "illustrator": "Oswaldo KATO",
+    "localId": "031",
+    "name": "Veluza",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      976
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "description": "Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Shedding Spiral",
+        "effect": "If you have no cards in your deck, this attack can be used for 1 Water Energy.",
+        "damage": "90"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-032",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "032",
+    "name": "Dondozo",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      977
+    ],
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "description": "It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Giga Impact",
+        "effect": "During your next turn, this Pokémon can't attack.",
+        "damage": "120"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-033",
+    "illustrator": "OKACHEKE",
+    "localId": "033",
+    "name": "Tatsugiri",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      978
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "description": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Rally Back",
+        "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-034",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "034",
+    "name": "Frigibax",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      996
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Chilly",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-035",
+    "illustrator": "Kouki Saitou",
+    "localId": "035",
+    "name": "Arctibax",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      997
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Frigibax",
+    "description": "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Frost Smash",
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-036",
+    "illustrator": "Oswaldo KATO",
+    "localId": "036",
+    "name": "Baxcalibur",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      998
+    ],
+    "hp": 140,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Arctibax",
+    "description": "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Ice Maker",
+        "effect": "Once during your turn, you may take a Water Energy from your Energy Zone and attach it to the Water Pokémon in the Active Spot."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Buster Tail",
+        "damage": "90"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-037",
+    "illustrator": "aky CG Works",
+    "localId": "037",
+    "name": "Chien-Pao",
+    "rarity": "Four Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1002
+    ],
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Icicle",
+        "damage": "20"
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Diving Icicles",
+        "effect": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-03T13:17:03+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-038",
+    "illustrator": "kantaro",
+    "localId": "038",
+    "name": "Pawmi",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      921
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "description": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Random Spark",
+        "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-039",
+    "illustrator": "Kanami Ogata",
+    "localId": "039",
+    "name": "Pawmo",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      922
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Pawmi",
+    "description": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Head Bolt",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-040",
+    "illustrator": "Mizue",
+    "localId": "040",
+    "name": "Pawmot",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      923
+    ],
+    "hp": 140,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Pawmo",
+    "description": "Pawmot's fluffy fur acts as a battery. It can store the same amount of electricity as an electric car.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Thunder Blast",
+        "effect": "Discard a Lightning Energy from this Pokémon.",
+        "damage": "100"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-041",
+    "illustrator": "Saya Tsuruta",
+    "localId": "041",
+    "name": "Tadbulb",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      938
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "description": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Electro Ball",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-042",
+    "illustrator": "PLANETA Yamashita",
+    "localId": "042",
+    "name": "Bellibolt",
+    "rarity": "Four Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      939
+    ],
+    "hp": 160,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Tadbulb",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "High-Voltage Cannon",
+        "effect": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-03T13:17:03+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-043",
+    "illustrator": "sowsow",
+    "localId": "043",
+    "name": "Wattrel",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      940
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "description": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they're a popular delicacy.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Flap",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-044",
+    "illustrator": "Pani Kobayashi",
+    "localId": "044",
+    "name": "Kilowattrel",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      941
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Wattrel",
+    "description": "It uses its throat sac to store electricity generated by its wings. There's hardly any oil in its feathers, so it is a poor swimmer.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Speed Wing",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-045",
+    "illustrator": "Kouki Saitou",
+    "localId": "045",
+    "name": "Miraidon",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1008
+    ],
+    "hp": 120,
+    "types": [
+      "Lightning"
+    ],
+    "description": "This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Lightning Laser",
+        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
+        "damage": "60"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-046",
+    "illustrator": "Mizue",
+    "localId": "046",
+    "name": "Fidough",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      926
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "The yeast in Fidough's breath is useful for cooking, so this Pokémon has been protected by people since long ago.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Rear Kick",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-047",
+    "illustrator": "You Iribi",
+    "localId": "047",
+    "name": "Dachsbun",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      927
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Fidough",
+    "description": "The pleasant aroma that emanates from this Pokémon's body helps wheat grow, so Dachsbun has been treasured by farming villages.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": "Play Rough",
+        "effect": "Flip a coin. If heads, this attack does 50 more damage.",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-048",
+    "illustrator": "Ryota Murayama",
+    "localId": "048",
+    "name": "Ceruledge",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      937
+    ],
+    "hp": 110,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Charcadet",
+    "description": "An old set of armor steeped in grudges caused this Pokémon's evolution. Ceruledge cuts its enemies to pieces without mercy.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Fighting Sword",
+        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-049",
+    "illustrator": "Oswaldo KATO",
+    "localId": "049",
+    "name": "Rabsca",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      954
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Rellor",
+    "description": "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": "Psybeam",
+        "effect": "Your opponent's Active Pokémon is now Confused.",
+        "damage": "80"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-050",
+    "illustrator": "kodama",
+    "localId": "050",
+    "name": "Flittle",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      955
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "description": "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Flop",
+        "damage": "10"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-051",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "051",
+    "name": "Espathra",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      956
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Flittle",
+    "description": "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Psychic",
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-052",
+    "illustrator": "yuu",
+    "localId": "052",
+    "name": "Greavard",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      971
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "description": "This friendly Pokémon doesn't like being alone. Pay it even the slightest bit of attention, and it will follow you forever.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Soul Shot",
+        "effect": "Discard a card from your hand. If you can't, this attack does nothing.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-053",
+    "illustrator": "Kouki Saitou",
+    "localId": "053",
+    "name": "Houndstone",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      972
+    ],
+    "hp": 130,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Greavard",
+    "description": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn't like anyone touching the protuberance atop its head.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Last Respects",
+        "effect": "This attack does 20 more damage for each Psychic Pokémon in your discard pile.",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-054",
+    "illustrator": "Mizue",
+    "localId": "054",
+    "name": "Gimmighoul",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      999
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Continuous Coin Toss",
+        "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-055",
+    "illustrator": "nagimiso",
+    "localId": "055",
+    "name": "Mankey",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      56
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "description": "It is extremely quick to anger. It could be docile one moment, then thrashing away the next instant.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Fury Swipes",
+        "effect": "Flip 3 coins. This attack does 10 damage for each heads.",
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-056",
+    "illustrator": "Shin Nagasawa",
+    "localId": "056",
+    "name": "Primeape",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      57
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Mankey",
+    "description": "Some researchers theorize that Primeape remains angry even when inside a Poké Ball.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Rage",
+        "effect": "This attack does more damage equal to the damage this Pokémon has on it.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-057",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "057",
+    "name": "Annihilape",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      979
+    ],
+    "hp": 140,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Primeape",
+    "description": "It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Dynamite Punch",
+        "effect": "This Pokémon also does 30 damage to itself.",
+        "damage": "90"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-058",
+    "illustrator": "Shin Nagasawa",
+    "localId": "058",
+    "name": "Paldean Tauros",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      128
+    ],
+    "hp": 100,
+    "types": [
+      "Fighting"
+    ],
+    "description": "This kind of Tauros, known as the Combat Breed, is distinguished by its thick, powerful muscles and its fierce disposition.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Rear Kick",
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-059",
+    "illustrator": "Oswaldo KATO",
+    "localId": "059",
+    "name": "Toedscool",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      948
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "description": "Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Smash Kick",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-060",
+    "illustrator": "Kouki Saitou",
+    "localId": "060",
+    "name": "Toedscruel",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      949
+    ],
+    "hp": 120,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Toedscool",
+    "description": "It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Stun Spore",
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "damage": "70"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-061",
+    "illustrator": "nagimiso",
+    "localId": "061",
+    "name": "Klawf",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      950
+    ],
+    "hp": 100,
+    "types": [
+      "Fighting"
+    ],
+    "description": "This Pokémon lives on sheer cliffs. It sidesteps opponents’ attacks, then lunges for their weak spots with its claws.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Adrenaline Hammer",
+        "effect": "This Pokémon is now Confused.",
+        "damage": "70"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-062",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "062",
+    "name": "Ting-Lu",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1003
+    ],
+    "hp": 120,
+    "types": [
+      "Fighting"
+    ],
+    "description": "It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Arrogant Impact",
+        "effect": "If this Pokémon's remaining HP is 60 or less, this attack does nothing.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-063",
+    "illustrator": "Kouki Saitou",
+    "localId": "063",
+    "name": "Koraidon",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1007
+    ],
+    "hp": 120,
+    "types": [
+      "Fighting"
+    ],
+    "description": "This Pokémon resembles Cyclizar, but it is far burlier and more ferocious. Nothing is known about its ecology or other features.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Rampaging Fang",
+        "effect": "Discard 2 {R} Energy from this Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-064",
+    "illustrator": "Pani Kobayashi",
+    "localId": "064",
+    "name": "Paldean Wooper",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      194
+    ],
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "description": "It's dangerous for Wooper to travel alone. They line up in groups of three or four and help each other as they walk around the wetlands.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Flop",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-065",
+    "illustrator": "Shin Nagasawa",
+    "localId": "065",
+    "name": "Paldean Clodsire",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      980
+    ],
+    "hp": 120,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Paldean Wooper",
+    "description": "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Muddy Hammer",
+        "effect": "Discard the top card of your opponent's deck.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-066",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "066",
+    "name": "Lokix",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      920
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Nymble",
+    "description": "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can't stay in this mode for long.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Rocket Jump",
+        "effect": "Flip a coin. If tails, this attack does nothing.",
+        "damage": "80"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-067",
+    "illustrator": "KEIICHIRO ITO",
+    "localId": "067",
+    "name": "Maschiff",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      942
+    ],
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "description": "Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Bite",
+        "damage": "30"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-068",
+    "illustrator": "KIYOTAKA OSHIYAMA",
+    "localId": "068",
+    "name": "Mabosstiff",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      943
+    ],
+    "hp": 120,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Maschiff",
+    "description": "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Wild Tackle",
+        "effect": "This Pokémon also does 20 damage to itself.",
+        "damage": "110"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-069",
+    "illustrator": "Akira Komayama",
+    "localId": "069",
+    "name": "Shroodle",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      944
+    ],
+    "hp": 50,
+    "types": [
+      "Darkness"
+    ],
+    "description": "To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Scratch",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-070",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "070",
+    "name": "Grafaiai",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      945
+    ],
+    "hp": 90,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Shroodle",
+    "description": "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Colorful Attack",
+        "effect": "If your Pokémon in play have 3 or more different types of Energy attached, this attack does 60 more damage.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-071",
+    "illustrator": "nagimiso",
+    "localId": "071",
+    "name": "Bombirdier",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      962
+    ],
+    "hp": 90,
+    "types": [
+      "Darkness"
+    ],
+    "description": "Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Fly",
+        "effect": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+        "damage": "70"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-072",
+    "illustrator": "Pani Kobayashi",
+    "localId": "072",
+    "name": "Tinkatink",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      957
+    ],
+    "hp": 60,
+    "types": [
+      "Metal"
+    ],
+    "description": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it's satisfied with the result.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": "Beat",
+        "damage": "30"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-073",
+    "illustrator": "Akira Komayama",
+    "localId": "073",
+    "name": "Tinkatuff",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      958
+    ],
+    "hp": 80,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Tinkatink",
+    "description": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other's hammers by smashing them together.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": "Light Punch",
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-074",
+    "illustrator": "KEIICHIRO ITO",
+    "localId": "074",
+    "name": "Tinkaton",
+    "rarity": "Three Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      959
+    ],
+    "hp": 150,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Tinkatuff",
+    "description": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": "Gigaton Hammer",
+        "effect": "During your next turn, this Pokémon can't use Gigaton Hammer.",
+        "damage": "140"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-075",
+    "illustrator": "nagimiso",
+    "localId": "075",
+    "name": "Varoom",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      965
+    ],
+    "hp": 60,
+    "types": [
+      "Metal"
+    ],
+    "description": "The steel section is Varoom's actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": "Ram",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-076",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "076",
+    "name": "Revavroom",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      966
+    ],
+    "hp": 110,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Varoom",
+    "description": "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": "Poison Gas",
+        "effect": "Your opponent's Active Pokémon is now Poisoned.",
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-077",
+    "illustrator": "Pani Kobayashi",
+    "localId": "077",
+    "name": "Orthworm",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      968
+    ],
+    "hp": 100,
+    "types": [
+      "Metal"
+    ],
+    "description": "This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": "Iron Supply",
+        "effect": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-078",
+    "illustrator": "takuyoa",
+    "localId": "078",
+    "name": "Gholdengo",
+    "rarity": "Four Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1000
+    ],
+    "hp": 150,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Gimmighoul",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": "Spending Rush",
+        "effect": "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it. ",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-03T13:17:03+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-079",
+    "illustrator": "kodama",
+    "localId": "079",
+    "name": "Lechonk",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      915
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "description": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Tackle",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-080",
+    "illustrator": "Pani Kobayashi",
+    "localId": "080",
+    "name": "Oinkologne",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      916
+    ],
+    "hp": 110,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Lechonk",
+    "description": "It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Leg Stomp",
+        "effect": "Flip a coin. If tails, during your next turn, this Pokémon can't attack.",
+        "damage": "100"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-081",
+    "illustrator": "Akira Komayama",
+    "localId": "081",
+    "name": "Tandemaus",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      924
+    ],
+    "hp": 30,
+    "types": [
+      "Colorless"
+    ],
+    "description": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Double Hit",
+        "effect": "Flip 2 coins. This attack does 30 damage for each heads.",
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-082",
+    "illustrator": "Saya Tsuruta",
+    "localId": "082",
+    "name": "Maushold",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      925
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Tandemaus",
+    "description": "The little one just appeared one day. They all live together like a family, but the relationship between the three is still unclear.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Triple Gnawing",
+        "effect": "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+        "damage": "60"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-083",
+    "illustrator": "Oswaldo KATO",
+    "localId": "083",
+    "name": "Squawkabilly",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      931
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "description": "Green-feathered flocks hold the most sway. When they're out searching for food in the mornings and evenings, it gets very noisy.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Quick Attack",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-084",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "084",
+    "name": "Cyclizar",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      967
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "description": "It can sprint at over 70 mph while carrying a human. The rider's body heat warms Cyclizar's back and lifts the Pokémon's spirit.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Driving Buddy",
+        "effect": "If you played a Supporter card from your hand during this turn, this attack does 60 more damage.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-085",
+    "illustrator": "kantaro",
+    "localId": "085",
+    "name": "Flamigo",
+    "rarity": "One Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      973
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "description": "Thanks to a behavior of theirs known as “synchronizing,” an entire flock of these Pokémon can attack simultaneously in perfect harmony.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Wing Attack",
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-086",
+    "illustrator": "Toyste Beach",
+    "localId": "086",
+    "name": "Electric Generator",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Flip a coin. If heads, take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-087",
+    "illustrator": "Toyste Beach",
+    "localId": "087",
+    "name": "Big Air Balloon",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "The Stage 2 Pokémon this card is attached to has no Retreat Cost.",
+    "trainerType": "Tool",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-088",
+    "illustrator": "nagimiso",
+    "localId": "088",
+    "name": "Team Star Grunt",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Discard a random Energy from among the Energy attached to all of your opponent's Pokémon that have an Ability.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-089",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "089",
+    "name": "Iono",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-090",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "090",
+    "name": "Nemona",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "During this turn, attacks used by your Pawmot do +80 damage to your opponent's Active Pokémon ex.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-091",
+    "illustrator": "GIDORA",
+    "localId": "091",
+    "name": "Arven",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Flip a coin. If heads, put a random Item card from your deck into your hand. If tails, put a random Pokémon Tool card from your deck into your hand.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-092",
+    "illustrator": "yuu",
+    "localId": "092",
+    "name": "Penny",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-093",
+    "illustrator": "Oswaldo KATO",
+    "localId": "093",
+    "name": "Mesagoza",
+    "rarity": "Two Diamond",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Once during each player's turn, that player may flip a coin. If heads, that player puts a random Pokémon from their deck into their hand. You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.",
+    "trainerType": "Stadium",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-094",
+    "illustrator": "Shimaris Yukichi",
+    "localId": "094",
+    "name": "Fuecoco",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      909
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "description": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Cheerful Singing",
+        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-095",
+    "illustrator": "sowsow",
+    "localId": "095",
+    "name": "Greavard",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      971
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "description": "This friendly Pokémon doesn't like being alone. Pay it even the slightest bit of attention, and it will follow you forever.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Soul Shot",
+        "effect": "Discard a card from your hand. If you can't, this attack does nothing.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-096",
+    "illustrator": "Akira Komayama",
+    "localId": "096",
+    "name": "Gimmighoul",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      999
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Continuous Coin Toss",
+        "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-097",
+    "illustrator": "Miki Tanaka",
+    "localId": "097",
+    "name": "Paldean Wooper",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      194
+    ],
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "description": "It's dangerous for Wooper to travel alone. They line up in groups of three or four and help each other as they walk around the wetlands.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Flop",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-098",
+    "illustrator": "OKACHEKE",
+    "localId": "098",
+    "name": "Orthworm",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      968
+    ],
+    "hp": 100,
+    "types": [
+      "Metal"
+    ],
+    "description": "This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": "Iron Supply",
+        "effect": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-099",
+    "illustrator": "Mizue",
+    "localId": "099",
+    "name": "Maushold",
+    "rarity": "One Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      925
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "description": "The little one just appeared one day. They all live together like a family, but the relationship between the three is still unclear.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Triple Gnawing",
+        "effect": "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+        "damage": "60"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-100",
+    "illustrator": "5ban Graphics",
+    "localId": "100",
+    "name": "Meowscarada",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      908
+    ],
+    "hp": 160,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Floragato",
+    "stage": "Stage2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Flower Trick",
+        "effect": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose."
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": "Solar Beam",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-101",
+    "illustrator": "takuyoa",
+    "localId": "101",
+    "name": "Armarouge",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      936
+    ],
+    "hp": 140,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Charcadet",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Armor",
+        "effect": "This Pokémon takes –30 damage from attacks."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Armor Cannon",
+        "effect": "Discard a {R} Energy from this Pokémon.",
+        "damage": "120"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-102",
+    "illustrator": "aky CG Works",
+    "localId": "102",
+    "name": "Chien-Pao",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1002
+    ],
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Icicle",
+        "damage": "20"
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Diving Icicles",
+        "effect": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-103",
+    "illustrator": "PLANETA Yamashita",
+    "localId": "103",
+    "name": "Bellibolt",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      939
+    ],
+    "hp": 160,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Tadbulb",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "High-Voltage Cannon",
+        "effect": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-104",
+    "illustrator": "takuyoa",
+    "localId": "104",
+    "name": "Gholdengo",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1000
+    ],
+    "hp": 150,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Gimmighoul",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": "Spending Rush",
+        "effect": "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it. ",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-105",
+    "illustrator": "nagimiso",
+    "localId": "105",
+    "name": "Team Star Grunt",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Discard a random Energy from among the Energy attached to all of your opponent's Pokémon that have an Ability.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-106",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "106",
+    "name": "Iono",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-107",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "107",
+    "name": "Nemona",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "During this turn, attacks used by your Pawmot do +80 damage to your opponent's Active Pokémon ex.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-108",
+    "illustrator": "GIDORA",
+    "localId": "108",
+    "name": "Arven",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Flip a coin. If heads, put a random Item card from your deck into your hand. If tails, put a random Pokémon Tool card from your deck into your hand.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-109",
+    "illustrator": "yuu",
+    "localId": "109",
+    "name": "Penny",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-110",
+    "illustrator": "kodama",
+    "localId": "110",
+    "name": "Meowscarada",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      908
+    ],
+    "hp": 160,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Floragato",
+    "stage": "Stage2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Flower Trick",
+        "effect": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose."
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": "Solar Beam",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-111",
+    "illustrator": "Raita Kazama",
+    "localId": "111",
+    "name": "Armarouge",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      936
+    ],
+    "hp": 140,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Charcadet",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Armor",
+        "effect": "This Pokémon takes –30 damage from attacks."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Armor Cannon",
+        "effect": "Discard a {R} Energy from this Pokémon.",
+        "damage": "120"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-112",
+    "illustrator": "kodama",
+    "localId": "112",
+    "name": "Chien-Pao",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1002
+    ],
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Icicle",
+        "damage": "20"
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Diving Icicles",
+        "effect": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-113",
+    "illustrator": "REND",
+    "localId": "113",
+    "name": "Bellibolt",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      939
+    ],
+    "hp": 160,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Tadbulb",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "High-Voltage Cannon",
+        "effect": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-114",
+    "illustrator": "Akira Komayama",
+    "localId": "114",
+    "name": "Gholdengo",
+    "rarity": "Two Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1000
+    ],
+    "hp": 150,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Gimmighoul",
+    "stage": "Stage1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": "Spending Rush",
+        "effect": "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it.",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-115",
+    "illustrator": "GIDORA",
+    "localId": "115",
+    "name": "Arven",
+    "rarity": "Three Star",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Flip a coin. If heads, put a random Item card from your deck into your hand. If tails, put a random Pokémon Tool card from your deck into your hand.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-116",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "116",
+    "name": "Sprigatito",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      906
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Leafage",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-117",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "117",
+    "name": "Floragato",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      907
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Sprigatito",
+    "description": "The hardness of Floragato's fur depends on the Pokémon's mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Leaf Step",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-118",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "118",
+    "name": "Meowscarada",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      908
+    ],
+    "hp": 140,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Floragato",
+    "description": "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": "Fighting Claws",
+        "effect": "If your opponent’s Active Pokémon is a Pokémon {ex}, this attack does 70 more damage.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-119",
+    "illustrator": "whomor Inc.",
+    "localId": "119",
+    "name": "Pawmi",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      921
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "description": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Random Spark",
+        "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-120",
+    "illustrator": "whomor Inc.",
+    "localId": "120",
+    "name": "Pawmo",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      922
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Pawmi",
+    "description": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Head Bolt",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-121",
+    "illustrator": "whomor Inc.",
+    "localId": "121",
+    "name": "Pawmot",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      923
+    ],
+    "hp": 140,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Pawmo",
+    "description": "Pawmot's fluffy fur acts as a battery. It can store the same amount of electricity as an electric car.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Thunder Blast",
+        "effect": "Discard a Lightning Energy from this Pokémon.",
+        "damage": "100"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-122",
+    "illustrator": "Tomowaka",
+    "localId": "122",
+    "name": "Gimmighoul",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      999
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Continuous Coin Toss",
+        "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-123",
+    "illustrator": "kurumitsu",
+    "localId": "123",
+    "name": "Tinkatink",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      957
+    ],
+    "hp": 60,
+    "types": [
+      "Metal"
+    ],
+    "description": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it's satisfied with the result.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": "Beat",
+        "damage": "30"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-124",
+    "illustrator": "kurumitsu",
+    "localId": "124",
+    "name": "Tinkatuff",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      958
+    ],
+    "hp": 80,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Tinkatink",
+    "description": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other's hammers by smashing them together.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": "Light Punch",
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-125",
+    "illustrator": "kurumitsu",
+    "localId": "125",
+    "name": "Gholdengo",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1000
+    ],
+    "hp": 120,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Gimmighoul",
+    "description": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Scintillating Surfing",
+        "effect": "Flip a coin for each {M} Energy attached to this Pokémon. This attack does 50 damage for each heads.",
+        "damage": "50x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-126",
+    "illustrator": "PLANETA CG Works",
+    "localId": "126",
+    "name": "Entei",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      244
+    ],
+    "hp": 140,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": "Blazing Beatdown",
+        "effect": "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-127",
+    "illustrator": "PLANETA CG Works",
+    "localId": "127",
+    "name": "Suicune",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      245
+    ],
+    "hp": 140,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Crystal Waltz",
+        "effect": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's).",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-128",
+    "illustrator": "PLANETA CG Works",
+    "localId": "128",
+    "name": "Raikou",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      243
+    ],
+    "hp": 130,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Voltaic Bullet",
+        "effect": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-129",
+    "illustrator": "PLANETA Igarashi",
+    "localId": "129",
+    "name": "Tinkaton",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      959
+    ],
+    "hp": 170,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Stage2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": "Terrific Thumping",
+        "effect": "Flip a coin. If heads, this attack does 80 more damage.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "B2a-130",
+    "illustrator": "PLANETA Igarashi",
+    "localId": "130",
+    "name": "Baxcalibur",
+    "rarity": "Crown",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      998
+    ],
+    "hp": 170,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Arctibax",
+    "description": "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Ice Maker",
+        "effect": "Once during your turn, you may take a Water Energy from your Energy Zone and attach it to the Water Pokémon in the Active Spot."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Buster Tail",
+        "damage": "90"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "B2a-131",
+    "illustrator": "Toyste Beach",
+    "localId": "131",
+    "name": "Electric Generator",
+    "rarity": "Crown",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 131
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Flip a coin. If heads, take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

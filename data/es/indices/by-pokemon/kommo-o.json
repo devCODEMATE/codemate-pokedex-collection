@@ -1,0 +1,58 @@
+{
+  "name": "Kommo-o",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "A3-127",
+      "name": "Kommo-o",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "127",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/127",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "hatachu"
+    },
+    {
+      "id": "sm12-163",
+      "name": "Kommo-o",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "163",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/163",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "hatachu"
+    },
+    {
+      "id": "sm4-77",
+      "name": "Kommo-o",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "77",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/77",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "sm7.5-54",
+      "name": "Kommo-o",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "54",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "so-taro"
+    }
+  ]
+}

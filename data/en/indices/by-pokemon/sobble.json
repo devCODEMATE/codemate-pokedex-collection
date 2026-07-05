@@ -1,0 +1,110 @@
+{
+  "name": "Sobble",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "2021swsh-24",
+      "name": "Sobble",
+      "set": "2021swsh",
+      "setName": "McDonald's Collection 2021",
+      "number": "24",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "me01-039",
+      "name": "Sobble",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "039",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/039",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh1-54",
+      "name": "Sobble",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "54",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/54",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Megumi Mizutani"
+    },
+    {
+      "id": "swsh1-55",
+      "name": "Sobble",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "55",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/55",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "swsh4.5-SV025",
+      "name": "Sobble",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV025",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV025",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "swsh6-41",
+      "name": "Sobble",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "41",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/41",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swshp-SWSH003",
+      "name": "Sobble",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH003",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH003",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "swshp-SWSH073",
+      "name": "Sobble",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH073",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH073",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Akira Komayama"
+    }
+  ]
+}

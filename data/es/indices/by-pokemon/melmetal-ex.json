@@ -1,0 +1,45 @@
+{
+  "name": "Melmetal ex",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv03-153",
+      "name": "Melmetal ex",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "153",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/153",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "sv07-105",
+      "name": "Melmetal ex",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "105",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/105",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "takuyoa"
+    },
+    {
+      "id": "svp-104",
+      "name": "Melmetal ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "104",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/104",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    }
+  ]
+}

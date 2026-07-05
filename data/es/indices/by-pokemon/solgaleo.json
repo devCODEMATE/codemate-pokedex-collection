@@ -1,0 +1,71 @@
+{
+  "name": "Solgaleo",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "cel25-21",
+      "name": "Solgaleo",
+      "set": "cel25",
+      "setName": "Celebraciones",
+      "number": "21",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/cel25/21",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "sm12-142",
+      "name": "Solgaleo",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "142",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/142",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Misa Tsutsui"
+    },
+    {
+      "id": "sm2-87",
+      "name": "Solgaleo",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "87",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/87",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm5-89",
+      "name": "Solgaleo ◇",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "89",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/89",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sm7-99",
+      "name": "Solgaleo",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "99",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/99",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

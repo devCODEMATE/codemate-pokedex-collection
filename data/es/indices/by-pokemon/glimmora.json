@@ -1,0 +1,45 @@
+{
+  "name": "Glimmora",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv02-126",
+      "name": "Glimmora",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "126",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/126",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sv06-109",
+      "name": "Glimmora",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "109",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/109",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Kazumasa Yasukuni"
+    },
+    {
+      "id": "sv08-115",
+      "name": "Glimmora",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "115",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/115",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "takashi shiraishi"
+    }
+  ]
+}

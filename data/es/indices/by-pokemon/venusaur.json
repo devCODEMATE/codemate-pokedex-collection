@@ -1,0 +1,84 @@
+{
+  "name": "Venusaur",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A1-003",
+      "name": "Venusaur",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "003",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/003",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "A3-212",
+      "name": "Venusaur",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "212",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/212",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "bw5-3",
+      "name": "Venusaur",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "3",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "P-A-018",
+      "name": "Venusaur",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "018",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/018",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kuroimori"
+    },
+    {
+      "id": "sm3.5-3",
+      "name": "Venusaur",
+      "set": "sm3.5",
+      "setName": "Leyendas Luminosas",
+      "number": "3",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm3.5/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Eske Yoshinob"
+    },
+    {
+      "id": "swsh10.5-003",
+      "name": "Venusaur",
+      "set": "swsh10.5",
+      "setName": "Pokémon GO",
+      "number": "003",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10.5/003",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    }
+  ]
+}

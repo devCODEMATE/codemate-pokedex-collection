@@ -1,0 +1,32 @@
+{
+  "name": "Grimerde Alola",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "A3-110",
+      "name": "Grimerde Alola",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "110",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/110",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "P-A-072",
+      "name": "Grimerde Alola",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "072",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/072",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Naoki Saito"
+    }
+  ]
+}

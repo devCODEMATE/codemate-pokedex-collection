@@ -1,0 +1,71 @@
+{
+  "name": "Quilladin",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "B2-009",
+      "name": "Quilladin",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "009",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/009",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "me04-006",
+      "name": "Quilladin",
+      "set": "me04",
+      "setName": "Chaos Rising",
+      "number": "006",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me04/006",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hideki Ishikawa"
+    },
+    {
+      "id": "xy0-4",
+      "name": "Quilladin",
+      "set": "xy0",
+      "setName": "Kalos Starter Set",
+      "number": "4",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xy0/4",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "xy1-13",
+      "name": "Quilladin",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "13",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy1/13",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "xy8-10",
+      "name": "Quilladin",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "10",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/10",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Miki Tanaka"
+    }
+  ]
+}

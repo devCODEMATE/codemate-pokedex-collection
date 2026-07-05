@@ -1,0 +1,58 @@
+{
+  "name": "Poipole",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "P-A-082",
+      "name": "Poipole",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "082",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Megumi Mizutani"
+    },
+    {
+      "id": "sm11-102",
+      "name": "Poipole",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "102",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/102",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sm6-55",
+      "name": "Poipole",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "55",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/55",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Megumi Mizutani"
+    },
+    {
+      "id": "sm8-107",
+      "name": "Poipole",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "107",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/107",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "CHORISO",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "me02.5-144",
+      "name": "Mawile",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "144",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/144",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "CHORISO"
+    },
+    {
+      "id": "me04-029",
+      "name": "Ampharos",
+      "set": "me04",
+      "setName": "Chaos Rising",
+      "number": "029",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me04/029",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "CHORISO"
+    }
+  ]
+}

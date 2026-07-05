@@ -1,0 +1,32 @@
+{
+  "name": "Persian de Alola",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sm1-79",
+      "name": "Persian de Alola",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "79",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/79",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "sm8-119",
+      "name": "Persian de Alola",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "119",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/119",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    }
+  ]
+}

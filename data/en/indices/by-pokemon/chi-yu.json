@@ -1,0 +1,71 @@
+{
+  "name": "Chi-Yu",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "B2a-021",
+      "name": "Chi-Yu",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "021",
+      "rarity": "Three Diamond",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "me01-031",
+      "name": "Chi-Yu",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "031",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me01/031",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Gemi"
+    },
+    {
+      "id": "sv04-029",
+      "name": "Chi-Yu",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "029",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/029",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "sv06-039",
+      "name": "Chi-Yu",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "039",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/039",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Oku"
+    },
+    {
+      "id": "svp-057",
+      "name": "Chi-Yu",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "057",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/057",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Dsuke"
+    }
+  ]
+}

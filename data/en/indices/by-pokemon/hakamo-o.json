@@ -1,0 +1,71 @@
+{
+  "name": "Hakamo-o",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "A3-126",
+      "name": "Hakamo-o",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "126",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/126",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "sm12-162",
+      "name": "Hakamo-o",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "162",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/162",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "sm2-99",
+      "name": "Hakamo-o",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "99",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/99",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sm4-76",
+      "name": "Hakamo-o",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "76",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/76",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm7.5-53",
+      "name": "Hakamo-o",
+      "set": "sm7.5",
+      "setName": "Dragon Majesty",
+      "number": "53",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "hatachu"
+    }
+  ]
+}

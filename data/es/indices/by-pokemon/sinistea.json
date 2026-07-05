@@ -1,0 +1,71 @@
+{
+  "name": "Sinistea",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sv03-097",
+      "name": "Sinistea",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "097",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/097",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "svp-062",
+      "name": "Sinistea",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "062",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/062",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "swsh1-89",
+      "name": "Sinistea",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "89",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/89",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "swsh3-82",
+      "name": "Sinistea",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "82",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/82",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh4.5-SV052",
+      "name": "Sinistea",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV052",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV052",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "MAHOU"
+    }
+  ]
+}

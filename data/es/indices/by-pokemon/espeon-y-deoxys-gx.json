@@ -1,0 +1,32 @@
+{
+  "name": "Espeon y Deoxys GX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sm11-72",
+      "name": "Espeon y Deoxys GX",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "72",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/72",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "smp-SM240",
+      "name": "Espeon y Deoxys GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM240",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Crobat VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh4.5-45",
+      "name": "Crobat VMAX",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "45",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/45",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swshp-SWSH099",
+      "name": "Crobat VMAX",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH099",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH099",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    }
+  ]
+}

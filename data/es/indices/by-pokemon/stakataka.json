@@ -1,0 +1,58 @@
+{
+  "name": "Stakataka",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "P-A-080",
+      "name": "Stakataka",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "080",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sm10-106",
+      "name": "Stakataka",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "106",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/106",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "smp-SM180",
+      "name": "Stakataka",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM180",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "smp-SM209",
+      "name": "Stakataka",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM209",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Krabby",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A1-068",
+      "name": "Krabby",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "068",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/068",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "sm10-46",
+      "name": "Krabby",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "46",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/46",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "sv03.5-098",
+      "name": "Krabby",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "098",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/098",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "swsh1-42",
+      "name": "Krabby",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "42",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/42",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "swsh1-43",
+      "name": "Krabby",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "43",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/43",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "miki kudo"
+    },
+    {
+      "id": "xy4-13",
+      "name": "Krabby",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "13",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/13",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "kirisAki"
+    }
+  ]
+}

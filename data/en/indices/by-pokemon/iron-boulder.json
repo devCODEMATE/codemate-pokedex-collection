@@ -1,0 +1,32 @@
+{
+  "name": "Iron Boulder",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv07-071",
+      "name": "Iron Boulder",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "071",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/071",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv08.5-046",
+      "name": "Iron Boulder",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "046",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/046",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "GIDORA"
+    }
+  ]
+}

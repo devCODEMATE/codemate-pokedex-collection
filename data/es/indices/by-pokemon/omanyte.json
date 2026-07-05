@@ -1,0 +1,71 @@
+{
+  "name": "Omanyte",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "A1-081",
+      "name": "Omanyte",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "081",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/081",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "sm9-75",
+      "name": "Omanyte",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "75",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/75",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "sv03.5-138",
+      "name": "Omanyte",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "138",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/138",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "sv03.5-180",
+      "name": "Omanyte",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "180",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/180",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yano Keiji"
+    },
+    {
+      "id": "xy10-17",
+      "name": "Omanyte",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "17",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/17",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Shigenori Negishi"
+    }
+  ]
+}

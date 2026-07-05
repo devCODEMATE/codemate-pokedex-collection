@@ -1,0 +1,84 @@
+{
+  "name": "Finizen",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2a-027",
+      "name": "Finizen",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "027",
+      "rarity": "One Diamond",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sv03-060",
+      "name": "Finizen",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "060",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/060",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sv03-061",
+      "name": "Finizen",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "061",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/061",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv04.5-123",
+      "name": "Finizen",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "123",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/123",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv05-048",
+      "name": "Finizen",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "048",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/048",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "sv06-059",
+      "name": "Finizen",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "059",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/059",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Narumi Sato"
+    }
+  ]
+}

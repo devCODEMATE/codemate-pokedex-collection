@@ -1,0 +1,8103 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "B2a-001",
+    "illustrator": "Saya Tsuruta",
+    "localId": "001",
+    "name": "Sprigatito",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      906
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Follaje",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-002",
+    "illustrator": "Kouki Saitou",
+    "localId": "002",
+    "name": "Floragato",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      907
+    ],
+    "hp": 90,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Sprigatito",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Paso Hoja",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-003",
+    "illustrator": "5ban Graphics",
+    "localId": "003",
+    "name": "Meowscarada",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      908
+    ],
+    "hp": 160,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Floragato",
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ]
+      },
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Rayo Solar",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-03T13:17:03+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-004",
+    "illustrator": "Mina Nakai",
+    "localId": "004",
+    "name": "Tarountula",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      917
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-005",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "005",
+    "name": "Spidops",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      918
+    ],
+    "hp": 100,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Tarountula",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Amarrar",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-006",
+    "illustrator": "Kouki Saitou",
+    "localId": "006",
+    "name": "Nymble",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      919
+    ],
+    "hp": 40,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Ida y Vuelta",
+        "damage": "10"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-007",
+    "illustrator": "yuu",
+    "localId": "007",
+    "name": "Smoliv",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      928
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Absorber",
+        "effect": "Cura 10 puntos de daño a este Pokémon.",
+        "damage": "10"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-008",
+    "illustrator": "Mizue",
+    "localId": "008",
+    "name": "Dolliv",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      929
+    ],
+    "hp": 90,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Smoliv",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Bomba Germen",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-009",
+    "illustrator": "Kouki Saitou",
+    "localId": "009",
+    "name": "Arboliva",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      930
+    ],
+    "hp": 130,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Dolliv",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Bomba Germen",
+        "damage": "70"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-010",
+    "illustrator": "Miki Tanaka",
+    "localId": "010",
+    "name": "Bramblin",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      946
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Rodar",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-011",
+    "illustrator": "KEIICHIRO ITO",
+    "localId": "011",
+    "name": "Brambleghast",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      947
+    ],
+    "hp": 100,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Bramblin",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Avalancha Continua",
+        "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 60 puntos de daño por cada cara.",
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-012",
+    "illustrator": "GIDORA",
+    "localId": "012",
+    "name": "Capsakid",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      951
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Patada Juguetona",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-013",
+    "illustrator": "kodama",
+    "localId": "013",
+    "name": "Scovillain",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      952
+    ],
+    "hp": 100,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Capsakid",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora"
+        ],
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-014",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "014",
+    "name": "Rellor",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      953
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Rodabola",
+        "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 20 puntos de daño por cada cara.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-015",
+    "illustrator": "Kouki Saitou",
+    "localId": "015",
+    "name": "Wo-Chien",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1001
+    ],
+    "hp": 120,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta",
+          "Planta",
+          "Incolora"
+        ],
+        "name": "Avaricia Vinculante",
+        "effect": "Durante el próximo turno de tu rival, los ataques usados por el Pokémon Defensor cuestan {C}{C} más.",
+        "damage": "90"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-016",
+    "illustrator": "Akira Komayama",
+    "localId": "016",
+    "name": "Fuecoco",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      909
+    ],
+    "hp": 70,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "effect": "Pon 1 Pokémon Básico aleatorio de tu baraja en tu Banca."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-017",
+    "illustrator": "kantaro",
+    "localId": "017",
+    "name": "Crocalor",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      910
+    ],
+    "hp": 100,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Fuecoco",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Mordisco",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-018",
+    "illustrator": "nagimiso",
+    "localId": "018",
+    "name": "Skeledirge",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      911
+    ],
+    "hp": 150,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Crocalor",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Golpe Calor",
+        "damage": "70"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-019",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "019",
+    "name": "Charcadet",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      935
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Puño",
+        "damage": "10"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-020",
+    "illustrator": "takuyoa",
+    "localId": "020",
+    "name": "Armarouge",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      936
+    ],
+    "hp": 140,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Charcadet",
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Armadura"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cañón Armadura",
+        "effect": "Descarta 1 Energía {R} de este Pokémon.",
+        "damage": "120"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-03T13:17:03+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-021",
+    "illustrator": "Dsuke",
+    "localId": "021",
+    "name": "Chi-Yu",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1004
+    ],
+    "hp": 80,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Megafuego de Envidia",
+        "effect": "Si alguno de tus Pokémon quedó Fuera de Combate por el daño de un ataque durante el último turno de tu rival, este ataque hace 60 puntos de daño más.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-022",
+    "illustrator": "Naoki Saito",
+    "localId": "022",
+    "name": "Quaxly",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      912
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Esquivo Chapoteo",
+        "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, se evitan todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
+        "damage": "10"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-023",
+    "illustrator": "kirisAki",
+    "localId": "023",
+    "name": "Quaxwell",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      913
+    ],
+    "hp": 80,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Quaxly",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "name": "Giro Chapoteante",
+        "effect": "Cambia este Pokémon por uno de tus Pokémon en Banca.",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-024",
+    "illustrator": "Kouki Saitou",
+    "localId": "024",
+    "name": "Quaquaval",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      914
+    ],
+    "hp": 150,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Quaxwell",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Hidropatada",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-025",
+    "illustrator": "Shin Nagasawa",
+    "localId": "025",
+    "name": "Wiglett",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      960
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-026",
+    "illustrator": "Kouki Saitou",
+    "localId": "026",
+    "name": "Wugtrio",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      961
+    ],
+    "hp": 90,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Wiglett",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Triple Latigazo",
+        "effect": "Lanza 3 monedas. Este ataque hace 30 puntos de daño por cada cara.",
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-027",
+    "illustrator": "kodama",
+    "localId": "027",
+    "name": "Finizen",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      963
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Aleta Afilada",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-028",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "028",
+    "name": "Palafin",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      964
+    ],
+    "hp": 130,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Finizen",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Puño Jet",
+        "effect": "Este ataque también hace 50 puntos de daño a uno de los Pokémon en Banca de tu rival.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-029",
+    "illustrator": "Sekio",
+    "localId": "029",
+    "name": "Cetoddle",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      974
+    ],
+    "hp": 100,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Misil Carámbano",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-030",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "030",
+    "name": "Cetitan",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      975
+    ],
+    "hp": 150,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Cetoddle",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": "80"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-031",
+    "illustrator": "Oswaldo KATO",
+    "localId": "031",
+    "name": "Veluza",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      976
+    ],
+    "hp": 100,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": "90"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-032",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "032",
+    "name": "Dondozo",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      977
+    ],
+    "hp": 130,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Giga Impacto",
+        "effect": "Durante tu próximo turno, este Pokémon no puede atacar.",
+        "damage": "120"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-033",
+    "illustrator": "OKACHEKE",
+    "localId": "033",
+    "name": "Tatsugiri",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      978
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Apoyo Vengativo",
+        "effect": "Si alguno de tus Pokémon quedó Fuera de Combate por el daño de un ataque durante el último turno de tu rival, este ataque hace 60 puntos de daño más.",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-034",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "034",
+    "name": "Frigibax",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      996
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Fresquito",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-035",
+    "illustrator": "Kouki Saitou",
+    "localId": "035",
+    "name": "Arctibax",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      997
+    ],
+    "hp": 90,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Frigibax",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Golpe Gélido",
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-036",
+    "illustrator": "Oswaldo KATO",
+    "localId": "036",
+    "name": "Baxcalibur",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      998
+    ],
+    "hp": 140,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Arctibax",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Cola Destructora",
+        "damage": "90"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-037",
+    "illustrator": "aky CG Works",
+    "localId": "037",
+    "name": "Chien-Pao",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1002
+    ],
+    "hp": 130,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Témpano",
+        "damage": "20"
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ]
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-03T13:17:03+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-038",
+    "illustrator": "kantaro",
+    "localId": "038",
+    "name": "Pawmi",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      921
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Chispa al Azar",
+        "effect": "Este ataque hace 10 puntos de daño a 1 de los Pokémon de tu rival."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-039",
+    "illustrator": "Kanami Ogata",
+    "localId": "039",
+    "name": "Pawmo",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      922
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Pawmi",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Rayo de Cabeza",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-040",
+    "illustrator": "Mizue",
+    "localId": "040",
+    "name": "Pawmot",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      923
+    ],
+    "hp": 140,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Pawmo",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Estallido Trueno",
+        "damage": "100"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-041",
+    "illustrator": "Saya Tsuruta",
+    "localId": "041",
+    "name": "Tadbulb",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      938
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Bola Voltio",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-042",
+    "illustrator": "PLANETA Yamashita",
+    "localId": "042",
+    "name": "Bellibolt",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      939
+    ],
+    "hp": 160,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Tadbulb",
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-03T13:17:03+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-043",
+    "illustrator": "sowsow",
+    "localId": "043",
+    "name": "Wattrel",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      940
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Aleteo",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-044",
+    "illustrator": "Pani Kobayashi",
+    "localId": "044",
+    "name": "Kilowattrel",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      941
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Wattrel",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Ala Veloz",
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-045",
+    "illustrator": "Kouki Saitou",
+    "localId": "045",
+    "name": "Miraidon",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1008
+    ],
+    "hp": 120,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Láser Relámpago",
+        "effect": "Este ataque también hace 30 puntos de daño a uno de los Pokémon en Banca de tu rival.",
+        "damage": "60"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-046",
+    "illustrator": "Mizue",
+    "localId": "046",
+    "name": "Fidough",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      926
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Patada Trasera",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-047",
+    "illustrator": "You Iribi",
+    "localId": "047",
+    "name": "Dachsbun",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      927
+    ],
+    "hp": 100,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Fidough",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Carantoña",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 50 puntos de daño más.",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-048",
+    "illustrator": "Ryota Murayama",
+    "localId": "048",
+    "name": "Ceruledge",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      937
+    ],
+    "hp": 110,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Charcadet",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Espada Combativa",
+        "effect": "Si el Pokémon Activo de tu rival es un Pokémon {ex}, este ataque hace 70 puntos de daño más.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-049",
+    "illustrator": "Oswaldo KATO",
+    "localId": "049",
+    "name": "Rabsca",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      954
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Rellor",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Psicorrayo",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido.",
+        "damage": "80"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-050",
+    "illustrator": "kodama",
+    "localId": "050",
+    "name": "Flittle",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      955
+    ],
+    "hp": 50,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "damage": "10"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-051",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "051",
+    "name": "Espathra",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      956
+    ],
+    "hp": 90,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Flittle",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Psíquico",
+        "effect": "Este ataque hace 20 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-052",
+    "illustrator": "yuu",
+    "localId": "052",
+    "name": "Greavard",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      971
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "effect": "Descarta 1 carta de tu mano. Si no puedes, este ataque no hace nada.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-053",
+    "illustrator": "Kouki Saitou",
+    "localId": "053",
+    "name": "Houndstone",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      972
+    ],
+    "hp": 130,
+    "types": [
+      "Psíquico"
+    ],
+    "evolveFrom": "Greavard",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Homenaje Póstumo",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-054",
+    "illustrator": "Mizue",
+    "localId": "054",
+    "name": "Gimmighoul",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      999
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Lanzamiento Incesante de Monedas",
+        "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 20 puntos de daño por cada cara.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-055",
+    "illustrator": "nagimiso",
+    "localId": "055",
+    "name": "Mankey",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      56
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Golpes Furia",
+        "effect": "Lanza 3 monedas. Este ataque hace 10 puntos de daño por cada cara.",
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-056",
+    "illustrator": "Shin Nagasawa",
+    "localId": "056",
+    "name": "Primeape",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      57
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Mankey",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Furia",
+        "effect": "Este ataque hace una cantidad de daño adicional igual al daño que ya tenga este Pokémon.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-057",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "057",
+    "name": "Annihilape",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      979
+    ],
+    "hp": 140,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Primeape",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Puño Dinamita",
+        "effect": "Este Pokémon también se hace 30 puntos de daño a sí mismo.",
+        "damage": "90"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-058",
+    "illustrator": "Shin Nagasawa",
+    "localId": "058",
+    "name": "Tauros de Paldea",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      128
+    ],
+    "hp": 100,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Patada Trasera",
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-059",
+    "illustrator": "Oswaldo KATO",
+    "localId": "059",
+    "name": "Toedscool",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      948
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Patada Destrucción",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-060",
+    "illustrator": "Kouki Saitou",
+    "localId": "060",
+    "name": "Toedscruel",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      949
+    ],
+    "hp": 120,
+    "types": [
+      "Lucha"
+    ],
+    "evolveFrom": "Toedscool",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Paralizador",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+        "damage": "70"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-061",
+    "illustrator": "nagimiso",
+    "localId": "061",
+    "name": "Klawf",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      950
+    ],
+    "hp": 100,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Martillo Adrenalina",
+        "effect": "Este Pokémon pasa a estar Confundido.",
+        "damage": "70"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-062",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "062",
+    "name": "Ting-Lu",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1003
+    ],
+    "hp": 120,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Impacto Soberbia",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-063",
+    "illustrator": "Kouki Saitou",
+    "localId": "063",
+    "name": "Koraidon",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1007
+    ],
+    "hp": 120,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Colmillo Furioso",
+        "effect": "Descarta 2 Energías {R} de este Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-064",
+    "illustrator": "Pani Kobayashi",
+    "localId": "064",
+    "name": "Wooper de Paldea",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      194
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-065",
+    "illustrator": "Shin Nagasawa",
+    "localId": "065",
+    "name": "Clodsire de Paldea",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      980
+    ],
+    "hp": 120,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Wooper de Paldea",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Martillo Lodoso",
+        "effect": "Descarta la primera carta de la baraja de tu rival.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-066",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "066",
+    "name": "Lokix",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      920
+    ],
+    "hp": 100,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Nymble",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Salto Cohete",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": "80"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-067",
+    "illustrator": "KEIICHIRO ITO",
+    "localId": "067",
+    "name": "Maschiff",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      942
+    ],
+    "hp": 70,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Mordisco",
+        "damage": "30"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-068",
+    "illustrator": "KIYOTAKA OSHIYAMA",
+    "localId": "068",
+    "name": "Mabosstiff",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      943
+    ],
+    "hp": 120,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Maschiff",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Placaje Salvaje",
+        "effect": "Este Pokémon también se hace 20 puntos de daño a sí mismo.",
+        "damage": "110"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-069",
+    "illustrator": "Akira Komayama",
+    "localId": "069",
+    "name": "Shroodle",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      944
+    ],
+    "hp": 50,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-070",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "070",
+    "name": "Grafaiai",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      945
+    ],
+    "hp": 90,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Shroodle",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-071",
+    "illustrator": "nagimiso",
+    "localId": "071",
+    "name": "Bombirdier",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      962
+    ],
+    "hp": 90,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Vuelo",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada. Si sale cara, durante el próximo turno de tu rival, se evitan todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
+        "damage": "70"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-072",
+    "illustrator": "Pani Kobayashi",
+    "localId": "072",
+    "name": "Tinkatink",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      957
+    ],
+    "hp": 60,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Toque",
+        "damage": "30"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-073",
+    "illustrator": "Akira Komayama",
+    "localId": "073",
+    "name": "Tinkatuff",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      958
+    ],
+    "hp": 80,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Tinkatink",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Puño Ligero",
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-074",
+    "illustrator": "KEIICHIRO ITO",
+    "localId": "074",
+    "name": "Tinkaton",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      959
+    ],
+    "hp": 150,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Tinkatuff",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Martillo Colosal",
+        "effect": "Durante tu próximo turno, este Pokémon no puede usar Martillo Colosal.",
+        "damage": "140"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-075",
+    "illustrator": "nagimiso",
+    "localId": "075",
+    "name": "Varoom",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      965
+    ],
+    "hp": 60,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Apisonar",
+        "damage": "20"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-076",
+    "illustrator": "Anesaki Dynamic",
+    "localId": "076",
+    "name": "Revavroom",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      966
+    ],
+    "hp": 110,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Varoom",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Gas Venenoso",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-077",
+    "illustrator": "Pani Kobayashi",
+    "localId": "077",
+    "name": "Orthworm",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      968
+    ],
+    "hp": 100,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-078",
+    "illustrator": "takuyoa",
+    "localId": "078",
+    "name": "Gholdengo",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1000
+    ],
+    "hp": 150,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Gimmighoul",
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-03T13:17:03+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-079",
+    "illustrator": "kodama",
+    "localId": "079",
+    "name": "Lechonk",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      915
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-080",
+    "illustrator": "Pani Kobayashi",
+    "localId": "080",
+    "name": "Oinkologne",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      916
+    ],
+    "hp": 110,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Lechonk",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": "100"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-081",
+    "illustrator": "Akira Komayama",
+    "localId": "081",
+    "name": "Tandemaus",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      924
+    ],
+    "hp": 30,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Doble Golpe",
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-082",
+    "illustrator": "Saya Tsuruta",
+    "localId": "082",
+    "name": "Maushold",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      925
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Tandemaus",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": "60"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-083",
+    "illustrator": "Oswaldo KATO",
+    "localId": "083",
+    "name": "Squawkabilly",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      931
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-084",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "084",
+    "name": "Cyclizar",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      967
+    ],
+    "hp": 90,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Amigo Conductor",
+        "effect": "Si has jugado una carta de Partidario de tu mano durante este turno, este ataque hace 60 puntos de daño más.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-085",
+    "illustrator": "kantaro",
+    "localId": "085",
+    "name": "Flamigo",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      973
+    ],
+    "hp": 90,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-086",
+    "illustrator": "Toyste Beach",
+    "localId": "086",
+    "name": "Generador Eléctrico",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-087",
+    "illustrator": "Toyste Beach",
+    "localId": "087",
+    "name": "Globo Helio Grande",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "El Pokémon de Fase 2 al que esté unida esta carta no tiene ningún Coste de Retirada.",
+    "trainerType": "Herramienta",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-088",
+    "illustrator": "nagimiso",
+    "localId": "088",
+    "name": "Recluta del Team Star",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-089",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "089",
+    "name": "e-Nigma",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cada jugador pone las cartas de su mano en su baraja y las baraja todas. Después, roba ese mismo número de cartas.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-090",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "090",
+    "name": "Mencía",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-091",
+    "illustrator": "GIDORA",
+    "localId": "091",
+    "name": "Damián",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-094",
+    "illustrator": "Shimaris Yukichi",
+    "localId": "094",
+    "name": "Fuecoco",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      909
+    ],
+    "hp": 70,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "effect": "Pon 1 Pokémon Básico aleatorio de tu baraja en tu Banca."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-095",
+    "illustrator": "sowsow",
+    "localId": "095",
+    "name": "Greavard",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      971
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-096",
+    "illustrator": "Akira Komayama",
+    "localId": "096",
+    "name": "Gimmighoul",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      999
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Lanzamiento Incesante de Monedas",
+        "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 20 puntos de daño por cada cara.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-097",
+    "illustrator": "Miki Tanaka",
+    "localId": "097",
+    "name": "Wooper de Paldea",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      194
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-098",
+    "illustrator": "OKACHEKE",
+    "localId": "098",
+    "name": "Orthworm",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      968
+    ],
+    "hp": 100,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-099",
+    "illustrator": "Mizue",
+    "localId": "099",
+    "name": "Maushold",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      925
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": "60"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-100",
+    "illustrator": "5ban Graphics",
+    "localId": "100",
+    "name": "Meowscarada",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      908
+    ],
+    "hp": 160,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Floragato",
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ]
+      },
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Rayo Solar",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-101",
+    "illustrator": "takuyoa",
+    "localId": "101",
+    "name": "Armarouge",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      936
+    ],
+    "hp": 140,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Charcadet",
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Armadura"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cañón Armadura",
+        "effect": "Descarta 1 Energía {R} de este Pokémon.",
+        "damage": "120"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-102",
+    "illustrator": "aky CG Works",
+    "localId": "102",
+    "name": "Chien-Pao",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1002
+    ],
+    "hp": 130,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Témpano",
+        "damage": "20"
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ]
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-103",
+    "illustrator": "PLANETA Yamashita",
+    "localId": "103",
+    "name": "Bellibolt",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      939
+    ],
+    "hp": 160,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Tadbulb",
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-104",
+    "illustrator": "takuyoa",
+    "localId": "104",
+    "name": "Gholdengo",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1000
+    ],
+    "hp": 150,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Gimmighoul",
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-105",
+    "illustrator": "nagimiso",
+    "localId": "105",
+    "name": "Recluta del Team Star",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-106",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "106",
+    "name": "e-Nigma",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cada jugador pone las cartas de su mano en su baraja y las baraja todas. Después, roba ese mismo número de cartas.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-107",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "107",
+    "name": "Mencía",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-108",
+    "illustrator": "GIDORA",
+    "localId": "108",
+    "name": "Damián",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-109",
+    "illustrator": "yuu",
+    "localId": "109",
+    "name": "Noa",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-110",
+    "illustrator": "kodama",
+    "localId": "110",
+    "name": "Meowscarada",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      908
+    ],
+    "hp": 160,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Floragato",
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ]
+      },
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Rayo Solar",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-111",
+    "illustrator": "Raita Kazama",
+    "localId": "111",
+    "name": "Armarouge",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      936
+    ],
+    "hp": 140,
+    "types": [
+      "Fuego"
+    ],
+    "evolveFrom": "Charcadet",
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Armadura"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Cañón Armadura",
+        "effect": "Descarta 1 Energía {R} de este Pokémon.",
+        "damage": "120"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-112",
+    "illustrator": "kodama",
+    "localId": "112",
+    "name": "Chien-Pao",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1002
+    ],
+    "hp": 130,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Témpano",
+        "damage": "20"
+      },
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ]
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-113",
+    "illustrator": "REND",
+    "localId": "113",
+    "name": "Bellibolt",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      939
+    ],
+    "hp": 160,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Tadbulb",
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-114",
+    "illustrator": "Akira Komayama",
+    "localId": "114",
+    "name": "Gholdengo",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1000
+    ],
+    "hp": 150,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Gimmighoul",
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "damage": "40"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-115",
+    "illustrator": "GIDORA",
+    "localId": "115",
+    "name": "Damián",
+    "rarity": "Tres Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-116",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "116",
+    "name": "Sprigatito",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      906
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Follaje",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-117",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "117",
+    "name": "Floragato",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      907
+    ],
+    "hp": 90,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Sprigatito",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Paso Hoja",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-118",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "118",
+    "name": "Meowscarada",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      908
+    ],
+    "hp": 140,
+    "types": [
+      "Planta"
+    ],
+    "evolveFrom": "Floragato",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Garras Luchadoras",
+        "effect": "Si el Pokémon Activo de tu rival es un Pokémon {ex}, este ataque hace 70 puntos de daño más.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-119",
+    "illustrator": "whomor Inc.",
+    "localId": "119",
+    "name": "Pawmi",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      921
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Chispa al Azar",
+        "effect": "Este ataque hace 10 puntos de daño a 1 de los Pokémon de tu rival."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-120",
+    "illustrator": "whomor Inc.",
+    "localId": "120",
+    "name": "Pawmo",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      922
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Pawmi",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Rayo de Cabeza",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-121",
+    "illustrator": "whomor Inc.",
+    "localId": "121",
+    "name": "Pawmot",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      923
+    ],
+    "hp": 140,
+    "types": [
+      "Rayo"
+    ],
+    "evolveFrom": "Pawmo",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Estallido Trueno",
+        "damage": "100"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-122",
+    "illustrator": "Tomowaka",
+    "localId": "122",
+    "name": "Gimmighoul",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      999
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Lanzamiento Incesante de Monedas",
+        "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 20 puntos de daño por cada cara.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-123",
+    "illustrator": "kurumitsu",
+    "localId": "123",
+    "name": "Tinkatink",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      957
+    ],
+    "hp": 60,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Toque",
+        "damage": "30"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-124",
+    "illustrator": "kurumitsu",
+    "localId": "124",
+    "name": "Tinkatuff",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      958
+    ],
+    "hp": 80,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Tinkatink",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Puño Ligero",
+        "damage": "50"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-125",
+    "illustrator": "kurumitsu",
+    "localId": "125",
+    "name": "Gholdengo",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1000
+    ],
+    "hp": 120,
+    "types": [
+      "Metálica"
+    ],
+    "evolveFrom": "Gimmighoul",
+    "description": "Se dice que su cuerpo está formado por 1000\nmonedas. Es capaz de hacer buenas migas con\ncualquiera rápidamente por su sociabilidad.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Surfeo Resplandeciente",
+        "effect": "Lanza 1 moneda por cada Energía {M} unida a este Pokémon. Este ataque hace 50 puntos de daño por cada cara.",
+        "damage": "50x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-126",
+    "illustrator": "PLANETA CG Works",
+    "localId": "126",
+    "name": "Entei",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      244
+    ],
+    "hp": 140,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego"
+        ],
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-127",
+    "illustrator": "PLANETA CG Works",
+    "localId": "127",
+    "name": "Suicune",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      245
+    ],
+    "hp": 140,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-128",
+    "illustrator": "PLANETA CG Works",
+    "localId": "128",
+    "name": "Raikou",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      243
+    ],
+    "hp": 130,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-129",
+    "illustrator": "PLANETA Igarashi",
+    "localId": "129",
+    "name": "Tinkaton",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      959
+    ],
+    "hp": 170,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Martillazo Descomunal",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 80 puntos de daño más.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "B2a-130",
+    "illustrator": "PLANETA Igarashi",
+    "localId": "130",
+    "name": "Baxcalibur",
+    "rarity": "Corona",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      998
+    ],
+    "hp": 170,
+    "types": [
+      "Agua"
+    ],
+    "evolveFrom": "Arctibax",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Cola Destructora",
+        "damage": "90"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "B2a-131",
+    "illustrator": "Toyste Beach",
+    "localId": "131",
+    "name": "Generador Eléctrico",
+    "rarity": "Corona",
+    "set": {
+      "cardCount": {
+        "official": 93,
+        "total": 129
+      },
+      "id": "B2a",
+      "name": "Paldean Wonders"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-27T21:54:50Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

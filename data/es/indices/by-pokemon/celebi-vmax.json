@@ -1,0 +1,32 @@
+{
+  "name": "Celebi VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh6-199",
+      "name": "Celebi VMAX",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "199",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/199",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh6-8",
+      "name": "Celebi VMAX",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "8",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    }
+  ]
+}

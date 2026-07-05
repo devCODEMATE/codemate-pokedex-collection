@@ -1,0 +1,32 @@
+{
+  "name": "Victini VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh5-165",
+      "name": "Victini VMAX",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "165",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/165",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Mochizuki"
+    },
+    {
+      "id": "swsh5-22",
+      "name": "Victini VMAX",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "22",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/22",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Mochizuki"
+    }
+  ]
+}

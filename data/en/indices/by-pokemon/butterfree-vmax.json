@@ -1,0 +1,32 @@
+{
+  "name": "Butterfree VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh3-190",
+      "name": "Butterfree VMAX",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "190",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/190",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "aky CG Works"
+    },
+    {
+      "id": "swsh3-2",
+      "name": "Butterfree VMAX",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "2",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/2",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "aky CG Works"
+    }
+  ]
+}

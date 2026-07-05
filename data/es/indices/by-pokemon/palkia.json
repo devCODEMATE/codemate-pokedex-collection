@@ -1,0 +1,58 @@
+{
+  "name": "Palkia",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "cel25-4",
+      "name": "Palkia",
+      "set": "cel25",
+      "setName": "Celebraciones",
+      "number": "4",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/cel25/4",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm3.5-24",
+      "name": "Palkia",
+      "set": "sm3.5",
+      "setName": "Leyendas Luminosas",
+      "number": "24",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3.5/24",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Eske Yoshinob"
+    },
+    {
+      "id": "sv04-040",
+      "name": "Palkia",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "040",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/040",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "sv08-136",
+      "name": "Palkia",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "136",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/136",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "danciao"
+    }
+  ]
+}

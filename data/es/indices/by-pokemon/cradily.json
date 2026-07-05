@@ -1,0 +1,32 @@
+{
+  "name": "Cradily",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sm12-11",
+      "name": "Cradily",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "11",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/11",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv07-006",
+      "name": "Cradily",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "006",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "miki kudo"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Galarian Rapidash",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "B2-059",
+      "name": "Galarian Rapidash",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "059",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/059",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "You Iribi"
+    },
+    {
+      "id": "swsh1-82",
+      "name": "Galarian Rapidash",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "82",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/82",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "You Iribi"
+    },
+    {
+      "id": "swsh4.5-SV048",
+      "name": "Galarian Rapidash",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV048",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV048",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    }
+  ]
+}

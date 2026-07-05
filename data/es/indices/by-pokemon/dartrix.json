@@ -1,0 +1,136 @@
+{
+  "name": "Dartrix",
+  "totalCards": 10,
+  "cards": [
+    {
+      "id": "A3-011",
+      "name": "Dartrix",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "011",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/011",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "me03-011",
+      "name": "Dartrix",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "011",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me03/011",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "sm1-10",
+      "name": "Dartrix",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "10",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/10",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sm12-19",
+      "name": "Dartrix",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "19",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/19",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "sv03-014",
+      "name": "Dartrix",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "014",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/014",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv06.5-004",
+      "name": "Dartrix",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "004",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/004",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Tetsu Kayama"
+    },
+    {
+      "id": "swsh10-020",
+      "name": "Dartrix",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "020",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/020",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh3-12",
+      "name": "Dartrix",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "12",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/12",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "swsh4.5-7",
+      "name": "Dartrix",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "7",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/7",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "swsh4.5-SV002",
+      "name": "Dartrix",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV002",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV002",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "name": "Scav",
+  "totalCards": 35,
+  "cards": [
+    {
+      "id": "A1-186",
+      "name": "Pidgey",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "186",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/186",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "A1-187",
+      "name": "Pidgeotto",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "187",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/187",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "A1-188",
+      "name": "Pidgeot",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "188",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/188",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "A1-229",
+      "name": "Pinsir",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "229",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/229",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "me01-102",
+      "name": "Spearow",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "102",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/102",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "me02.5-147",
+      "name": "Bisharp",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "147",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/147",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "me02.5-158",
+      "name": "Dreepy",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "158",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/158",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "me02.5-176",
+      "name": "Drampa",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "176",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/176",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv02-067",
+      "name": "Electrode",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "067",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/067",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv02-148",
+      "name": "Corviknight",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "148",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/148",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv03.5-041",
+      "name": "Zubat",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "041",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/041",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv03.5-042",
+      "name": "Golbat",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "042",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/042",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv03-091",
+      "name": "Grumpig",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "091",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/091",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv03-094",
+      "name": "Baltoy",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "094",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/094",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv03-108",
+      "name": "Barboach",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "108",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/108",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv03-131",
+      "name": "Houndour",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "131",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/131",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04.5-013",
+      "name": "Rotom Calor",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "013",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/013",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04.5-099",
+      "name": "Pineco",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "099",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/099",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04.5-145",
+      "name": "Wattrel",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "145",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/145",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04.5-170",
+      "name": "Primeape",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "170",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/170",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04.5-190",
+      "name": "Grafaiai",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "190",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/190",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04-006",
+      "name": "Dwebble",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "006",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv05-181",
+      "name": "Chatot",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "181",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/181",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv06-032",
+      "name": "Monferno",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "032",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/032",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv06-049",
+      "name": "Feebas",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "049",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/049",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv06-128",
+      "name": "Dreepy",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "128",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/128",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv07-087",
+      "name": "Crabrawler",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "087",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/087",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv08.5-067",
+      "name": "Bronzong",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "067",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/067",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv08.5-071",
+      "name": "Dreepy",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "071",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/071",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv08-097",
+      "name": "Gimmighoul",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "097",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/097",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv08-107",
+      "name": "Gastrodon",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "107",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/107",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv09-081",
+      "name": "Pupitar",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "081",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/081",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv10.5w-150",
+      "name": "Durant",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "150",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/150",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv10-055",
+      "name": "Huntail",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "055",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/055",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv10-088",
+      "name": "Dottler del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "088",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/088",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Scav"
+    }
+  ]
+}

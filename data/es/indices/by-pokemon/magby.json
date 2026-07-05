@@ -1,0 +1,32 @@
+{
+  "name": "Magby",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv04-019",
+      "name": "Magby",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "019",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/019",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "sv04-186",
+      "name": "Magby",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "186",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/186",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Mina Nakai"
+    }
+  ]
+}

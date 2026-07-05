@@ -1,0 +1,435 @@
+{
+  "name": "Machamp",
+  "totalCards": 33,
+  "cards": [
+    {
+      "id": "A1-145",
+      "name": "Machamp",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "145",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/145",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "A2b-039",
+      "name": "Machamp",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "039",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/039",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "A3-225",
+      "name": "Machamp",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "225",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/225",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "B2-081",
+      "name": "Machamp",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "081",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/081",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "base1-8",
+      "name": "Machamp",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "8",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base1/8",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "basep-43",
+      "name": "Machamp",
+      "set": "basep",
+      "setName": "Wizards Black Star Promos",
+      "number": "43",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/basep/43",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "bw10-49",
+      "name": "Machamp",
+      "set": "bw10",
+      "setName": "Plasma Blast",
+      "number": "49",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw10/49",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "bw10-50",
+      "name": "Machamp",
+      "set": "bw10",
+      "setName": "Plasma Blast",
+      "number": "50",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw10/50",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "det1-13",
+      "name": "Machamp",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "13",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/det1/13",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "dp1-31",
+      "name": "Machamp",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "31",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/31",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "dp7-20",
+      "name": "Machamp",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "20",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/20",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "dp7-98",
+      "name": "Machamp",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "98",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/98",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "ecard1-16",
+      "name": "Machamp",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/16",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shin-ichi Yoshida"
+    },
+    {
+      "id": "ecard1-51",
+      "name": "Machamp",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "51",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/51",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shin-ichi Yoshida"
+    },
+    {
+      "id": "ecard3-16",
+      "name": "Machamp",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/16",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "ecard3-H15",
+      "name": "Machamp",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "H15",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "ex12-9",
+      "name": "Machamp",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "9",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/9",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ex16-11",
+      "name": "Machamp",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "11",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/11",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ex5-9",
+      "name": "Machamp",
+      "set": "ex5",
+      "setName": "Hidden Legends",
+      "number": "9",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex5/9",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "g1-42",
+      "name": "Machamp",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "42",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/g1/42",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "hgss4-26",
+      "name": "Machamp",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "26",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/26",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "hgss4-95",
+      "name": "Machamp",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "95",
+      "rarity": "Rare PRIME",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/95",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "lc-15",
+      "name": "Machamp",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/lc/lc/15",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "P-A-055",
+      "name": "Machamp",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "055",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/tcgp/P-A/055",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm2-65",
+      "name": "Machamp",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "65",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/65",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "sv03.5-068",
+      "name": "Machamp",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "068",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/068",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "swsh11-088",
+      "name": "Machamp",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "088",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/088",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh3.5-26",
+      "name": "Machamp",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "26",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/26",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swshp-SWSH053",
+      "name": "Machamp",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH053",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH053",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swshp-SWSH243",
+      "name": "Machamp",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH243",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH243",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy12-59",
+      "name": "Machamp",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "59",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/59",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "xy3-46",
+      "name": "Machamp",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "46",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/46",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xyp-XY13",
+      "name": "Machamp",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY13",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY13",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "PLANETA"
+    }
+  ]
+}

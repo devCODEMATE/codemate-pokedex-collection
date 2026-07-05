@@ -1,0 +1,58 @@
+{
+  "name": "Centiskorch VMAX",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "swsh11-TG15",
+      "name": "Centiskorch VMAX",
+      "set": "swsh11",
+      "setName": "Origen Perdido",
+      "number": "TG15",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh11/TG15",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh3-191",
+      "name": "Centiskorch VMAX",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "191",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/191",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh3-34",
+      "name": "Centiskorch VMAX",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "34",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/34",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh4.5-SV109",
+      "name": "Centiskorch VMAX",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV109",
+      "rarity": "Shiny rare VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV109",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

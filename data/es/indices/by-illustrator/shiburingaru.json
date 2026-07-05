@@ -1,0 +1,422 @@
+{
+  "name": "Shiburingaru",
+  "totalCards": 32,
+  "cards": [
+    {
+      "id": "A1-191",
+      "name": "Spearow",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "191",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/191",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "A2a-009",
+      "name": "Carnivine",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "009",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/009",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "me01-030",
+      "name": "Centiskorch",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "030",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/030",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "me02.5-066",
+      "name": "Vikavolt",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "066",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/066",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "me04-031",
+      "name": "Deoxys",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "031",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me04/031",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "mep-015",
+      "name": "Zacian",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "015",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv01-064",
+      "name": "Magneton",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "064",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/064",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv01-130",
+      "name": "Croagunk",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "130",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/130",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv02-092",
+      "name": "Gothitelle",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "092",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/092",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03.5-032",
+      "name": "Nidoran♂",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "032",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/032",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03.5-033",
+      "name": "Nidorino",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "033",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/033",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03.5-034",
+      "name": "Nidoking",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "034",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/034",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03.5-202",
+      "name": "Zapdos ex",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "202",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/202",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03-032",
+      "name": "Camerupt",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "032",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/032",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv03-139",
+      "name": "Salandit",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "139",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/139",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv04-066",
+      "name": "Zekrom",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "066",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/066",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv04-090",
+      "name": "Onix",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "090",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/090",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv05-095",
+      "name": "Coalossal",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "095",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/095",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv06.5-047",
+      "name": "Kyurem",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "047",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/047",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv06-117",
+      "name": "Scolipede",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "117",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/117",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv07-053",
+      "name": "Vikavolt",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "053",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/053",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv07-108",
+      "name": "Varoom",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "108",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/108",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv08-083",
+      "name": "Cofagrigus",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "083",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/083",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv08-125",
+      "name": "Registeel",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "125",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/125",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv09-064",
+      "name": "Sigilyph de N",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "064",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/064",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv09-085",
+      "name": "Lycanroc",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "085",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/085",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv10.5w-135",
+      "name": "Terrakion",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "135",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/135",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv10-074",
+      "name": "Ampharos del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "074",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/074",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "sv10-092",
+      "name": "Annihilape",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "092",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/092",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "svp-021",
+      "name": "Murkrow",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "021",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/021",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "svp-120",
+      "name": "Pupitar",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "120",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/120",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shiburingaru"
+    },
+    {
+      "id": "swshp-SWSH282",
+      "name": "Articuno de Galar",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH282",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Shiburingaru"
+    }
+  ]
+}

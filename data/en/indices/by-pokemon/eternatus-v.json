@@ -1,0 +1,71 @@
+{
+  "name": "Eternatus V",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "swsh11-TG21",
+      "name": "Eternatus V",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "TG21",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG21",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh3-116",
+      "name": "Eternatus V",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "116",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/116",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh4.5-SV121",
+      "name": "Eternatus V",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV121",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV121",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swshp-SWSH044",
+      "name": "Eternatus V",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH044",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH044",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swshp-SWSH064",
+      "name": "Eternatus V",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH064",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH064",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Team Rocket's Murkrow",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "me02.5-126",
+      "name": "Team Rocket's Murkrow",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "126",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/126",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mugi Hamada"
+    },
+    {
+      "id": "sv10-127",
+      "name": "Team Rocket's Murkrow",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "127",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/127",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mugi Hamada"
+    },
+    {
+      "id": "sv10-200",
+      "name": "Team Rocket's Murkrow",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "200",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/200",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Akira Komayama"
+    }
+  ]
+}

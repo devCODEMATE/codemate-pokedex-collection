@@ -1,0 +1,58 @@
+{
+  "name": "Quaquaval",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "B2a-024",
+      "name": "Quaquaval",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "024",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv01-054",
+      "name": "Quaquaval",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "054",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/054",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv08-052",
+      "name": "Quaquaval",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "052",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/052",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "svp-005",
+      "name": "Quaquaval",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "005",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/005",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "kodama"
+    }
+  ]
+}

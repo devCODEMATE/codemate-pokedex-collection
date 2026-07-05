@@ -1,0 +1,50 @@
+{
+  "name": "Pokémon Center",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "base1-85",
+      "name": "Pokémon Center",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "85",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base1/85",
+      "types": null,
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "base4-114",
+      "name": "Pokémon Center",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "114",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base4/114",
+      "types": null,
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "basep-40",
+      "name": "Pokémon Center",
+      "set": "basep",
+      "setName": "Wizards Black Star Promos",
+      "number": "40",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/basep/40",
+      "types": null,
+      "illustrator": "\"Big Mama\" Tagawa"
+    },
+    {
+      "id": "bw4-90",
+      "name": "Pokémon Center",
+      "set": "bw4",
+      "setName": "Next Destinies",
+      "number": "90",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw4/90",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

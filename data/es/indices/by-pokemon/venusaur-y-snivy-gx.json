@@ -1,0 +1,58 @@
+{
+  "name": "Venusaur y Snivy GX",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm12-1",
+      "name": "Venusaur y Snivy GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "1",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/1",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sm12-210",
+      "name": "Venusaur y Snivy GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "210",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/210",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm12-249",
+      "name": "Venusaur y Snivy GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "249",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/249",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM229",
+      "name": "Venusaur y Snivy GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM229",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    }
+  ]
+}

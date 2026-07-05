@@ -1,0 +1,45 @@
+{
+  "name": "Brionne",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "A3-047",
+      "name": "Brionne",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "047",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/047",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "sm1-40",
+      "name": "Brionne",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "40",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/40",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "sm8-66",
+      "name": "Brionne",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "66",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/66",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Atsuko Nishida"
+    }
+  ]
+}

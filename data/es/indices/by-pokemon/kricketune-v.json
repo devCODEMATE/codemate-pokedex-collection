@@ -1,0 +1,45 @@
+{
+  "name": "Kricketune V",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh12-TG12",
+      "name": "Kricketune V",
+      "set": "swsh12",
+      "setName": "Tempestad Plateada",
+      "number": "TG12",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12/TG12",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh5-142",
+      "name": "Kricketune V",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "142",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/142",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Satoshi Shirai"
+    },
+    {
+      "id": "swsh5-6",
+      "name": "Kricketune V",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "6",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/6",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Satoshi Shirai"
+    }
+  ]
+}

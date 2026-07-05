@@ -1,0 +1,45 @@
+{
+  "name": "Galarian Zapdos",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh7-82",
+      "name": "Galarian Zapdos",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "82",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/82",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "swshp-SWSH124",
+      "name": "Galarian Zapdos",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH124",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH124",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "swshp-SWSH283",
+      "name": "Galarian Zapdos",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH283",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Rianti Hidayat"
+    }
+  ]
+}

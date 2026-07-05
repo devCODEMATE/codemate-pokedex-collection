@@ -1,0 +1,45 @@
+{
+  "name": "Swampert ex",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "ex14-98",
+      "name": "Swampert ex",
+      "set": "ex14",
+      "setName": "Crystal Guardians",
+      "number": "98",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex14/98",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "ex4-95",
+      "name": "Swampert ex",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "95",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/95",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hikaru Koike"
+    },
+    {
+      "id": "xyp-XY55",
+      "name": "Swampert EX",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY55",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY55",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Eske Yoshinob"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Primarina",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "A3-048",
+      "name": "Primarina",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "048",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/048",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sm1-41",
+      "name": "Primarina",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "41",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/41",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sm8-67",
+      "name": "Primarina",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "67",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/67",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

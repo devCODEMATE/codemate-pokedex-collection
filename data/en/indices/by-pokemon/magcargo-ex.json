@@ -1,0 +1,45 @@
+{
+  "name": "Magcargo ex",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "ex3-95",
+      "name": "Magcargo ex",
+      "set": "ex3",
+      "setName": "Dragon",
+      "number": "95",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex3/95",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hikaru Koike"
+    },
+    {
+      "id": "sv06-029",
+      "name": "Magcargo ex",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "029",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/029",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "PLANETA Mochizuki"
+    },
+    {
+      "id": "sv06-191",
+      "name": "Magcargo ex",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "191",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/191",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "PLANETA Yamashita"
+    }
+  ]
+}

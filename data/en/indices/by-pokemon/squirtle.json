@@ -1,0 +1,461 @@
+{
+  "name": "Squirtle",
+  "totalCards": 35,
+  "cards": [
+    {
+      "id": "2021swsh-17",
+      "name": "Squirtle",
+      "set": "2021swsh",
+      "setName": "McDonald's Collection 2021",
+      "number": "17",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "tetsuya koizumi"
+    },
+    {
+      "id": "A1-053",
+      "name": "Squirtle",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "053",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/053",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "A1-232",
+      "name": "Squirtle",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "232",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/232",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "A3-215",
+      "name": "Squirtle",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "215",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/215",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "B1a-017",
+      "name": "Squirtle",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "017",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/017",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "base1-63",
+      "name": "Squirtle",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base1/63",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base4-93",
+      "name": "Squirtle",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "93",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base4/93",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base5-68",
+      "name": "Squirtle",
+      "set": "base5",
+      "setName": "Team Rocket",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base5/68",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw10-14",
+      "name": "Squirtle",
+      "set": "bw10",
+      "setName": "Plasma Blast",
+      "number": "14",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw10/14",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "bw7-29",
+      "name": "Squirtle",
+      "set": "bw7",
+      "setName": "Boundaries Crossed",
+      "number": "29",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw7/29",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "bw8-24",
+      "name": "Squirtle",
+      "set": "bw8",
+      "setName": "Plasma Storm",
+      "number": "24",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw8/24",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "dp3-112",
+      "name": "Squirtle",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "112",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/112",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "ecard1-131",
+      "name": "Squirtle",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "131",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/131",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "ecard1-132",
+      "name": "Squirtle",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "132",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/132",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex14-63",
+      "name": "Squirtle",
+      "set": "ex14",
+      "setName": "Crystal Guardians",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex14/63",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ex14-64",
+      "name": "Squirtle",
+      "set": "ex14",
+      "setName": "Crystal Guardians",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex14/64",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex4-46",
+      "name": "Squirtle",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "46",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/46",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ex6-82",
+      "name": "Squirtle",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "82",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/82",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "ex6-83",
+      "name": "Squirtle",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "83",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/83",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "hgss2-63",
+      "name": "Squirtle",
+      "set": "hgss2",
+      "setName": "Unleashed",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss2/63",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "lc-95",
+      "name": "Squirtle",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "95",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/lc/lc/95",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "mep-039",
+      "name": "Squirtle",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "039",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "mfb-25",
+      "name": "Squirtle",
+      "set": "mfb",
+      "setName": "My First Battle",
+      "number": "25",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "P-A-033",
+      "name": "Squirtle",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "033",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/tcgp/P-A/033",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl1-96",
+      "name": "Squirtle",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "96",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/96",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pop4-14",
+      "name": "Squirtle",
+      "set": "pop4",
+      "setName": "POP Series 4",
+      "number": "14",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pop/pop4/14",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm10-33",
+      "name": "Squirtle",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "33",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/33",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "tetsuya koizumi"
+    },
+    {
+      "id": "sm9-22",
+      "name": "Squirtle",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "22",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/22",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm9-23",
+      "name": "Squirtle",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "23",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/23",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "sv03.5-007",
+      "name": "Squirtle",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "007",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/007",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "kantaro"
+    },
+    {
+      "id": "sv03.5-170",
+      "name": "Squirtle",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "170",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/170",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sv07-148",
+      "name": "Squirtle",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "148",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/148",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "svp-048",
+      "name": "Squirtle",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "048",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/048",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Gemi"
+    },
+    {
+      "id": "swsh10.5-015",
+      "name": "Squirtle",
+      "set": "swsh10.5",
+      "setName": "Pokémon GO",
+      "number": "015",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/015",
+      "types": [
+        "Water"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH233",
+      "name": "Squirtle",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH233",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH233",
+      "types": [
+        "Water"
+      ],
+      "illustrator": null
+    }
+  ]
+}

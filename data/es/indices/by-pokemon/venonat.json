@@ -1,0 +1,84 @@
+{
+  "name": "Venonat",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A1-016",
+      "name": "Venonat",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "016",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/016",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "sm10-10",
+      "name": "Venonat",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "10",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/10",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "sm10-9",
+      "name": "Venonat",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "9",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/9",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "sv03.5-048",
+      "name": "Venonat",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "048",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/048",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "swsh12-001",
+      "name": "Venonat",
+      "set": "swsh12",
+      "setName": "Tempestad Plateada",
+      "number": "001",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12/001",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy4-1",
+      "name": "Venonat",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "1",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/1",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    }
+  ]
+}

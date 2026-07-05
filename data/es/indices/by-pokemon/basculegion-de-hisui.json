@@ -1,0 +1,45 @@
+{
+  "name": "Basculegion de Hisui",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh10-044",
+      "name": "Basculegion de Hisui",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "044",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/044",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh11-045",
+      "name": "Basculegion de Hisui",
+      "set": "swsh11",
+      "setName": "Origen Perdido",
+      "number": "045",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh11/045",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH205",
+      "name": "Basculegion de Hisui",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH205",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    }
+  ]
+}

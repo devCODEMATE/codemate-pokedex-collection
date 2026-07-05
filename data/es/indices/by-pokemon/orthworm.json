@@ -1,0 +1,71 @@
+{
+  "name": "Orthworm",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "B2a-077",
+      "name": "Orthworm",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "077",
+      "rarity": "Dos Diamantes",
+      "image": null,
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Pani Kobayashi"
+    },
+    {
+      "id": "B2a-098",
+      "name": "Orthworm",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "098",
+      "rarity": "Una Estrella",
+      "image": null,
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "sv02-151",
+      "name": "Orthworm",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "151",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/151",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "sv02-224",
+      "name": "Orthworm",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "224",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/224",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "sv04-138",
+      "name": "Orthworm",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "138",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/138",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Pani Kobayashi"
+    }
+  ]
+}

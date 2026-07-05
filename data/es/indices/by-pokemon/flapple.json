@@ -1,0 +1,110 @@
+{
+  "name": "Flapple",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "sv08-139",
+      "name": "Flapple",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "139",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/139",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "GOTO minori"
+    },
+    {
+      "id": "sv08-210",
+      "name": "Flapple",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "210",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/210",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "swsh10-TG02",
+      "name": "Flapple",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "TG02",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/TG02",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh2-22",
+      "name": "Flapple",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "22",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/22",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh4.5-SV013",
+      "name": "Flapple",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV013",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV013",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "swsh7-120",
+      "name": "Flapple",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "120",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/120",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swshp-SWSH022",
+      "name": "Flapple",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH022",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH022",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "swshp-SWSH189",
+      "name": "Flapple",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH189",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": null
+    }
+  ]
+}

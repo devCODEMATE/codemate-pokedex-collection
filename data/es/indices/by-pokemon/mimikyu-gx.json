@@ -1,0 +1,45 @@
+{
+  "name": "Mimikyu GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm8-149",
+      "name": "Mimikyu GX",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "149",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/149",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm8-206",
+      "name": "Mimikyu GX",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "206",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/206",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm8-226",
+      "name": "Mimikyu GX",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "226",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/226",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

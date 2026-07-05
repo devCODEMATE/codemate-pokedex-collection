@@ -1,0 +1,45 @@
+{
+  "name": "Orbeetle VMAX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh11-TG13",
+      "name": "Orbeetle VMAX",
+      "set": "swsh11",
+      "setName": "Origen Perdido",
+      "number": "TG13",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh11/TG13",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh4-186",
+      "name": "Orbeetle VMAX",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "186",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/186",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh4-21",
+      "name": "Orbeetle VMAX",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "21",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/21",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

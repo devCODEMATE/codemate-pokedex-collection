@@ -1,0 +1,45 @@
+{
+  "name": "Cyclizar ex",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv08-159",
+      "name": "Cyclizar ex",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "159",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/159",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sv08-228",
+      "name": "Cyclizar ex",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "228",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/228",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "svp-018",
+      "name": "Cyclizar ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "018",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/018",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

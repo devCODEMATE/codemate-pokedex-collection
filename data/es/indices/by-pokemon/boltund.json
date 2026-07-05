@@ -1,0 +1,84 @@
+{
+  "name": "Boltund",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "me02-031",
+      "name": "Boltund",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "031",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/031",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "sv05-059",
+      "name": "Boltund",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "059",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/059",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "swsh1-75",
+      "name": "Boltund",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "75",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/75",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Misa Tsutsui"
+    },
+    {
+      "id": "swsh1-76",
+      "name": "Boltund",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "76",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/76",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh4.5-SV040",
+      "name": "Boltund",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV040",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV040",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "swsh5-53",
+      "name": "Boltund",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "53",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/53",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "chibi"
+    }
+  ]
+}

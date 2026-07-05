@@ -1,0 +1,32 @@
+{
+  "name": "Brock's Sandshrew",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym1-71",
+      "name": "Brock's Sandshrew",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "71",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/71",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym1-72",
+      "name": "Brock's Sandshrew",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "72",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/72",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Runerigus de Galar",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh2-102",
+      "name": "Runerigus de Galar",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "102",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/102",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "swsh4.5-SV066",
+      "name": "Runerigus de Galar",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV066",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV066",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh6-83",
+      "name": "Runerigus de Galar",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "83",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/83",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    }
+  ]
+}

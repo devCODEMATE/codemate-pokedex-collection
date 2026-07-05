@@ -1,0 +1,318 @@
+{
+  "name": "Spiritomb",
+  "totalCards": 24,
+  "cards": [
+    {
+      "id": "A2-104",
+      "name": "Spiritomb",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "104",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/104",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "A2-172",
+      "name": "Spiritomb",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "172",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/172",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shinji Kanda"
+    },
+    {
+      "id": "A2b-049",
+      "name": "Spiritomb",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "049",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/049",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "B2-103",
+      "name": "Spiritomb",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "103",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/103",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "bw11-87",
+      "name": "Spiritomb",
+      "set": "bw11",
+      "setName": "Legendary Treasures",
+      "number": "87",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw11/87",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "dp6-16",
+      "name": "Spiritomb",
+      "set": "dp6",
+      "setName": "Legends Awakened",
+      "number": "16",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/dp/dp6/16",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "hgss4-10",
+      "name": "Spiritomb",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "10",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/10",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "me01-087",
+      "name": "Spiritomb",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "087",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me01/087",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "mingo"
+    },
+    {
+      "id": "me01-148",
+      "name": "Spiritomb",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "148",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me01/148",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "IKEDA Saki"
+    },
+    {
+      "id": "pl4-32",
+      "name": "Spiritomb",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "32",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/32",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "sm10-112",
+      "name": "Spiritomb",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "112",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/112",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sm3.5-47",
+      "name": "Spiritomb",
+      "set": "sm3.5",
+      "setName": "Shining Legends",
+      "number": "47",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sm5-53",
+      "name": "Spiritomb",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "53",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/53",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sm9-89",
+      "name": "Spiritomb",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "89",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/89",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "sv01-129",
+      "name": "Spiritomb",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "129",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/129",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "sv02-089",
+      "name": "Spiritomb",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "089",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/089",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "sv04.5-158",
+      "name": "Spiritomb",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "158",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/158",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "swsh11-117",
+      "name": "Spiritomb",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "117",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/117",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh11-TG09",
+      "name": "Spiritomb",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "TG09",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG09",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh2-116",
+      "name": "Spiritomb",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "116",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/116",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "swsh6-103",
+      "name": "Spiritomb",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "103",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/103",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "swsh9-089",
+      "name": "Spiritomb",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "089",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/089",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy11-62",
+      "name": "Spiritomb",
+      "set": "xy11",
+      "setName": "Steam Siege",
+      "number": "62",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy11/62",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "xy4-55",
+      "name": "Spiritomb",
+      "set": "xy4",
+      "setName": "Phantom Forces",
+      "number": "55",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy4/55",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "PLANETA"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Sunkern",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm12-7",
+      "name": "Sunkern",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "7",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/7",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "0313"
+    },
+    {
+      "id": "sv06-006",
+      "name": "Sunkern",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "006",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "swsh12.5-007",
+      "name": "Sunkern",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "007",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/007",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh12-005",
+      "name": "Sunkern",
+      "set": "swsh12",
+      "setName": "Tempestad Plateada",
+      "number": "005",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12/005",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    }
+  ]
+}

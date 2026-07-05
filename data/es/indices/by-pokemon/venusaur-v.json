@@ -1,0 +1,32 @@
+{
+  "name": "Venusaur V",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh3.5-1",
+      "name": "Venusaur V",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "1",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/1",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Mochizuki"
+    },
+    {
+      "id": "swshp-SWSH100",
+      "name": "Venusaur V",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH100",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH100",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "aky CG Works"
+    }
+  ]
+}

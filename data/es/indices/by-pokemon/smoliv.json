@@ -1,0 +1,97 @@
+{
+  "name": "Smoliv",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "B2a-007",
+      "name": "Smoliv",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "007",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "yuu"
+    },
+    {
+      "id": "sv01-020",
+      "name": "Smoliv",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "020",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/020",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "yuu"
+    },
+    {
+      "id": "sv01-021",
+      "name": "Smoliv",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "021",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/021",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "sv03-019",
+      "name": "Smoliv",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "019",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/019",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masako Tomii"
+    },
+    {
+      "id": "sv04.5-102",
+      "name": "Smoliv",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "102",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/102",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv10-021",
+      "name": "Smoliv",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "021",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/021",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "svp-023",
+      "name": "Smoliv",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "023",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/023",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Misa Tsutsui"
+    }
+  ]
+}

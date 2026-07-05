@@ -1,0 +1,58 @@
+{
+  "name": "Tapu Bulu GX",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm3-130",
+      "name": "Tapu Bulu GX",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "130",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/130",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm3-149",
+      "name": "Tapu Bulu GX",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "149",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/149",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sma-SV91",
+      "name": "Tapu Bulu-GX",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV91",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV91",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM32",
+      "name": "Tapu Bulu GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM32",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM32",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "PLANETA"
+    }
+  ]
+}

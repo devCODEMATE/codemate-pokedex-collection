@@ -1,0 +1,578 @@
+{
+  "name": "Sachiko Adachi",
+  "totalCards": 44,
+  "cards": [
+    {
+      "id": "A4-110",
+      "name": "Spinarak",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "110",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/110",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "B1-126",
+      "name": "Makuhita",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "126",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/126",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "bw11-41",
+      "name": "Palpitoad",
+      "set": "bw11",
+      "setName": "Legendary Treasures",
+      "number": "41",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw11/41",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "dp7-41",
+      "name": "Machoke",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "41",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/41",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "dp7-60",
+      "name": "Duskull",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "60",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/60",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "dp7-73",
+      "name": "Skorupi",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "73",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/73",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex10-34",
+      "name": "Aipom",
+      "set": "ex10",
+      "setName": "Unseen Forces",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex10/34",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex10-71",
+      "name": "Remoraid",
+      "set": "ex10",
+      "setName": "Unseen Forces",
+      "number": "71",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex10/71",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex10-75",
+      "name": "Spinarak",
+      "set": "ex10",
+      "setName": "Unseen Forces",
+      "number": "75",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex10/75",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex11-46",
+      "name": "Kakuna",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "46",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/46",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex11-72",
+      "name": "Koffing",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "72",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/72",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex11-75",
+      "name": "Makuhita",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "75",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/75",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex11-79",
+      "name": "Poochyena",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "79",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/79",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex12-30",
+      "name": "Cascoon",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "30",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/30",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex12-50",
+      "name": "Chinchou",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "50",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/50",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex12-51",
+      "name": "Clamperl",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "51",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/51",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex14-31",
+      "name": "Combusken",
+      "set": "ex14",
+      "setName": "Crystal Guardians",
+      "number": "31",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex14/31",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex14-65",
+      "name": "Torchic",
+      "set": "ex14",
+      "setName": "Crystal Guardians",
+      "number": "65",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex14/65",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex14-67",
+      "name": "Treecko",
+      "set": "ex14",
+      "setName": "Crystal Guardians",
+      "number": "67",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex14/67",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex15-21",
+      "name": "Quagsire δ",
+      "set": "ex15",
+      "setName": "Dragon Frontiers",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex15/21",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex15-22",
+      "name": "Seadra δ",
+      "set": "ex15",
+      "setName": "Dragon Frontiers",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex15/22",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex15-54",
+      "name": "Mareep δ",
+      "set": "ex15",
+      "setName": "Dragon Frontiers",
+      "number": "54",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex15/54",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex15-70",
+      "name": "Vulpix δ",
+      "set": "ex15",
+      "setName": "Dragon Frontiers",
+      "number": "70",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex15/70",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex16-31",
+      "name": "Kirlia",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "31",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/31",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex16-32",
+      "name": "Lairon",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "32",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/32",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex16-48",
+      "name": "Charmander",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "48",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/48",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex16-68",
+      "name": "Trapinch",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/68",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex7-52",
+      "name": "Dratini",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "52",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/52",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex7-66",
+      "name": "Magnemite",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "66",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/66",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex7-80",
+      "name": "Voltorb",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "80",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/80",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex8-31",
+      "name": "Golbat",
+      "set": "ex8",
+      "setName": "Deoxys",
+      "number": "31",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex8/31",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex8-83",
+      "name": "Zubat",
+      "set": "ex8",
+      "setName": "Deoxys",
+      "number": "83",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex8/83",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "hgss1-43",
+      "name": "Heracross",
+      "set": "hgss1",
+      "setName": "HeartGold SoulSilver",
+      "number": "43",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss1/43",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "hgss2-22",
+      "name": "Primeape",
+      "set": "hgss2",
+      "setName": "Unleashed",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss2/22",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "hgss2-53",
+      "name": "Mankey",
+      "set": "hgss2",
+      "setName": "Unleashed",
+      "number": "53",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss2/53",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "hgss2-9",
+      "name": "Sudowoodo",
+      "set": "hgss2",
+      "setName": "Unleashed",
+      "number": "9",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss2/9",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "hgss3-34",
+      "name": "Raticate",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/34",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "hgss3-64",
+      "name": "Rattata",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/64",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "hgss4-50",
+      "name": "Tentacruel",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/50",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "hgss4-80",
+      "name": "Tentacool",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "80",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/80",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "pl4-37",
+      "name": "Graveler",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "37",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/37",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "pl4-40",
+      "name": "Gulpin",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "40",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/40",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "sm11-29",
+      "name": "Lampent",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "29",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/29",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "sm7-5",
+      "name": "Spinarak",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "5",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/5",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    }
+  ]
+}

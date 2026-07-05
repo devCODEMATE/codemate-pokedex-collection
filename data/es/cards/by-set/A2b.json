@@ -1,0 +1,7369 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "A2b-001",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/001",
+    "localId": "001",
+    "name": "Weedle",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      13
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "description": "Suele habitar bosques y praderas.\nTiene un afilado y venenoso aguijón\nde unos 5 cm encima de la cabeza.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Multiplicar",
+        "effect": "Pon 1 Weedle aleatorio de tu baraja en tu Banca."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-002",
+    "illustrator": "Yuka Morii",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/002",
+    "localId": "002",
+    "name": "Kakuna",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      14
+    ],
+    "hp": 80,
+    "types": [
+      "Planta"
+    ],
+    "description": "Casi incapaz de moverse, este Pokémon solo\npuede endurecer su caparazón para protegerse.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Disparo Demora",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-003",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/003",
+    "localId": "003",
+    "name": "Beedrill ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      15
+    ],
+    "hp": 170,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Lanza Devastadora",
+        "effect": "Descarta 1 Energía aleatoria del Pokémon Activo de tu rival.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-004",
+    "illustrator": "Satoshi Shirai",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/004",
+    "localId": "004",
+    "name": "Pinsir",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      127
+    ],
+    "hp": 90,
+    "types": [
+      "Planta"
+    ],
+    "description": "Los Pinsir se juzgan entre ellos por la robustez\nde la cornamenta. Cuanto más imponente sea,\nmás agradará a sus congéneres del sexo opuesto.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Guilloatina",
+        "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 40 puntos de daño más por cada cara.",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-005",
+    "illustrator": "mashu",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/005",
+    "localId": "005",
+    "name": "Sprigatito",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      906
+    ],
+    "hp": 60,
+    "types": [
+      "Planta"
+    ],
+    "description": "Su sedoso pelaje se asemeja en composición a las plantas.\nSe lava la cara con diligencia para que no se le seque.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Pedir Ayuda",
+        "effect": "Pon 1 Pokémon {G} aleatorio de tu baraja en tu mano."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-006",
+    "illustrator": "mashu",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/006",
+    "localId": "006",
+    "name": "Floragato",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      907
+    ],
+    "hp": 90,
+    "types": [
+      "Planta"
+    ],
+    "description": "Maneja diestramente la vid oculta bajo su largo pelaje y propina\nlatigazos al enemigo con el capullo endurecido de la punta.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Cuchillada",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-007",
+    "illustrator": "mashu",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/007",
+    "localId": "007",
+    "name": "Meowscarada",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      908
+    ],
+    "hp": 140,
+    "types": [
+      "Planta"
+    ],
+    "description": "Se sirve de la luz que reflejan los tricomas de\nsu manto de hojas para camuflar la vid y crear\nla ilusión óptica de que la flor flota en el aire.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Garras Luchadoras",
+        "effect": "Si el Pokémon Activo de tu rival es un Pokémon {ex}, este ataque hace 70 puntos de daño más.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-008",
+    "illustrator": "Megumi Mizutani",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/008",
+    "localId": "008",
+    "name": "Charmander",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      4
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Prefiere las cosas calientes. Dicen que cuando\nllueve le sale vapor de la punta de la cola.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Combustión",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-009",
+    "illustrator": "kodama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/009",
+    "localId": "009",
+    "name": "Charmeleon",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      5
+    ],
+    "hp": 90,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Este Pokémon de naturaleza agresiva\nataca en combate con su cola llameante\ny hace trizas al rival con sus afiladas garras.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego"
+        ],
+        "name": "Combustión",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-010",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/010",
+    "localId": "010",
+    "name": "Charizard ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 180,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Atizador",
+        "effect": "Une 3 Energías {R} de tu área de Energía a este Pokémon."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Artillería de Vapor",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-011",
+    "illustrator": "Miki Tanaka",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/011",
+    "localId": "011",
+    "name": "Magmar",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      126
+    ],
+    "hp": 70,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Abate a sus presas con las llamas\nque genera y con frecuencia acaba\nreduciéndolas a carbonilla por accidente.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Llama",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-012",
+    "illustrator": "Miki Tanaka",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/012",
+    "localId": "012",
+    "name": "Magmortar",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      467
+    ],
+    "hp": 120,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Al respirar profundamente, el fuego del interior de su\nvientre gana intensidad y puede alcanzar los 2000 °C.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Bomba de Humo",
+        "effect": "Durante el próximo turno de tu rival, si el Pokémon Defensor intenta usar un ataque, tu rival lanza 1 moneda. Si sale cruz, ese ataque no se lleva a cabo.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-013",
+    "illustrator": "Minahamu",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/013",
+    "localId": "013",
+    "name": "Taurosde Paldea",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      128
+    ],
+    "hp": 110,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Sus cuernos alcanzan los 1000 °C cuando los\ncalienta con energía ígnea. Quienes reciben una\nde sus cornadas sufren heridas y quemaduras.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Placaje Llameante",
+        "effect": "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-014",
+    "illustrator": "Shibuzoh.",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/014",
+    "localId": "014",
+    "name": "Tentacool",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      72
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "description": "Sus facultades natatorias son más bien escasas,\npor lo que se limita a flotar a la deriva en\naguas poco profundas en busca de alimento.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Golpe de Lluvia",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-015",
+    "illustrator": "match",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/015",
+    "localId": "015",
+    "name": "Tentacruel",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      73
+    ],
+    "hp": 100,
+    "types": [
+      "Agua"
+    ],
+    "description": "Si las esferas rojas que tiene a ambos lados\nde la cabeza brillan con intensidad, indica que\nestá a punto de lanzar ondas ultrasónicas.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Chapoteo Ondulante",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-016",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/016",
+    "localId": "016",
+    "name": "Buizel",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      418
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "description": "La vejiga natatoria alrededor del cuello le permite flotar\nen el agua con la cabeza fuera para divisar a sus presas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Pistola Agua",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-017",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/017",
+    "localId": "017",
+    "name": "Floatzel",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      419
+    ],
+    "hp": 90,
+    "types": [
+      "Agua"
+    ],
+    "description": "Con la vejiga natatoria inflada, puede llevar a personas\nsobre su espalda. Antes de bucear, la desinfla.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Flecha de Agua",
+        "effect": "Este ataque hace 30 puntos de daño a 1 de los Pokémon de tu rival."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-018",
+    "illustrator": "miki kudo",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/018",
+    "localId": "018",
+    "name": "Wiglett",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      960
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "description": "Puede percibir el olor de los Veluza a 20 m de distancia,\nlo que le permite ocultarse bajo la arena a tiempo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Saltar en Resorte",
+        "effect": "Se elige a un Pokémon aleatorio de tu rival. Hazle 30 puntos de daño."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-019",
+    "illustrator": "PLANETA Tsuji",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/019",
+    "localId": "019",
+    "name": "Wugtrio ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      961
+    ],
+    "hp": 140,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Vapuleo por Sorteo",
+        "effect": "Se elige 3 veces a un Pokémon aleatorio de tu rival. Haz a cada uno 50 puntos de daño por cada vez que haya resultado elegido."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-020",
+    "illustrator": "Tomowaka",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/020",
+    "localId": "020",
+    "name": "Dondozo",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      977
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "description": "Le gusta mucho comer, pero no se le da bien cazar, por lo\nque aúna fuerzas con Tatsugiri con el fin de capturar presas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ciclón Oceánico",
+        "effect": "Este ataque también hace 10 puntos de daño a cada uno de los Pokémon en Banca de tu rival.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-021",
+    "illustrator": "Tomowaka",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/021",
+    "localId": "021",
+    "name": "Tatsugiri",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      978
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "description": "Pokémon dragón de pequeño tamaño. Vive en la boca de un\nDondozo para protegerse de los ataques de los depredadores.",
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Orden de Retirada",
+        "effect": "Tu Dondozo Activo no tiene ningún Coste de Retirada."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Golpe de Lluvia",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-022",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/022",
+    "localId": "022",
+    "name": "Pikachu ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 120,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Rayo",
+        "effect": "Descarta todas las Energías de este Pokémon.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-023",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/023",
+    "localId": "023",
+    "name": "Voltorb",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      100
+    ],
+    "hp": 70,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Se mueve rodando. Si el terreno es\nirregular, una chispa provocada por\nalgún bache lo hará explotar.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Bola Relámpago",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-024",
+    "illustrator": "Shigenori Negishi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/024",
+    "localId": "024",
+    "name": "Electrode",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      101
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Cuanta más energía almacena, mayor\nvelocidad alcanza, aunque aumenta\ntambién el riesgo de que explote.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Ataque Tambaleante",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-025",
+    "illustrator": "imoniii",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/025",
+    "localId": "025",
+    "name": "Pachirisu",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      417
+    ],
+    "hp": 70,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Forma parte del grupo de Pokémon que\nposee bolsas de electricidad en las mejillas.\nDescarga por la cola la electricidad que acumula.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Plasma",
+        "effect": "Une 1 Energía {L} de tu área de Energía a 1 de tus Pokémon en Banca.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-026",
+    "illustrator": "Saboteri",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/026",
+    "localId": "026",
+    "name": "Pawmi",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      921
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Como las bolsas de sus mejillas están poco desarrolladas, genera\nelectricidad frotándolas con las almohadillas de sus patas delanteras.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Puño",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-027",
+    "illustrator": "Saboteri",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/027",
+    "localId": "027",
+    "name": "Pawmo",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      922
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Cuando su manada se ve amenazada, atacan a la\nvanguardia usando un arte marcial caracterizado\npor el empleo de descargas eléctricas.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Puño",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-028",
+    "illustrator": "Saboteri",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/028",
+    "localId": "028",
+    "name": "Pawmot",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      923
+    ],
+    "hp": 140,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Este Pokémon es normalmente bastante calmado,\npero, una vez en combate, derriba a sus rivales\ncon movimientos de una velocidad vertiginosa.",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Contragolpe",
+        "effect": "Si este Pokémon está en el Puesto Activo y resulta dañado por un ataque de los Pokémon de tu rival, el Pokémon Atacante sufre 20 puntos de daño."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Puño Eléctrico",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-029",
+    "illustrator": "Mousho",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/029",
+    "localId": "029",
+    "name": "Abra",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      63
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Es capaz de usar sus poderes psíquicos aun\nestando dormido. Al parecer, el contenido\ndel sueño influye en sus facultades.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Disparo Psi",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-030",
+    "illustrator": "Mousho",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/030",
+    "localId": "030",
+    "name": "Kadabra",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      64
+    ],
+    "hp": 80,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Duerme suspendido en el aire gracias a sus\npoderes psíquicos. La cola, de una flexibilidad\nextraordinaria, hace las veces de almohada.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Disparo Psi",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-031",
+    "illustrator": "Mousho",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/031",
+    "localId": "031",
+    "name": "Alakazam",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      65
+    ],
+    "hp": 130,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Posee una capacidad intelectual fuera de\nlo común que le permite recordar todo lo\nsucedido desde el instante de su nacimiento.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Represión Psíquica",
+        "effect": "Este ataque también hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival que tenga alguna Energía unida a él.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-032",
+    "illustrator": "Atsuko Nishida",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/032",
+    "localId": "032",
+    "name": "Mr. Mime",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      122
+    ],
+    "hp": 90,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Muchos estudiosos sostienen que el\ndesarrollo de sus enormes manos se debe\na su afán por practicar la pantomima.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Malabarismo",
+        "effect": "Lanza 4 monedas. Este ataque hace 20 puntos de daño por cada cara.",
+        "damage": "20x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-033",
+    "illustrator": "kodama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/033",
+    "localId": "033",
+    "name": "Drifloon",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      425
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Se dice que a veces desaparecen niños que\nagarran un Drifloon pensando que es un globo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Apisonar",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-034",
+    "illustrator": "Hajime Kusajima",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/034",
+    "localId": "034",
+    "name": "Drifblim",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      426
+    ],
+    "hp": 90,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Crea en su interior gases y los expulsa. De esta\nforma es capaz de volar y controlar su altura.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico"
+        ],
+        "name": "Tornado",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-035",
+    "illustrator": "PLANETA Yamashita",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/035",
+    "localId": "035",
+    "name": "Giratina ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      487
+    ],
+    "hp": 150,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Bramido de Espacio Fracturado",
+        "effect": "Una vez durante tu turno, puedes unir 1 Energía {P} de tu área de Energía a este Pokémon. Si usas esta habilidad, tu turno termina."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Impacto Caótico",
+        "effect": "Este Pokémon también se hace 20 puntos de daño a sí mismo.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-036",
+    "illustrator": "HYOGONOSUKE",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/036",
+    "localId": "036",
+    "name": "Gimmighoul",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      999
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "El cofre en el que nació data de hace 1500 años\naproximadamente. Absorbe la energía vital de los\ngranujas que intentan hacerse con su tesoro.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Encofrarse",
+        "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-037",
+    "illustrator": "Mina Nakai",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/037",
+    "localId": "037",
+    "name": "Machop",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      66
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Es una masa de músculos y, pese a su\npequeño tamaño, tiene fuerza de sobra\npara levantar en brazos a 100 personas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Patada Baja",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-038",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/038",
+    "localId": "038",
+    "name": "Machoke",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      67
+    ],
+    "hp": 100,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Su musculoso cuerpo es tan fuerte que usa un\ncinto antifuerza para controlar sus movimientos.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Aporrear",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-039",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/039",
+    "localId": "039",
+    "name": "Machamp",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      68
+    ],
+    "hp": 150,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Mueve rápidamente sus cuatro brazos\npara asestar incesantes golpes y\npuñetazos desde todos los ángulos.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Constricción Poderosa",
+        "effect": "Si este Pokémon tiene por lo menos 2 Energías {F} adicionales unidas a él, este ataque hace 50 puntos de daño más.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-040",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/040",
+    "localId": "040",
+    "name": "Hitmonlee",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      106
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Este Pokémon tiene un sentido del equilibrio\nincreíble. Puede dar patadas desde cualquier posición.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Patada",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-041",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/041",
+    "localId": "041",
+    "name": "Hitmonchan",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      107
+    ],
+    "hp": 90,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Sus puñetazos cortan el aire. Son tan veloces que\nel mínimo roce podría causar una quemadura.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Puño Mágnum",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-042",
+    "illustrator": "You Iribi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/042",
+    "localId": "042",
+    "name": "Riolu",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      447
+    ],
+    "hp": 70,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Se comunica con los suyos emitiendo ondas.\nPuede pasarse toda una noche corriendo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Puño",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-043",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/043",
+    "localId": "043",
+    "name": "Lucario ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      448
+    ],
+    "hp": 150,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Esfera Aural",
+        "effect": "Este ataque también hace 30 puntos de daño a 1 de los Pokémon en Banca de tu rival.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-044",
+    "illustrator": "REND",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/044",
+    "localId": "044",
+    "name": "Flamigo",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      973
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Al parecer, se anudan la base del cuello para\nimpedir que la energía que tienen almacenada\nen el estómago escape por el pico.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Doble Patada",
+        "effect": "Lanza 2 monedas. Este ataque hace 50 puntos de daño por cada cara.",
+        "damage": "50x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-045",
+    "illustrator": "Midori Harada",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/045",
+    "localId": "045",
+    "name": "Ekans",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      23
+    ],
+    "hp": 70,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Es capaz de desencajar la mandíbula para\nengullir presas enteras mayores que él mismo,\ntras lo cual se enrosca para descansar.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Apisonar",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-046",
+    "illustrator": "Midori Harada",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/046",
+    "localId": "046",
+    "name": "Arbok",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      24
+    ],
+    "hp": 110,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Tras confundir a su presa con el motivo de su cuerpo, se enrosca\na su alrededor y la aferra, a la espera de que su pulso se detenga.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura",
+          "Incolora"
+        ],
+        "name": "Colmillo Nocivo",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-047",
+    "illustrator": "Mori Yuu",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/047",
+    "localId": "047",
+    "name": "Wooperde Paldea",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      194
+    ],
+    "hp": 50,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Tras perder una disputa territorial, se vio forzado\na vivir en tierra firme y desarrolló una membrana\nmucosa tóxica con la que proteger su cuerpo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Puya Nociva",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-048",
+    "illustrator": "PLANETA Mochizuki",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/048",
+    "localId": "048",
+    "name": "Clodsirede Paldea ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      980
+    ],
+    "hp": 160,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Carga Tóxica",
+        "effect": "Si el Pokémon Activo de tu rival está Envenenado, este ataque hace 60 puntos de daño más.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-049",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/049",
+    "localId": "049",
+    "name": "Spiritomb",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      442
+    ],
+    "hp": 80,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Por sus constantes fechorías se le acabó uniendo\na una Piedra Espíritu con un misterioso hechizo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Rayo Confuso",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Confundido.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-050",
+    "illustrator": "Krgc",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/050",
+    "localId": "050",
+    "name": "Shroodle",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      944
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Es manso, pero muerde y paraliza a quien lo enfada\ncon sus afilados incisivos impregnados de toxinas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Roer",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-051",
+    "illustrator": "Krgc",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/051",
+    "localId": "051",
+    "name": "Grafaiai",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      945
+    ],
+    "hp": 90,
+    "types": [
+      "Oscura"
+    ],
+    "description": "El color de su saliva venenosa varía según su\nalimentación. Se embadurna los dedos con ella\npara pintar motivos en los árboles del bosque.",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Recubrimiento Venenoso",
+        "effect": "Una vez durante tu turno, puedes lanzar 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Envenenado."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Mordisco",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-052",
+    "illustrator": "miki kudo",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/052",
+    "localId": "052",
+    "name": "Tinkatink",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      957
+    ],
+    "hp": 60,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Agita su martillo forjado a mano para ahuyentar\na posibles amenazas, pero los Pokémon que se\nalimentan a base de metal suelen robárselo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Puño Tirabuzón",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-053",
+    "illustrator": "miki kudo",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/053",
+    "localId": "053",
+    "name": "Tinkatuff",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      958
+    ],
+    "hp": 90,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Asalta el séquito entero de un Bisharp para reunir\nmetal con el que forjar su enorme y robusto martillo.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica"
+        ],
+        "name": "Martillo Tenaz",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-054",
+    "illustrator": "PLANETA Mochizuki",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/054",
+    "localId": "054",
+    "name": "Tinkaton ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      959
+    ],
+    "hp": 170,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Martillazo Descomunal",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 80 puntos de daño más.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-055",
+    "illustrator": "Souichirou Gunjima",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/055",
+    "localId": "055",
+    "name": "Varoom",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      965
+    ],
+    "hp": 70,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Se dice que surgió cuando un misterioso Pokémon venenoso\ntomó posesión de un motor abandonado en un desguace.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Golpe Cabeza",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-056",
+    "illustrator": "Souichirou Gunjima",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/056",
+    "localId": "056",
+    "name": "Revavroom",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      966
+    ],
+    "hp": 110,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Posee ocho cilindros, con los que genera energía\nhaciendo estallar el gas que produce al mezclar\nlos minerales de las rocas con su veneno.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Corriente Giratoria",
+        "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-057",
+    "illustrator": "HYOGONOSUKE",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/057",
+    "localId": "057",
+    "name": "Gholdengo",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1000
+    ],
+    "hp": 120,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Se dice que su cuerpo está formado por 1000\nmonedas. Es capaz de hacer buenas migas con\ncualquiera rápidamente por su sociabilidad.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Surfeo Resplandeciente",
+        "effect": "Lanza 1 moneda por cada Energía {M} unida a este Pokémon. Este ataque hace 50 puntos de daño por cada cara.",
+        "damage": "50x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-058",
+    "illustrator": "Eri Yamaki",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/058",
+    "localId": "058",
+    "name": "Rattata",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      19
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Sus incisivos crecen durante toda su vida.\nSi aumentan demasiado de tamaño, no\npuede alimentarse y muere de inanición.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Placaje",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-059",
+    "illustrator": "Kyoko Umemoto",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/059",
+    "localId": "059",
+    "name": "Raticate",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      20
+    ],
+    "hp": 90,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Las pequeñas membranas que tiene en las\npatas traseras le permiten nadar entre las islas\nde Alola y escapar así de sus depredadores.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Placaje",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-060",
+    "illustrator": "Kanako Eo",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/060",
+    "localId": "060",
+    "name": "Jigglypuff",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      39
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Hincha su vientre considerablemente y entona una melodía\nmisteriosa que duerme en el acto a todo aquel que la oye.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Rodar",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-061",
+    "illustrator": "miki kudo",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/061",
+    "localId": "061",
+    "name": "Wigglytuff",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      40
+    ],
+    "hp": 100,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Tiene un pelaje muy fino. Se recomienda no enfadarlo,\no se inflará y golpeará con todo su cuerpo.",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Canción Reconfortante",
+        "effect": "Una vez durante tu turno, puedes curar 20 puntos de daño a tu Pokémon Activo."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Bofetada Gentil",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-062",
+    "illustrator": "Sumiyoshi Kizuki",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/062",
+    "localId": "062",
+    "name": "Lickitung",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      108
+    ],
+    "hp": 80,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Si sus lametones no se tratan a tiempo,\nsu saliva pegajosa y urticante puede\nprovocar picores persistentes.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Rodar",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-063",
+    "illustrator": "Suwama Chiaki",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/063",
+    "localId": "063",
+    "name": "Lickilicky",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      463
+    ],
+    "hp": 130,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Su lengua es un misterio sin resolver: no se sabe\ncómo puede extenderla hasta alcanzar longitudes\nque superan varias veces la de su propio cuerpo.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Rodar",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-064",
+    "illustrator": "Sekio",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/064",
+    "localId": "064",
+    "name": "Bidoof",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      399
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Tiene nervios de acero y nada puede perturbarlo.\nEs más ágil y activo de lo que aparenta.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Golpe Cabeza",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-065",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/065",
+    "localId": "065",
+    "name": "Bibarel ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      400
+    ],
+    "hp": 160,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Presión Despreocupada",
+        "effect": "Cura 30 puntos de daño a este Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-066",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/066",
+    "localId": "066",
+    "name": "Buneary",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      427
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Cuando enrolla ambas orejas, es señal de que tiene algún\ntipo de malestar físico o emocional y necesita cuidados.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Destructor",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-067",
+    "illustrator": "Minahamu",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/067",
+    "localId": "067",
+    "name": "Lopunny",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      428
+    ],
+    "hp": 100,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Está siempre atento a lo que ocurre a su\nalrededor. Si advierte peligro, se defenderá\ncon patadas de potencia devastadora.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Disparo Salto",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-068",
+    "illustrator": "HAGIYA Kaoru",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/068",
+    "localId": "068",
+    "name": "Cyclizar",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      967
+    ],
+    "hp": 80,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Según parece, ha permitido que los humanos\nmonten en él desde tiempos remotos. Aparece\nen pinturas rupestres de hace diez mil años.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Alta Aceleración",
+        "effect": "Durante tu próximo turno, el ataque Alta Aceleración de este Pokémon hace Overacceleration+20 puntos[/Ctrl:NoBreak] de daño.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2b-069",
+    "illustrator": "saino misaki",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/069",
+    "localId": "069",
+    "name": "e-Nigma",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cada jugador pone las cartas de su mano en su baraja y las baraja todas. Después, roba ese mismo número de cartas.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2b-070",
+    "illustrator": "Susumu Maeya",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/070",
+    "localId": "070",
+    "name": "Chica del Centro Pokémon",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 30 puntos de daño a 1 de tus Pokémon, y este se recupera de todas las Condiciones Especiales.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2b-071",
+    "illustrator": "Teeziro",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/071",
+    "localId": "071",
+    "name": "Rojo",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante este turno, los ataques de tus Pokémon hacen +20 puntos de daño al Pokémon {ex} Activo de tu rival.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2b-072",
+    "illustrator": "kantaro",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/072",
+    "localId": "072",
+    "name": "Recluta del Team Rocket",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Lanza 1 moneda hasta que salga cruz. Por cada cara, descarta 1 Energía aleatoria del Pokémon Activo de tu rival.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-073",
+    "illustrator": "danciao",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/073",
+    "localId": "073",
+    "name": "Meowscarada",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      908
+    ],
+    "hp": 140,
+    "types": [
+      "Planta"
+    ],
+    "description": "Se sirve de la luz que reflejan los tricomas de\nsu manto de hojas para camuflar la vid y crear\nla ilusión óptica de que la flor flota en el aire.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Garras Luchadoras",
+        "effect": "Si el Pokémon Activo de tu rival es un Pokémon {ex}, este ataque hace 70 puntos de daño más.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-074",
+    "illustrator": "Shimaris Yukichi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/074",
+    "localId": "074",
+    "name": "Buizel",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      418
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "description": "La vejiga natatoria alrededor del cuello le permite flotar\nen el agua con la cabeza fuera para divisar a sus presas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Pistola Agua",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-075",
+    "illustrator": "cochi8i",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/075",
+    "localId": "075",
+    "name": "Tatsugiri",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      978
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "description": "Pokémon dragón de pequeño tamaño. Vive en la boca de un\nDondozo para protegerse de los ataques de los depredadores.",
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Orden de Retirada",
+        "effect": "Tu Dondozo Activo no tiene ningún Coste de Retirada."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Golpe de Lluvia",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-076",
+    "illustrator": "Teeziro",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/076",
+    "localId": "076",
+    "name": "Grafaiai",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      945
+    ],
+    "hp": 90,
+    "types": [
+      "Oscura"
+    ],
+    "description": "El color de su saliva venenosa varía según su\nalimentación. Se embadurna los dedos con ella\npara pintar motivos en los árboles del bosque.",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Recubrimiento Venenoso",
+        "effect": "Una vez durante tu turno, puedes lanzar 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Envenenado."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Mordisco",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-077",
+    "illustrator": "Jerky",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/077",
+    "localId": "077",
+    "name": "Gholdengo",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1000
+    ],
+    "hp": 120,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Se dice que su cuerpo está formado por 1000\nmonedas. Es capaz de hacer buenas migas con\ncualquiera rápidamente por su sociabilidad.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Surfeo Resplandeciente",
+        "effect": "Lanza 1 moneda por cada Energía {M} unida a este Pokémon. Este ataque hace 50 puntos de daño por cada cara.",
+        "damage": "50x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-078",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/078",
+    "localId": "078",
+    "name": "Wigglytuff",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      40
+    ],
+    "hp": 100,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Tiene un pelaje muy fino. Se recomienda no enfadarlo,\no se inflará y golpeará con todo su cuerpo.",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Canción Reconfortante",
+        "effect": "Una vez durante tu turno, puedes curar 20 puntos de daño a tu Pokémon Activo."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Bofetada Gentil",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-079",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/079",
+    "localId": "079",
+    "name": "Beedrill ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      15
+    ],
+    "hp": 170,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Lanza Devastadora",
+        "effect": "Descarta 1 Energía aleatoria del Pokémon Activo de tu rival.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-080",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/080",
+    "localId": "080",
+    "name": "Charizard ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 180,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Atizador",
+        "effect": "Une 3 Energías {R} de tu área de Energía a este Pokémon."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Artillería de Vapor",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-081",
+    "illustrator": "PLANETA Tsuji",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/081",
+    "localId": "081",
+    "name": "Wugtrio ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      961
+    ],
+    "hp": 140,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Vapuleo por Sorteo",
+        "effect": "Se elige 3 veces a un Pokémon aleatorio de tu rival. Haz a cada uno 50 puntos de daño por cada vez que haya resultado elegido."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-082",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/082",
+    "localId": "082",
+    "name": "Pikachu ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 120,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Rayo",
+        "effect": "Descarta todas las Energías de este Pokémon.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-083",
+    "illustrator": "PLANETA Yamashita",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/083",
+    "localId": "083",
+    "name": "Giratina ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      487
+    ],
+    "hp": 150,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Bramido de Espacio Fracturado",
+        "effect": "Una vez durante tu turno, puedes unir 1 Energía {P} de tu área de Energía a este Pokémon. Si usas esta habilidad, tu turno termina."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Impacto Caótico",
+        "effect": "Este Pokémon también se hace 20 puntos de daño a sí mismo.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-084",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/084",
+    "localId": "084",
+    "name": "Lucario ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      448
+    ],
+    "hp": 150,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Esfera Aural",
+        "effect": "Este ataque también hace 30 puntos de daño a 1 de los Pokémon en Banca de tu rival.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-085",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/085",
+    "localId": "085",
+    "name": "Clodsirede Paldea ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      980
+    ],
+    "hp": 160,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Carga Tóxica",
+        "effect": "Si el Pokémon Activo de tu rival está Envenenado, este ataque hace 60 puntos de daño más.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-086",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/086",
+    "localId": "086",
+    "name": "Tinkaton ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      959
+    ],
+    "hp": 170,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Martillazo Descomunal",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 80 puntos de daño más.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-087",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/087",
+    "localId": "087",
+    "name": "Bibarel ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      400
+    ],
+    "hp": 160,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Presión Despreocupada",
+        "effect": "Cura 30 puntos de daño a este Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2b-088",
+    "illustrator": "saino misaki",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/088",
+    "localId": "088",
+    "name": "e-Nigma",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cada jugador pone las cartas de su mano en su baraja y las baraja todas. Después, roba ese mismo número de cartas.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2b-089",
+    "illustrator": "Susumu Maeya",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/089",
+    "localId": "089",
+    "name": "Chica del Centro Pokémon",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 30 puntos de daño a 1 de tus Pokémon, y este se recupera de todas las Condiciones Especiales.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2b-090",
+    "illustrator": "Teeziro",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/090",
+    "localId": "090",
+    "name": "Rojo",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante este turno, los ataques de tus Pokémon hacen +20 puntos de daño al Pokémon {ex} Activo de tu rival.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2b-091",
+    "illustrator": "kantaro",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/091",
+    "localId": "091",
+    "name": "Recluta del Team Rocket",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Lanza 1 moneda hasta que salga cruz. Por cada cara, descarta 1 Energía aleatoria del Pokémon Activo de tu rival.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-092",
+    "illustrator": "You Iribi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/092",
+    "localId": "092",
+    "name": "Pikachu ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 120,
+    "types": [
+      "Rayo"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Rayo",
+        "effect": "Descarta todas las Energías de este Pokémon.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-093",
+    "illustrator": "REND",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/093",
+    "localId": "093",
+    "name": "Clodsirede Paldea ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      980
+    ],
+    "hp": 160,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura",
+          "Oscura"
+        ],
+        "name": "Carga Tóxica",
+        "effect": "Si el Pokémon Activo de tu rival está Envenenado, este ataque hace 60 puntos de daño más.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-094",
+    "illustrator": "kurumitsu",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/094",
+    "localId": "094",
+    "name": "Tinkaton ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      959
+    ],
+    "hp": 170,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Martillazo Descomunal",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 80 puntos de daño más.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-095",
+    "illustrator": "USGMEN",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/095",
+    "localId": "095",
+    "name": "Bibarel ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      400
+    ],
+    "hp": 160,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Presión Despreocupada",
+        "effect": "Cura 30 puntos de daño a este Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-096",
+    "illustrator": "Shinji Kanda",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/096",
+    "localId": "096",
+    "name": "Giratina ex",
+    "rarity": "Tres Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      487
+    ],
+    "hp": 150,
+    "types": [
+      "Psíquico"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Bramido de Espacio Fracturado",
+        "effect": "Una vez durante tu turno, puedes unir 1 Energía {P} de tu área de Energía a este Pokémon. Si usas esta habilidad, tu turno termina."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Impacto Caótico",
+        "effect": "Este Pokémon también se hace 20 puntos de daño a sí mismo.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-097",
+    "illustrator": "Sanosuke Sakuma",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/097",
+    "localId": "097",
+    "name": "Weedle",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      13
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "description": "Suele habitar bosques y praderas.\nTiene un afilado y venenoso aguijón\nde unos 5 cm encima de la cabeza.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Multiplicar",
+        "effect": "Pon 1 Weedle aleatorio de tu baraja en tu Banca."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-098",
+    "illustrator": "Sanosuke Sakuma",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/098",
+    "localId": "098",
+    "name": "Kakuna",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      14
+    ],
+    "hp": 80,
+    "types": [
+      "Planta"
+    ],
+    "description": "Casi incapaz de moverse, este Pokémon solo\npuede endurecer su caparazón para protegerse.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Disparo Demora",
+        "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-099",
+    "illustrator": "Souichirou Gunjima",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/099",
+    "localId": "099",
+    "name": "Charmander",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      4
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Prefiere las cosas calientes. Dicen que cuando\nllueve le sale vapor de la punta de la cola.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Combustión",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-100",
+    "illustrator": "Souichirou Gunjima",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/100",
+    "localId": "100",
+    "name": "Charmeleon",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      5
+    ],
+    "hp": 90,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Este Pokémon de naturaleza agresiva\nataca en combate con su cola llameante\ny hace trizas al rival con sus afiladas garras.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego"
+        ],
+        "name": "Combustión",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-101",
+    "illustrator": "Souichirou Gunjima",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/101",
+    "localId": "101",
+    "name": "Wiglett",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      960
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "description": "Puede percibir el olor de los Veluza a 20 m de distancia,\nlo que le permite ocultarse bajo la arena a tiempo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Saltar en Resorte",
+        "effect": "Se elige a un Pokémon aleatorio de tu rival. Hazle 30 puntos de daño."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-102",
+    "illustrator": "GOSSAN",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/102",
+    "localId": "102",
+    "name": "Dondozo",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      977
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "description": "Le gusta mucho comer, pero no se le da bien cazar, por lo\nque aúna fuerzas con Tatsugiri con el fin de capturar presas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ciclón Oceánico",
+        "effect": "Este ataque también hace 10 puntos de daño a cada uno de los Pokémon en Banca de tu rival.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-103",
+    "illustrator": "Tomowaka",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/103",
+    "localId": "103",
+    "name": "Pachirisu",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      417
+    ],
+    "hp": 70,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Forma parte del grupo de Pokémon que\nposee bolsas de electricidad en las mejillas.\nDescarga por la cola la electricidad que acumula.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Plasma",
+        "effect": "Une 1 Energía {L} de tu área de Energía a 1 de tus Pokémon en Banca.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-104",
+    "illustrator": "GOSSAN",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/104",
+    "localId": "104",
+    "name": "Riolu",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      447
+    ],
+    "hp": 70,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Se comunica con los suyos emitiendo ondas.\nPuede pasarse toda una noche corriendo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Puño",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-105",
+    "illustrator": "nagimiso",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/105",
+    "localId": "105",
+    "name": "Varoom",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      965
+    ],
+    "hp": 70,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Se dice que surgió cuando un misterioso Pokémon venenoso\ntomó posesión de un motor abandonado en un desguace.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Golpe Cabeza",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-106",
+    "illustrator": "nagimiso",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/106",
+    "localId": "106",
+    "name": "Revavroom",
+    "rarity": "One Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      966
+    ],
+    "hp": 110,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Posee ocho cilindros, con los que genera energía\nhaciendo estallar el gas que produce al mezclar\nlos minerales de las rocas con su veneno.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Corriente Giratoria",
+        "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-107",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/107",
+    "localId": "107",
+    "name": "Beedrill ex",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      15
+    ],
+    "hp": 170,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Lanza Devastadora",
+        "effect": "Descarta 1 Energía aleatoria del Pokémon Activo de tu rival.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-108",
+    "illustrator": "PLANETA Igarashi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/108",
+    "localId": "108",
+    "name": "Charizard ex",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 180,
+    "types": [
+      "Fuego"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Atizador",
+        "effect": "Une 3 Energías {R} de tu área de Energía a este Pokémon."
+      },
+      {
+        "cost": [
+          "Fuego",
+          "Fuego",
+          "Fuego",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Artillería de Vapor",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-109",
+    "illustrator": "PLANETA Tsuji",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/109",
+    "localId": "109",
+    "name": "Wugtrio ex",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      961
+    ],
+    "hp": 140,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Vapuleo por Sorteo",
+        "effect": "Se elige 3 veces a un Pokémon aleatorio de tu rival. Haz a cada uno 50 puntos de daño por cada vez que haya resultado elegido."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2b-110",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/110",
+    "localId": "110",
+    "name": "Lucario ex",
+    "rarity": "Two Shiny",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      448
+    ],
+    "hp": 150,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Esfera Aural",
+        "effect": "Este ataque también hace 30 puntos de daño a 1 de los Pokémon en Banca de tu rival.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2b-111",
+    "illustrator": "Toyste Beach",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2b/111",
+    "localId": "111",
+    "name": "Poké Ball",
+    "rarity": "Corona",
+    "set": {
+      "cardCount": {
+        "official": 72,
+        "total": 111
+      },
+      "id": "A2b",
+      "name": "Festival Brillante",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Pon 1 Pokémon Básico aleatorio de tu baraja en tu mano.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

@@ -1,0 +1,227 @@
+{
+  "name": "Arbok",
+  "totalCards": 17,
+  "cards": [
+    {
+      "id": "A1-165",
+      "name": "Arbok",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "165",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/165",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "A2b-046",
+      "name": "Arbok",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "046",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/046",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "A3b-101",
+      "name": "Arbok",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "101",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/101",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "base3-31",
+      "name": "Arbok",
+      "set": "base3",
+      "setName": "Fossil",
+      "number": "31",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base3/31",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "dp4-33",
+      "name": "Arbok",
+      "set": "dp4",
+      "setName": "Great Encounters",
+      "number": "33",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp4/33",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ecard1-3",
+      "name": "Arbok",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "3",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ecard1-35",
+      "name": "Arbok",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "35",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/35",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex15-13",
+      "name": "Arbok δ",
+      "set": "ex15",
+      "setName": "Dragon Frontiers",
+      "number": "13",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex15/13",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hisao Nakamura"
+    },
+    {
+      "id": "ex2-29",
+      "name": "Arbok",
+      "set": "ex2",
+      "setName": "Sandstorm",
+      "number": "29",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex2/29",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "sm10-63",
+      "name": "Arbok",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "63",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/63",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "sm115-27",
+      "name": "Arbok",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "27",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/27",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "sm3.5-37",
+      "name": "Arbok",
+      "set": "sm3.5",
+      "setName": "Shining Legends",
+      "number": "37",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sv05-101",
+      "name": "Arbok",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "101",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/101",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Minato"
+    },
+    {
+      "id": "sv05-176",
+      "name": "Arbok",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "176",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/176",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "OKUBO"
+    },
+    {
+      "id": "swsh3.5-34",
+      "name": "Arbok",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/34",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "tk-xy-n-3",
+      "name": "Arbok",
+      "set": "tk-xy-n",
+      "setName": "XY trainer Kit (Noivern)",
+      "number": "3",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy1-48",
+      "name": "Arbok",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "48",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy1/48",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Naoki Saito"
+    }
+  ]
+}

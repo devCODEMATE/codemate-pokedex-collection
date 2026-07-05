@@ -1,0 +1,32 @@
+{
+  "name": "Unown G",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dp4-57",
+      "name": "Unown G",
+      "set": "dp4",
+      "setName": "Great Encounters",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp4/57",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Daisuke Ito"
+    },
+    {
+      "id": "neo4-27",
+      "name": "Unown [G]",
+      "set": "neo4",
+      "setName": "Neo Destiny",
+      "number": "27",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo4/27",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "CR CG gangs"
+    }
+  ]
+}

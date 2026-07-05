@@ -1,0 +1,305 @@
+{
+  "name": "Sandshrew",
+  "totalCards": 23,
+  "cards": [
+    {
+      "id": "A1-137",
+      "name": "Sandshrew",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "137",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/137",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "B1-122",
+      "name": "Sandshrew",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "122",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/122",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "B1a-094",
+      "name": "Sandshrew",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "094",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/094",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "B2-077",
+      "name": "Sandshrew",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "077",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/077",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "B2-170",
+      "name": "Sandshrew",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "170",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/170",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "base1-62",
+      "name": "Sandshrew",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "62",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base1/62",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base4-91",
+      "name": "Sandshrew",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "91",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base4/91",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "bw7-78",
+      "name": "Sandshrew",
+      "set": "bw7",
+      "setName": "Boundaries Crossed",
+      "number": "78",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw7/78",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "dp2-96",
+      "name": "Sandshrew",
+      "set": "dp2",
+      "setName": "Mysterious Treasures",
+      "number": "96",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp2/96",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ecard3-92",
+      "name": "Sandshrew",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "92",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/92",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "ex11-82",
+      "name": "Sandshrew",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "82",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/82",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "ex2-75",
+      "name": "Sandshrew",
+      "set": "ex2",
+      "setName": "Sandstorm",
+      "number": "75",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex2/75",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ex7-74",
+      "name": "Sandshrew",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "74",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/74",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "hgss1-79",
+      "name": "Sandshrew",
+      "set": "hgss1",
+      "setName": "HeartGold SoulSilver",
+      "number": "79",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss1/79",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "lc-91",
+      "name": "Sandshrew",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "91",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/lc/lc/91",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "me01-068",
+      "name": "Sandshrew",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "068",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/068",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shinji Kanda"
+    },
+    {
+      "id": "pl3-124",
+      "name": "Sandshrew",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "124",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/124",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "sm10-83",
+      "name": "Sandshrew",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "83",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/83",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "sv03.5-027",
+      "name": "Sandshrew",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "027",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/027",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sv06-097",
+      "name": "Sandshrew",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "097",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/097",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Tetsu Kayama"
+    },
+    {
+      "id": "swsh8-131",
+      "name": "Sandshrew",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "131",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/131",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "xy12-54",
+      "name": "Sandshrew",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "54",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/54",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "xy8-75",
+      "name": "Sandshrew",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "75",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/75",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shigenori Negishi"
+    }
+  ]
+}

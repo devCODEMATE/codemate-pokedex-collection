@@ -1,0 +1,32 @@
+{
+  "name": "Lycanroc VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh7-213",
+      "name": "Lycanroc VMAX",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "213",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/213",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "swsh7-92",
+      "name": "Lycanroc VMAX",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "92",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/92",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

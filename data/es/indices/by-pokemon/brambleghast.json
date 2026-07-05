@@ -1,0 +1,58 @@
+{
+  "name": "Brambleghast",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "B2a-011",
+      "name": "Brambleghast",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "011",
+      "rarity": "Dos Diamantes",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "me02-047",
+      "name": "Brambleghast",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "047",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02/047",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Tetsu Kayama"
+    },
+    {
+      "id": "sv02-024",
+      "name": "Brambleghast",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "024",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/024",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv05-021",
+      "name": "Brambleghast",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "021",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/021",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "otumami"
+    }
+  ]
+}

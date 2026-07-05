@@ -1,0 +1,45 @@
+{
+  "name": "Bramaluna",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "2024sv-11",
+      "name": "Bramaluna",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "11",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv05-109",
+      "name": "Bramaluna",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "109",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/109",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    },
+    {
+      "id": "sv08.5-065",
+      "name": "Bramaluna",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "065",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/065",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "hncl"
+    }
+  ]
+}

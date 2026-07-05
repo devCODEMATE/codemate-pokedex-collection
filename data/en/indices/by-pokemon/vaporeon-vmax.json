@@ -1,0 +1,32 @@
+{
+  "name": "Vaporeon VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh7-30",
+      "name": "Vaporeon VMAX",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "30",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/30",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swshp-SWSH182",
+      "name": "Vaporeon VMAX",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH182",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH182",
+      "types": [
+        "Water"
+      ],
+      "illustrator": null
+    }
+  ]
+}

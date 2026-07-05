@@ -1,0 +1,84 @@
+{
+  "name": "Exploud",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "bw8-107",
+      "name": "Exploud",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "107",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/107",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "sm7-119",
+      "name": "Exploud",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "119",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/119",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "sv04-150",
+      "name": "Exploud",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "150",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/150",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "LINNE"
+    },
+    {
+      "id": "swsh4-137",
+      "name": "Exploud",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "137",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/137",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "xy10-82",
+      "name": "Exploud",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "82",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/82",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "xy4-85",
+      "name": "Exploud",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "85",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/85",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "CHORISO",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "me02.5-144",
+      "name": "Mawile",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "144",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/144",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "CHORISO"
+    },
+    {
+      "id": "me04-029",
+      "name": "Ampharos",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "029",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me04/029",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "CHORISO"
+    }
+  ]
+}

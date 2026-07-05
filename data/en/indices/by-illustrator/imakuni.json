@@ -1,0 +1,30 @@
+{
+  "name": "Imakuni?",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "neo4-100",
+      "name": "Lucky Stadium",
+      "set": "neo4",
+      "setName": "Neo Destiny",
+      "number": "100",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/neo/neo4/100",
+      "types": null,
+      "illustrator": "Imakuni?"
+    },
+    {
+      "id": "xy12-112",
+      "name": "Imakuni?'s Doduo",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "112",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/112",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Imakuni?"
+    }
+  ]
+}

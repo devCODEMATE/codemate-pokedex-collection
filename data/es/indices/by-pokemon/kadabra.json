@@ -1,0 +1,84 @@
+{
+  "name": "Kadabra",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A1-116",
+      "name": "Kadabra",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "116",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/116",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "A2b-030",
+      "name": "Kadabra",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "030",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/030",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Mousho"
+    },
+    {
+      "id": "me01-055",
+      "name": "Kadabra",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "055",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/055",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "sv03.5-064",
+      "name": "Kadabra",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "064",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/064",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sv04.5-149",
+      "name": "Kadabra",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "149",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/149",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "sv06-081",
+      "name": "Kadabra",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "081",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/081",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Uninori"
+    }
+  ]
+}

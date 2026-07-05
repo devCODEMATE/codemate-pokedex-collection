@@ -1,0 +1,32 @@
+{
+  "name": "kanahei",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sm10-158",
+      "name": "Snorlax",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "158",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/158",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "kanahei"
+    },
+    {
+      "id": "swsh2-39",
+      "name": "Magikarp",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "39",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/39",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "kanahei"
+    }
+  ]
+}

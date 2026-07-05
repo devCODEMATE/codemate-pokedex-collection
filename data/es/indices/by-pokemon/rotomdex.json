@@ -1,0 +1,39 @@
+{
+  "name": "RotomDex",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "A3-145",
+      "name": "RotomDex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "145",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/145",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm1-131",
+      "name": "RotomDex",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "131",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/131",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm1-159",
+      "name": "RotomDex",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "159",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/159",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

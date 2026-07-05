@@ -1,0 +1,84 @@
+{
+  "name": "Blipbug",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "sv04-010",
+      "name": "Blipbug",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "010",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/010",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "OKUBO"
+    },
+    {
+      "id": "swsh11-018",
+      "name": "Blipbug",
+      "set": "swsh11",
+      "setName": "Origen Perdido",
+      "number": "018",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh11/018",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh1-16",
+      "name": "Blipbug",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "16",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/16",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "swsh1-17",
+      "name": "Blipbug",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "17",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/17",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mina Nakai"
+    },
+    {
+      "id": "swsh4.5-SV007",
+      "name": "Blipbug",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV007",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV007",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "swsh5-17",
+      "name": "Blipbug",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "17",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/17",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "name": "NC Empire",
+  "totalCards": 32,
+  "cards": [
+    {
+      "id": "A1-277",
+      "name": "Gengar ex",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "277",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/277",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "me01-114",
+      "name": "Órdenes de Jefes",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "114",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me01/114",
+      "types": null,
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "me02-015",
+      "name": "Darumaka",
+      "set": "me02",
+      "setName": "Fuegos Fantasmales",
+      "number": "015",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02/015",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "smp-SM245",
+      "name": "Mismagius",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM245",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "sv02-172",
+      "name": "Órdenes de Jefes",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "172",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/172",
+      "types": null,
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "sv03.5-125",
+      "name": "Electabuzz",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "125",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/125",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "sv04-212",
+      "name": "Loudred",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "212",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/212",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "sv06.5-049",
+      "name": "Persian",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "049",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/049",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "sv08-121",
+      "name": "Grafaiai",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "121",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/121",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "sv10.5w-098",
+      "name": "Emboar",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "098",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/098",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "sv10-135",
+      "name": "Morgrem de Roxy",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "135",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/135",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "sv10-187",
+      "name": "Spidops del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "187",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/187",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "svp-047",
+      "name": "Charmander",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "047",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/047",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh3-120",
+      "name": "Skarmory",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "120",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/120",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh3-126",
+      "name": "Klang",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "126",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/126",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh3-130",
+      "name": "Melmetal",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "130",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/130",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh3-30",
+      "name": "Volcarona",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "30",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/30",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh4.5-32",
+      "name": "Luxio",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "32",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/32",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh4-132",
+      "name": "Lugia",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "132",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/132",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh4-92",
+      "name": "Terrakion",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "92",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/92",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh5-76",
+      "name": "Mienfoo",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "76",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/76",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh5-98",
+      "name": "Morpeko",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "98",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/98",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh5-99",
+      "name": "Steelix",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "99",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/99",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh6-186",
+      "name": "Agatha",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "186",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/186",
+      "types": null,
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh6-210",
+      "name": "Agatha",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "210",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/210",
+      "types": null,
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh6-30",
+      "name": "Sneasel",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "30",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/30",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh6-43",
+      "name": "Inteleon",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "43",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/43",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh6-81",
+      "name": "Gallade",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "81",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/81",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh7-19",
+      "name": "Entei",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "19",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/19",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh8-148",
+      "name": "Landorus",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "148",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/148",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh8-162",
+      "name": "Carvanha",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "162",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/162",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swshp-SWSH066",
+      "name": "Charizard",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH066",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH066",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "NC Empire"
+    }
+  ]
+}

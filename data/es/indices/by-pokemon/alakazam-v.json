@@ -1,0 +1,32 @@
+{
+  "name": "Alakazam V",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh4-172",
+      "name": "Alakazam V",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "172",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/172",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Ayaka Yoshida"
+    },
+    {
+      "id": "swshp-SWSH083",
+      "name": "Alakazam V",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH083",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH083",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Ayaka Yoshida"
+    }
+  ]
+}

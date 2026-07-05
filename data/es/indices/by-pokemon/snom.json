@@ -1,0 +1,123 @@
+{
+  "name": "Snom",
+  "totalCards": 9,
+  "cards": [
+    {
+      "id": "A1-092",
+      "name": "Snom",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "092",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/092",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "me01-042",
+      "name": "Snom",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "042",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me01/042",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "me02.5-052",
+      "name": "Snom",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "052",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/052",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Izucch"
+    },
+    {
+      "id": "sv05-045",
+      "name": "Snom",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "045",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/045",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "sv05-168",
+      "name": "Snom",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "168",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/168",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "swsh1-63",
+      "name": "Snom",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "63",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/63",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Mina Nakai"
+    },
+    {
+      "id": "swsh4.5-29",
+      "name": "Snom",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "29",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/29",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Tika Matsuno"
+    },
+    {
+      "id": "swsh4.5-SV033",
+      "name": "Snom",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV033",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV033",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yumi"
+    },
+    {
+      "id": "swsh8-84",
+      "name": "Snom",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "84",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/84",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yuka Morii"
+    }
+  ]
+}

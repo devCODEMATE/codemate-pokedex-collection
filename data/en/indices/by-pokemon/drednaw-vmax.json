@@ -1,0 +1,32 @@
+{
+  "name": "Drednaw VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh3.5-15",
+      "name": "Drednaw VMAX",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "15",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/15",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "aky CG Works"
+    },
+    {
+      "id": "swsh3.5-75",
+      "name": "Drednaw VMAX",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "75",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/75",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "aky CG Works"
+    }
+  ]
+}

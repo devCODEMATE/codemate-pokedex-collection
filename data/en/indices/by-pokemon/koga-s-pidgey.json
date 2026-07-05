@@ -1,0 +1,32 @@
+{
+  "name": "Koga's Pidgey",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym2-49",
+      "name": "Koga's Pidgey",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "49",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/49",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "gym2-80",
+      "name": "Koga's Pidgey",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "80",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/80",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

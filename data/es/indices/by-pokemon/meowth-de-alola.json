@@ -1,0 +1,71 @@
+{
+  "name": "Meowth de Alola",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sm12-128",
+      "name": "Meowth de Alola",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "128",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/128",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "sm1-78",
+      "name": "Meowth de Alola",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "78",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/78",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sm8-118",
+      "name": "Meowth de Alola",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "118",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/118",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "smp-SM43",
+      "name": "Meowth de Alola",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM43",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Megumi Mizutani"
+    },
+    {
+      "id": "smp-SM51",
+      "name": "Meowth de Alola",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM51",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "sui"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Lucky Egg",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "pl4-88",
+      "name": "Lucky Egg",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "88",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/88",
+      "types": null,
+      "illustrator": "Nobuyuki Fujimoto"
+    },
+    {
+      "id": "swsh1-167",
+      "name": "Lucky Egg",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "167",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/167",
+      "types": null,
+      "illustrator": "Studio Bora Inc."
+    }
+  ]
+}

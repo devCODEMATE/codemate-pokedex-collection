@@ -1,0 +1,2045 @@
+{
+  "name": "sui",
+  "totalCards": 157,
+  "cards": [
+    {
+      "id": "2022swsh-9",
+      "name": "Flaaffy",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "9",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A1-045",
+      "name": "Flareon",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "045",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/045",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A1-086",
+      "name": "Swanna",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "086",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/086",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A1-158",
+      "name": "Kabuto",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "158",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/158",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A1-212",
+      "name": "Minccino",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "212",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/212",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A1a-012",
+      "name": "Magmar",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "012",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/012",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A1a-020",
+      "name": "Finneon",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "020",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/020",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A2a-016",
+      "name": "Barboach",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "016",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/016",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A2a-030",
+      "name": "Clefable",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "030",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/030",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A2b-016",
+      "name": "Buizel",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "016",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/016",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A3-031",
+      "name": "Litten",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "031",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/031",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A3-085",
+      "name": "Cosmog",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "085",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/085",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A3-108",
+      "name": "Meowthde Alola",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "108",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/108",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw1-38",
+      "name": "Alomomola",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "38",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/38",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw1-7",
+      "name": "Pansage",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "7",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/7",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw1-81",
+      "name": "Lillipup",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "81",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/81",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw1-88",
+      "name": "Minccino",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "88",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/88",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw2-11",
+      "name": "Whimsicott",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "11",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/11",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw2-15",
+      "name": "Deerling",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "15",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/15",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw2-28",
+      "name": "Cubchoo",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "28",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/28",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw2-44",
+      "name": "Gothita",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "44",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/44",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw2-68",
+      "name": "Vullaby",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "68",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/68",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw3-23",
+      "name": "Palpitoad",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "23",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/23",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw3-38",
+      "name": "Tynamo",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "38",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/38",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw3-51",
+      "name": "Duosion",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "51",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/51",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw3-54",
+      "name": "Elgyem",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "54",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/54",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw3-8",
+      "name": "Karrablast",
+      "set": "bw3",
+      "setName": "Nobles Victorias",
+      "number": "8",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw3/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw4-47",
+      "name": "Blitzle",
+      "set": "bw4",
+      "setName": "Próximos Destinos",
+      "number": "47",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw4/47",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw4-78",
+      "name": "Jigglypuff",
+      "set": "bw4",
+      "setName": "Próximos Destinos",
+      "number": "78",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw4/78",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw5-2",
+      "name": "Ivysaur",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "2",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/2",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw5-35",
+      "name": "Ducklett",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "35",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/35",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw6-16",
+      "name": "Maractus",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "16",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/16",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw6-38",
+      "name": "Mareep",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "38",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/38",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw6-99",
+      "name": "Aipom",
+      "set": "bw6",
+      "setName": "Dragones Majestuosos",
+      "number": "99",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw6/99",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw7-113",
+      "name": "Skitty",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "113",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/113",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw7-14",
+      "name": "Cottonee",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "14",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/14",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw7-16",
+      "name": "Petilil",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "16",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/16",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw7-68",
+      "name": "Munna",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "68",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/68",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw8-15",
+      "name": "Chimchar",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "15",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/15",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw8-6",
+      "name": "Cherubi",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "6",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/6",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw9-21",
+      "name": "Wooper",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "21",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/21",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw9-68",
+      "name": "Sandile",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "68",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/68",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "bw9-96",
+      "name": "Staravia",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "96",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/96",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "me01-183",
+      "name": "Travesura de Zarala",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "183",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/me/me01/183",
+      "types": null,
+      "illustrator": "sui"
+    },
+    {
+      "id": "me02.5-004",
+      "name": "Bellsprout de Erika",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "004",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/004",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "me02.5-242",
+      "name": "Carbink",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "242",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/242",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "P-A-040",
+      "name": "Chimchar",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "040",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/040",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "P-A-048",
+      "name": "Manaphy",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "048",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/048",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm10-137",
+      "name": "Togetic",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "137",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/137",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm10-153",
+      "name": "Lickilicky",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "153",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/153",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm10-72",
+      "name": "Hypno",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "72",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/72",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm10-76",
+      "name": "Mew",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "76",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/76",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm10-78",
+      "name": "Mismagius",
+      "set": "sm10",
+      "setName": "Vínculos Indestructibles",
+      "number": "78",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm10/78",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm1-104",
+      "name": "Herdier",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "104",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/104",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm11-131",
+      "name": "Sneasel",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "131",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/131",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm11-136",
+      "name": "Liepard",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "136",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/136",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm11-139",
+      "name": "Yveltal",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "139",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/139",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm11-177",
+      "name": "Audino",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "177",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/177",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm11-39",
+      "name": "Finneon",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "39",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/39",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm12-16",
+      "name": "Sawsbuck",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "16",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/16",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm1-23",
+      "name": "Torkoal",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "23",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/23",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm12-3",
+      "name": "Gloom",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "3",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm12-40",
+      "name": "Psyduck",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "40",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/40",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm12-42",
+      "name": "Vaporeon",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/42",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm12-49",
+      "name": "Spheal",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "49",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/49",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm12-91",
+      "name": "Skrelp",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "91",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/91",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm2-105",
+      "name": "Castform",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "105",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/105",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm2-26",
+      "name": "Delibird",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "26",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/26",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm2-70",
+      "name": "Barboach",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "70",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/70",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm4-13",
+      "name": "Numel",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "13",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/13",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm4-52",
+      "name": "Cubone",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "52",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/52",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm4-73",
+      "name": "Xerneas",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "73",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/73",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm4-80",
+      "name": "Altaria",
+      "set": "sm4",
+      "setName": "Invasión Carmesí",
+      "number": "80",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm4/80",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm6-32",
+      "name": "Dewpider",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "32",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/32",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm6-43",
+      "name": "Azelf",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "43",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/43",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm7.5-36",
+      "name": "Dragonair",
+      "set": "sm7.5",
+      "setName": "Majestad De Dragones",
+      "number": "36",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm7-104",
+      "name": "Bagon",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "104",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/104",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm7-41",
+      "name": "Clamperl",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "41",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/41",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm7-83",
+      "name": "Minior",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "83",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/83",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm9-107",
+      "name": "Honedge",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "107",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/107",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm9-20",
+      "name": "Litten",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "20",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/20",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm9-22",
+      "name": "Squirtle",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "22",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/22",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm9-29",
+      "name": "Magikarp",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "29",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/29",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm9-69",
+      "name": "Cosmog",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "69",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/69",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm9-77",
+      "name": "Kabuto",
+      "set": "sm9",
+      "setName": "Union de Aliados",
+      "number": "77",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm9/77",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "smp-SM118",
+      "name": "Lycanroc",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM118",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "smp-SM191",
+      "name": "Mewtwo y Mew GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM191",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "smp-SM51",
+      "name": "Meowth de Alola",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM51",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv01-128",
+      "name": "Seviper",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "128",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/128",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv01-144",
+      "name": "Chansey",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "144",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/144",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv02-049",
+      "name": "Quaxly",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "049",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/049",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv02-066",
+      "name": "Voltorb",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "066",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/066",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv02-163",
+      "name": "Fletchling",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "163",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/163",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv02-165",
+      "name": "Corvisquire",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "165",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/165",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv03.5-135",
+      "name": "Jolteon",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "135",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/135",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv03-003",
+      "name": "Bellossom",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "003",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/003",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv03-014",
+      "name": "Dartrix",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "014",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/014",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv04.5-030",
+      "name": "Chimecho",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "030",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/030",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv04-148",
+      "name": "Whismur",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "148",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/148",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv05-089",
+      "name": "Rockruff",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "089",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/089",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv06.5-048",
+      "name": "Meowth",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "048",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/048",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv08.5-029",
+      "name": "Jolteon",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "029",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/029",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv08.5-155",
+      "name": "Espeon ex",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "155",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/155",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv08-047",
+      "name": "Cryogonal",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "047",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/047",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv10.5w-004",
+      "name": "Cottonee",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "004",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/004",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv10-064",
+      "name": "Cetoddle",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "064",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/064",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh1-147",
+      "name": "Cinccino",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "147",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/147",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh1-97",
+      "name": "Rhyhorn",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "97",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/97",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh2-14",
+      "name": "Phantump",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "14",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/14",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh2-24",
+      "name": "Vulpix",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "24",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/24",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh3.5-44",
+      "name": "Inkay",
+      "set": "swsh3.5",
+      "setName": "Camino de Campeones",
+      "number": "44",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3.5/44",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh3-15",
+      "name": "Steenee",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "15",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/15",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh3-50",
+      "name": "Wishiwashi",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "50",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/50",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh4-1",
+      "name": "Weedle",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "1",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/1",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh4-46",
+      "name": "Electrode",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "46",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/46",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh4-73",
+      "name": "Woobat",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "73",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/73",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh5-52",
+      "name": "Yamper",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "52",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/52",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh5-57",
+      "name": "Baltoy",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "57",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/57",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh5-90",
+      "name": "Golbat",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "90",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/90",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh6-168",
+      "name": "Rapidash de Galar V",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "168",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/168",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh6-48",
+      "name": "Flaaffy",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/48",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh7-106",
+      "name": "Altaria",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "106",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/106",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh7-38",
+      "name": "Milotic",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "38",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/38",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swshp-SWSH058",
+      "name": "Alcremie",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH058",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH058",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "tk-bw-z-19",
+      "name": "Minccino",
+      "set": "tk-bw-z",
+      "setName": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "number": "19",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/19",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "tk-bw-z-4",
+      "name": "Minccino",
+      "set": "tk-bw-z",
+      "setName": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "number": "4",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/4",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy10-1",
+      "name": "Shuckle",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "1",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/1",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy10-27",
+      "name": "Koffing",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "27",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/27",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy10-71",
+      "name": "Whimsicott",
+      "set": "xy10",
+      "setName": "Destinos Enfrentados",
+      "number": "71",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy10/71",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy1-102",
+      "name": "Taillow",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "102",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/102",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy11-30",
+      "name": "Oshawott",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "30",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/30",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy11-9",
+      "name": "Seedot",
+      "set": "xy11",
+      "setName": "Asedio de Vapor",
+      "number": "9",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy11/9",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy1-23",
+      "name": "Simisear",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "23",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/23",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy1-50",
+      "name": "Grumpig",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "50",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/50",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy1-51",
+      "name": "Venipede",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "51",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy1/51",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy2-28",
+      "name": "Buizel",
+      "set": "xy2",
+      "setName": "Destellos de Fuego",
+      "number": "28",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy2/28",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy2-3",
+      "name": "Butterfree",
+      "set": "xy2",
+      "setName": "Destellos de Fuego",
+      "number": "3",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy2/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy3-8",
+      "name": "Shelmet",
+      "set": "xy3",
+      "setName": "Puños Furiosos",
+      "number": "8",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy3/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy3-80",
+      "name": "Eevee",
+      "set": "xy3",
+      "setName": "Puños Furiosos",
+      "number": "80",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy3/80",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy4-19",
+      "name": "Lumineon",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "19",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/19",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy4-36",
+      "name": "Wobbuffet",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "36",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/36",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy4-69",
+      "name": "Slurpuff",
+      "set": "xy4",
+      "setName": "Fuerzas Fantasmales",
+      "number": "69",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy4/69",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy5-25",
+      "name": "Torchic",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "25",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/25",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy5-34",
+      "name": "Marshtomp",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/34",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy5-56",
+      "name": "Manaphy",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "56",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/56",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy5-79",
+      "name": "Meditite",
+      "set": "xy5",
+      "setName": "Duelos Primigenios",
+      "number": "79",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy5/79",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy6-56",
+      "name": "Shelgon",
+      "set": "xy6",
+      "setName": "Cielos Rugientes",
+      "number": "56",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy6/56",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy6-79",
+      "name": "Tranquill",
+      "set": "xy6",
+      "setName": "Cielos Rugientes",
+      "number": "79",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy6/79",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy7-13",
+      "name": "Flareon",
+      "set": "xy7",
+      "setName": "Antiguos Orígenes",
+      "number": "13",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy7/13",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy7-58",
+      "name": "Goomy",
+      "set": "xy7",
+      "setName": "Antiguos Orígenes",
+      "number": "58",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy7/58",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy8-121",
+      "name": "Teddiursa",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "121",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/121",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy8-131",
+      "name": "Noibat",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "131",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/131",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy8-23",
+      "name": "Pansear",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "23",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/23",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy8-65",
+      "name": "Misdreavus",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "65",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/65",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy8-72",
+      "name": "Swoobat",
+      "set": "xy8",
+      "setName": "Turbo Impulso",
+      "number": "72",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy8/72",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy9-37",
+      "name": "Swanna",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "37",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/37",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy9-91",
+      "name": "Stantler",
+      "set": "xy9",
+      "setName": "TURBOLímite",
+      "number": "91",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/xy/xy9/91",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sui"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Vikavolt V",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh3-180",
+      "name": "Vikavolt V",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "180",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/180",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ayaka Yoshida"
+    },
+    {
+      "id": "swsh3-60",
+      "name": "Vikavolt V",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "60",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/60",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ayaka Yoshida"
+    }
+  ]
+}

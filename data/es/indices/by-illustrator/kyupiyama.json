@@ -1,0 +1,45 @@
+{
+  "name": "KYUPIYAMA",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv03-105",
+      "name": "Larvitar",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "105",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/105",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "KYUPIYAMA"
+    },
+    {
+      "id": "sv03-204",
+      "name": "Houndour",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "204",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/204",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "KYUPIYAMA"
+    },
+    {
+      "id": "sv04.5-035",
+      "name": "Whimsicott",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "035",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/035",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "KYUPIYAMA"
+    }
+  ]
+}

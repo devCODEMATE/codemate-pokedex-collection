@@ -1,0 +1,1407 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "ru1-1",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/1",
+    "localId": "1",
+    "name": "Venusaur",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      3
+    ],
+    "hp": 140,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Ivysaur",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Giga Drain",
+        "effect": "Remove from Venusaur the number of damage counters equal to the damage you did to the Defending Pokémon.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278842,
+        "avg": 118.93,
+        "low": 59,
+        "trend": 154.46,
+        "avg1": 45,
+        "avg7": 122.6,
+        "avg30": 82.66,
+        "avg-holo": null,
+        "low-holo": 100,
+        "trend-holo": 11.03,
+        "avg1-holo": 22.84,
+        "avg7-holo": 11.09,
+        "avg30-holo": 5.39
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-2",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/2",
+    "localId": "2",
+    "name": "Cherrim",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      421
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Cherubi",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Solarbeam",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278843,
+        "avg": 39.98,
+        "low": 15,
+        "trend": 24.94,
+        "avg1": 4.99,
+        "avg7": 30.69,
+        "avg30": 17.76,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 5.07,
+        "avg1-holo": 4.99,
+        "avg7-holo": 4.16,
+        "avg30-holo": 4.16
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-3",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/3",
+    "localId": "3",
+    "name": "Ninetales",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      38
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Vulpix",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Flame Tail",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278844,
+        "avg": 131.25,
+        "low": 135,
+        "trend": 109.34,
+        "avg1": 79.99,
+        "avg7": 96.02,
+        "avg30": 58.05,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 12.78,
+        "avg1-holo": 11.95,
+        "avg7-holo": 13.23,
+        "avg30-holo": 13.23
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-4",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/4",
+    "localId": "4",
+    "name": "Heatran",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      485
+    ],
+    "hp": 110,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Heat Boiler",
+        "effect": "If the Defending Pokémon is a Water Pokémon, this attack does 60 damage plus 40 more damage.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278845,
+        "avg": 23,
+        "low": 11.5,
+        "trend": 27.67,
+        "avg1": 20,
+        "avg7": 23.28,
+        "avg30": 21.29,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 9.53,
+        "avg1-holo": 10,
+        "avg7-holo": 5.31,
+        "avg30-holo": 5.31
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-5",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/5",
+    "localId": "5",
+    "name": "Starmie",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      121
+    ],
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Staryu",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Spiral Drain",
+        "effect": "Remove 1 damage counter from Starmie.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278846,
+        "avg": 43.78,
+        "low": 25,
+        "trend": 41.07,
+        "avg1": 79.99,
+        "avg7": 37.9,
+        "avg30": 30.35,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 13.83,
+        "avg1-holo": 13.5,
+        "avg7-holo": 8.28,
+        "avg30-holo": 8.28
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-6",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/6",
+    "localId": "6",
+    "name": "Gyarados",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      130
+    ],
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Magikarp",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Thrash Tackle",
+        "effect": "Gyarados does 20 damage to itself.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278847,
+        "avg": 126.66,
+        "low": 79.49,
+        "trend": 170.05,
+        "avg1": 199,
+        "avg7": 286.9,
+        "avg30": 132.98,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 21.07,
+        "avg1-holo": 23,
+        "avg7-holo": 13.68,
+        "avg30-holo": 13.68
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-7",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/7",
+    "localId": "7",
+    "name": "Pikachu",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Volt Tackle",
+        "effect": "Pikachu does 10 damage to itself.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-11-14T00:13:03+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278848,
+        "avg": 1078.32,
+        "low": 300,
+        "trend": 1142.98,
+        "avg1": 1750,
+        "avg7": 1174.28,
+        "avg30": 550.86,
+        "avg-holo": null,
+        "low-holo": 500,
+        "trend-holo": 41.46,
+        "avg1-holo": 39.99,
+        "avg7-holo": 37.71,
+        "avg30-holo": 16.09
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-8",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/8",
+    "localId": "8",
+    "name": "Zapdos",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      145
+    ],
+    "hp": 100,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Drill Peck",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278849,
+        "avg": 103.46,
+        "low": 25,
+        "trend": 151.87,
+        "avg1": 165,
+        "avg7": 76.92,
+        "avg30": 84.79,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 30.53,
+        "avg1-holo": 30,
+        "avg7-holo": 19.29,
+        "avg30-holo": 17.05
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-9",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/9",
+    "localId": "9",
+    "name": "Mewtwo",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      150
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Super Psy Bolt",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278850,
+        "avg": 173.27,
+        "low": 120,
+        "trend": 242.01,
+        "avg1": 175,
+        "avg7": 173.49,
+        "avg30": 159.61,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 20.72,
+        "avg1-holo": 45,
+        "avg7-holo": 27.87,
+        "avg30-holo": 11.29
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-10",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/10",
+    "localId": "10",
+    "name": "Mew",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Cut",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Will-o'-the-Wisp",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-11-14T00:13:03+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278850,
+        "avg": 173.27,
+        "low": 120,
+        "trend": 242.01,
+        "avg1": 175,
+        "avg7": 173.49,
+        "avg30": 159.61,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 20.72,
+        "avg1-holo": 45,
+        "avg7-holo": 27.87,
+        "avg30-holo": 11.29
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-11",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/11",
+    "localId": "11",
+    "name": "Diglett",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      50
+    ],
+    "hp": 30,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Dig",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278852,
+        "avg": 20.25,
+        "low": 24.95,
+        "trend": 40.48,
+        "avg1": 11,
+        "avg7": 28.09,
+        "avg30": 27.82,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 8.85,
+        "avg1-holo": 5,
+        "avg7-holo": 6.48,
+        "avg30-holo": 6.48
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-12",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/12",
+    "localId": "12",
+    "name": "Lucario",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      448
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Riolu",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Metal Claw",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Pulse Blast",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278853,
+        "avg": 184.99,
+        "low": 119.99,
+        "trend": 130.07,
+        "avg1": 135,
+        "avg7": 156.99,
+        "avg30": 88.75,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 12.13,
+        "avg1-holo": 20,
+        "avg7-holo": 7.02,
+        "avg30-holo": 7.02
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-13",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/13",
+    "localId": "13",
+    "name": "Skuntank",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      435
+    ],
+    "hp": 90,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Stunky",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Rage",
+        "effect": "Does 20 damage plus 10 more damage for each damage counter on Skuntank.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278854,
+        "avg": 23.31,
+        "low": 9.99,
+        "trend": 29.46,
+        "avg1": 29.99,
+        "avg7": 52.31,
+        "avg30": 23.06,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 9.49,
+        "avg1-holo": 9.99,
+        "avg7-holo": 5.49,
+        "avg30-holo": 5.49
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-14",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/14",
+    "localId": "14",
+    "name": "Bastiodon",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      411
+    ],
+    "hp": 120,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Shieldon",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Strength",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278855,
+        "avg": 21.66,
+        "low": 10,
+        "trend": 32.69,
+        "avg1": 14.99,
+        "avg7": 64.45,
+        "avg30": 26.7,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 6.75,
+        "avg1-holo": 6.99,
+        "avg7-holo": 6.37,
+        "avg30-holo": 6.37
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-15",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/15",
+    "localId": "15",
+    "name": "Rattata",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      19
+    ],
+    "hp": 30,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Bite",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278856,
+        "avg": 28.25,
+        "low": 15,
+        "trend": 33.72,
+        "avg1": 30,
+        "avg7": 41.05,
+        "avg30": 25.13,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 3.36,
+        "avg1-holo": 1.95,
+        "avg7-holo": 5.48,
+        "avg30-holo": 5.48
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "ru1-16",
+    "image": "https://assets.tcgdex.net/en/pl/ru1/16",
+    "localId": "16",
+    "name": "Bibarel",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 16,
+        "total": 16
+      },
+      "id": "ru1",
+      "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+      "name": "Pokémon Rumble",
+      "symbol": "https://assets.tcgdex.net/univ/pl/ru1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "endfynwn4n10gzq"
+      }
+    ],
+    "dexId": [
+      400
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Bidoof",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Rollout",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-18T13:48:02+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-04T22:58:40.354Z",
+        "unit": "EUR",
+        "idProduct": 278857,
+        "avg": 28.65,
+        "low": 14,
+        "trend": 31.34,
+        "avg1": 20,
+        "avg7": 31.72,
+        "avg30": 22.31,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 10.3,
+        "avg1-holo": 7,
+        "avg7-holo": 6.05,
+        "avg30-holo": 6.05
+      },
+      "tcgplayer": null
+    }
+  }
+]

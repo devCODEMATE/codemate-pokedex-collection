@@ -1,0 +1,45 @@
+{
+  "name": "Lileep",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm12-10",
+      "name": "Lileep",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "10",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/10",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Misa Tsutsui"
+    },
+    {
+      "id": "sv07-005",
+      "name": "Lileep",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "005",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/005",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Ounishi"
+    },
+    {
+      "id": "sv07-145",
+      "name": "Lileep",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "145",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/145",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Mori Yuu"
+    }
+  ]
+}

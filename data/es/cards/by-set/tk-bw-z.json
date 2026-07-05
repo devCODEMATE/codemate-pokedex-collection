@@ -1,0 +1,1650 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-1",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/1",
+    "localId": "1",
+    "name": "Purrloin",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      509
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psíquico",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-2",
+    "illustrator": "match",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/2",
+    "localId": "2",
+    "name": "Watchog",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      505
+    ],
+    "hp": 90,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Patrat",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ]
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-z-3",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/3",
+    "localId": "3",
+    "name": "Energía Oscura",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-4",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/4",
+    "localId": "4",
+    "name": "Minccino",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      572
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": "10x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-z-5",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/5",
+    "localId": "5",
+    "name": "Energía Oscura",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-z-6",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/6",
+    "localId": "6",
+    "name": "Energía Oscura",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-z-7",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/7",
+    "localId": "7",
+    "name": "Energía Oscura",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-z-8",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/8",
+    "localId": "8",
+    "name": "Energía Oscura",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-z-9",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/9",
+    "localId": "9",
+    "name": "Energía Oscura",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-z-10",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/10",
+    "localId": "10",
+    "name": "Energía Oscura",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-bw-z-11",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/11",
+    "localId": "11",
+    "name": "PoderPlus",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante este turno, los ataques de tus Pokémon hacen 10 puntos de daño más a los Pokémon Activos (antes de aplicar Debilidad y Resistencia).",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-12",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/12",
+    "localId": "12",
+    "name": "Patrat",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      504
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-13",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/13",
+    "localId": "13",
+    "name": "Zorua",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      570
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psíquico",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-14",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/14",
+    "localId": "14",
+    "name": "Pidove",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      519
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-15",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/15",
+    "localId": "15",
+    "name": "Tranquill",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      520
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "evolveFrom": "Pidove",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-bw-z-16",
+    "illustrator": "Kent Kanetsuna",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/16",
+    "localId": "16",
+    "name": "Recuperación de Energía",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Pon 2 cartas de Energía Básica de tu pila de descartes en tu mano.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-17",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/17",
+    "localId": "17",
+    "name": "Zoroark",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      571
+    ],
+    "hp": 100,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Zorua",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psíquico",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-bw-z-18",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/18",
+    "localId": "18",
+    "name": "Comunicación Pokémon",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Enseña un Pokémon de tu mano y ponlo en la parte superior de tu baraja. Si lo haces, busca en tu baraja un Pokémon, enséñalo y ponlo en tu mano. Baraja las cartas de tu baraja después.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-19",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/19",
+    "localId": "19",
+    "name": "Minccino",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      572
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": "10x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-z-20",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/20",
+    "localId": "20",
+    "name": "Energía Oscura",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-21",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/21",
+    "localId": "21",
+    "name": "Pidove",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      519
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-z-22",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/22",
+    "localId": "22",
+    "name": "Energía Oscura",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-23",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/23",
+    "localId": "23",
+    "name": "Zorua",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      570
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psíquico",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-z-24",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/24",
+    "localId": "24",
+    "name": "Energía Oscura",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-25",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/25",
+    "localId": "25",
+    "name": "Purrloin",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      509
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psíquico",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-z-26",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/26",
+    "localId": "26",
+    "name": "Energía Oscura",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-bw-z-27",
+    "illustrator": "Ryo Ueda",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/27",
+    "localId": "27",
+    "name": "Búsqueda de Energía",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Busca en tu baraja una carta de Energía Básica, enséñala y ponla en tu mano. Baraja las cartas de tu baraja después.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-bw-z-28",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/28",
+    "localId": "28",
+    "name": "Energía Oscura",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-05-04T00:37:30+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-29",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/29",
+    "localId": "29",
+    "name": "Patrat",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      504
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-bw-z-30",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/es/tk/tk-bw-z/30",
+    "localId": "30",
+    "name": "Zoroark",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-bw-z",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      571
+    ],
+    "hp": 100,
+    "types": [
+      "Oscura"
+    ],
+    "evolveFrom": "Zorua",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Oscura",
+          "Incolora",
+          "Incolora"
+        ],
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psíquico",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:38+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

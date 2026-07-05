@@ -1,0 +1,58 @@
+{
+  "name": "Erika's Oddish",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "gym1-47",
+      "name": "Erika's Oddish",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "47",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/47",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "gym1-78",
+      "name": "Erika's Oddish",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "78",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/78",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym2-70",
+      "name": "Erika's Oddish",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "70",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/70",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "me02.5-001",
+      "name": "Erika's Oddish",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "001",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/001",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yoriyuki Ikegami"
+    }
+  ]
+}

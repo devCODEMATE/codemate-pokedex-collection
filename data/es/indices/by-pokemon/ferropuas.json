@@ -1,0 +1,32 @@
+{
+  "name": "Ferropúas",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv05-062",
+      "name": "Ferropúas",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "062",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/062",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Takeshi Nakamura"
+    },
+    {
+      "id": "svp-098",
+      "name": "Ferropúas",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "098",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/098",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Tonji Matsuno"
+    }
+  ]
+}

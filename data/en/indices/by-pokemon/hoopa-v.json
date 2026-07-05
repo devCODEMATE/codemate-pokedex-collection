@@ -1,0 +1,45 @@
+{
+  "name": "Hoopa V",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh12.5-GG53",
+      "name": "Hoopa V",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "GG53",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG53",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh8-253",
+      "name": "Hoopa V",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "253",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/253",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "takuyoa"
+    },
+    {
+      "id": "swshp-SWSH176",
+      "name": "Hoopa V",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH176",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH176",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    }
+  ]
+}

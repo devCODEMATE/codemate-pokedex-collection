@@ -1,0 +1,32 @@
+{
+  "name": "Arceus",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "A2a-070",
+      "name": "Arceus",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "070",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/070",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sm6-96",
+      "name": "Arceus ◇",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "96",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/96",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    }
+  ]
+}

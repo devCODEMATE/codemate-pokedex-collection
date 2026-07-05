@@ -1,0 +1,97 @@
+{
+  "name": "Tapu Fini",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "A3-056",
+      "name": "Tapu Fini",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "056",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/056",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "A3-164",
+      "name": "Tapu Fini",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "164",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/164",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "sm11-53",
+      "name": "Tapu Fini",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "53",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/53",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm8-151",
+      "name": "Tapu Fini",
+      "set": "sm8",
+      "setName": "Truenos Perdidos",
+      "number": "151",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm8/151",
+      "types": [
+        "Hada"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "smp-SM203",
+      "name": "Tapu Fini",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM203",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "smp-SM92",
+      "name": "Tapu Fini",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM92",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "swsh6-40",
+      "name": "Tapu Fini",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "40",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/40",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

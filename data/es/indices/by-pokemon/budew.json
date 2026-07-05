@@ -1,0 +1,45 @@
+{
+  "name": "Budew",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "me02.5-016",
+      "name": "Budew",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "016",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/016",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yoriyuki Ikegami"
+    },
+    {
+      "id": "me02.5-221",
+      "name": "Budew",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "221",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/221",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yoko Hishida"
+    },
+    {
+      "id": "sv08.5-004",
+      "name": "Budew",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "004",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/004",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yoriyuki Ikegami"
+    }
+  ]
+}

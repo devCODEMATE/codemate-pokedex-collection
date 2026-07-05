@@ -1,0 +1,1332 @@
+{
+  "name": "PLANETA Tsuji",
+  "totalCards": 102,
+  "cards": [
+    {
+      "id": "A1-047",
+      "name": "Moltres ex",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "047",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/047",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A1-056",
+      "name": "Blastoise ex",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "056",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/056",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A2-007",
+      "name": "Yanmega ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "007",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/007",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A2-061",
+      "name": "Pachirisu ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "061",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/061",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A2-180",
+      "name": "Yanmega ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "180",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/180",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A2-183",
+      "name": "Pachirisu ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "183",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/183",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A2-184",
+      "name": "Mismagius ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "184",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/184",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A2-189",
+      "name": "Lickilicky ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "189",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/189",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A2a-057",
+      "name": "Probopass ex",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "057",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/057",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A2a-085",
+      "name": "Probopass ex",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "085",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/085",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A2b-019",
+      "name": "Wugtrio ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "019",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/019",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A2b-081",
+      "name": "Wugtrio ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "081",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/081",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A2b-109",
+      "name": "Wugtrio ex",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "109",
+      "rarity": "Two Shiny",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/109",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A3-023",
+      "name": "Dhelmise ex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "023",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/023",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A3-104",
+      "name": "Passimian ex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "104",
+      "rarity": "Cuatro Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/104",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A3-181",
+      "name": "Dhelmise ex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "181",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/181",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A3-182",
+      "name": "Incineroar ex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "182",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/182",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "A3-187",
+      "name": "Passimian ex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "187",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/187",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "P-A-081",
+      "name": "Ultra-Necrozma ex",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "081",
+      "rarity": "Cuatro Diamantes",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "P-A-084",
+      "name": "Tapu Koko ex",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "084",
+      "rarity": "Cuatro Diamantes",
+      "image": null,
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sm11-160",
+      "name": "Naganadel GX",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "160",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/160",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sm11-25",
+      "name": "Heatran GX",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "25",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/25",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sm12-213",
+      "name": "Volcarona GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "213",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/213",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sm12-217",
+      "name": "Oricorio GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "217",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/217",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sm12-218",
+      "name": "Flygon GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "218",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/218",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sm12-219",
+      "name": "Persian de Alola GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "219",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/219",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sm12-252",
+      "name": "Volcarona GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "252",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/252",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sm12-255",
+      "name": "Oricorio GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "255",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/255",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sm12-256",
+      "name": "Flygon GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "256",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/256",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sm12-257",
+      "name": "Persian de Alola GX",
+      "set": "sm12",
+      "setName": "Eclipse Cósmico",
+      "number": "257",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm12/257",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv01-226",
+      "name": "Magnezone ex",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "226",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/226",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv03.5-186",
+      "name": "Ninetales ex",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "186",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/186",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv03.5-188",
+      "name": "Alakazam ex",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "188",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/188",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv03-134",
+      "name": "Houndoom ex",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "134",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/134",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv04.5-215",
+      "name": "Alakazam ex",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "215",
+      "rarity": "Rara Ultra Variocolor",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/215",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv05-012",
+      "name": "Torterra ex",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "012",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/012",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv05-185",
+      "name": "Torterra ex",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "185",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/185",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv06-201",
+      "name": "Blissey ex",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "201",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/201",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv08.5-051",
+      "name": "Lucario ex",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "051",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/051",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv08-004",
+      "name": "Durant ex",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "004",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/004",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv08-215",
+      "name": "Durant ex",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "215",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/215",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv09-094",
+      "name": "Clodsire de Paldea ex",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "094",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/094",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv10.5w-077",
+      "name": "Bouffalant ex",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "077",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/077",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv10-023",
+      "name": "Arboliva ex",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "023",
+      "rarity": "Rara Doble",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/023",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv10-207",
+      "name": "Arboliva ex",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "207",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/207",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "sv10-210",
+      "name": "Cetitan ex",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "210",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/210",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "svp-016",
+      "name": "Ampharos ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "016",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/016",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "svp-103",
+      "name": "Houndoom ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "103",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/103",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "svp-105",
+      "name": "Armarouge ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "105",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/105",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "svp-180",
+      "name": "Dialga ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "180",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "svp-195",
+      "name": "Clefairy ex de Lylia",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "195",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "svp-197",
+      "name": "Koraidon ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "197",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh1-104",
+      "name": "Regirock V",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "104",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/104",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh1-25",
+      "name": "Victini V",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "25",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/25",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh1-72",
+      "name": "Tapu Koko V",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "72",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/72",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh2-204",
+      "name": "Frosmoth",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "204",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/204",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh2-205",
+      "name": "Perrserker de Galar",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "205",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/205",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh2-55",
+      "name": "Eiscue V",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "55",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/55",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh3-128",
+      "name": "Stunfisk V de Galar",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "128",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/128",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh3-184",
+      "name": "Stunfisk V de Galar",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "184",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/184",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh3-198",
+      "name": "Coalossal",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "198",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/198",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh4.5-17",
+      "name": "Reshiram",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "17",
+      "rarity": "Increíbles",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/17",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh4.5-45",
+      "name": "Crobat VMAX",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "45",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/45",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh4.5-51",
+      "name": "Ditto VMAX",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "51",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/51",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh4.5-55",
+      "name": "Cramorant VMAX",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "55",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/55",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh4.5-SV119",
+      "name": "Ditto VMAX",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV119",
+      "rarity": "Shiny rare VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV119",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh4-174",
+      "name": "Sirfetch'd de Galar V",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "174",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/174",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh5-149",
+      "name": "Necrozma V",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "149",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/149",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh5-164",
+      "name": "Flapple VMAX",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "164",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/164",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh5-166",
+      "name": "Tapu Koko VMAX",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "166",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/166",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh5-167",
+      "name": "Urshifu Golpe Brusco VMAX",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "167",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/167",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh5-169",
+      "name": "Urshifu Golpe Fluido VMAX",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "169",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/169",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh5-19",
+      "name": "Flapple VMAX",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "19",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/19",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh5-51",
+      "name": "Tapu Koko VMAX",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "51",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/51",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh5-63",
+      "name": "Necrozma V",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "63",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/63",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh5-86",
+      "name": "Urshifu Golpe Brusco VMAX",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "86",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/86",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh5-88",
+      "name": "Urshifu Golpe Fluido VMAX",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "88",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/88",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh6-160",
+      "name": "Celebi V",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "160",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/160",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh6-165",
+      "name": "Zeraora V",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "165",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/165",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh6-175",
+      "name": "Sandaconda V",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "175",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/175",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh6-199",
+      "name": "Celebi VMAX",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "199",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/199",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh6-8",
+      "name": "Celebi VMAX",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "8",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh7-171",
+      "name": "Gyarados V",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "171",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/171",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh7-187",
+      "name": "Lycanroc V",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "187",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/187",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh7-204",
+      "name": "Leafeon VMAX",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "204",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/204",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh7-208",
+      "name": "Glaceon VMAX",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "208",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/208",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh7-28",
+      "name": "Gyarados V",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "28",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/28",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh7-41",
+      "name": "Glaceon VMAX",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "41",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/41",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh7-8",
+      "name": "Leafeon VMAX",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "8",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/8",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh7-91",
+      "name": "Lycanroc V",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "91",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/91",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh8-104",
+      "name": "Boltund VMAX",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "104",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/104",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh8-185",
+      "name": "Genesect V",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "185",
+      "rarity": "Holo Rara V",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/185",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh8-254",
+      "name": "Genesect V",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "254",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/254",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swsh8-267",
+      "name": "Boltund VMAX",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "267",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/267",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swshp-SWSH043",
+      "name": "Sirfetch'd de Galar V",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH043",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH043",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swshp-SWSH061",
+      "name": "Pikachu V",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH061",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH061",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swshp-SWSH099",
+      "name": "Crobat VMAX",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH099",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH099",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swshp-SWSH109",
+      "name": "Tyranitar V",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH109",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH109",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swshp-SWSH163",
+      "name": "Zacian V-UNIÓN",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH163",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH163",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swshp-SWSH164",
+      "name": "Zacian V-UNIÓN",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH164",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH164",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swshp-SWSH165",
+      "name": "Zacian V-UNIÓN",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH165",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH165",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    },
+    {
+      "id": "swshp-SWSH166",
+      "name": "Zacian V-UNIÓN",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH166",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH166",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "PLANETA Tsuji"
+    }
+  ]
+}

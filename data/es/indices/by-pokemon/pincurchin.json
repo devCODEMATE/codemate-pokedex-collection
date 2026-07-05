@@ -1,0 +1,110 @@
+{
+  "name": "Pincurchin",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "A1-112",
+      "name": "Pincurchin",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "112",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/112",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Tika Matsuno"
+    },
+    {
+      "id": "sv02-072",
+      "name": "Pincurchin",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "072",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/072",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "sv02-073",
+      "name": "Pincurchin",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "073",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/073",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "miki kudo"
+    },
+    {
+      "id": "swsh12.5-056",
+      "name": "Pincurchin",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "056",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/056",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh1-77",
+      "name": "Pincurchin",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "77",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/77",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "swsh3-64",
+      "name": "Pincurchin",
+      "set": "swsh3",
+      "setName": "Oscuridad Incandescente",
+      "number": "64",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh3/64",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh4.5-SV043",
+      "name": "Pincurchin",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV043",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV043",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Motofumi Fujiwara"
+    },
+    {
+      "id": "swsh4-62",
+      "name": "Pincurchin",
+      "set": "swsh4",
+      "setName": "Voltaje Vívido",
+      "number": "62",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4/62",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

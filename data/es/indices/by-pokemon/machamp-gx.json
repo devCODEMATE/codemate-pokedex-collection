@@ -1,0 +1,45 @@
+{
+  "name": "Machamp GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm3-135",
+      "name": "Machamp GX",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "135",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/135",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm3-154",
+      "name": "Machamp GX",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "154",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/154",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm3-64",
+      "name": "Machamp GX",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "64",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/64",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

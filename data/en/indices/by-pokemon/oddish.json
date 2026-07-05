@@ -1,0 +1,383 @@
+{
+  "name": "Oddish",
+  "totalCards": 29,
+  "cards": [
+    {
+      "id": "A1-011",
+      "name": "Oddish",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "011",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/011",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "A2-001",
+      "name": "Oddish",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "001",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/001",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Asako Ito"
+    },
+    {
+      "id": "A4-001",
+      "name": "Oddish",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "001",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/001",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "B1a-088",
+      "name": "Oddish",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "088",
+      "rarity": "One Shiny",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "base2-58",
+      "name": "Oddish",
+      "set": "base2",
+      "setName": "Jungle",
+      "number": "58",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base2/58",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "base5-63",
+      "name": "Oddish",
+      "set": "base5",
+      "setName": "Team Rocket",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base5/63",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "bw7-1",
+      "name": "Oddish",
+      "set": "bw7",
+      "setName": "Boundaries Crossed",
+      "number": "1",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw7/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "dp6-111",
+      "name": "Oddish",
+      "set": "dp6",
+      "setName": "Legends Awakened",
+      "number": "111",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp6/111",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hiroki Fuchino"
+    },
+    {
+      "id": "dp6-112",
+      "name": "Oddish",
+      "set": "dp6",
+      "setName": "Legends Awakened",
+      "number": "112",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp6/112",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ecard1-122",
+      "name": "Oddish",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "122",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/122",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Masako Yamashita"
+    },
+    {
+      "id": "ecard2-97",
+      "name": "Oddish",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "97",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/97",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex10-64",
+      "name": "Oddish",
+      "set": "ex10",
+      "setName": "Unseen Forces",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex10/64",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ex13-73",
+      "name": "Oddish δ",
+      "set": "ex13",
+      "setName": "Holon Phantoms",
+      "number": "73",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex13/73",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "ex5-68",
+      "name": "Oddish",
+      "set": "ex5",
+      "setName": "Hidden Legends",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex5/68",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "hgss3-60",
+      "name": "Oddish",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "60",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/60",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "me02-001",
+      "name": "Oddish",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "001",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02/001",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "MINAMINAMI Take"
+    },
+    {
+      "id": "mfb-3",
+      "name": "Oddish",
+      "set": "mfb",
+      "setName": "My First Battle",
+      "number": "3",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Gemi"
+    },
+    {
+      "id": "neo1-68",
+      "name": "Oddish",
+      "set": "neo1",
+      "setName": "Neo Genesis",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/neo/neo1/68",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "sm10-5",
+      "name": "Oddish",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "5",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/5",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "0313"
+    },
+    {
+      "id": "sm10-6",
+      "name": "Oddish",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "6",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/6",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Asako Ito"
+    },
+    {
+      "id": "sm12-2",
+      "name": "Oddish",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "2",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/2",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yumi"
+    },
+    {
+      "id": "sm3-4",
+      "name": "Oddish",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "4",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/4",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "sv03.5-043",
+      "name": "Oddish",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "043",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/043",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "sv03-001",
+      "name": "Oddish",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "001",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/001",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "sv04.5-092",
+      "name": "Oddish",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "092",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/092",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "svp-102",
+      "name": "Oddish",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "102",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Miranda Branley"
+    },
+    {
+      "id": "swsh11-001",
+      "name": "Oddish",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "001",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/001",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh12.5-001",
+      "name": "Oddish",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "001",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/001",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy7-1",
+      "name": "Oddish",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "1",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "MAHOU"
+    }
+  ]
+}

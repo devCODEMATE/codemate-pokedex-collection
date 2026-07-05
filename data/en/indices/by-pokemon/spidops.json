@@ -1,0 +1,45 @@
+{
+  "name": "Spidops",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "B2a-005",
+      "name": "Spidops",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "005",
+      "rarity": "Two Diamond",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv02-018",
+      "name": "Spidops",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "018",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/018",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "svp-009",
+      "name": "Spidops",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "009",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/009",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    }
+  ]
+}

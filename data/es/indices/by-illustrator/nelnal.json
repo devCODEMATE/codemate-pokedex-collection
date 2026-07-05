@@ -1,0 +1,266 @@
+{
+  "name": "Nelnal",
+  "totalCards": 20,
+  "cards": [
+    {
+      "id": "A1-054",
+      "name": "Wartortle",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "054",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/054",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "me03-052",
+      "name": "Drapion",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "052",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me03/052",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "me04-021",
+      "name": "Frogadier",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "021",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me04/021",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv01-095",
+      "name": "Dedenne",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "095",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/095",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv01-215",
+      "name": "Riolu",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "215",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/215",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv02-205",
+      "name": "Eiscue",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "205",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/205",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv03.5-090",
+      "name": "Shellder",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "090",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/090",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv03.5-091",
+      "name": "Cloyster",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "091",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/091",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv03-104",
+      "name": "Dugtrio",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "104",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/104",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv03-138",
+      "name": "Malamar",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "138",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/138",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv04.5-057",
+      "name": "Gengar",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "057",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/057",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv04.5-125",
+      "name": "Veluza",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "125",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/125",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv04.5-160",
+      "name": "Mimikyu",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "160",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/160",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv04.5-163",
+      "name": "Rabsca",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "163",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/163",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv04.5-194",
+      "name": "Noibat",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "194",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/194",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv04-045",
+      "name": "Vanilluxe",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "045",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/045",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv05-063",
+      "name": "Mr. Mime",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "063",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/063",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv08.5-021",
+      "name": "Seaking",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "021",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/021",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv09-039",
+      "name": "Pelipper",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "039",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/039",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv10.5w-138",
+      "name": "Scraggy",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "138",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/138",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Nelnal"
+    }
+  ]
+}

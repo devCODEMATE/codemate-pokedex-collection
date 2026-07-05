@@ -1,0 +1,32 @@
+{
+  "name": "Heatran-EX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "bw9-109",
+      "name": "Heatran-EX",
+      "set": "bw9",
+      "setName": "Plasma Freeze",
+      "number": "109",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw9/109",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "bw9-13",
+      "name": "Heatran-EX",
+      "set": "bw9",
+      "setName": "Plasma Freeze",
+      "number": "13",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw9/13",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Eske Yoshinob"
+    }
+  ]
+}

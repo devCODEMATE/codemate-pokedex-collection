@@ -1,0 +1,45 @@
+{
+  "name": "Necrozma",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "A3-088",
+      "name": "Necrozma",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "088",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/088",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm11-101",
+      "name": "Necrozma",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "101",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/101",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "smp-SM204",
+      "name": "Necrozma",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM204",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": null
+    }
+  ]
+}

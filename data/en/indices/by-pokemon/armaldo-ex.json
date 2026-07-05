@@ -1,0 +1,32 @@
+{
+  "name": "Armaldo ex",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "ex12-84",
+      "name": "Armaldo ex",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "84",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/84",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kimiya Masago"
+    },
+    {
+      "id": "pop1-16",
+      "name": "Armaldo ex",
+      "set": "pop1",
+      "setName": "POP Series 1",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pop/pop1/16",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hikaru Koike"
+    }
+  ]
+}

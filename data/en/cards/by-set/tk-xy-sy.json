@@ -1,0 +1,1787 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-sy-1",
+    "localId": "1",
+    "name": "Fletchling",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      661
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97966,
+          "lowPrice": 0.3,
+          "midPrice": 0.59,
+          "highPrice": 19.98,
+          "marketPrice": 0.35,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-sy-2",
+    "localId": "2",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97967,
+          "lowPrice": 0.45,
+          "midPrice": 0.6,
+          "highPrice": 19.98,
+          "marketPrice": 0.25,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-sy-3",
+    "localId": "3",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97968,
+          "lowPrice": 19.98,
+          "midPrice": 23.29,
+          "highPrice": 26.6,
+          "marketPrice": 1.13,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-sy-4",
+    "localId": "4",
+    "name": "Switch",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Switch your Active Pokémon with 1 of your Benched Pokémon.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97969,
+          "lowPrice": 0.15,
+          "midPrice": 0.31,
+          "highPrice": 19.98,
+          "marketPrice": 0.48,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-sy-5",
+    "localId": "5",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97970,
+          "lowPrice": 19.98,
+          "midPrice": 19.98,
+          "highPrice": 19.98,
+          "marketPrice": 0.42,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-sy-6",
+    "localId": "6",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97971,
+          "lowPrice": 0.93,
+          "midPrice": 4.38,
+          "highPrice": 41.4,
+          "marketPrice": 2.2,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-sy-7",
+    "localId": "7",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-06-14T22:58:47.400Z",
+        "normal": {
+          "productId": 97972,
+          "lowPrice": 5,
+          "midPrice": 5,
+          "highPrice": 5,
+          "marketPrice": 0.35,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-sy-8",
+    "localId": "8",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97973,
+          "lowPrice": 2.5,
+          "midPrice": 19.98,
+          "highPrice": 19.98,
+          "marketPrice": 0.84,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-sy-9",
+    "localId": "9",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97974,
+          "lowPrice": 0.35,
+          "midPrice": 10.22,
+          "highPrice": 19.98,
+          "marketPrice": 0.33,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-sy-10",
+    "localId": "10",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97975,
+          "lowPrice": 0.36,
+          "midPrice": 19.98,
+          "highPrice": 37.9,
+          "marketPrice": 0.49,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-sy-11",
+    "localId": "11",
+    "name": "Snubbull",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      209
+    ],
+    "hp": 70,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97976,
+          "lowPrice": 0.29,
+          "midPrice": 0.46,
+          "highPrice": 19.98,
+          "marketPrice": 0.6,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-sy-12",
+    "localId": "12",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97977,
+          "lowPrice": 0.35,
+          "midPrice": 5.27,
+          "highPrice": 19.98,
+          "marketPrice": 0.2,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-sy-13",
+    "localId": "13",
+    "name": "Eevee",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97978,
+          "lowPrice": 5,
+          "midPrice": 7.76,
+          "highPrice": 63.1,
+          "marketPrice": 6.75,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-sy-14",
+    "localId": "14",
+    "name": "Granbull",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      210
+    ],
+    "hp": 100,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": "Snubbull",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97979,
+          "lowPrice": 0.3,
+          "midPrice": 0.44,
+          "highPrice": 19.98,
+          "marketPrice": 0.62,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-sy-15",
+    "illustrator": "5ban Graphics",
+    "localId": "15",
+    "name": "Sylveon",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      700
+    ],
+    "hp": 90,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "name": "Disarming Voice",
+        "effect": "Your opponent’s Active Pokémon is now Confused.",
+        "damage": 20
+      },
+      {
+        "name": "Fairy Wind",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:24+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97980,
+          "lowPrice": 11.61,
+          "midPrice": 14,
+          "highPrice": 4753.1,
+          "marketPrice": 14.7,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-sy-16",
+    "localId": "16",
+    "name": "Furfrou",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      676
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97981,
+          "lowPrice": 0.19,
+          "midPrice": 0.32,
+          "highPrice": 19.98,
+          "marketPrice": 0.31,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-sy-17",
+    "localId": "17",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97982,
+          "lowPrice": 0.3,
+          "midPrice": 19.98,
+          "highPrice": 25,
+          "marketPrice": 0.2,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-sy-18",
+    "localId": "18",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97983,
+          "lowPrice": 1.45,
+          "midPrice": 18.92,
+          "highPrice": 42.9,
+          "marketPrice": 2.53,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-sy-19",
+    "localId": "19",
+    "name": "Fletchling",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      661
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97984,
+          "lowPrice": 0.2,
+          "midPrice": 0.44,
+          "highPrice": 19.98,
+          "marketPrice": 0.41,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-sy-20",
+    "localId": "20",
+    "name": "Potion",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Heal 30 damage from 1 of your Pokémon.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97985,
+          "lowPrice": 0.1,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.15,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-sy-21",
+    "localId": "21",
+    "name": "Eevee",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97986,
+          "lowPrice": 4.13,
+          "midPrice": 11.4,
+          "highPrice": 200,
+          "marketPrice": 8.42,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-sy-22",
+    "localId": "22",
+    "name": "Furfrou",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      676
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97987,
+          "lowPrice": 0.17,
+          "midPrice": 0.3,
+          "highPrice": 19.98,
+          "marketPrice": 0.3,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-sy-23",
+    "localId": "23",
+    "name": "Pokémon Catcher",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Flip a coin. If heads, switch 1 of your opponent’s Benched Pokémon with his or her Active Pokémon.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2021-10-18T11:53:03+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-sy-24",
+    "localId": "24",
+    "name": "Potion",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Heal 30 damage from 1 of your Pokémon.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97989,
+          "lowPrice": 0.14,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.3,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-sy-25",
+    "localId": "25",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97990,
+          "lowPrice": 1.25,
+          "midPrice": 19.98,
+          "highPrice": 32.5,
+          "marketPrice": 1.24,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-sy-26",
+    "localId": "26",
+    "name": "Poké Ball",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2021-10-18T11:53:03+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-sy-27",
+    "localId": "27",
+    "name": "Snubbull",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      209
+    ],
+    "hp": 70,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97992,
+          "lowPrice": 0.5,
+          "midPrice": 1.18,
+          "highPrice": 29.6,
+          "marketPrice": 1.71,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-sy-28",
+    "localId": "28",
+    "name": "Professor’s Letter",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2021-10-18T11:53:03+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-sy-29",
+    "localId": "29",
+    "name": "Granbull",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      210
+    ],
+    "hp": 100,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": "Snubbull",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97994,
+          "lowPrice": 0.49,
+          "midPrice": 1.32,
+          "highPrice": 25.6,
+          "marketPrice": 1.32,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-sy-30",
+    "illustrator": "5ban Graphics",
+    "localId": "30",
+    "name": "Sylveon",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      700
+    ],
+    "hp": 90,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "name": "Disarming Voice",
+        "effect": "Your opponent’s Active Pokémon is now Confused.",
+        "damage": 20
+      },
+      {
+        "name": "Fairy Wind",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:24+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "holofoil": {
+          "productId": 97995,
+          "lowPrice": 15.5,
+          "midPrice": 20.67,
+          "highPrice": 4321,
+          "marketPrice": 21.76,
+          "directLowPrice": null
+        }
+      }
+    }
+  }
+]

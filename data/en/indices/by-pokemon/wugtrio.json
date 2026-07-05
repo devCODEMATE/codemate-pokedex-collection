@@ -1,0 +1,84 @@
+{
+  "name": "Wugtrio",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2a-026",
+      "name": "Wugtrio",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "026",
+      "rarity": "Two Diamond",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv01-057",
+      "name": "Wugtrio",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "057",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/057",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "KIYOTAKA OSHIYAMA"
+    },
+    {
+      "id": "sv03-059",
+      "name": "Wugtrio",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "059",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/059",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "sv04.5-122",
+      "name": "Wugtrio",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "122",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/122",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "sv04.5-224",
+      "name": "Wugtrio",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "224",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/224",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tetsu Kayama"
+    },
+    {
+      "id": "sv04-053",
+      "name": "Wugtrio",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "053",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/053",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

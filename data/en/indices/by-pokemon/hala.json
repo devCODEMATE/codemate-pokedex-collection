@@ -1,0 +1,50 @@
+{
+  "name": "Hala",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "B1-222",
+      "name": "Hala",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "222",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/222",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "B1-267",
+      "name": "Hala",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "267",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/267",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sm2-126",
+      "name": "Hala",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "126",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/126",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "sm2-143",
+      "name": "Hala",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "143",
+      "rarity": "Ultra Rare",
+      "image": null,
+      "types": null,
+      "illustrator": "Naoki Saito"
+    }
+  ]
+}

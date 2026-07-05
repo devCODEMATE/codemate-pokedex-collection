@@ -1,0 +1,2151 @@
+{
+  "name": "Anesaki Dynamic",
+  "totalCards": 165,
+  "cards": [
+    {
+      "id": "2023sv-5",
+      "name": "Cetitan",
+      "set": "2023sv",
+      "setName": "McDonald's Collection 2023",
+      "number": "5",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A1-012",
+      "name": "Gloom",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "012",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/012",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A1-180",
+      "name": "Bisharp",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "180",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/180",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A1-245",
+      "name": "Pidgeot",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "245",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/245",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A2-019",
+      "name": "Carnivine",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "019",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/019",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A2-055",
+      "name": "Electrode",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "055",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/055",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A2a-035",
+      "name": "Rotom",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "035",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/035",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A3-002",
+      "name": "Alolan Exeggutor",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "002",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A3-112",
+      "name": "Absol",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "112",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/112",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A3-124",
+      "name": "Drampa",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "124",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/124",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A3a-009",
+      "name": "Blacephalon",
+      "set": "A3a",
+      "setName": "Extradimensional Crisis",
+      "number": "009",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3a/009",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A3a-053",
+      "name": "Stakataka",
+      "set": "A3a",
+      "setName": "Extradimensional Crisis",
+      "number": "053",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3a/053",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A4-059",
+      "name": "Suicune",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "059",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/059",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A4-085",
+      "name": "Unown",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "085",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/085",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "B1-077",
+      "name": "Drednaw",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "077",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/077",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "B1-136",
+      "name": "Golurk",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "136",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/136",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "B1-210",
+      "name": "Corvisquire",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "210",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/210",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "B1a-053",
+      "name": "Probopass",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "053",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/053",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "B2-109",
+      "name": "Guzzlord",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "109",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/109",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "B2-131",
+      "name": "Lugia",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "131",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/131",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "B2a-005",
+      "name": "Spidops",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "005",
+      "rarity": "Two Diamond",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "B2a-014",
+      "name": "Rellor",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "014",
+      "rarity": "One Diamond",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "B2a-030",
+      "name": "Cetitan",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "030",
+      "rarity": "Two Diamond",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "B2a-057",
+      "name": "Annihilape",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "057",
+      "rarity": "Two Diamond",
+      "image": null,
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "B2a-076",
+      "name": "Revavroom",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "076",
+      "rarity": "Two Diamond",
+      "image": null,
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "me01-038",
+      "name": "Clawitzer",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "038",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me01/038",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "me01-093",
+      "name": "Steelix",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "093",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me01/093",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "me02.5-067",
+      "name": "Tapu Koko",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "067",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/067",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "me02.5-091",
+      "name": "Banette",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "091",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/091",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "me02.5-141",
+      "name": "Hoopa",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "141",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/141",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "me02-007",
+      "name": "Ludicolo",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "007",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02/007",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "me02-058",
+      "name": "Honchkrow",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "058",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02/058",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "me03-098",
+      "name": "Doublade",
+      "set": "me03",
+      "setName": "Perfect Order",
+      "number": "098",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me03/098",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "me04-023",
+      "name": "Bergmite",
+      "set": "me04",
+      "setName": "Chaos Rising",
+      "number": "023",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me04/023",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "me04-066",
+      "name": "Goomy",
+      "set": "me04",
+      "setName": "Chaos Rising",
+      "number": "066",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me04/066",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "mep-014",
+      "name": "Ceruledge",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "014",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "P-A-039",
+      "name": "Skarmory",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "039",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/tcgp/P-A/039",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm10-116",
+      "name": "Krookodile",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "116",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/116",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm10-127",
+      "name": "Genesect",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "127",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/127",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm10-15",
+      "name": "Victreebel",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/15",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm10-50",
+      "name": "Kyurem",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "50",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/50",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm10-66",
+      "name": "Crobat",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "66",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/66",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm10-7",
+      "name": "Gloom",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "7",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/7",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm11-122",
+      "name": "Terrakion",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "122",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/122",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm11-156",
+      "name": "Haxorus",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "156",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/156",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm11-178",
+      "name": "Tornadus",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "178",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/178",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm115-22",
+      "name": "Electrode",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/22",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm11-68",
+      "name": "Thundurus",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "68",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/68",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm12-106",
+      "name": "Nosepass",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "106",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/106",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm12-14",
+      "name": "Kricketune",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "14",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/14",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm12-21",
+      "name": "Buzzwole",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/21",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm12-79",
+      "name": "Xatu",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "79",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/79",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm1-88",
+      "name": "Skarmory",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "88",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/88",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm2-81",
+      "name": "Absol",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "81",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/81",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm3-24",
+      "name": "Heatmor",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "24",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/24",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm3-60",
+      "name": "Meowstic",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "60",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/60",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm3-92",
+      "name": "Kirlia",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "92",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/92",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm4-14",
+      "name": "Camerupt",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/14",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm4-5",
+      "name": "Cacnea",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "5",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/5",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm4-62",
+      "name": "Hydreigon",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "62",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/62",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm4-88",
+      "name": "Diggersby",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "88",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/88",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm5-12",
+      "name": "Carnivine",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "12",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/12",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm5-27",
+      "name": "Turtonator",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "27",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/27",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm5-29",
+      "name": "Alolan Sandslash",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "29",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/29",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm5-44",
+      "name": "Electivire",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "44",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/44",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm6-10",
+      "name": "Gogoat",
+      "set": "sm6",
+      "setName": "Forbidden Light",
+      "number": "10",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm6/10",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm6-100",
+      "name": "Noibat",
+      "set": "sm6",
+      "setName": "Forbidden Light",
+      "number": "100",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm6/100",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm6-49",
+      "name": "Aegislash",
+      "set": "sm6",
+      "setName": "Forbidden Light",
+      "number": "49",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm6/49",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm6-80",
+      "name": "Guzzlord",
+      "set": "sm6",
+      "setName": "Forbidden Light",
+      "number": "80",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm6/80",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm7.5-35",
+      "name": "Dratini",
+      "set": "sm7.5",
+      "setName": "Dragon Majesty",
+      "number": "35",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm7-107",
+      "name": "Latias ◇",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "107",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/107",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm7-108",
+      "name": "Latios ◇",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "108",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/108",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm7-40",
+      "name": "Wailord",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "40",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/40",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm8-102",
+      "name": "Lampent",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "102",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/102",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm8-126",
+      "name": "Scizor",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "126",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/126",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm8-59",
+      "name": "Suicune",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "59",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/59",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm8-87",
+      "name": "Natu",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "87",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/87",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm9-105",
+      "name": "Bisharp",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "105",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/105",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm9-114",
+      "name": "Alolan Exeggutor",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "114",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/114",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm9-131",
+      "name": "Lugia",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "131",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/131",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm9-63",
+      "name": "Muk",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "63",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/63",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm9-72",
+      "name": "Primeape",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "72",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/72",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm9-80",
+      "name": "Pupitar",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "80",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/80",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sma-SV12",
+      "name": "Frogadier",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV12",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV12",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sma-SV33",
+      "name": "Kartana",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV33",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV33",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "smp-SM129",
+      "name": "Kyogre",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM129",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM129",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "smp-SM149",
+      "name": "Suicune",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM149",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM149",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "smp-SM158",
+      "name": "Charizard",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM158",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM158",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "smp-SM193",
+      "name": "Garchomp & Giratina GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM193",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "smp-SM54",
+      "name": "Lucario",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM54",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM54",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv01-060",
+      "name": "Cetitan",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "060",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/060",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv01-109",
+      "name": "Annihilape",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "109",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/109",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv01-134",
+      "name": "Kingambit",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "134",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/134",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv01-142",
+      "name": "Revavroom",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "142",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/142",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv02-021",
+      "name": "Lokix",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "021",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/021",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv02-026",
+      "name": "Rellor",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "026",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/026",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv02-056",
+      "name": "Veluza",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "056",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/056",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv02-123",
+      "name": "Garganacl",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "123",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/123",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv02-145",
+      "name": "Shroodle",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "145",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/145",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv02-218",
+      "name": "Paldean Tauros",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "218",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/218",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv03.5-084",
+      "name": "Doduo",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "084",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/084",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv03.5-085",
+      "name": "Dodrio",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "085",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/085",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv03-012",
+      "name": "Trevenant",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "012",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/012",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv03-065",
+      "name": "Magnezone",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "065",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/065",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv03-072",
+      "name": "Toxtricity",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "072",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/072",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv04.5-047",
+      "name": "Annihilape",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "047",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/047",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv04.5-065",
+      "name": "Revavroom",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "065",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/065",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv04-057",
+      "name": "Chien-Pao",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "057",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/057",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv04-106",
+      "name": "Flamigo",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "106",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/106",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv04-107",
+      "name": "Slither Wing",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "107",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/107",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv04-123",
+      "name": "Brute Bonnet",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "123",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/123",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv05-094",
+      "name": "Carkol",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "094",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/094",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv05-135",
+      "name": "Unfezant",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "135",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/135",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv06.5-024",
+      "name": "Toxicroak",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "024",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/024",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv06-005",
+      "name": "Ariados",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "005",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/005",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv06-076",
+      "name": "Kilowattrel",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "076",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/076",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv06-110",
+      "name": "Ting-Lu",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "110",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/110",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv07-055",
+      "name": "Zeraora",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "055",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/055",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv08-095",
+      "name": "Espathra",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "095",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/095",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv08-151",
+      "name": "Bouffalant",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "151",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/151",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv08-153",
+      "name": "Braviary",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "153",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/153",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv09-015",
+      "name": "Virizion",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "015",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/015",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv09-060",
+      "name": "Banette",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "060",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/060",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv09-128",
+      "name": "Noivern",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "128",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/128",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv10.5w-046",
+      "name": "Roggenrola",
+      "set": "sv10.5w",
+      "setName": "White Flare",
+      "number": "046",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5w/046",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv10.5w-047",
+      "name": "Boldore",
+      "set": "sv10.5w",
+      "setName": "White Flare",
+      "number": "047",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5w/047",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv10.5w-048",
+      "name": "Gigalith",
+      "set": "sv10.5w",
+      "setName": "White Flare",
+      "number": "048",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5w/048",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv10-018",
+      "name": "Hydrapple",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "018",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/018",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv10-038",
+      "name": "Team Rocket's Houndoom",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "038",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/038",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv10-144",
+      "name": "Steven's Metang",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "144",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/144",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv10-155",
+      "name": "Team Rocket's Porygon-Z",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "155",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/155",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "svp-009",
+      "name": "Spidops",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "009",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/009",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "svp-020",
+      "name": "Tinkaton",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "020",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/020",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "svp-091",
+      "name": "Koraidon",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "091",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/091",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "svp-209",
+      "name": "Thundurus",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "209",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh1-14",
+      "name": "Rillaboom",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "14",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/14",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh1-151",
+      "name": "Corvisquire",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "151",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/151",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh1-39",
+      "name": "Centiskorch",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "39",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/39",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh2-104",
+      "name": "Barbaracle",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "104",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/104",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh2-131",
+      "name": "Probopass",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "131",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/131",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh3.5-26",
+      "name": "Machamp",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "26",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/26",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh3-124",
+      "name": "Escavalier",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "124",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/124",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh3-134",
+      "name": "Tauros",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "134",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/134",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh3-25",
+      "name": "Heatran",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "25",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/25",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh3-77",
+      "name": "Golurk",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "77",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/77",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh4.5-13",
+      "name": "Rillaboom",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "13",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/13",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh4.5-21",
+      "name": "Kyogre",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "21",
+      "rarity": "Amazing Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/21",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh4-122",
+      "name": "Excadrill",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "122",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/122",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh4-95",
+      "name": "Lycanroc",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "95",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/95",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh5-15",
+      "name": "Lurantis",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/15",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh5-25",
+      "name": "Emboar",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "25",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/25",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh5-31",
+      "name": "Horsea",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "31",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/31",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh6-101",
+      "name": "Qwilfish",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "101",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/101",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh6-102",
+      "name": "Seviper",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "102",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/102",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh6-120",
+      "name": "Zangoose",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "120",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/120",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh6-92",
+      "name": "Grapploct",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "92",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/92",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh7-120",
+      "name": "Flapple",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "120",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/120",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh7-218",
+      "name": "Rayquaza VMAX",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "218",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/218",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh7-66",
+      "name": "Wobbuffet",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "66",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/66",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh8-27",
+      "name": "Zarude",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "27",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/27",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh8-57",
+      "name": "Feraligatr",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "57",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/57",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh8-65",
+      "name": "Clamperl",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "65",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/65",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swshp-SWSH047",
+      "name": "Drednaw",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH047",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH047",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swshp-SWSH112",
+      "name": "Cinderace",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH112",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH112",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "xy11-89",
+      "name": "Persian",
+      "set": "xy11",
+      "setName": "Steam Siege",
+      "number": "89",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy11/89",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    }
+  ]
+}

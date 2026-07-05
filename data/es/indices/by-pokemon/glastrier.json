@@ -1,0 +1,32 @@
+{
+  "name": "Glastrier",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "me02.5-054",
+      "name": "Glastrier",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "054",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/054",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "swsh11-051",
+      "name": "Glastrier",
+      "set": "swsh11",
+      "setName": "Origen Perdido",
+      "number": "051",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh11/051",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    }
+  ]
+}

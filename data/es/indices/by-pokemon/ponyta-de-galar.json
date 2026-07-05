@@ -1,0 +1,45 @@
+{
+  "name": "Ponyta de Galar",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh1-81",
+      "name": "Ponyta de Galar",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "81",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/81",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "swsh4.5-SV047",
+      "name": "Ponyta de Galar",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV047",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV047",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "swshp-SWSH013",
+      "name": "Ponyta de Galar",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH013",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH013",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "kirisAki"
+    }
+  ]
+}

@@ -1,0 +1,6446 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "A2a-001",
+    "illustrator": "Satoshi Shirai",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/001",
+    "localId": "001",
+    "name": "Heracross",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      214
+    ],
+    "hp": 100,
+    "types": [
+      "Planta"
+    ],
+    "description": "Le encanta la savia dulce y usa su cuerno para lanzar\npor los aires a cualquiera que se acerque a ella.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Lanzamiento Cuerno",
+        "effect": "Lanza 2 monedas. Si en las dos sale cara, este ataque hace 70 puntos de daño más.",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-002",
+    "illustrator": "miki kudo",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/002",
+    "localId": "002",
+    "name": "Burmy",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      412
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "description": "Para protegerse de los vientos fríos invernales,\nse cubre con un caparazón de ramas y hojas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Apisonar",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-003",
+    "illustrator": "MAHOU",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/003",
+    "localId": "003",
+    "name": "Mothim",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      414
+    ],
+    "hp": 90,
+    "types": [
+      "Planta"
+    ],
+    "description": "Le encanta la miel de las flores y roba la que recoge Combee.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Tornado",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-004",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/004",
+    "localId": "004",
+    "name": "Combee",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      415
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "description": "Cuando llega la noche, se juntan unos cien\nCombee y duermen formando una gran colmena.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Picadura",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-005",
+    "illustrator": "kawayoo",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/005",
+    "localId": "005",
+    "name": "Vespiquen",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      416
+    ],
+    "hp": 100,
+    "types": [
+      "Planta"
+    ],
+    "description": "Cría larvas en los panales de su cuerpo y\nsegrega diversas feromonas para controlarlas.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta",
+          "Planta"
+        ],
+        "name": "Carga Descuidada",
+        "effect": "Este Pokémon también se hace 30 puntos de daño a sí mismo.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-006",
+    "illustrator": "Atsuko Nishida",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/006",
+    "localId": "006",
+    "name": "Cherubi",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      420
+    ],
+    "hp": 50,
+    "types": [
+      "Planta"
+    ],
+    "description": "Se ve obligado a huir constantemente de\nlos Pokémon pájaro, pues su pequeña esfera\nrepleta de nutrientes es su manjar predilecto.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Follaje",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-007",
+    "illustrator": "Midori Harada",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/007",
+    "localId": "007",
+    "name": "Cherrim",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      421
+    ],
+    "hp": 80,
+    "types": [
+      "Planta"
+    ],
+    "description": "Permanece casi inmóvil cerrado en un capullo\na la espera de que lo bañen los rayos del sol.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Abatidoras",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Confundido.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-008",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/008",
+    "localId": "008",
+    "name": "Cherrim",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      421
+    ],
+    "hp": 80,
+    "types": [
+      "Planta"
+    ],
+    "description": "Adopta esta forma cuando lo bañan los rayos del sol. Siempre\nestá rebosante de energía y se mantiene activo hasta el ocaso.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Planta"
+        ],
+        "name": "Drenadoras",
+        "effect": "Cura 20 puntos de daño a este Pokémon.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-009",
+    "illustrator": "Shiburingaru",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/009",
+    "localId": "009",
+    "name": "Carnivine",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      455
+    ],
+    "hp": 80,
+    "types": [
+      "Planta"
+    ],
+    "description": "Atrae a sus presas con saliva de olor dulce y\nlas mastica. Tarda todo un día en comérselas.",
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Vínculo Poderoso",
+        "effect": "Si tienes a Arceus o Arceus ex en juego, los ataques de este Pokémon hacen Arceus+30 puntos[/Ctrl:NoBreak] de daño al Pokémon Activo de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta"
+        ],
+        "name": "Látigo Cepa",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-010",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/010",
+    "localId": "010",
+    "name": "Leafeon ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      470
+    ],
+    "hp": 140,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Aliento del Bosque",
+        "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes unir 1 Energía {G} de tu área de Energía a uno de tus Pokémon {G}."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Rayo Solar",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-011",
+    "illustrator": "Kouki Saitou",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/011",
+    "localId": "011",
+    "name": "Houndour",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      228
+    ],
+    "hp": 60,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Tiene suficiente inteligencia para cazar en manada.\nSe comunica con los demás a través de diversos aullidos.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego"
+        ],
+        "name": "Llama",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-012",
+    "illustrator": "Hajime Kusajima",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/012",
+    "localId": "012",
+    "name": "Houndoom",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      229
+    ],
+    "hp": 100,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Si alguien se quema con las llamas que lanza\npor la boca, el dolor no desaparecerá nunca.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Arrinconar",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-013",
+    "illustrator": "Kazumasa Yasukuni",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/013",
+    "localId": "013",
+    "name": "Heatran",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      485
+    ],
+    "hp": 110,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Habita cuevas volcánicas. Cava con sus pies en\nforma de cruz para trepar por techos y paredes.",
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Vínculo Veloz",
+        "effect": "Si tienes a Arceus o Arceus ex en juego, este Pokémon no tiene ningún Coste de Retirada."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Fuego"
+        ],
+        "name": "Golpe Furibundo",
+        "effect": "Si este Pokémon ya tiene daño, este ataque hace 40 puntos de daño más.",
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-014",
+    "illustrator": "Tika Matsuno",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/014",
+    "localId": "014",
+    "name": "Marill",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      183
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "description": "Tiene un pelaje que repele el agua, por lo\nque está seco incluso después de bañarse.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Pistola Agua",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-015",
+    "illustrator": "miki kudo",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/015",
+    "localId": "015",
+    "name": "Azumarill",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      184
+    ],
+    "hp": 100,
+    "types": [
+      "Agua"
+    ],
+    "description": "Sus largas orejas son unos sensores excepcionales que le\npermiten diferenciar e identificar lo que oye dentro del agua.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Cascada",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-016",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/016",
+    "localId": "016",
+    "name": "Barboach",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      339
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "description": "Sus bigotes son muy sensibles y le sirven de\nradar. Puede detectar la posición de su presa\nincluso en el agua turbia de los lodazales.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Bofetón Lodo",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-017",
+    "illustrator": "Shinya Komatsu",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/017",
+    "localId": "017",
+    "name": "Whiscash",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      340
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "description": "Protege su territorio por encima de todo. Si se acerca\nun enemigo, lo ataca con violentos temblores de tierra.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Saña",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 60 puntos de daño más. Si sale cruz, este Pokémon también se hace 20 puntos de daño a sí mismo.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-018",
+    "illustrator": "sowsow",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/018",
+    "localId": "018",
+    "name": "Snorunt",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      361
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "description": "Se dice que se reúnen en grupos bajo hojas\ngigantescas y viven allí en total armonía.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Témpano",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-019",
+    "illustrator": "Mizue",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/019",
+    "localId": "019",
+    "name": "Froslass",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      478
+    ],
+    "hp": 90,
+    "types": [
+      "Agua"
+    ],
+    "description": "Con su gélido aliento congela a todo Pokémon\no humano que le llame la atención y se lo lleva\na su guarida para usarlo como objeto decorativo.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Ventisca",
+        "effect": "Este ataque también hace 10 puntos de daño a cada uno de los Pokémon en Banca de tu rival.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-020",
+    "illustrator": "otumami",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/020",
+    "localId": "020",
+    "name": "Snover",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      459
+    ],
+    "hp": 70,
+    "types": [
+      "Agua"
+    ],
+    "description": "En las estaciones frías baja al pie de la montaña,\npero regresa a las cimas nevadas en primavera.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Puño Tirabuzón",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-021",
+    "illustrator": "nagimiso",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/021",
+    "localId": "021",
+    "name": "Abomasnow",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      460
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "description": "Vive en paz en cordilleras de nieves eternas.\nGenera ventiscas para ocultarse.",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Vínculo Apremiante",
+        "effect": "Si tienes a Arceus o Arceus ex en juego, los ataques de este Pokémon cuestan 1 Energía {C} menos."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Megapuño",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-022",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/022",
+    "localId": "022",
+    "name": "Glaceon ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      471
+    ],
+    "hp": 140,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Campo Níveo",
+        "effect": "Durante el Chequeo Pokémon, si este Pokémon está en el Puesto Activo, inflige 10 puntos de daño al Pokémon Activo de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Viento Gélido",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-023",
+    "illustrator": "toriyufu",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/023",
+    "localId": "023",
+    "name": "PalkiaOrigen",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      484
+    ],
+    "hp": 120,
+    "types": [
+      "Agua"
+    ],
+    "description": "Esta forma que surca el cielo me hace pensar\nen el creador de todo lo existente. Quizá adopte\ndicha forma para hacerse con su poder.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Agua"
+        ],
+        "name": "Zona Demoledora",
+        "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 60 puntos de daño más.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-024",
+    "illustrator": "AKIRA EGAWA",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/024",
+    "localId": "024",
+    "name": "Phione",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      489
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "description": "Si sube la temperatura del mar, infla el flotador\nde su cabeza y flota en grupo en la superficie.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua"
+        ],
+        "name": "Hidropulso",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-025",
+    "illustrator": "MAHOU",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/025",
+    "localId": "025",
+    "name": "Pikachu",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Chispa",
+        "effect": "Este ataque también hace 10 puntos de daño a 1 de los Pokémon en Banca de tu rival.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-026",
+    "illustrator": "Nisota Niso",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/026",
+    "localId": "026",
+    "name": "Raichu",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      26
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Su cola actúa como toma de tierra\ny descarga electricidad al suelo, lo\nque le protege de los calambrazos.",
+    "stage": "Fase 1",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Vínculo Protector",
+        "effect": "Si tienes a Arceus o Arceus ex en juego, los ataques hacen -30 puntos de daño a este Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Rayo",
+          "Rayo"
+        ],
+        "name": "Chispa",
+        "effect": "Este ataque también hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-027",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/027",
+    "localId": "027",
+    "name": "Electrike",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      309
+    ],
+    "hp": 60,
+    "types": [
+      "Rayo"
+    ],
+    "description": "Acumula electricidad estática en el pelaje para lanzar descargas.\nCuando va a haber tormenta, suelta chispas por todo el cuerpo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Electropatada",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-028",
+    "illustrator": "match",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/028",
+    "localId": "028",
+    "name": "Manectric",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      310
+    ],
+    "hp": 90,
+    "types": [
+      "Rayo"
+    ],
+    "description": "La electricidad estimula su musculatura para\nque pueda moverse a gran velocidad y le ayuda\na recuperarse del dolor muscular rápidamente.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Rayo"
+        ],
+        "name": "Destello",
+        "effect": "Durante el próximo turno de tu rival, si el Pokémon Defensor intenta usar un ataque, tu rival lanza 1 moneda. Si sale cruz, ese ataque no se lleva a cabo.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-029",
+    "illustrator": "rika",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/029",
+    "localId": "029",
+    "name": "Clefairy",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      35
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Se dice que la felicidad llegará\na quien vea un grupo de Clefairy\nbailando a la luz de la luna llena.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Palmetazo",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-030",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/030",
+    "localId": "030",
+    "name": "Clefable",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      36
+    ],
+    "hp": 100,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Este Pokémon de aspecto feérico, raramente\nvisto por los humanos, corre a esconderse\nen cuanto detecta que hay alguien cerca.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Fuerza Lunar",
+        "effect": "Durante el próximo turno de tu rival, los ataques del Pokémon Defensor hacen -30 puntos de daño.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-031",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/031",
+    "localId": "031",
+    "name": "Gastly",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      92
+    ],
+    "hp": 50,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Su estrategia consiste en envolver al rival con su\ncuerpo gaseoso y envenenarlo a través de la piel.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Impresionar",
+        "effect": "Lanza 1 moneda. Si sale cara, tu rival enseña 1 carta aleatoria de su mano, la pone de nuevo en su baraja y las baraja todas."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-032",
+    "illustrator": "Eri Yamaki",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/032",
+    "localId": "032",
+    "name": "Haunter",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      93
+    ],
+    "hp": 80,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Le gusta acechar en la oscuridad y tocarles el\nhombro a sus víctimas con su mano gaseosa.\nEstas se quedan temblando para siempre.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Farfullar",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-033",
+    "illustrator": "Midori Harada",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/033",
+    "localId": "033",
+    "name": "Gengar",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      94
+    ],
+    "hp": 140,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Para quitarle la vida a su presa, se desliza en su\nsombra y espera su oportunidad en silencio.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Psíquico",
+          "Psíquico"
+        ],
+        "name": "Hipnorrayo",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Dormido.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-034",
+    "illustrator": "Tetsu Kayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/034",
+    "localId": "034",
+    "name": "Unown",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      201
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Su cuerpo fino y plano aparece siempre en los\nmuros. Su forma parece tener algún significado.",
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "COMPROBACIÓN",
+        "effect": "Una vez durante tu turno, puedes elegir a cualquier jugador. Mira la primera carta de la baraja de ese jugador."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Poder Oculto",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-035",
+    "illustrator": "Anesaki Dynamic",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/035",
+    "localId": "035",
+    "name": "Rotom",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      479
+    ],
+    "hp": 70,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Con su cuerpo eléctrico puede infiltrarse en algunos\naparatos para controlarlos y hacer travesuras.",
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Vínculo Veloz",
+        "effect": "Si tienes a Arceus o Arceus ex en juego, este Pokémon no tiene ningún Coste de Retirada."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Ataque Carrera",
+        "effect": "Este ataque hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-036",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/036",
+    "localId": "036",
+    "name": "Sudowoodo",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      185
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Aunque pretende ser un árbol, en su composición\nse parece más a una roca que a una planta.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Cabezazo Lucha",
+        "effect": "Si el Pokémon Activo de tu rival es un Pokémon {ex}, este ataque hace 30 puntos de daño más.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-037",
+    "illustrator": "Asako Ito",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/037",
+    "localId": "037",
+    "name": "Phanpy",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      231
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Vive en hoyos que cava en la ribera de los ríos. Tras retozar en el\nlodo, no se queda tranquilo hasta haberse lavado bien el cuerpo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Rodar",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-038",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/038",
+    "localId": "038",
+    "name": "Donphan",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      232
+    ],
+    "hp": 120,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Su dura piel podría resistir el choque contra un coche sin\nsufrir un rasguño. La lluvia, sin embargo, es su punto débil.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha"
+        ],
+        "name": "Giro Ondulante",
+        "effect": "Durante tu próximo turno, el ataque Giro Ondulante de este Pokémon hace Rolling Spin+60 puntos[/Ctrl:NoBreak] de daño.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-039",
+    "illustrator": "Yukiko Baba",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/039",
+    "localId": "039",
+    "name": "Larvitar",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      246
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Nacido en las profundidades subterráneas,\neste Pokémon se convierte en pupa al comer\nla cantidad de tierra equivalente a una montaña.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Puño Tirabuzón",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-040",
+    "illustrator": "match",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/040",
+    "localId": "040",
+    "name": "Pupitar",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      247
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Su caparazón es duro como una piedra y muy\nresistente. Sus golpes pueden derribar montañas.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ataque Fugaz",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-041",
+    "illustrator": "kawayoo",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/041",
+    "localId": "041",
+    "name": "Tyranitar",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      248
+    ],
+    "hp": 160,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Tiene tanta fuerza que puede cambiar el paisaje.\nSu naturaleza insolente le hace ser muy egoísta.",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Vínculo Poderoso",
+        "effect": "Si tienes a Arceus o Arceus ex en juego, los ataques de este Pokémon hacen Arceus+30 puntos[/Ctrl:NoBreak] de daño al Pokémon Activo de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Aterrizaje",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-042",
+    "illustrator": "Satoshi Shirai",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/042",
+    "localId": "042",
+    "name": "Nosepass",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      299
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Solo se desplaza un centímetro al año, pero,\nsi se siente amenazado, gira sobre sí mismo\ny se hunde bajo tierra en un abrir y cerrar de ojos.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Placaje",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-043",
+    "illustrator": "Mina Nakai",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/043",
+    "localId": "043",
+    "name": "Meditite",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      307
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Practica yoga a diario y no se pierde ni una sesión.\nMediante la meditación, aumenta su fuerza interior.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Patada",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-044",
+    "illustrator": "Tetsu Kayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/044",
+    "localId": "044",
+    "name": "Medicham",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      308
+    ],
+    "hp": 100,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Puede prever los movimientos de su rival usando\nsus poderes psíquicos, fortalecidos por el yoga.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Disparo Patada",
+        "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psíquico",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-045",
+    "illustrator": "Kyoko Umemoto",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/045",
+    "localId": "045",
+    "name": "Gible",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      443
+    ],
+    "hp": 60,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Permanece oculto en cuevas y, cuando pasa una\npresa, se abalanza sobre ella y la muerde con\ntanta fuerza que hasta se le rompen los dientes.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Placaje",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-046",
+    "illustrator": "Sumiyoshi Kizuki",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/046",
+    "localId": "046",
+    "name": "Gabite",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      444
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Muy ocasionalmente puede mudar la piel y\nperder las escamas. Las medicinas que las usan\ncomo ingrediente son muy reconstituyentes.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Guadaña Afilada",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-047",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/047",
+    "localId": "047",
+    "name": "Garchomp ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      445
+    ],
+    "hp": 170,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Ataque Lineal",
+        "effect": "Este ataque hace 50 puntos de daño a 1 de los Pokémon de tu rival."
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Garra Dragón",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-048",
+    "illustrator": "Sekio",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/048",
+    "localId": "048",
+    "name": "Zubat",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      41
+    ],
+    "hp": 50,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Emite ondas ultrasónicas por la boca\npara escrutar el entorno, lo que le permite\nvolar con pericia por cuevas angostas.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Mordisco",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-049",
+    "illustrator": "Kyoko Umemoto",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/049",
+    "localId": "049",
+    "name": "Golbat",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      42
+    ],
+    "hp": 80,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Le encanta chuparles la sangre a los seres\nvivos. En ocasiones comparte la preciada\ncolecta con otros congéneres hambrientos.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Mordisco",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-050",
+    "illustrator": "AKIRA EGAWA",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/050",
+    "localId": "050",
+    "name": "Crobat",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      169
+    ],
+    "hp": 110,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Sus patas se han convertido en alas. Se lanza\nsobre su presa en un vuelo silencioso a alta\nvelocidad y le clava los colmillos en la nuca.",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Vínculo Astuto",
+        "effect": "Una vez durante tu turno, si tienes a Arceus o Arceus ex en juego, puedes hacer 30 puntos de daño al Pokémon Activo de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Colmillo de Oscuridad",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 0,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-051",
+    "illustrator": "SATOSHI NAKAI",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/051",
+    "localId": "051",
+    "name": "Croagunk",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      453
+    ],
+    "hp": 60,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Infla sus bolsas venenosas para emitir un sonido macabro\na su alrededor y envenena al rival en cuanto se amedrenta.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Toque",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-052",
+    "illustrator": "Souichirou Gunjima",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/052",
+    "localId": "052",
+    "name": "Toxicroak",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      454
+    ],
+    "hp": 100,
+    "types": [
+      "Oscura"
+    ],
+    "description": "Esquiva ágilmente los ataques de sus\nenemigos mientras va acortando distancias\npara contraatacar con sus garras venenosas.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Oscura"
+        ],
+        "name": "Tóxico",
+        "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado. Ese Pokémon sufre 20 puntos de daño en vez de la cantidad habitual por esta Condición Especial."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-053",
+    "illustrator": "OKACHEKE",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/053",
+    "localId": "053",
+    "name": "Magnemite",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      81
+    ],
+    "hp": 60,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Las unidades laterales crean ondas\nelectromagnéticas que contrarrestan\nla gravedad y le permiten flotar.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Placaje",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-054",
+    "illustrator": "Souichirou Gunjima",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/054",
+    "localId": "054",
+    "name": "Magneton",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      82
+    ],
+    "hp": 90,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Tres Magnemite se enlazan mediante una\nintensa fuerza magnética. Provoca un fuerte\npitido en los oídos a quien se le acerque.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Ataque Giro",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-055",
+    "illustrator": "toriyufu",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/055",
+    "localId": "055",
+    "name": "Magnezone",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      462
+    ],
+    "hp": 140,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Se dice que mientras vuela emite unas ondas eléctricas\nmisteriosas, a la vez que recibe otras ondas desconocidas.",
+    "stage": "Fase 2",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Vínculo Protector",
+        "effect": "Si tienes a Arceus o Arceus ex en juego, los ataques hacen -30 puntos de daño a este Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Rayo de Luz Poderoso",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-056",
+    "illustrator": "tetsuya koizumi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/056",
+    "localId": "056",
+    "name": "Mawile",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      303
+    ],
+    "hp": 70,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Con su cara inocente hace que el rival se confíe\ny, al bajar la guardia, le da un mordisco con sus\nenormes fauces del que no se puede liberar.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Acerañicos",
+        "effect": "Si el Pokémon Activo de tu rival es un Pokémon {M}, este ataque hace 30 puntos de daño más.",
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-057",
+    "illustrator": "PLANETA Tsuji",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/057",
+    "localId": "057",
+    "name": "Probopass ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      476
+    ],
+    "hp": 160,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Unidad Protectora",
+        "effect": "Durante el próximo turno de tu rival, los ataques hacen -20 puntos de daño a este Pokémon.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-058",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/058",
+    "localId": "058",
+    "name": "Bronzor",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      436
+    ],
+    "hp": 60,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Antaño se creía que en el dibujo de su parte\nposterior residía una fuerza misteriosa.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Apisonar",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-059",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/059",
+    "localId": "059",
+    "name": "Bronzong",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      437
+    ],
+    "hp": 120,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Antaño se adoraba a este Pokémon para\nque propiciara lluvias abundantes. A veces,\npuede encontrarse enterrado bajo tierra.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Psíquico",
+        "effect": "Este ataque hace 20 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival.",
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-060",
+    "illustrator": "akagi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/060",
+    "localId": "060",
+    "name": "DialgaOrigen",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      483
+    ],
+    "hp": 120,
+    "types": [
+      "Metálica"
+    ],
+    "description": "La luz desencadena el cambio a esta forma, que recuerda\nal creador de todo lo existente. La colosal fuerza de la que\nhace gala nos sugiere que se trata de su verdadera forma.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Espacio Ácrono",
+        "effect": "Lanza 1 moneda. Si sale cruz, este Pokémon no puede atacar durante tu próximo turno.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-061",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/061",
+    "localId": "061",
+    "name": "Giratina",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      487
+    ],
+    "hp": 120,
+    "types": [
+      "Dragón"
+    ],
+    "description": "Vive en el Mundo Distorsión, un mundo opuesto\nal nuestro y cuyas leyes desafían el sentido común.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Psíquico",
+          "Incolora"
+        ],
+        "name": "Crisis en Picado",
+        "effect": "Descarta 2 Energías aleatorias de este Pokémon.",
+        "damage": 120
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-062",
+    "illustrator": "Naoyo Kimura",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/062",
+    "localId": "062",
+    "name": "Eevee",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Es capaz de evolucionar de muchas maneras\npara adaptarse sin problemas a cualquier medio.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Coletón",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-063",
+    "illustrator": "burari",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/063",
+    "localId": "063",
+    "name": "Snorlax",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      143
+    ],
+    "hp": 140,
+    "types": [
+      "Incolora"
+    ],
+    "description": "No se encuentra satisfecho hasta haber\ningerido 400 kg de comida cada día.\nCuando acaba de comer, se queda dormido.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Colapso",
+        "effect": "Este Pokémon pasa a estar Dormido.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-064",
+    "illustrator": "Sumiyoshi Kizuki",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/064",
+    "localId": "064",
+    "name": "Hoothoot",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      163
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Se apoya en una sola pata y, cuando cambia de una\na otra, se mueve tan rápido que apenas se percibe.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Picotazo",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-065",
+    "illustrator": "DOM",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/065",
+    "localId": "065",
+    "name": "Noctowl",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      164
+    ],
+    "hp": 100,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Tiene los ojos muy desarrollados y puede ver con\nincreíble claridad en la oscuridad más absoluta.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Ala Silenciosa",
+        "effect": "Tu rival enseña las cartas de su mano.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-066",
+    "illustrator": "Apios",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/066",
+    "localId": "066",
+    "name": "Starly",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      396
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Sobrevuela los campos en bandada buscando Pokémon\nde tipo Bicho. Chilla de forma muy estridente.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Planeo",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-067",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/067",
+    "localId": "067",
+    "name": "Staravia",
+    "rarity": "Un Diamante",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      397
+    ],
+    "hp": 80,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Son conscientes de su debilidad, así que siempre viven\nen grupo. Si se encuentran solos, lloran a gritos.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Ataque Ala",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-068",
+    "illustrator": "Minahamu",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/068",
+    "localId": "068",
+    "name": "Staraptor",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      398
+    ],
+    "hp": 150,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Al evolucionar a Staraptor, deja su bandada y\npasa a vivir en soledad. Sus alas son inmensas.",
+    "stage": "Fase 2",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Pájaro Osado",
+        "effect": "Este Pokémon también se hace 20 puntos de daño a sí mismo.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-069",
+    "illustrator": "Mizue",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/069",
+    "localId": "069",
+    "name": "Shaymin",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      492
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Puede disolver las toxinas del aire para\ntransformar tierra yerma en campos de flores.",
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Apoyo Aéreo",
+        "effect": "Mientras este Pokémon esté en tu Banca, el Coste de Retirada de tu Pokémon Básico Activo es de 1 menos."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Aleteo",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-070",
+    "illustrator": "Nurikabe",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/070",
+    "localId": "070",
+    "name": "Arceus",
+    "rarity": "Tres Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      493
+    ],
+    "hp": 120,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Según la mitología de Sinnoh, Arceus surgió\nde un huevo y después creó todo el mundo.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Estallido Vigoroso",
+        "effect": "Descarta 1 Energía aleatoria de este Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-071",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/071",
+    "localId": "071",
+    "name": "Arceus ex",
+    "rarity": "Cuatro Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      493
+    ],
+    "hp": 140,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Lustre Mítico",
+        "effect": "Este Pokémon no puede verse afectado por ninguna Condición Especial."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Fuerza Definitiva",
+        "effect": "Este ataque hace 20 puntos de daño más por cada uno de tus Pokémon en Banca.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2a-072",
+    "illustrator": "Atsushi Furusawa",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/072",
+    "localId": "072",
+    "name": "Nákara",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 40 puntos de daño a cada uno de tus Pokémon que tenga alguna Energía {W} unida a él.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2a-073",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/073",
+    "localId": "073",
+    "name": "Anciana de Pueblo Caelestis",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Pon 1 Pokémon Básico aleatorio de tu pila de descartes en tu mano.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2a-074",
+    "illustrator": "Hideki Ishikawa",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/074",
+    "localId": "074",
+    "name": "Israel",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante este turno, los ataques de tu Snorlax, tu Heracross o tu Staraptor cuestan 2 Energías {C} menos.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2a-075",
+    "illustrator": "akagi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/075",
+    "localId": "075",
+    "name": "Adamas",
+    "rarity": "Dos Diamantes",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante el próximo turno de tu rival, los ataques de los Pokémon de tu rival hacen -20 puntos de daño a todos tus Pokémon {M}.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-076",
+    "illustrator": "matazo",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/076",
+    "localId": "076",
+    "name": "Houndoom",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      229
+    ],
+    "hp": 100,
+    "types": [
+      "Fuego"
+    ],
+    "description": "Si alguien se quema con las llamas que lanza\npor la boca, el dolor no desaparecerá nunca.",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "cost": [
+          "Fuego",
+          "Incolora"
+        ],
+        "name": "Arrinconar",
+        "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Agua",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-077",
+    "illustrator": "Taiga Kayama",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/077",
+    "localId": "077",
+    "name": "Marill",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      183
+    ],
+    "hp": 60,
+    "types": [
+      "Agua"
+    ],
+    "description": "Tiene un pelaje que repele el agua, por lo\nque está seco incluso después de bañarse.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Agua"
+        ],
+        "name": "Pistola Agua",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-078",
+    "illustrator": "IKEDA Saki",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/078",
+    "localId": "078",
+    "name": "Unown",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      201
+    ],
+    "hp": 60,
+    "types": [
+      "Psíquico"
+    ],
+    "description": "Su cuerpo fino y plano aparece siempre en los\nmuros. Su forma parece tener algún significado.",
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "COMPROBACIÓN",
+        "effect": "Una vez durante tu turno, puedes elegir a cualquier jugador. Mira la primera carta de la baraja de ese jugador."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora"
+        ],
+        "name": "Poder Oculto",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Oscura",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-079",
+    "illustrator": "Yuriko Akase",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/079",
+    "localId": "079",
+    "name": "Sudowoodo",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      185
+    ],
+    "hp": 80,
+    "types": [
+      "Lucha"
+    ],
+    "description": "Aunque pretende ser un árbol, en su composición\nse parece más a una roca que a una planta.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Cabezazo Lucha",
+        "effect": "Si el Pokémon Activo de tu rival es un Pokémon {ex}, este ataque hace 30 puntos de daño más.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-080",
+    "illustrator": "Yukihiro Tada",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/080",
+    "localId": "080",
+    "name": "Magnemite",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      81
+    ],
+    "hp": 60,
+    "types": [
+      "Metálica"
+    ],
+    "description": "Las unidades laterales crean ondas\nelectromagnéticas que contrarrestan\nla gravedad y le permiten flotar.",
+    "stage": "Básico",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica"
+        ],
+        "name": "Placaje",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-081",
+    "illustrator": "MINAMINAMI Take",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/081",
+    "localId": "081",
+    "name": "Shaymin",
+    "rarity": "Una Estrella",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      492
+    ],
+    "hp": 70,
+    "types": [
+      "Incolora"
+    ],
+    "description": "Puede disolver las toxinas del aire para\ntransformar tierra yerma en campos de flores.",
+    "stage": "Básico",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Apoyo Aéreo",
+        "effect": "Mientras este Pokémon esté en tu Banca, el Coste de Retirada de tu Pokémon Básico Activo es de 1 menos."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Aleteo",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-082",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/082",
+    "localId": "082",
+    "name": "Leafeon ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      470
+    ],
+    "hp": 140,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Aliento del Bosque",
+        "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes unir 1 Energía {G} de tu área de Energía a uno de tus Pokémon {G}."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Rayo Solar",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-083",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/083",
+    "localId": "083",
+    "name": "Glaceon ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      471
+    ],
+    "hp": 140,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Campo Níveo",
+        "effect": "Durante el Chequeo Pokémon, si este Pokémon está en el Puesto Activo, inflige 10 puntos de daño al Pokémon Activo de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Viento Gélido",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-084",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/084",
+    "localId": "084",
+    "name": "Garchomp ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      445
+    ],
+    "hp": 170,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Ataque Lineal",
+        "effect": "Este ataque hace 50 puntos de daño a 1 de los Pokémon de tu rival."
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Garra Dragón",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-085",
+    "illustrator": "PLANETA Tsuji",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/085",
+    "localId": "085",
+    "name": "Probopass ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      476
+    ],
+    "hp": 160,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Unidad Protectora",
+        "effect": "Durante el próximo turno de tu rival, los ataques hacen -20 puntos de daño a este Pokémon.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-086",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/086",
+    "localId": "086",
+    "name": "Arceus ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      493
+    ],
+    "hp": 140,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Lustre Mítico",
+        "effect": "Este Pokémon no puede verse afectado por ninguna Condición Especial."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Fuerza Definitiva",
+        "effect": "Este ataque hace 20 puntos de daño más por cada uno de tus Pokémon en Banca.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2a-087",
+    "illustrator": "Atsushi Furusawa",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/087",
+    "localId": "087",
+    "name": "Nákara",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 40 puntos de daño a cada uno de tus Pokémon que tenga alguna Energía {W} unida a él.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2a-088",
+    "illustrator": "Yuu Nishida",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/088",
+    "localId": "088",
+    "name": "Anciana de Pueblo Caelestis",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Pon 1 Pokémon Básico aleatorio de tu pila de descartes en tu mano.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2a-089",
+    "illustrator": "Hideki Ishikawa",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/089",
+    "localId": "089",
+    "name": "Israel",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante este turno, los ataques de tu Snorlax, tu Heracross o tu Staraptor cuestan 2 Energías {C} menos.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "A2a-090",
+    "illustrator": "akagi",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/090",
+    "localId": "090",
+    "name": "Adamas",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Durante el próximo turno de tu rival, los ataques de los Pokémon de tu rival hacen -20 puntos de daño a todos tus Pokémon {M}.",
+    "trainerType": "Partidario",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-05-17T19:27:22+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-091",
+    "illustrator": "saino misaki",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/091",
+    "localId": "091",
+    "name": "Leafeon ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      470
+    ],
+    "hp": 140,
+    "types": [
+      "Planta"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Aliento del Bosque",
+        "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes unir 1 Energía {G} de tu área de Energía a uno de tus Pokémon {G}."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Planta",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Rayo Solar",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-092",
+    "illustrator": "rika",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/092",
+    "localId": "092",
+    "name": "Glaceon ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      471
+    ],
+    "hp": 140,
+    "types": [
+      "Agua"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Campo Níveo",
+        "effect": "Durante el Chequeo Pokémon, si este Pokémon está en el Puesto Activo, inflige 10 puntos de daño al Pokémon Activo de tu rival."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Agua",
+          "Agua",
+          "Incolora"
+        ],
+        "name": "Viento Gélido",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-093",
+    "illustrator": "toriyufu",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/093",
+    "localId": "093",
+    "name": "Garchomp ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      445
+    ],
+    "hp": 170,
+    "types": [
+      "Lucha"
+    ],
+    "stage": "Fase 2",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lucha"
+        ],
+        "name": "Ataque Lineal",
+        "effect": "Este ataque hace 50 puntos de daño a 1 de los Pokémon de tu rival."
+      },
+      {
+        "cost": [
+          "Lucha",
+          "Lucha",
+          "Incolora"
+        ],
+        "name": "Garra Dragón",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Planta",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-094",
+    "illustrator": "Masa",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/094",
+    "localId": "094",
+    "name": "Probopass ex",
+    "rarity": "Dos Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      476
+    ],
+    "hp": 160,
+    "types": [
+      "Metálica"
+    ],
+    "stage": "Fase 1",
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Metálica",
+          "Metálica",
+          "Incolora"
+        ],
+        "name": "Unidad Protectora",
+        "effect": "Durante el próximo turno de tu rival, los ataques hacen -20 puntos de daño a este Pokémon.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fuego",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-095",
+    "illustrator": "Takumi Wada",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/095",
+    "localId": "095",
+    "name": "Arceus ex",
+    "rarity": "Tres Estrellas",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      493
+    ],
+    "hp": 140,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Lustre Mítico",
+        "effect": "Este Pokémon no puede verse afectado por ninguna Condición Especial."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Fuerza Definitiva",
+        "effect": "Este ataque hace 20 puntos de daño más por cada uno de tus Pokémon en Banca.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "A2a-096",
+    "illustrator": "PLANETA CG Works",
+    "image": "https://assets.tcgdex.net/es/tcgp/A2a/096",
+    "localId": "096",
+    "name": "Arceus ex",
+    "rarity": "Corona",
+    "set": {
+      "cardCount": {
+        "official": 75,
+        "total": 96
+      },
+      "id": "A2a",
+      "name": "Luz Triunfal",
+      "symbol": "https://assets.tcgdex.net/univ/tcgp/A2a/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      493
+    ],
+    "hp": 140,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Habilidad",
+        "name": "Lustre Mítico",
+        "effect": "Este Pokémon no puede verse afectado por ninguna Condición Especial."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Incolora",
+          "Incolora",
+          "Incolora"
+        ],
+        "name": "Fuerza Definitiva",
+        "effect": "Este ataque hace 20 puntos de daño más por cada uno de tus Pokémon en Banca.",
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T14:10:14Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

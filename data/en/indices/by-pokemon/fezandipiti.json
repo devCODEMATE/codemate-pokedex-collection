@@ -1,0 +1,45 @@
+{
+  "name": "Fezandipiti",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv06.5-073",
+      "name": "Fezandipiti",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "073",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/073",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "sv06-096",
+      "name": "Fezandipiti",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "096",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/096",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv08.5-045",
+      "name": "Fezandipiti",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "045",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/045",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

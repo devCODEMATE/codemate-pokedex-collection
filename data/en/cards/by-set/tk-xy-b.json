@@ -1,0 +1,1729 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-1",
+    "localId": "1",
+    "name": "Fletchling",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      661
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98147,
+          "lowPrice": 0.5,
+          "midPrice": 0.75,
+          "highPrice": 47.9,
+          "marketPrice": 3.85,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-b-2",
+    "localId": "2",
+    "name": "Metal Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-b-3",
+    "localId": "3",
+    "name": "Metal Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-4",
+    "localId": "4",
+    "name": "Vigoroth",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      288
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Slakoth",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98159,
+          "lowPrice": 0.41,
+          "midPrice": 1.75,
+          "highPrice": 26.7,
+          "marketPrice": 1.56,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-b-5",
+    "localId": "5",
+    "name": "Metal Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98150,
+          "lowPrice": 0.75,
+          "midPrice": 0.75,
+          "highPrice": 0.75,
+          "marketPrice": 1,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-b-6",
+    "localId": "6",
+    "name": "Metal Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-b-7",
+    "localId": "7",
+    "name": "Metal Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98152,
+          "lowPrice": 1,
+          "midPrice": 1,
+          "highPrice": 1,
+          "marketPrice": 1,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-b-8",
+    "localId": "8",
+    "name": "Metal Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98153,
+          "lowPrice": 1,
+          "midPrice": 1,
+          "highPrice": 1,
+          "marketPrice": null,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-b-9",
+    "localId": "9",
+    "name": "Metal Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98154,
+          "lowPrice": 1,
+          "midPrice": 1,
+          "highPrice": 1,
+          "marketPrice": 1,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-b-10",
+    "localId": "10",
+    "name": "Metal Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-11",
+    "localId": "11",
+    "name": "Honedge",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      679
+    ],
+    "hp": 60,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98160,
+          "lowPrice": 14,
+          "midPrice": 19.98,
+          "highPrice": 19.98,
+          "marketPrice": 0.36,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-12",
+    "localId": "12",
+    "name": "Bidoof",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      399
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-06-13T22:58:47.763Z",
+        "normal": {
+          "productId": 98161,
+          "lowPrice": 3,
+          "midPrice": 3,
+          "highPrice": 3,
+          "marketPrice": 5.67,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-13",
+    "localId": "13",
+    "name": "Pawniard",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      624
+    ],
+    "hp": 60,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98162,
+          "lowPrice": 0.5,
+          "midPrice": 0.79,
+          "highPrice": 19.98,
+          "marketPrice": 0.55,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-14",
+    "localId": "14",
+    "name": "Doublade",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      680
+    ],
+    "hp": 80,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Honedge",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98163,
+          "lowPrice": 1.5,
+          "midPrice": 7.49,
+          "highPrice": 71.95,
+          "marketPrice": 4.05,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-15",
+    "localId": "15",
+    "name": "Slakoth",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      287
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98164,
+          "lowPrice": 3.12,
+          "midPrice": 10.5,
+          "highPrice": 19.98,
+          "marketPrice": 1,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-16",
+    "localId": "16",
+    "name": "Bisharp",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      625
+    ],
+    "hp": 90,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Pawniard",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98165,
+          "lowPrice": 0.49,
+          "midPrice": 0.99,
+          "highPrice": 19.98,
+          "marketPrice": 0.89,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-17",
+    "localId": "17",
+    "name": "Patrat",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      504
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98166,
+          "lowPrice": 0.99,
+          "midPrice": 0.99,
+          "highPrice": 15,
+          "marketPrice": 0.2,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-b-18",
+    "localId": "18",
+    "name": "Metal Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-b-19",
+    "localId": "19",
+    "name": "Tierno",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Draw 3 cards.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98167,
+          "lowPrice": 0.29,
+          "midPrice": 0.42,
+          "highPrice": 19.98,
+          "marketPrice": 0.39,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-b-20",
+    "localId": "20",
+    "name": "Trevor",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98168,
+          "lowPrice": 0.99,
+          "midPrice": 2.38,
+          "highPrice": 37.9,
+          "marketPrice": 1.25,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-21",
+    "localId": "21",
+    "name": "Pawniard",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      624
+    ],
+    "hp": 60,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98169,
+          "lowPrice": 0.72,
+          "midPrice": 2.7,
+          "highPrice": 19.98,
+          "marketPrice": 0.58,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-b-22",
+    "localId": "22",
+    "name": "Metal Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-23",
+    "localId": "23",
+    "name": "Doublade",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      680
+    ],
+    "hp": 80,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Honedge",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98170,
+          "lowPrice": 1.98,
+          "midPrice": 4,
+          "highPrice": 79.8,
+          "marketPrice": 4,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-b-24",
+    "localId": "24",
+    "name": "Metal Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": true,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-b-25",
+    "localId": "25",
+    "name": "Potion",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Heal 30 damage from 1 of your Pokémon.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98171,
+          "lowPrice": 1,
+          "midPrice": 1.99,
+          "highPrice": 33,
+          "marketPrice": 1.99,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-26",
+    "localId": "26",
+    "name": "Slakoth",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      287
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98173,
+          "lowPrice": 5.99,
+          "midPrice": 27.2,
+          "highPrice": 61,
+          "marketPrice": 4.79,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-27",
+    "localId": "27",
+    "name": "Honedge",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      679
+    ],
+    "hp": 60,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98174,
+          "lowPrice": 1.35,
+          "midPrice": 2.27,
+          "highPrice": 39,
+          "marketPrice": 2.59,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-28",
+    "localId": "28",
+    "name": "Vigoroth",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      288
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Slakoth",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98175,
+          "lowPrice": 0.9,
+          "midPrice": 1,
+          "highPrice": 28.1,
+          "marketPrice": 0.94,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-b-29",
+    "localId": "29",
+    "name": "Potion",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Heal 30 damage from 1 of your Pokémon.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98172,
+          "lowPrice": 0.16,
+          "midPrice": 0.79,
+          "highPrice": 0.99,
+          "marketPrice": 0.8,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-b-30",
+    "localId": "30",
+    "name": "Bisharp",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-b",
+      "name": "XY trainer Kit (Bisharp)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      625
+    ],
+    "hp": 90,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": "Pawniard",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "holofoil": {
+          "productId": 98176,
+          "lowPrice": 0.4,
+          "midPrice": 0.94,
+          "highPrice": 19.98,
+          "marketPrice": 0.79,
+          "directLowPrice": null
+        }
+      }
+    }
+  }
+]

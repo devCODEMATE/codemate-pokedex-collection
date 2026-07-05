@@ -1,0 +1,28 @@
+{
+  "name": "Superball",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "bw2-93",
+      "name": "Superball",
+      "set": "bw2",
+      "setName": "Fuerzas Emergentes",
+      "number": "93",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw2/93",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "bw7-129",
+      "name": "Superball",
+      "set": "bw7",
+      "setName": "Fronteras Cruzadas",
+      "number": "129",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw7/129",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

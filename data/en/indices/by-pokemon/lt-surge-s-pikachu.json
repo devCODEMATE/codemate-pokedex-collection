@@ -1,0 +1,32 @@
+{
+  "name": "Lt. Surge's Pikachu",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym1-81",
+      "name": "Lt. Surge's Pikachu",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "81",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/81",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym2-84",
+      "name": "Lt. Surge's Pikachu",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "84",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/84",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Atsuko Nishida"
+    }
+  ]
+}

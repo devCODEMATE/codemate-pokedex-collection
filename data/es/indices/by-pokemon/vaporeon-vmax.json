@@ -1,0 +1,32 @@
+{
+  "name": "Vaporeon VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh7-30",
+      "name": "Vaporeon VMAX",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "30",
+      "rarity": "Holo Rara VMAX",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/30",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swshp-SWSH182",
+      "name": "Vaporeon VMAX",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH182",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH182",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": null
+    }
+  ]
+}

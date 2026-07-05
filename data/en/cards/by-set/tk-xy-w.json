@@ -1,0 +1,1836 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-1",
+    "localId": "1",
+    "name": "Swirlix",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      684
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98177,
+          "lowPrice": 4.2,
+          "midPrice": 15,
+          "highPrice": 55.5,
+          "marketPrice": 5,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-2",
+    "localId": "2",
+    "name": "Pidgeotto",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      17
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Pidgey",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98178,
+          "lowPrice": 1.18,
+          "midPrice": 1.9,
+          "highPrice": 38,
+          "marketPrice": 4,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-w-3",
+    "localId": "3",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-03T22:58:48.031Z",
+        "normal": {
+          "productId": 98179,
+          "lowPrice": 10.86,
+          "midPrice": 10.86,
+          "highPrice": 10.86,
+          "marketPrice": 3,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-4",
+    "localId": "4",
+    "name": "Sentret",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      161
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98190,
+          "lowPrice": 1.5,
+          "midPrice": 2.75,
+          "highPrice": 29.5,
+          "marketPrice": 2.08,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-w-5",
+    "localId": "5",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-w-6",
+    "localId": "6",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-06-23T22:58:56.946Z",
+        "normal": {
+          "productId": 98181,
+          "lowPrice": 0.5,
+          "midPrice": 0.5,
+          "highPrice": 0.5,
+          "marketPrice": 1,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-w-7",
+    "localId": "7",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-w-8",
+    "localId": "8",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-06-09T22:58:49.840Z",
+        "normal": {
+          "productId": 98183,
+          "lowPrice": 1.5,
+          "midPrice": 1.5,
+          "highPrice": 1.5,
+          "marketPrice": 1.99,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-w-9",
+    "localId": "9",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-03T22:58:48.031Z",
+        "normal": {
+          "productId": 98184,
+          "lowPrice": 10.86,
+          "midPrice": 10.86,
+          "highPrice": 10.86,
+          "marketPrice": 1.35,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-w-10",
+    "localId": "10",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-11",
+    "localId": "11",
+    "name": "Pidgey",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      16
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98191,
+          "lowPrice": 3.72,
+          "midPrice": 12.25,
+          "highPrice": 136,
+          "marketPrice": 10.85,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-12",
+    "localId": "12",
+    "name": "Jigglypuff",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      39
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-06-28T22:58:47.827Z",
+        "normal": {
+          "productId": 98192,
+          "lowPrice": 5,
+          "midPrice": 5,
+          "highPrice": 5,
+          "marketPrice": 5.94,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-13",
+    "localId": "13",
+    "name": "Clefairy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      35
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98193,
+          "lowPrice": 5.3,
+          "midPrice": 37.05,
+          "highPrice": 68.8,
+          "marketPrice": 10,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-14",
+    "localId": "14",
+    "name": "Wigglytuff",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      40
+    ],
+    "hp": 100,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": "Jigglypuff",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98194,
+          "lowPrice": 15,
+          "midPrice": 15,
+          "highPrice": 15,
+          "marketPrice": 6.32,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-w-15",
+    "localId": "15",
+    "name": "Potion",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Heal 30 damage from 1 of your Pokémon.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98196,
+          "lowPrice": 0.25,
+          "midPrice": 0.35,
+          "highPrice": 19.98,
+          "marketPrice": 0.44,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-16",
+    "localId": "16",
+    "name": "Clefable",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      36
+    ],
+    "hp": 90,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": "Clefairy",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98195,
+          "lowPrice": 0.99,
+          "midPrice": 1.5,
+          "highPrice": 8.49,
+          "marketPrice": 3.87,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-w-17",
+    "localId": "17",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98186,
+          "lowPrice": 5,
+          "midPrice": 5,
+          "highPrice": 5,
+          "marketPrice": 1.35,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-18",
+    "localId": "18",
+    "name": "Swirlix",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      684
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98198,
+          "lowPrice": 7.9,
+          "midPrice": 15.75,
+          "highPrice": 50,
+          "marketPrice": 5.85,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-19",
+    "localId": "19",
+    "name": "Clefairy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      35
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98199,
+          "lowPrice": 2.25,
+          "midPrice": 2.25,
+          "highPrice": 2.25,
+          "marketPrice": 6.66,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-w-20",
+    "localId": "20",
+    "name": "Potion",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Heal 30 damage from 1 of your Pokémon.",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98197,
+          "lowPrice": 0.1,
+          "midPrice": 0.79,
+          "highPrice": 19.98,
+          "marketPrice": 1,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-w-21",
+    "localId": "21",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-03T22:58:48.031Z",
+        "normal": {
+          "productId": 98187,
+          "lowPrice": 10.86,
+          "midPrice": 10.86,
+          "highPrice": 10.86,
+          "marketPrice": null,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-w-22",
+    "localId": "22",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-03T22:58:48.031Z",
+        "normal": {
+          "productId": 98188,
+          "lowPrice": 10.86,
+          "midPrice": 10.86,
+          "highPrice": 10.86,
+          "marketPrice": 1.35,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-23",
+    "localId": "23",
+    "name": "Pidgeotto",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      17
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Pidgey",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98200,
+          "lowPrice": 3,
+          "midPrice": 28.99,
+          "highPrice": 61.1,
+          "marketPrice": 6.11,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-w-24",
+    "localId": "24",
+    "name": "Trevor",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98201,
+          "lowPrice": 0.93,
+          "midPrice": 1.9,
+          "highPrice": 43.3,
+          "marketPrice": 2.42,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-25",
+    "localId": "25",
+    "name": "Jigglypuff",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      39
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-06-11T22:58:49.180Z",
+        "normal": {
+          "productId": 98202,
+          "lowPrice": 30.99,
+          "midPrice": 30.99,
+          "highPrice": 30.99,
+          "marketPrice": 6.01,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "tk-xy-w-26",
+    "localId": "26",
+    "name": "Tierno",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Draw 3 cards.",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98203,
+          "lowPrice": 0.35,
+          "midPrice": 18.74,
+          "highPrice": 119.82,
+          "marketPrice": 0.4,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energy",
+    "id": "tk-xy-w-27",
+    "localId": "27",
+    "name": "Fairy Energy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98189,
+          "lowPrice": 1,
+          "midPrice": 1,
+          "highPrice": 1,
+          "marketPrice": 1.06,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-28",
+    "localId": "28",
+    "name": "Clefable",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      36
+    ],
+    "hp": 90,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": "Clefairy",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "normal": {
+          "productId": 98204,
+          "lowPrice": 19,
+          "midPrice": 19.98,
+          "highPrice": 19.98,
+          "marketPrice": 4.53,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-29",
+    "localId": "29",
+    "name": "Pidgey",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      16
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-06-23T22:58:56.946Z",
+        "normal": {
+          "productId": 98205,
+          "lowPrice": 7.3,
+          "midPrice": 7.3,
+          "highPrice": 7.3,
+          "marketPrice": 4.15,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "tk-xy-w-30",
+    "localId": "30",
+    "name": "Wigglytuff",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-w",
+      "name": "XY trainer Kit (Wigglytuff)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      40
+    ],
+    "hp": 100,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": "Jigglypuff",
+    "stage": "Stage1",
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.887Z",
+        "holofoil": {
+          "productId": 98206,
+          "lowPrice": 2,
+          "midPrice": 18.5,
+          "highPrice": 32.9,
+          "marketPrice": 2.18,
+          "directLowPrice": null
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "name": "Salamence",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm7-106",
+      "name": "Salamence",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "106",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/106",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "smp-SM140",
+      "name": "Salamence",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM140",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "swsh7-109",
+      "name": "Salamence",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "109",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/109",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "xy6-57",
+      "name": "Salamence",
+      "set": "xy6",
+      "setName": "Cielos Rugientes",
+      "number": "57",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/xy/xy6/57",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "TOKIYA"
+    }
+  ]
+}

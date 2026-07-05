@@ -1,0 +1,39 @@
+{
+  "name": "Malta",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh5-123",
+      "name": "Malta",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "123",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/123",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "swsh5-159",
+      "name": "Malta",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "159",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/159",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "swsh5-173",
+      "name": "Malta",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "173",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/173",
+      "types": null,
+      "illustrator": "Yuu Nishida"
+    }
+  ]
+}

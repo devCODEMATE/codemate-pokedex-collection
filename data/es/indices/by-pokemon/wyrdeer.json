@@ -1,0 +1,45 @@
+{
+  "name": "Wyrdeer",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh10-069",
+      "name": "Wyrdeer",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "069",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/069",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh10-TG06",
+      "name": "Wyrdeer",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "TG06",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/TG06",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH206",
+      "name": "Wyrdeer",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH206",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": null
+    }
+  ]
+}

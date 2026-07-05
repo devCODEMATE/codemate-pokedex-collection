@@ -1,0 +1,97 @@
+{
+  "name": "Crocalor",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "B2a-017",
+      "name": "Crocalor",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "017",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "kantaro"
+    },
+    {
+      "id": "sv01-037",
+      "name": "Crocalor",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "037",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/037",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "kantaro"
+    },
+    {
+      "id": "sv02-036",
+      "name": "Crocalor",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "036",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/036",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "sv02-202",
+      "name": "Crocalor",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "202",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/202",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "kantaro"
+    },
+    {
+      "id": "sv04-024",
+      "name": "Crocalor",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "024",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/024",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Pani Kobayashi"
+    },
+    {
+      "id": "sv08-030",
+      "name": "Crocalor",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "030",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/030",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Atsuya Uki"
+    },
+    {
+      "id": "svp-080",
+      "name": "Crocalor",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "080",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/080",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Hideki Ishikawa"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Pokéchica",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh1-173",
+      "name": "Pokéchica",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "173",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/173",
+      "types": null,
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "swsh4.5-70",
+      "name": "Pokéchica",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "70",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/70",
+      "types": null,
+      "illustrator": "Sanosuke Sakuma"
+    }
+  ]
+}

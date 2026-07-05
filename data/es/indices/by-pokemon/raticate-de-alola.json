@@ -1,0 +1,45 @@
+{
+  "name": "Raticate de Alola",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm1-77",
+      "name": "Raticate de Alola",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "77",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/77",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "sm3-82",
+      "name": "Raticate de Alola",
+      "set": "sm3",
+      "setName": "Sombras Ardientes",
+      "number": "82",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm3/82",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh10.5-042",
+      "name": "Raticate de Alola",
+      "set": "swsh10.5",
+      "setName": "Pokémon GO",
+      "number": "042",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10.5/042",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": null
+    }
+  ]
+}

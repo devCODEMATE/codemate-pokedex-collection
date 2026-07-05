@@ -1,0 +1,305 @@
+{
+  "name": "Nurikabe",
+  "totalCards": 23,
+  "cards": [
+    {
+      "id": "A1-055",
+      "name": "Blastoise",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "055",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/055",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "A1-233",
+      "name": "Gyarados",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "233",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/233",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "A1-282",
+      "name": "Mewtwo ex",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "282",
+      "rarity": "Tres Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/282",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "A1a-071",
+      "name": "Salandit",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "071",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/071",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "A2-198",
+      "name": "Pachirisu ex",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "198",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/198",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "A2a-070",
+      "name": "Arceus",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "070",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/070",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "A3-202",
+      "name": "Wishiwashi ex",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "202",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/202",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "me01-140",
+      "name": "Snover",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "140",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me01/140",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "me03-038",
+      "name": "Probopass",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "038",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me03/038",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv01-114",
+      "name": "Lucario",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "114",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/114",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv01-216",
+      "name": "Sandile",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "216",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/216",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv02-222",
+      "name": "Tyranitar",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "222",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/222",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv03.5-077",
+      "name": "Ponyta",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "077",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/077",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv03.5-078",
+      "name": "Rapidash",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "078",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/078",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv04-199",
+      "name": "Groudon",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "199",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/199",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv05-115",
+      "name": "Metagross",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "115",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/115",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv07-123",
+      "name": "Talonflame",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "123",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/123",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv07-127",
+      "name": "Cyclizar",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "127",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/127",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv08.5-146",
+      "name": "Flareon ex",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "146",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/146",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv08-069",
+      "name": "Miraidon",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "069",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/069",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv10.5w-071",
+      "name": "Druddigon",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "071",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/071",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv10.5w-148",
+      "name": "Ferroseed",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "148",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/148",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Nurikabe"
+    },
+    {
+      "id": "sv10-070",
+      "name": "Zapdos del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "070",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/070",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Nurikabe"
+    }
+  ]
+}

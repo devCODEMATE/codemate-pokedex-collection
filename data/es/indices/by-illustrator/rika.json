@@ -1,0 +1,355 @@
+{
+  "name": "rika",
+  "totalCards": 27,
+  "cards": [
+    {
+      "id": "A1a-070",
+      "name": "Serperior",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "070",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/070",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "A2-043",
+      "name": "Lumineon",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "043",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/043",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "A2-168",
+      "name": "Cresselia",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "168",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/168",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "A2a-029",
+      "name": "Clefairy",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "029",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/029",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "A2a-092",
+      "name": "Glaceon ex",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "092",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/092",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "me02.5-154",
+      "name": "Reshiram de N",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "154",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/154",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv03.5-181",
+      "name": "Dragonair",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "181",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/181",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv03-130",
+      "name": "Umbreon",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "130",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/130",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv04.5-017",
+      "name": "Frigibax",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "017",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/017",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv04-189",
+      "name": "Mantyke",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "189",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/189",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv04-254",
+      "name": "Melo",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "254",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/254",
+      "types": null,
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv05-046",
+      "name": "Frosmoth",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "046",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/046",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv06.5-030",
+      "name": "Absol",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "030",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/030",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv06-054",
+      "name": "Glaceon",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "054",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/054",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv07-031",
+      "name": "Lapras",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "031",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/031",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv07-147",
+      "name": "Raboot",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "147",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/147",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv08.5-025",
+      "name": "Glaceon",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "025",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/025",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv08-055",
+      "name": "Ferrosaco",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "055",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/055",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv08-134",
+      "name": "Altaria",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "134",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/134",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv09-107",
+      "name": "Magearna",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "107",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/107",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv09-116",
+      "name": "Reshiram de N",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "116",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/116",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv10.5b-111",
+      "name": "Cryogonal",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "111",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/111",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv10.5w-021",
+      "name": "Oshawott",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "021",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/021",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv10.5w-022",
+      "name": "Dewott",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "022",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/022",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv10.5w-023",
+      "name": "Samurott",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "023",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/023",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv10-067",
+      "name": "Ogerpon Máscara Fuente",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "067",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/067",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "sv10-184",
+      "name": "Roserade de Cintia",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "184",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/184",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "rika"
+    }
+  ]
+}

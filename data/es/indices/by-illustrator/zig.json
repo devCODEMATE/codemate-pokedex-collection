@@ -1,0 +1,32 @@
+{
+  "name": "zig",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv01-094",
+      "name": "Dedenne",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "094",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/094",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "zig"
+    },
+    {
+      "id": "sv01-208",
+      "name": "Pachirisu",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "208",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/208",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "zig"
+    }
+  ]
+}

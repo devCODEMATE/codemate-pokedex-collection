@@ -1,0 +1,58 @@
+{
+  "name": "Mewtwo y Mew GX",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm11-222",
+      "name": "Mewtwo y Mew GX",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "222",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/222",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm11-242",
+      "name": "Mewtwo y Mew GX",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "242",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/242",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm11-71",
+      "name": "Mewtwo y Mew GX",
+      "set": "sm11",
+      "setName": "Mentes Unidas",
+      "number": "71",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm11/71",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "smp-SM191",
+      "name": "Mewtwo y Mew GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM191",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sui"
+    }
+  ]
+}

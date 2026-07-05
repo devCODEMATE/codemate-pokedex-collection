@@ -1,0 +1,45 @@
+{
+  "name": "Wo-Chien",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "B2a-015",
+      "name": "Wo-Chien",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "015",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv04-018",
+      "name": "Wo-Chien",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "018",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/018",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv08-015",
+      "name": "Wo-Chien",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "015",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/015",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "danciao"
+    }
+  ]
+}

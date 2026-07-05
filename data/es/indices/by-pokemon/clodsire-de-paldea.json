@@ -1,0 +1,45 @@
+{
+  "name": "Clodsire de Paldea",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "B2a-065",
+      "name": "Clodsire de Paldea",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "065",
+      "rarity": "Dos Diamantes",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sv03-128",
+      "name": "Clodsire de Paldea",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "128",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/128",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv03-129",
+      "name": "Clodsire de Paldea",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "129",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/129",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

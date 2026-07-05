@@ -1,0 +1,95 @@
+{
+  "name": "Yoshioka",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "A1a-006",
+      "name": "Serperior",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "006",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yoshioka"
+    },
+    {
+      "id": "me03-019",
+      "name": "Dewgong",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "019",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me03/019",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yoshioka"
+    },
+    {
+      "id": "sv03-029",
+      "name": "Ninetales",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "029",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/029",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Yoshioka"
+    },
+    {
+      "id": "sv04-115",
+      "name": "Liepard",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "115",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/115",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Yoshioka"
+    },
+    {
+      "id": "sv05-090",
+      "name": "Lycanroc",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "090",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/090",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yoshioka"
+    },
+    {
+      "id": "sv10.5b-150",
+      "name": "Unfezant",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "150",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/150",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Yoshioka"
+    },
+    {
+      "id": "sv10-237",
+      "name": "Atenea del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "237",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/237",
+      "types": null,
+      "illustrator": "Yoshioka"
+    }
+  ]
+}

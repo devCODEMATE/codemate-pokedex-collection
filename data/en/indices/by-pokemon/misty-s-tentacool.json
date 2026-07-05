@@ -1,0 +1,32 @@
+{
+  "name": "Misty's Tentacool",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym1-32",
+      "name": "Misty's Tentacool",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "32",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/32",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym1-57",
+      "name": "Misty's Tentacool",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/57",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

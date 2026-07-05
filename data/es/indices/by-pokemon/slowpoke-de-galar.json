@@ -1,0 +1,45 @@
+{
+  "name": "Slowpoke de Galar",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh5-54",
+      "name": "Slowpoke de Galar",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "54",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/54",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh6-54",
+      "name": "Slowpoke de Galar",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "54",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/54",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "swshp-SWSH126",
+      "name": "Slowpoke de Galar",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH126",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH126",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "sowsow"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Yamask de Galar",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh2-101",
+      "name": "Yamask de Galar",
+      "set": "swsh2",
+      "setName": "Choque Rebelde",
+      "number": "101",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh2/101",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "swsh4.5-SV065",
+      "name": "Yamask de Galar",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV065",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV065",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "swsh6-82",
+      "name": "Yamask de Galar",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "82",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/82",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    }
+  ]
+}

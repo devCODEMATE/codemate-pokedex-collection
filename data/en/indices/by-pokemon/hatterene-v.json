@@ -1,0 +1,32 @@
+{
+  "name": "Hatterene V",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh12.5-065",
+      "name": "Hatterene V",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "065",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/065",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH055",
+      "name": "Hatterene V",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH055",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH055",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    }
+  ]
+}

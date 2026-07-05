@@ -1,0 +1,45 @@
+{
+  "name": "Hisuian Basculin",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh10-043",
+      "name": "Hisuian Basculin",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "043",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/043",
+      "types": [
+        "Water"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh11-044",
+      "name": "Hisuian Basculin",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "044",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/044",
+      "types": [
+        "Water"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH273",
+      "name": "Hisuian Basculin",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH273",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH273",
+      "types": [
+        "Water"
+      ],
+      "illustrator": null
+    }
+  ]
+}

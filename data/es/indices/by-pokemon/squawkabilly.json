@@ -1,0 +1,58 @@
+{
+  "name": "Squawkabilly",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "B2a-083",
+      "name": "Squawkabilly",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "083",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "sv01-162",
+      "name": "Squawkabilly",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "162",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/162",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "sv09-141",
+      "name": "Squawkabilly",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "141",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/141",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "sv10-160",
+      "name": "Squawkabilly",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "160",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/160",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Julie Hang"
+    }
+  ]
+}

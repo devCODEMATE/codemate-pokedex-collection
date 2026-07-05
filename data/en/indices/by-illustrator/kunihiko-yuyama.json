@@ -1,0 +1,32 @@
+{
+  "name": "Kunihiko Yuyama",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "basep-18",
+      "name": "Team Rocket's Meowth",
+      "set": "basep",
+      "setName": "Wizards Black Star Promos",
+      "number": "18",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/basep/18",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kunihiko Yuyama"
+    },
+    {
+      "id": "dpp-DP50",
+      "name": "Arceus",
+      "set": "dpp",
+      "setName": "DP Black Star Promos",
+      "number": "DP50",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dpp/DP50",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kunihiko Yuyama"
+    }
+  ]
+}

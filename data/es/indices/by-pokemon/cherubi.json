@@ -1,0 +1,84 @@
+{
+  "name": "Cherubi",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A2a-006",
+      "name": "Cherubi",
+      "set": "A2a",
+      "setName": "Luz Triunfal",
+      "number": "006",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2a/006",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "bw8-6",
+      "name": "Cherubi",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "6",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/6",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm5-10",
+      "name": "Cherubi",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "10",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/10",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Asako Ito"
+    },
+    {
+      "id": "swsh12.5-011",
+      "name": "Cherubi",
+      "set": "swsh12.5",
+      "setName": "Cenit Supremo",
+      "number": "011",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh12.5/011",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh5-7",
+      "name": "Cherubi",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "7",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/7",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "swsh9-012",
+      "name": "Cherubi",
+      "set": "swsh9",
+      "setName": "Astros Brillantes",
+      "number": "012",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh9/012",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    }
+  ]
+}

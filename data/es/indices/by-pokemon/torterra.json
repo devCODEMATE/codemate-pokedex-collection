@@ -1,0 +1,71 @@
+{
+  "name": "Torterra",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "A2-012",
+      "name": "Torterra",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "012",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/012",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "bw8-3",
+      "name": "Torterra",
+      "set": "bw8",
+      "setName": "Tormenta Plasma",
+      "number": "3",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/bw/bw8/3",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm5-9",
+      "name": "Torterra",
+      "set": "sm5",
+      "setName": "Ultraprisma",
+      "number": "9",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm5/9",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "sm6-58",
+      "name": "Torterra",
+      "set": "sm6",
+      "setName": "Luz Prohibida",
+      "number": "58",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm6/58",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "swsh9-008",
+      "name": "Torterra",
+      "set": "swsh9",
+      "setName": "Astros Brillantes",
+      "number": "008",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh9/008",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": null
+    }
+  ]
+}

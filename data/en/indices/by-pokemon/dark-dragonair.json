@@ -1,0 +1,59 @@
+{
+  "name": "Dark Dragonair",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "base5-33",
+      "name": "Dark Dragonair",
+      "set": "base5",
+      "setName": "Team Rocket",
+      "number": "33",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base5/33",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "ex7-31",
+      "name": "Dark Dragonair",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "31",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/31",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Emi Miwa"
+    },
+    {
+      "id": "ex7-32",
+      "name": "Dark Dragonair",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "32",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/32",
+      "types": [
+        "Darkness",
+        "Darkness"
+      ],
+      "illustrator": "Tomoaki Imakuni"
+    },
+    {
+      "id": "lc-38",
+      "name": "Dark Dragonair",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "38",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/lc/lc/38",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    }
+  ]
+}

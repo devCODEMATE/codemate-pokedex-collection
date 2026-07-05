@@ -1,0 +1,32 @@
+{
+  "name": "Hisuian Braviary",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh10-132",
+      "name": "Hisuian Braviary",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "132",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/132",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh12-149",
+      "name": "Hisuian Braviary",
+      "set": "swsh12",
+      "setName": "Silver Tempest",
+      "number": "149",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12/149",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": null
+    }
+  ]
+}

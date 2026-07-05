@@ -1,0 +1,58 @@
+{
+  "name": "Arai Kiriko",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "me01-145",
+      "name": "Houndstone",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "145",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me01/145",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Arai Kiriko"
+    },
+    {
+      "id": "mep-027",
+      "name": "Haunter",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "027",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Arai Kiriko"
+    },
+    {
+      "id": "sv03.5-120",
+      "name": "Staryu",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "120",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/120",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Arai Kiriko"
+    },
+    {
+      "id": "sv03.5-121",
+      "name": "Starmie",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "121",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/121",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Arai Kiriko"
+    }
+  ]
+}

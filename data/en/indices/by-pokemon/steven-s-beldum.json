@@ -1,0 +1,32 @@
+{
+  "name": "Steven's Beldum",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv10-143",
+      "name": "Steven's Beldum",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "143",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/143",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Takeshi Nakamura"
+    },
+    {
+      "id": "svp-207",
+      "name": "Steven's Beldum",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "207",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/207",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "hncl"
+    }
+  ]
+}

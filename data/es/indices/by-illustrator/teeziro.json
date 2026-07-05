@@ -1,0 +1,1096 @@
+{
+  "name": "Teeziro",
+  "totalCards": 86,
+  "cards": [
+    {
+      "id": "2022swsh-5",
+      "name": "Victini",
+      "set": "2022swsh",
+      "setName": "Colección de McDonald's 2022",
+      "number": "5",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "2024sv-10",
+      "name": "Hydreigon",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "10",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "2024sv-6",
+      "name": "Dragapult",
+      "set": "2024sv",
+      "setName": "Colección de McDonald's 2024",
+      "number": "6",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A1-033",
+      "name": "Charmander",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "033",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/033",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A1-051",
+      "name": "Sizzlipede",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "051",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/051",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A1-239",
+      "name": "Cubone",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "239",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/239",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A1a-048",
+      "name": "Stonjourner",
+      "set": "A1a",
+      "setName": "La Isla Singular",
+      "number": "048",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1a/048",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A2-040",
+      "name": "Shellos",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "040",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/040",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A2-171",
+      "name": "Hippopotas",
+      "set": "A2",
+      "setName": "Pugna Espaciotemporal",
+      "number": "171",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2/171",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A2b-071",
+      "name": "Rojo",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "071",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/071",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A2b-076",
+      "name": "Grafaiai",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "076",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/076",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A2b-090",
+      "name": "Rojo",
+      "set": "A2b",
+      "setName": "Festival Brillante",
+      "number": "090",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A2b/090",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A3-149",
+      "name": "Liam",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "149",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/149",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A3-173",
+      "name": "Mudsdale",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "173",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/173",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A3-191",
+      "name": "Liam",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "191",
+      "rarity": "Dos Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/191",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "me01-095",
+      "name": "Dialga",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "095",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me01/095",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "me01-139",
+      "name": "Litleo",
+      "set": "me01",
+      "setName": "Megaevolución",
+      "number": "139",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/me/me01/139",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "me02.5-081",
+      "name": "Togetic",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "081",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/081",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "me02.5-148",
+      "name": "Kingambit",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "148",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/148",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "me02.5-214",
+      "name": "Urbi",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "214",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/214",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "me02.5-275",
+      "name": "Mega-Froslass ex",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "275",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/275",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "me03-067",
+      "name": "Furfrou",
+      "set": "me03",
+      "setName": "Equilibrio Perfecto",
+      "number": "067",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me03/067",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "me04-117",
+      "name": "Mega-Floette ex",
+      "set": "me04",
+      "setName": "Caos Creciente",
+      "number": "117",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/me/me04/117",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "mep-022",
+      "name": "Charcadet",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "022",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv01-154",
+      "name": "Lechonk",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "154",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/154",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv01-222",
+      "name": "Skwovet",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "222",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/222",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv02-064",
+      "name": "Raichu",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "064",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/064",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv02-131",
+      "name": "Murkrow",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "131",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/131",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv02-140",
+      "name": "Hydreigon",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "140",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/140",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv02-214",
+      "name": "Sandygast",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "214",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/214",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv03.5-029",
+      "name": "Nidoran♀",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "029",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/029",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv03.5-030",
+      "name": "Nidorina",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "030",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/030",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv03.5-031",
+      "name": "Nidoqueen",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "031",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/031",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv03.5-172",
+      "name": "Caterpie",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "172",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/172",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv04.5-025",
+      "name": "Natu",
+      "set": "sv04.5",
+      "setName": "Destinos de Paldea",
+      "number": "025",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04.5/025",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv04-081",
+      "name": "Espathra",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "081",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/081",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv04-082",
+      "name": "Tinkatink",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "082",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/082",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv05-119",
+      "name": "Koraidon",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "119",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/119",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv05-129",
+      "name": "Dudunsparce",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "129",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/129",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv05-204",
+      "name": "Flamariete ex",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "204",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/204",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv05-205",
+      "name": "Ondulagua ex",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "205",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/205",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv05-208",
+      "name": "Electrofuria ex",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "208",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/208",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv06.5-028",
+      "name": "Golbat",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "028",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/028",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv06.5-072",
+      "name": "Munkidori",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "072",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/072",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv06-030",
+      "name": "Torkoal",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "030",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/030",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv06-075",
+      "name": "Wattrel",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "075",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/075",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv06-126",
+      "name": "Applin",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "126",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/126",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv06-218",
+      "name": "Cass",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "218",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/218",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv07-057",
+      "name": "Slowpoke",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "057",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/057",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv07-121",
+      "name": "Fletchling",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "121",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/121",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv07-167",
+      "name": "Hydrapple ex",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "167",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/167",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv08.5-080",
+      "name": "Dudunsparce",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "080",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/080",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv08.5-123",
+      "name": "Investigación de Profesores",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "123",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/123",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv08.5-124",
+      "name": "Investigación de Profesores",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "124",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/124",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv08.5-125",
+      "name": "Investigación de Profesores",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "125",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/125",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv08.5-141",
+      "name": "Gus",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "141",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/141",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv08-043",
+      "name": "Spheal",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "043",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/043",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv08-071",
+      "name": "Togetic",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "071",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/071",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv08-105",
+      "name": "Vibrava",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "105",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/105",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv08-111",
+      "name": "Passimian",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "111",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/111",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv09-146",
+      "name": "Exploración de Brock",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "146",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/146",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv09-179",
+      "name": "Exploración de Brock",
+      "set": "sv09",
+      "setName": "Juntos de Aventuras",
+      "number": "179",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv09/179",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv10.5w-011",
+      "name": "Tepig",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "011",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/011",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv10.5w-012",
+      "name": "Pignite",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "012",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/012",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv10.5w-013",
+      "name": "Emboar",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "013",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/013",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv10.5w-083",
+      "name": "Arlequín",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "083",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/083",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv10.5w-146",
+      "name": "Deino",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "146",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/146",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv10.5w-163",
+      "name": "Arlequín",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "163",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/163",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv10-072",
+      "name": "Mareep del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "072",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/072",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv10-113",
+      "name": "Arbok del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "113",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/113",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sv10-132",
+      "name": "Scraggy de Roxy",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "132",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/132",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "svp-064",
+      "name": "Arctibax",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "064",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/064",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "svp-066",
+      "name": "Ferrosaco",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "066",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/066",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh6-111",
+      "name": "Aggron",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "111",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/111",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh6-66",
+      "name": "Golurk",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "66",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/66",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh6-87",
+      "name": "Lycanroc",
+      "set": "swsh6",
+      "setName": "Reinado Escalofriante",
+      "number": "87",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh6/87",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh7-189",
+      "name": "Umbreon V",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "189",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/189",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh7-20",
+      "name": "Victini",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "20",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/20",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh7-32",
+      "name": "Lotad",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "32",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/32",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh7-46",
+      "name": "Wishiwashi",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "46",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/46",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh8-102",
+      "name": "Zeraora",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "102",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/102",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh8-128",
+      "name": "Dreepy",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "128",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/128",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh8-179",
+      "name": "Morpeko",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "179",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/179",
+      "types": [
+        "Oscura"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh8-188",
+      "name": "Meltan",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "188",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/188",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh8-245",
+      "name": "Celebi V",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "245",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/245",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swshp-SWSH115",
+      "name": "Passimian",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH115",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH115",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Teeziro"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Regidrago",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh10-118",
+      "name": "Regidrago",
+      "set": "swsh10",
+      "setName": "Resplandor Astral",
+      "number": "118",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh10/118",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh7-124",
+      "name": "Regidrago",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "124",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/124",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

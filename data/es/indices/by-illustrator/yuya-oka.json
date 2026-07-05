@@ -1,0 +1,396 @@
+{
+  "name": "Yuya Oka",
+  "totalCards": 30,
+  "cards": [
+    {
+      "id": "2023sv-10",
+      "name": "Sandaconda",
+      "set": "2023sv",
+      "setName": "Colección de McDonald's 2023",
+      "number": "10",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "A1-199",
+      "name": "Doduo",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "199",
+      "rarity": "Un Diamante",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/199",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "me02.5-146",
+      "name": "Pawniard",
+      "set": "me02.5",
+      "setName": "Héroes Ascendentes",
+      "number": "146",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/me/me02.5/146",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv01-120",
+      "name": "Sandaconda",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "120",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/120",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv01-146",
+      "name": "Zangoose",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "146",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/146",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv02-043",
+      "name": "Gyarados",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "043",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/043",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv02-115",
+      "name": "Toxicroak",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "115",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/115",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv02-162",
+      "name": "Slaking",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "162",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/162",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv03.5-127",
+      "name": "Pinsir",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "127",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03.5/127",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv03-035",
+      "name": "Darmanitan",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "035",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/035",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv03-165",
+      "name": "Kangaskhan",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "165",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/165",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv03-174",
+      "name": "Bouffalant",
+      "set": "sv03",
+      "setName": "Llamas Obsidianas",
+      "number": "174",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv03/174",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv04-021",
+      "name": "Simisear",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "021",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/021",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv04-105",
+      "name": "Klawf",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "105",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/105",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv05-054",
+      "name": "Electivire",
+      "set": "sv05",
+      "setName": "Fuerzas Temporales",
+      "number": "054",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv05/054",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv06.5-011",
+      "name": "Seadra",
+      "set": "sv06.5",
+      "setName": "Fabula Sombría",
+      "number": "011",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv06.5/011",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv08-056",
+      "name": "Chien-Pao",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "056",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/056",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv08-109",
+      "name": "Excadrill",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "109",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/109",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv10.5b-146",
+      "name": "Fraxure",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "146",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/146",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv10.5w-035",
+      "name": "Stunfisk",
+      "set": "sv10.5w",
+      "setName": "Llama Blanca",
+      "number": "035",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5w/035",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv10-080",
+      "name": "Hypno del Team Rocket",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "080",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/080",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sv10-110",
+      "name": "Toedscruel de Damián",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "110",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/110",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "svp-007",
+      "name": "Hawlucha",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "007",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/007",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "svp-158",
+      "name": "Pachirisu",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "158",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/sv/svp/158",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "swsh7-121",
+      "name": "Appletun",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "121",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/121",
+      "types": [
+        "Dragón"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "swsh7-139",
+      "name": "Fletchinder",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "139",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/139",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "swsh7-80",
+      "name": "Marshadow",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "80",
+      "rarity": "Holo Rara",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/80",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "swsh7-84",
+      "name": "Hippopotas",
+      "set": "swsh7",
+      "setName": "Cielos Evolutivos",
+      "number": "84",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh7/84",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "swsh8-134",
+      "name": "Primeape",
+      "set": "swsh8",
+      "setName": "Golpe Fusión",
+      "number": "134",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh8/134",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "swshp-SWSH119",
+      "name": "Snorlax",
+      "set": "swshp",
+      "setName": "Cartas de promoción ESES",
+      "number": "SWSH119",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/swsh/swshp/SWSH119",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Yuya Oka"
+    }
+  ]
+}

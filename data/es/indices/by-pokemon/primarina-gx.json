@@ -1,0 +1,45 @@
+{
+  "name": "Primarina GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm1-42",
+      "name": "Primarina GX",
+      "set": "sm1",
+      "setName": "Sol y Luna",
+      "number": "42",
+      "rarity": "Ultra Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm1/42",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm2-149",
+      "name": "Primarina GX",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "149",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/149",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM39",
+      "name": "Primarina GX",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM39",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

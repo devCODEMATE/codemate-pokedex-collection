@@ -1,0 +1,45 @@
+{
+  "name": "Ting-Lu",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "B2a-062",
+      "name": "Ting-Lu",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "062",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "sv04-109",
+      "name": "Ting-Lu",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "109",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/109",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "sv06-110",
+      "name": "Ting-Lu",
+      "set": "sv06",
+      "setName": "Mascarada Crepuscular",
+      "number": "110",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv06/110",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    }
+  ]
+}

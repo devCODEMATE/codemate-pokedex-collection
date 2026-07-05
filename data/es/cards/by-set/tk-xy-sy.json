@@ -1,0 +1,1809 @@
+[
+  {
+    "category": "Pokémon",
+    "id": "tk-xy-sy-1",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/1",
+    "localId": "1",
+    "name": "Fletchling",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      661
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97966,
+          "lowPrice": 0.3,
+          "midPrice": 0.59,
+          "highPrice": 19.98,
+          "marketPrice": 0.35,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-xy-sy-2",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/2",
+    "localId": "2",
+    "name": "Energía Hada",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Hada"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97967,
+          "lowPrice": 0.45,
+          "midPrice": 0.6,
+          "highPrice": 19.98,
+          "marketPrice": 0.25,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-xy-sy-3",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/3",
+    "localId": "3",
+    "name": "Energía Hada",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Hada"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97968,
+          "lowPrice": 19.98,
+          "midPrice": 23.29,
+          "highPrice": 26.6,
+          "marketPrice": 1.13,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-xy-sy-4",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/4",
+    "localId": "4",
+    "name": "Cambio",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cambia tu Pokémon Activo por 1 de tus Pokémon en Banca.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97969,
+          "lowPrice": 0.15,
+          "midPrice": 0.31,
+          "highPrice": 19.98,
+          "marketPrice": 0.48,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-xy-sy-5",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/5",
+    "localId": "5",
+    "name": "Energía Hada",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Hada"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97970,
+          "lowPrice": 19.98,
+          "midPrice": 19.98,
+          "highPrice": 19.98,
+          "marketPrice": 0.42,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-xy-sy-6",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/6",
+    "localId": "6",
+    "name": "Energía Hada",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Hada"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97971,
+          "lowPrice": 0.93,
+          "midPrice": 4.38,
+          "highPrice": 41.4,
+          "marketPrice": 2.2,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-xy-sy-7",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/7",
+    "localId": "7",
+    "name": "Energía Hada",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Hada"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-06-14T22:58:47.400Z",
+        "normal": {
+          "productId": 97972,
+          "lowPrice": 5,
+          "midPrice": 5,
+          "highPrice": 5,
+          "marketPrice": 0.35,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-xy-sy-8",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/8",
+    "localId": "8",
+    "name": "Energía Hada",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Hada"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97973,
+          "lowPrice": 2.5,
+          "midPrice": 19.98,
+          "highPrice": 19.98,
+          "marketPrice": 0.84,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-xy-sy-9",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/9",
+    "localId": "9",
+    "name": "Energía Hada",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Hada"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97974,
+          "lowPrice": 0.35,
+          "midPrice": 10.22,
+          "highPrice": 19.98,
+          "marketPrice": 0.33,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-xy-sy-10",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/10",
+    "localId": "10",
+    "name": "Energía Hada",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Hada"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97975,
+          "lowPrice": 0.36,
+          "midPrice": 19.98,
+          "highPrice": 37.9,
+          "marketPrice": 0.49,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-xy-sy-11",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/11",
+    "localId": "11",
+    "name": "Snubbull",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      209
+    ],
+    "hp": 70,
+    "types": [
+      "Hada"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Oscura",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97976,
+          "lowPrice": 0.29,
+          "midPrice": 0.46,
+          "highPrice": 19.98,
+          "marketPrice": 0.6,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-xy-sy-12",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/12",
+    "localId": "12",
+    "name": "Energía Hada",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Hada"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97977,
+          "lowPrice": 0.35,
+          "midPrice": 5.27,
+          "highPrice": 19.98,
+          "marketPrice": 0.2,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-xy-sy-13",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/13",
+    "localId": "13",
+    "name": "Eevee",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97978,
+          "lowPrice": 5,
+          "midPrice": 7.76,
+          "highPrice": 63.1,
+          "marketPrice": 6.75,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-xy-sy-14",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/14",
+    "localId": "14",
+    "name": "Granbull",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      210
+    ],
+    "hp": 100,
+    "types": [
+      "Hada"
+    ],
+    "evolveFrom": "Snubbull",
+    "stage": "Fase 1",
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Oscura",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97979,
+          "lowPrice": 0.3,
+          "midPrice": 0.44,
+          "highPrice": 19.98,
+          "marketPrice": 0.62,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-xy-sy-15",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/15",
+    "localId": "15",
+    "name": "Sylveon",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      700
+    ],
+    "hp": 90,
+    "types": [
+      "Hada"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "damage": 20
+      },
+      {
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Oscura",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:24+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97980,
+          "lowPrice": 11.61,
+          "midPrice": 14,
+          "highPrice": 4753.1,
+          "marketPrice": 14.7,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-xy-sy-16",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/16",
+    "localId": "16",
+    "name": "Furfrou",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      676
+    ],
+    "hp": 90,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97981,
+          "lowPrice": 0.19,
+          "midPrice": 0.32,
+          "highPrice": 19.98,
+          "marketPrice": 0.31,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-xy-sy-17",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/17",
+    "localId": "17",
+    "name": "Energía Hada",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Hada"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97982,
+          "lowPrice": 0.3,
+          "midPrice": 19.98,
+          "highPrice": 25,
+          "marketPrice": 0.2,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-xy-sy-18",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/18",
+    "localId": "18",
+    "name": "Energía Hada",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Hada"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97983,
+          "lowPrice": 1.45,
+          "midPrice": 18.92,
+          "highPrice": 42.9,
+          "marketPrice": 2.53,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-xy-sy-19",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/19",
+    "localId": "19",
+    "name": "Fletchling",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      661
+    ],
+    "hp": 50,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Rayo",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lucha",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97984,
+          "lowPrice": 0.2,
+          "midPrice": 0.44,
+          "highPrice": 19.98,
+          "marketPrice": 0.41,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-xy-sy-20",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/20",
+    "localId": "20",
+    "name": "Poción",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 30 puntos de daño a 1 de tus Pokémon.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97985,
+          "lowPrice": 0.1,
+          "midPrice": 0.2,
+          "highPrice": 19.98,
+          "marketPrice": 0.15,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-xy-sy-21",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/21",
+    "localId": "21",
+    "name": "Eevee",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97986,
+          "lowPrice": 4.13,
+          "midPrice": 11.4,
+          "highPrice": 200,
+          "marketPrice": 8.42,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-xy-sy-22",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/22",
+    "localId": "22",
+    "name": "Furfrou",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      676
+    ],
+    "hp": 90,
+    "types": [
+      "Incolora"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Lucha",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97987,
+          "lowPrice": 0.17,
+          "midPrice": 0.3,
+          "highPrice": 19.98,
+          "marketPrice": 0.3,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-xy-sy-23",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/23",
+    "localId": "23",
+    "name": "Capturapokémon",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Lanza 1 moneda. Si sale cara, cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2021-10-18T11:53:03+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-xy-sy-24",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/24",
+    "localId": "24",
+    "name": "Poción",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Cura 30 puntos de daño a 1 de tus Pokémon.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97989,
+          "lowPrice": 0.14,
+          "midPrice": 0.25,
+          "highPrice": 19.98,
+          "marketPrice": 0.3,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Energía",
+    "id": "tk-xy-sy-25",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/25",
+    "localId": "25",
+    "name": "Energía Hada",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "types": [
+      "Hada"
+    ],
+    "energyType": "Básico",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97990,
+          "lowPrice": 1.25,
+          "midPrice": 19.98,
+          "highPrice": 32.5,
+          "marketPrice": 1.24,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-xy-sy-26",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/26",
+    "localId": "26",
+    "name": "Poké Ball",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Lanza 1 moneda. Si sale cara, busca en tu baraja 1 Pokémon, enséñalo y ponlo en tu mano. Baraja las cartas de tu baraja después.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2021-10-18T11:53:03+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-xy-sy-27",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/27",
+    "localId": "27",
+    "name": "Snubbull",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      209
+    ],
+    "hp": 70,
+    "types": [
+      "Hada"
+    ],
+    "stage": "Básico",
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Oscura",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97992,
+          "lowPrice": 0.5,
+          "midPrice": 1.18,
+          "highPrice": 29.6,
+          "marketPrice": 1.71,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Entrenador",
+    "id": "tk-xy-sy-28",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/28",
+    "localId": "28",
+    "name": "Carta del Profesor",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Busca en tu baraja hasta 2 cartas de Energía Básica, enséñalas y ponlas en tu mano. Baraja las cartas de tu baraja después.",
+    "trainerType": "Objeto",
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2021-10-18T11:53:03+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-xy-sy-29",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/29",
+    "localId": "29",
+    "name": "Granbull",
+    "rarity": "Común",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      210
+    ],
+    "hp": 100,
+    "types": [
+      "Hada"
+    ],
+    "evolveFrom": "Snubbull",
+    "stage": "Fase 1",
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Oscura",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "normal": {
+          "productId": 97994,
+          "lowPrice": 0.49,
+          "midPrice": 1.32,
+          "highPrice": 25.6,
+          "marketPrice": 1.32,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokémon",
+    "id": "tk-xy-sy-30",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/es/tk/tk-xy-sy/30",
+    "localId": "30",
+    "name": "Sylveon",
+    "rarity": "Ninguno",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-xy-sy",
+      "name": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "estándar",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      700
+    ],
+    "hp": 90,
+    "types": [
+      "Hada"
+    ],
+    "evolveFrom": "Eevee",
+    "stage": "Fase 1",
+    "attacks": [
+      {
+        "damage": 20
+      },
+      {
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metálica",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Oscura",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-01-24T23:11:24+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-04T22:58:47.417Z",
+        "holofoil": {
+          "productId": 97995,
+          "lowPrice": 15.5,
+          "midPrice": 20.67,
+          "highPrice": 4321,
+          "marketPrice": 21.76,
+          "directLowPrice": null
+        }
+      }
+    }
+  }
+]

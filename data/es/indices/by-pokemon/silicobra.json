@@ -1,0 +1,71 @@
+{
+  "name": "Silicobra",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "sv01-119",
+      "name": "Silicobra",
+      "set": "sv01",
+      "setName": "Escarlata y Púrpura",
+      "number": "119",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv01/119",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh1-107",
+      "name": "Silicobra",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "107",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/107",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Misa Tsutsui"
+    },
+    {
+      "id": "swsh1-108",
+      "name": "Silicobra",
+      "set": "swsh1",
+      "setName": "Espada y Escudo",
+      "number": "108",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh1/108",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "swsh4.5-SV070",
+      "name": "Silicobra",
+      "set": "swsh4.5",
+      "setName": "Destinos Brillantes",
+      "number": "SV070",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh4.5/SV070",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "swsh5-81",
+      "name": "Silicobra",
+      "set": "swsh5",
+      "setName": "Estilos de Combate",
+      "number": "81",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/swsh/swsh5/81",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Atsuko Nishida"
+    }
+  ]
+}

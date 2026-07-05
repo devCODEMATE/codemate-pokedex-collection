@@ -1,0 +1,84 @@
+{
+  "name": "Zamazenta",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "sv10-146",
+      "name": "Zamazenta",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "146",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/146",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sv10-201",
+      "name": "Zamazenta",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "201",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/201",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Takumi Wada"
+    },
+    {
+      "id": "swsh12.5-097",
+      "name": "Zamazenta",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "097",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/097",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh2-140",
+      "name": "Zamazenta",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "140",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/140",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Hideki Ishikawa"
+    },
+    {
+      "id": "swsh4-102",
+      "name": "Zamazenta",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "102",
+      "rarity": "Amazing Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/102",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "aky CG Works"
+    },
+    {
+      "id": "swshp-SWSH034",
+      "name": "Zamazenta",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH034",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH034",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Celesteela",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sm7-100",
+      "name": "Celesteela",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "100",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/100",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "smp-SM131",
+      "name": "Celesteela",
+      "set": "smp",
+      "setName": "SL Cartas de promoción",
+      "number": "SM131",
+      "rarity": "Rara",
+      "image": null,
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    }
+  ]
+}

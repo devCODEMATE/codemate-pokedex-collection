@@ -1,0 +1,84 @@
+{
+  "name": "Minior",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A3-105",
+      "name": "Minior",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "105",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/105",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "A3-174",
+      "name": "Minior",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "174",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/174",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "imoniii"
+    },
+    {
+      "id": "sm2-77",
+      "name": "Minior",
+      "set": "sm2",
+      "setName": "Albor de Guadianes",
+      "number": "77",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sm/sm2/77",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "sm7-83",
+      "name": "Minior",
+      "set": "sm7",
+      "setName": "Tormenta Celestial",
+      "number": "83",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sm/sm7/83",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv04-099",
+      "name": "Minior",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "099",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/099",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "OKUBO"
+    },
+    {
+      "id": "sv04-201",
+      "name": "Minior",
+      "set": "sv04",
+      "setName": "Brecha Paradójica",
+      "number": "201",
+      "rarity": "Rara Ilustración",
+      "image": "https://assets.tcgdex.net/es/sv/sv04/201",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "0313"
+    }
+  ]
+}

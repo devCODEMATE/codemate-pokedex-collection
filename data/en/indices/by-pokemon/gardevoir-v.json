@@ -1,0 +1,45 @@
+{
+  "name": "Gardevoir V",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh3.5-16",
+      "name": "Gardevoir V",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "16",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/16",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "swsh3.5-70",
+      "name": "Gardevoir V",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "70",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/70",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA Mochizuki"
+    },
+    {
+      "id": "swshp-SWSH105",
+      "name": "Gardevoir V",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH105",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH105",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

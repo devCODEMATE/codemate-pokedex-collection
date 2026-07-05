@@ -1,0 +1,58 @@
+{
+  "name": "Detective Pikachu",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "det1-10",
+      "name": "Detective Pikachu",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "10",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/det1/10",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "smp-SM170",
+      "name": "Detective Pikachu",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM170",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "smp-SM190",
+      "name": "Detective Pikachu",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM190",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "smp-SM194",
+      "name": "Detective Pikachu",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM194",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "MPC Film"
+    }
+  ]
+}

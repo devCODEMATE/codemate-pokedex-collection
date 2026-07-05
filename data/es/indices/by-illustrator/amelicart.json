@@ -1,0 +1,162 @@
+{
+  "name": "Amelicart",
+  "totalCards": 12,
+  "cards": [
+    {
+      "id": "A1-283",
+      "name": "Mew",
+      "set": "A1",
+      "setName": "Genes Formidables",
+      "number": "283",
+      "rarity": "Tres Estrellas",
+      "image": "https://assets.tcgdex.net/es/tcgp/A1/283",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "A3-105",
+      "name": "Minior",
+      "set": "A3",
+      "setName": "Guardianes Celestiales",
+      "number": "105",
+      "rarity": "Dos Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/A3/105",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "P-A-066",
+      "name": "Mimikyu",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "066",
+      "rarity": "Una Estrella",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/066",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "sv02-264",
+      "name": "Squawkabilly ex",
+      "set": "sv02",
+      "setName": "Evoluciones en Paldea",
+      "number": "264",
+      "rarity": "Rara Ilustración Especial",
+      "image": "https://assets.tcgdex.net/es/sv/sv02/264",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "sv07-008",
+      "name": "Rotom Corte",
+      "set": "sv07",
+      "setName": "Corona Astral",
+      "number": "008",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv07/008",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "sv08.5-087",
+      "name": "Shaymin",
+      "set": "sv08.5",
+      "setName": "Evoluciones Prismáticas",
+      "number": "087",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08.5/087",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "sv08-007",
+      "name": "Vivillon",
+      "set": "sv08",
+      "setName": "Chispas Fulgurantes",
+      "number": "007",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/sv/sv08/007",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "sv10.5b-061",
+      "name": "Klink",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "061",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/061",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "sv10.5b-062",
+      "name": "Klang",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "062",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/062",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "sv10.5b-063",
+      "name": "Klinklang",
+      "set": "sv10.5b",
+      "setName": "Fulgor Negro",
+      "number": "063",
+      "rarity": "Rara",
+      "image": "https://assets.tcgdex.net/es/sv/sv10.5b/063",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "sv10-068",
+      "name": "Electabuzz",
+      "set": "sv10",
+      "setName": "Rivales Predestinados",
+      "number": "068",
+      "rarity": "Común",
+      "image": "https://assets.tcgdex.net/es/sv/sv10/068",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "svp-208",
+      "name": "Victini",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "208",
+      "rarity": "Ninguno",
+      "image": null,
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Amelicart"
+    }
+  ]
+}

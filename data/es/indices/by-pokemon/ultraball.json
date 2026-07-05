@@ -1,0 +1,28 @@
+{
+  "name": "Ultraball",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "bw5-102",
+      "name": "Ultraball",
+      "set": "bw5",
+      "setName": "Oscuros Exploradores",
+      "number": "102",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw5/102",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "bw9-122",
+      "name": "Ultraball",
+      "set": "bw9",
+      "setName": "Glaciación Plasma",
+      "number": "122",
+      "rarity": "Rara Secreta",
+      "image": "https://assets.tcgdex.net/es/bw/bw9/122",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

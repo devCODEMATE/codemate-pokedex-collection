@@ -1,0 +1,97 @@
+{
+  "name": "Tapu Fini",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "A3-056",
+      "name": "Tapu Fini",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "056",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/056",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "A3-164",
+      "name": "Tapu Fini",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "164",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/164",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "sm11-53",
+      "name": "Tapu Fini",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "53",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/53",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm8-151",
+      "name": "Tapu Fini",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "151",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/151",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "smp-SM203",
+      "name": "Tapu Fini",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM203",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM203",
+      "types": [
+        "Water"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "smp-SM92",
+      "name": "Tapu Fini",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM92",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM92",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "swsh6-40",
+      "name": "Tapu Fini",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "40",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/40",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Blastoise GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm10-218",
+      "name": "Blastoise GX",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "218",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/218",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "sadaji"
+    },
+    {
+      "id": "sm10-35",
+      "name": "Blastoise GX",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "35",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/35",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "sadaji"
+    },
+    {
+      "id": "smp-SM189",
+      "name": "Blastoise GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM189",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "sadaji"
+    }
+  ]
+}
