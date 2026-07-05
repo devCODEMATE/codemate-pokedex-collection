@@ -201,7 +201,7 @@ h1, h2, h3 { font-family: var(--font-display); color: var(--navy); margin: 0 0 6
   text-align: center;
   color: var(--ink-soft);
 }
-.empty-state .naga-pixel { height: 88px; width: auto; margin-bottom: 12px; }
+.empty-state .empty-state-icon { width: 140px; height: auto; margin-bottom: 16px; }
 
 /* ---------- wizard ---------- */
 .wizard-steps {
