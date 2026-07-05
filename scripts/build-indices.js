@@ -2,42 +2,46 @@
 /**
  * scripts/build-indices.js
  * -----------------------------------------------------------------------
- * Fase 2 — Paso 2: lee todo lo que bajó fetch-tcgdex.js (data/cards/by-set/*.json
- * + data/sets.json) y arma los índices livianos que va a consumir el front-end:
+ * Lee todo lo que bajó fetch-tcgdex.js para UN idioma (data/{lang}/cards/by-set/*.json
+ * + data/{lang}/sets.json) y arma los índices livianos que consume el front-end,
+ * dentro de esa misma carpeta de idioma:
  *
- *   data/indices/by-pokemon/{slug}.json        -> todas las versiones de una carta a través de la historia
- *   data/indices/by-illustrator/{slug}.json    -> todo lo que dibujó un ilustrador
- *   data/indices/by-generation/{serieId}.json  -> agrupado por serie (base, neo, swsh, sv, ...)
- *   data/indices/search/{bucket}.json          -> catálogo completo, chunkeado alfabéticamente
- *
- * Cada índice guarda solo los campos livianos que necesita el buscador
- * (id, name, set, setName, number, rarity, image) — el detalle completo
- * (ataques, descripción, etc.) sigue viviendo únicamente en by-set/*.json
- * y se carga solo al abrir el detalle de una carta puntual.
+ *   data/{lang}/indices/by-pokemon/{slug}.json
+ *   data/{lang}/indices/by-illustrator/{slug}.json
+ *   data/{lang}/indices/by-generation/{serieId}.json
+ *   data/{lang}/indices/search/{bucket}.json
+ *   data/{lang}/indices/facets.json
  *
  * Regenera TODO desde cero cada vez que corre — nunca edites estos archivos
- * a mano, ni les toques nada Programáticamente aparte de este script.
+ * a mano.
  *
  * Uso:
- *   node scripts/build-indices.js
+ *   node scripts/build-indices.js              -> inglés
+ *   node scripts/build-indices.js --lang=es     -> español
  */
 
 const fs = require('fs');
 const path = require('path');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
+const args = process.argv.slice(2).reduce((acc, arg) => {
+  const [key, value] = arg.replace(/^--/, '').split('=');
+  acc[key] = value ?? true;
+  return acc;
+}, {});
+
+const LANG = args.lang || 'en';
+const DATA_DIR = path.join(__dirname, '..', 'data', LANG);
 const BY_SET_DIR = path.join(DATA_DIR, 'cards', 'by-set');
 const INDICES_DIR = path.join(DATA_DIR, 'indices');
 
 function log(msg) {
-  console.log(`[build-indices] ${msg}`);
+  console.log(`[build-indices:${LANG}] ${msg}`);
 }
 
-/** Normaliza un nombre a un slug de archivo: sin acentos, sin símbolos, minúscula, guiones */
 function slugify(str) {
   return String(str || '')
     .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '') // saca acentos
+    .replace(/[\u0300-\u036f]/g, '')
     .replace(/♀/g, '-f')
     .replace(/♂/g, '-m')
     .toLowerCase()
@@ -55,7 +59,6 @@ function searchBucketFor(name) {
   return 'otros';
 }
 
-/** Solo los campos livianos que necesitan las grillas/buscador */
 function liftweightCard(card, setMeta) {
   return {
     id: card.id,
@@ -76,7 +79,7 @@ function ensureDir(dir) {
 
 function main() {
   if (!fs.existsSync(BY_SET_DIR)) {
-    console.error(`[build-indices] No existe ${BY_SET_DIR}. Corré primero scripts/fetch-tcgdex.js.`);
+    console.error(`[build-indices:${LANG}] No existe ${BY_SET_DIR}. Corré primero scripts/fetch-tcgdex.js --lang=${LANG}.`);
     process.exit(1);
   }
 
@@ -88,19 +91,19 @@ function main() {
   }, {});
 
   const setFiles = fs.readdirSync(BY_SET_DIR).filter((f) => f.endsWith('.json'));
-  log(`Leyendo ${setFiles.length} archivos de data/cards/by-set...`);
+  log(`Leyendo ${setFiles.length} archivos de data/${LANG}/cards/by-set...`);
 
-  const byPokemon = new Map(); // slug -> { name, cards: [] }
+  const byPokemon = new Map();
   const byIllustrator = new Map();
-  const byGeneration = new Map(); // serieId -> { serieName, cards: [] }
-  const bySearchBucket = new Map(); // bucket -> cards[]
+  const byGeneration = new Map();
+  const bySearchBucket = new Map();
   ['a-e', 'f-j', 'k-o', 'p-t', 'u-z', 'otros'].forEach((b) => bySearchBucket.set(b, []));
   let totalCardsProcessed = 0;
   let cardsWithoutIllustrator = 0;
   const rarities = new Set();
   const types = new Set();
-  const illustrators = new Map(); // slug -> name
-  const generations = new Map(); // serieId -> name
+  const illustrators = new Map();
+  const generations = new Map();
 
   for (const file of setFiles) {
     const setId = file.replace(/\.json$/, '');
@@ -114,12 +117,10 @@ function main() {
       if (light.rarity) rarities.add(light.rarity);
       if (light.types) light.types.forEach((t) => types.add(t));
 
-      // --- by-pokemon (agrupa por nombre de carta, sea Pokémon o Entrenador) ---
       const nameSlug = slugify(card.name);
       if (!byPokemon.has(nameSlug)) byPokemon.set(nameSlug, { name: card.name, cards: [] });
       byPokemon.get(nameSlug).cards.push(light);
 
-      // --- by-illustrator ---
       if (card.illustrator) {
         const illSlug = slugify(card.illustrator);
         if (!byIllustrator.has(illSlug)) byIllustrator.set(illSlug, { name: card.illustrator, cards: [] });
@@ -129,13 +130,11 @@ function main() {
         cardsWithoutIllustrator += 1;
       }
 
-      // --- by-generation (agrupa por serie: base, neo, ex, swsh, sv, ...) ---
       const serie = setMeta.serie || { id: 'sin-serie', name: 'Sin serie' };
       if (!byGeneration.has(serie.id)) byGeneration.set(serie.id, { name: serie.name, cards: [] });
       byGeneration.get(serie.id).cards.push(light);
       generations.set(serie.id, serie.name);
 
-      // --- search (chunks alfabéticos) ---
       const bucket = searchBucketFor(card.name);
       if (!bySearchBucket.has(bucket)) bySearchBucket.set(bucket, []);
       bySearchBucket.get(bucket).push(light);
@@ -144,10 +143,11 @@ function main() {
 
   log(`Procesadas ${totalCardsProcessed} cartas de ${setFiles.length} sets.`);
   if (cardsWithoutIllustrator) {
-    log(`(${cardsWithoutIllustrator} cartas sin ilustrador registrado en TCGdex — normal para Energías básicas.)`);
+    log(`(${cardsWithoutIllustrator} cartas sin ilustrador registrado en TCGdex.)`);
   }
 
-  // --- facets.json: listas chicas para poblar los filtros del buscador sin cargar todo el catálogo ---
+  ensureDir(INDICES_DIR);
+
   const facets = {
     rarities: [...rarities].sort(),
     types: [...types].sort(),
@@ -161,7 +161,6 @@ function main() {
   fs.writeFileSync(path.join(INDICES_DIR, 'facets.json'), JSON.stringify(facets, null, 2));
   log(`facets.json: ${facets.rarities.length} rarezas, ${facets.types.length} tipos, ${facets.illustrators.length} ilustradores, ${facets.generations.length} generaciones.`);
 
-  // --- escribir a disco (regenerando todo desde cero) ---
   writeIndexGroup(path.join(INDICES_DIR, 'by-pokemon'), byPokemon);
   writeIndexGroup(path.join(INDICES_DIR, 'by-illustrator'), byIllustrator);
   writeIndexGroup(path.join(INDICES_DIR, 'by-generation'), byGeneration);
@@ -181,10 +180,9 @@ function main() {
   log(`by-pokemon/: ${byPokemon.size} nombres distintos.`);
   log(`by-illustrator/: ${byIllustrator.size} ilustradores distintos.`);
   log(`by-generation/: ${byGeneration.size} series distintas.`);
-  log('Listo. Índices regenerados en data/indices/.');
+  log(`Listo. Índices regenerados en data/${LANG}/indices/.`);
 }
 
-/** Escribe un grupo de índices tipo Map(slug -> {name, cards}) como archivos individuales */
 function writeIndexGroup(dir, map) {
   fs.rmSync(dir, { recursive: true, force: true });
   ensureDir(dir);

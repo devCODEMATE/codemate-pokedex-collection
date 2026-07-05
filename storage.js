@@ -14,10 +14,30 @@ const STORAGE_INDEX_KEY = 'codemate-binders-index';
 const storageBinderKey = (id) => `codemate-binder-${id}`;
 
 const SIZES = {
-  chica: { cols: 2, rows: 2, defaultPages: 8, label: 'Chica · 2×2' },
-  mediana: { cols: 4, rows: 3, defaultPages: 12, label: 'Mediana · 4×3' },
-  grande: { cols: 5, rows: 4, defaultPages: 15, label: 'Grande · 5×4' },
+  chica: { cols: 2, rows: 2, defaultPages: 8 },
+  mediana: { cols: 4, rows: 3, defaultPages: 12 },
+  grande: { cols: 5, rows: 4, defaultPages: 15 },
 };
+
+/** Traduce el nombre de un tamaño de carpeta al idioma actual */
+function sizeLabel(sizeKey) {
+  const keys = { chica: 'sizeChicaLabel', mediana: 'sizeMedianaLabel', grande: 'sizeGrandeLabel' };
+  return t(keys[sizeKey] || 'sizeChicaLabel');
+}
+
+/**
+ * Idioma de las cartas de una carpeta. Las carpetas creadas antes de esta
+ * feature no tienen `cardLanguage` guardado — en ese caso asumimos 'en',
+ * que era el único catálogo que existía hasta ahora.
+ */
+function getBinderLanguage(entry) {
+  return entry && entry.cardLanguage ? entry.cardLanguage : 'en';
+}
+
+function cardLanguageLabel(langKey) {
+  const keys = { en: 'langEnglishLabel', es: 'langSpanishLabel' };
+  return t(keys[langKey] || 'langEnglishLabel');
+}
 
 function getBindersIndex() {
   try {
@@ -57,9 +77,11 @@ function makeEmptyPages(pageCount, slotsPerPage) {
 
 /**
  * Crea una carpeta nueva a partir de las respuestas del wizard y la
- * persiste en ambas claves de localStorage.
+ * persiste en ambas claves de localStorage. `cardLanguage` queda fijo
+ * para siempre — igual que el tamaño, cambiarlo después mezclaría
+ * catálogos distintos y rompería las cartas ya puestas.
  */
-function createBinder({ name, coverColor, folioColor, size }) {
+function createBinder({ name, coverColor, folioColor, size, cardLanguage }) {
   const sizeConfig = SIZES[size];
   const slotsPerPage = sizeConfig.cols * sizeConfig.rows;
   const id = `binder-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 7)}`;
@@ -70,6 +92,7 @@ function createBinder({ name, coverColor, folioColor, size }) {
     coverColor,
     folioColor,
     size,
+    cardLanguage: cardLanguage || 'en',
     grid: { cols: sizeConfig.cols, rows: sizeConfig.rows },
     pageCount: sizeConfig.defaultPages,
     sourceFilter: null, // Fase 3 lo conecta a un índice real (by-pokemon, etc.)
@@ -92,10 +115,9 @@ function deleteBinder(id) {
 
 /**
  * Edita nombre/color de carpeta/color de folio de una carpeta ya existente.
- * A propósito NO permite cambiar el tamaño: eso implicaría rearmar la
- * grilla de todas las hojas ya creadas (y las cartas que ya pusiste ahí
- * quedarían mal ubicadas). Si en algún momento hace falta, es una función
- * aparte con su propia lógica de migración de slots.
+ * A propósito NO permite cambiar el tamaño ni el idioma de las cartas: eso
+ * implicaría rearmar la grilla o mezclar catálogos distintos, y las cartas
+ * ya puestas quedarían mal ubicadas o inexistentes en el nuevo idioma.
  */
 function updateBinderMeta(id, { name, coverColor, folioColor }) {
   const index = getBindersIndex();

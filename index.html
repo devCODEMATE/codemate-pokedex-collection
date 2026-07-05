@@ -1,28 +1,28 @@
 <!DOCTYPE html>
-<html lang="es-AR">
+<html lang="en">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>CodeMate Pokédex Collection</title>
-<meta name="description" content="Binder virtual de cartas Pokémon TCG — armá carpetas temáticas y coleccioná. Proyecto fan-made de CodeMate." />
+<meta name="description" content="Virtual Pokémon TCG binder — build themed collections, browse cards, and track your progress. Fan-made project by CodeMate." />
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=DM+Sans:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="style.css?v=15" />
+<link rel="stylesheet" href="style.css?v=25"/>
 </head>
 <body>
 <div id="app">
 
   <header class="app-header">
-    <div class="brand" id="brand-home-btn" role="button" tabindex="0" aria-label="Ir a Tu biblioteca">
-      <img class="naga-pixel" src="images/codemate-avatar.png" alt="CodeMate" />
-      <span class="wordmark">CodeMate<em>Pokédex Collection</em></span>
-    </div>
+    <div class="brand" id="brand-home-btn" role="button" tabindex="0" data-i18n-aria="brandAriaLabel">
+    <img class="naga-pixel" src="images/codemate-avatar.png?v=25" alt="CodeMate" />
+    <span class="wordmark">&lt;CodeMate&gt;<em>Pokédex Collection</em></span>    </div>
     <nav>
-      <button id="nav-library" class="nav-btn active" type="button">Tu biblioteca</button>
-      <button id="nav-new" class="nav-btn primary" type="button">+ Nueva carpeta</button>
+      <button id="nav-library" class="nav-btn active" type="button" data-i18n="navLibrary">Your Library</button>
+      <button id="nav-new" class="nav-btn primary" type="button" data-i18n="navNew">+ New Binder</button>
+      <button id="lang-toggle-btn" class="nav-btn lang-toggle" type="button" title="Switch language / Cambiar idioma">ES</button>
     </nav>
   </header>
 
@@ -30,15 +30,15 @@
 
     <!-- ---------------- Vista: Tu biblioteca ---------------- -->
     <section id="view-library" class="view">
-      <h1>Tu biblioteca</h1>
-      <p class="view-subtitle">Todas tus carpetas guardadas en este navegador.</p>
+      <h1 data-i18n="libraryTitle">Your Library</h1>
+      <p class="view-subtitle" data-i18n="librarySubtitle">All your saved binders in this browser.</p>
       <div id="library-content"></div>
     </section>
 
     <!-- ---------------- Vista: Wizard ---------------- -->
     <section id="view-wizard" class="view" hidden>
-      <h1>Armá tu carpeta</h1>
-      <p class="view-subtitle" id="wizard-step-label">Paso 1 de 3 — Color de carpeta</p>
+      <h1 data-i18n="wizardTitle">Build your binder</h1>
+      <p class="view-subtitle" id="wizard-step-label">Step 1 of 3 — Binder Color</p>
       <div class="wizard-steps">
         <div class="wizard-step-dot" data-step="1"></div>
         <div class="wizard-step-dot" data-step="2"></div>
@@ -47,14 +47,14 @@
       <div class="wizard-body">
         <div class="wizard-panel" id="wizard-panel"></div>
         <div class="wizard-panel preview-panel">
-          <h3>Vista previa</h3>
+          <h3 data-i18n="previewTitle">Preview</h3>
           <div class="preview-slot" id="wizard-preview-slot"></div>
-          <p class="preview-caption" id="wizard-preview-caption">Así se va a ver una carta en tu carpeta.</p>
+          <p class="preview-caption" id="wizard-preview-caption"></p>
         </div>
       </div>
       <div class="wizard-actions">
-        <button class="btn btn-ghost" id="wizard-back-btn" type="button">Atrás</button>
-        <button class="btn btn-primary" id="wizard-next-btn" type="button">Siguiente</button>
+        <button class="btn btn-ghost" id="wizard-back-btn" type="button" data-i18n="backBtn">Back</button>
+        <button class="btn btn-primary" id="wizard-next-btn" type="button" data-i18n="nextBtn">Next</button>
       </div>
     </section>
 
@@ -68,7 +68,10 @@
             <p class="view-subtitle" style="margin:2px 0 0;" id="binder-progress-label"></p>
           </div>
         </div>
-        <button class="nav-btn on-light" id="binder-back-btn" type="button">← Tu biblioteca</button>
+        <div class="binder-header-actions">
+          <button class="nav-btn on-light" id="binder-export-btn" type="button" data-i18n="exportBtn">⬇ Export binder</button>
+          <button class="nav-btn on-light" id="binder-back-btn" type="button" data-i18n="backToLibrary">← Your Library</button>
+        </div>
       </div>
 
       <div class="binder-stage">
@@ -80,11 +83,11 @@
       </div>
 
       <div class="binder-pager">
-        <button class="page-corner-btn" id="binder-prev-btn" type="button" aria-label="Página anterior">‹</button>
-        <span class="page-indicator" id="binder-page-indicator">Página 1</span>
-        <button class="page-corner-btn" id="binder-next-btn" type="button" aria-label="Página siguiente">›</button>
+        <button class="page-corner-btn" id="binder-prev-btn" type="button" data-i18n-aria="prevPageAria">‹</button>
+        <span class="page-indicator" id="binder-page-indicator">Page 1</span>
+        <button class="page-corner-btn" id="binder-next-btn" type="button" data-i18n-aria="nextPageAria">›</button>
       </div>
-      <button class="add-page-btn" id="binder-add-page-btn" type="button">+ Agregar hoja</button>
+      <button class="add-page-btn" id="binder-add-page-btn" type="button" data-i18n="addPageBtn">+ Add page</button>
     </section>
 
   </main>
@@ -95,35 +98,35 @@
       <div class="modal-panel-fixed">
         <div class="modal-panel-header">
           <div>
-            <h2 style="margin-bottom:2px;">Buscador de cartas</h2>
-            <p class="view-subtitle" style="margin:0;">Elegí una carta para este slot.</p>
+            <h2 style="margin-bottom:2px;" data-i18n="buscadorTitle">Card Search</h2>
+            <p class="view-subtitle" style="margin:0;" data-i18n="buscadorSubtitle">Pick a card for this slot.</p>
           </div>
-          <button class="modal-close-btn" id="buscador-close-btn" type="button" aria-label="Cerrar">✕</button>
+          <button class="modal-close-btn" id="buscador-close-btn" type="button" data-i18n-aria="closeAria">✕</button>
         </div>
         <div class="buscador-search-row">
-          <input type="text" class="text-input" id="buscador-search-input" placeholder="Buscar por nombre o número de carta…" />
+          <input type="text" class="text-input" id="buscador-search-input" data-i18n-placeholder="searchPlaceholder" placeholder="Search by name or card number…" />
           <button type="button" class="filters-toggle-btn" id="buscador-filters-toggle-btn" aria-expanded="true">
-            Filtros <span id="buscador-filters-toggle-icon">▲</span>
+            <span data-i18n="filtersBtn">Filters</span> <span id="buscador-filters-toggle-icon">▲</span>
           </button>
         </div>
         <div id="buscador-filters-panel">
           <div class="filter-select-row">
             <div class="combo-field">
-              <span class="filter-group-label">Ilustrador</span>
-              <input type="text" class="text-input" id="buscador-illustrator-input" placeholder="Todos los ilustradores" autocomplete="off" />
+              <span class="filter-group-label" data-i18n="illustratorLabel">Illustrator</span>
+              <input type="text" class="text-input" id="buscador-illustrator-input" data-i18n-placeholder="illustratorPlaceholder" placeholder="All illustrators" autocomplete="off" />
               <input type="hidden" id="buscador-illustrator-slug" />
               <div class="combo-list" id="buscador-illustrator-list" hidden></div>
-              <span class="filter-hint">Buscá por nombre o apellido, en cualquier parte del nombre.</span>
+              <span class="filter-hint" data-i18n="illustratorHint">Search by first or last name, anywhere in the name.</span>
             </div>
             <div>
-              <span class="filter-group-label">Generación</span>
+              <span class="filter-group-label" data-i18n="generationLabel">Generation</span>
               <select class="text-input" id="buscador-generation-select"></select>
-              <span class="filter-hint">Agrupa por era (Base, Neo, Sword &amp; Shield...).</span>
+              <span class="filter-hint" data-i18n="generationHint">Groups by era (Base, Neo, Sword &amp; Shield...).</span>
             </div>
           </div>
-          <span class="filter-group-label">Rareza</span>
+          <span class="filter-group-label" data-i18n="rarityLabel">Rarity</span>
           <div class="chip-row" id="buscador-rarity-chips"></div>
-          <span class="filter-group-label">Tipo</span>
+          <span class="filter-group-label" data-i18n="typeLabel">Type</span>
           <div class="chip-row" id="buscador-type-chips"></div>
         </div>
       </div>
@@ -139,7 +142,7 @@
           <h2 style="margin-bottom:2px;" id="card-detail-name">—</h2>
           <p class="view-subtitle" style="margin:0;" id="card-detail-setline"></p>
         </div>
-        <button class="modal-close-btn" id="card-detail-close-btn" type="button" aria-label="Cerrar">✕</button>
+        <button class="modal-close-btn" id="card-detail-close-btn" type="button" data-i18n-aria="closeAria">✕</button>
       </div>
       <div class="card-detail-body">
         <div class="card-detail-image" id="card-detail-image"></div>
@@ -151,45 +154,60 @@
     </div>
   </div>
 
+  <!-- ---------------- Zoom de carta (lightbox pantalla completa) ---------------- -->
+  <div class="modal-backdrop lightbox-backdrop" id="card-zoom-modal" hidden>
+    <button class="lightbox-close-btn" id="card-zoom-close-btn" type="button" data-i18n-aria="closeAria">✕</button>
+    <div class="lightbox-image" id="card-zoom-image"></div>
+  </div>
+
+  <!-- ---------------- Progreso de exportación ---------------- -->
+  <div class="modal-backdrop" id="export-progress-modal" hidden>
+    <div class="modal-panel" style="max-width:420px;text-align:center;">
+      <h2 style="margin-bottom:14px;" data-i18n="exportProgressTitle">Preparing your binder…</h2>
+      <div class="progress-track"><div class="progress-fill" id="export-progress-fill" style="width:0%"></div></div>
+      <p class="view-subtitle" id="export-progress-label" style="margin-top:12px;"></p>
+    </div>
+  </div>
+
   <!-- ---------------- Editar carpeta (modal) ---------------- -->
   <div class="modal-backdrop" id="edit-binder-modal" hidden>
     <div class="modal-panel">
       <div class="modal-panel-header">
         <div>
-          <h2 style="margin-bottom:2px;">Editar carpeta</h2>
-          <p class="view-subtitle" style="margin:0;">El tamaño no se puede cambiar una vez creada.</p>
+          <h2 style="margin-bottom:2px;" data-i18n="editBinderTitle">Edit binder</h2>
+          <p class="view-subtitle" style="margin:0;" data-i18n="editBinderSubtitle">Size can't be changed once created.</p>
         </div>
-        <button class="modal-close-btn" id="edit-binder-close-btn" type="button" aria-label="Cerrar">✕</button>
+        <button class="modal-close-btn" id="edit-binder-close-btn" type="button" data-i18n-aria="closeAria">✕</button>
       </div>
-      <label class="field-label" for="edit-binder-name-input">Nombre de la carpeta</label>
+      <label class="field-label" for="edit-binder-name-input" data-i18n="nameFieldLabel">Binder name</label>
       <input type="text" class="text-input" id="edit-binder-name-input" maxlength="40" />
-      <label class="field-label">Color de carpeta</label>
+      <label class="field-label" data-i18n="coverColorLabel">Binder color</label>
       <div class="swatch-row" id="edit-binder-cover-row"></div>
-      <label class="field-label">Color de folio</label>
+      <label class="field-label" data-i18n="folioColorLabel">Folio color</label>
       <div class="swatch-row" id="edit-binder-folio-row"></div>
       <div class="wizard-actions">
-        <button class="btn btn-ghost" id="edit-binder-cancel-btn" type="button">Cancelar</button>
-        <button class="btn btn-primary" id="edit-binder-save-btn" type="button">Guardar cambios</button>
+        <button class="btn btn-ghost" id="edit-binder-cancel-btn" type="button" data-i18n="cancelBtn">Cancel</button>
+        <button class="btn btn-primary" id="edit-binder-save-btn" type="button" data-i18n="saveChangesBtn">Save changes</button>
       </div>
     </div>
   </div>
 
-  <footer class="app-footer">
-    Proyecto fan-made, gratuito y sin fines comerciales. Pokémon y los nombres de personajes son marcas registradas
-    de Nintendo, Creatures Inc. y GAME FREAK Inc. © The Pokémon Company. CodeMate Pokédex Collection no está afiliado
-    ni respaldado por estas empresas.
+  <footer class="app-footer" data-i18n="footerText">
+    Fan-made, free, non-commercial project. Pokémon and character names are registered trademarks of Nintendo, Creatures Inc. and GAME FREAK Inc. © The Pokémon Company. CodeMate Pokédex Collection is not affiliated with or endorsed by these companies.
   </footer>
 
 </div>
 
-<script src="data-service.js?v=15"></script>
-<script src="storage.js?v=15"></script>
-<script src="render-card.js?v=15"></script>
-<script src="wizard.js?v=15"></script>
-<script src="library.js?v=15"></script>
-<script src="card-detail.js?v=15"></script>
-<script src="buscador.js?v=15"></script>
-<script src="binder.js?v=15"></script>
-<script src="app.js?v=15"></script>
+<script src="i18n.js?v=25"></script>
+<script src="data-service.js?v=25"></script>
+<script src="storage.js?v=25"></script>
+<script src="render-card.js?v=25"></script>
+<script src="wizard.js?v=25"></script>
+<script src="library.js?v=25"></script>
+<script src="card-detail.js?v=25"></script>
+<script src="buscador.js?v=25"></script>
+<script src="binder.js?v=25"></script>
+<script src="export.js?v=25"></script>
+<script src="app.js?v=25"></script>
 </body>
 </html>

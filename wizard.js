@@ -2,24 +2,36 @@
  * wizard.js
  * -----------------------------------------------------------------------
  * "Armá tu carpeta": 3 pasos según el plan (color de carpeta → tamaño →
- * color de folio), con preview en vivo. El nombre de la carpeta se pide
- * junto al color de carpeta en el paso 1 para no agregar un 4º paso.
+ * color de folio), con preview en vivo. El nombre de la carpeta y el
+ * idioma de las cartas se piden junto al color en el paso 1, para no
+ * agregar pasos extra.
  */
 
 const COVER_COLORS = [
-  { key: 'azul', hex: 'var(--swatch-azul)', label: 'Azul' },
-  { key: 'negro', hex: 'var(--swatch-negro)', label: 'Negro' },
-  { key: 'violeta', hex: 'var(--swatch-violeta)', label: 'Violeta' },
-  { key: 'rojo', hex: 'var(--swatch-rojo)', label: 'Rojo' },
-  { key: 'rosa', hex: 'var(--swatch-rosa)', label: 'Rosa' },
-  { key: 'verde', hex: 'var(--swatch-verde)', label: 'Verde' },
-  { key: 'gris', hex: 'var(--swatch-gris)', label: 'Gris' },
+  { key: 'azul', hex: 'var(--swatch-azul)' },
+  { key: 'negro', hex: 'var(--swatch-negro)' },
+  { key: 'violeta', hex: 'var(--swatch-violeta)' },
+  { key: 'rojo', hex: 'var(--swatch-rojo)' },
+  { key: 'rosa', hex: 'var(--swatch-rosa)' },
+  { key: 'verde', hex: 'var(--swatch-verde)' },
+  { key: 'gris', hex: 'var(--swatch-gris)' },
 ];
 
 const FOLIO_COLORS = [
   ...COVER_COLORS,
-  { key: 'transparente', hex: 'var(--swatch-transparente)', label: 'Transparente' },
+  { key: 'transparente', hex: 'var(--swatch-transparente)' },
 ];
+
+/** Idiomas de cartas disponibles para una carpeta. Fijo para siempre una vez creada. */
+const CARD_LANGUAGES = [
+  { key: 'en', labelKey: 'langEnglishLabel' },
+  { key: 'es', labelKey: 'langSpanishLabel' },
+];
+
+/** El label de cada color se traduce en el momento (nunca guardamos el label, solo el key) */
+function colorLabel(key) {
+  return t(`color${key.charAt(0).toUpperCase()}${key.slice(1)}`);
+}
 
 let PREVIEW_CARD = null; // se carga async cada vez que se abre el wizard (ver loadPreviewCard)
 let previewCardLoading = false;
@@ -34,7 +46,8 @@ async function loadPreviewCard() {
   if (previewCardLoading) return;
   previewCardLoading = true;
   try {
-    PREVIEW_CARD = await resolveCard(pickRandomPreviewCardId());
+    const lang = wizardState.cardLanguage || 'en';
+    PREVIEW_CARD = await resolveCard(pickRandomPreviewCardId(), lang);
   } catch (err) {
     console.error('No se pudo cargar la carta de muestra del wizard, reintentando con otra:', err);
     PREVIEW_CARD = null;
@@ -46,11 +59,11 @@ async function loadPreviewCard() {
   }
 }
 
-let wizardState = { name: '', coverColor: null, size: null, folioColor: null };
+let wizardState = { name: '', coverColor: null, size: null, folioColor: null, cardLanguage: null };
 let wizardStep = 1;
 
 function resetWizard() {
-  wizardState = { name: '', coverColor: null, size: null, folioColor: null };
+  wizardState = { name: '', coverColor: null, size: null, folioColor: null, cardLanguage: null };
   wizardStep = 1;
   PREVIEW_CARD = null;
   loadPreviewCard(); // dispara la carga de una carta nueva al azar; se resuelve en segundo plano
@@ -60,7 +73,6 @@ function resetWizard() {
 function resolveSwatchHex(colorKey) {
   const match = [...COVER_COLORS, ...FOLIO_COLORS].find((c) => c.key === colorKey);
   if (!match) return '#000';
-  // var(--x) no sirve como background inline directo en algunos casos; resolvemos a valor real
   const map = {
     azul: '#2b6cb0', negro: '#1a1a1a', violeta: '#5a527a', rojo: '#b3432f',
     rosa: '#c96a90', verde: '#2f7a52', gris: '#6b7280', transparente: 'transparent',
@@ -69,8 +81,9 @@ function resolveSwatchHex(colorKey) {
 }
 
 function renderWizardStep() {
+  const stepNames = [t('stepCover'), t('stepSize'), t('stepFolio')];
   document.getElementById('wizard-step-label').textContent =
-    `Paso ${wizardStep} de 3 — ${['Color de carpeta', 'Tamaño', 'Color de folio'][wizardStep - 1]}`;
+    t('wizardStepLabel', { n: wizardStep, stepName: stepNames[wizardStep - 1] });
 
   document.querySelectorAll('.wizard-step-dot').forEach((dot) => {
     const n = Number(dot.dataset.step);
@@ -90,19 +103,26 @@ function renderWizardStep() {
   document.getElementById('wizard-back-btn').style.visibility = wizardStep === 1 ? 'hidden' : 'visible';
 
   const nextBtn = document.getElementById('wizard-next-btn');
-  nextBtn.textContent = wizardStep === 3 ? 'Guardar en tu biblioteca' : 'Siguiente';
+  nextBtn.textContent = wizardStep === 3 ? t('saveBtn') : t('nextBtn');
   nextBtn.disabled = !isWizardStepValid();
 }
 
 function wizardStepCoverHTML() {
   return `
-    <label class="field-label" for="wizard-name-input">Nombre de la carpeta</label>
-    <input type="text" class="text-input" id="wizard-name-input" placeholder="Ej: Charizard through the ages" maxlength="40" value="${escapeAttr(wizardState.name)}" />
-    <label class="field-label">Color de carpeta</label>
+    <label class="field-label" for="wizard-name-input">${t('nameFieldLabel')}</label>
+    <input type="text" class="text-input" id="wizard-name-input" placeholder="${t('namePlaceholder')}" maxlength="40" value="${escapeAttr(wizardState.name)}" />
+    <label class="field-label">${t('coverColorLabel')}</label>
     <div class="swatch-row" id="cover-swatch-row">
       ${COVER_COLORS.map((c) => `
         <button type="button" class="swatch ${wizardState.coverColor === c.key ? 'selected' : ''}"
-          style="background:${resolveSwatchHex(c.key)}" data-color="${c.key}" title="${c.label}" aria-label="${c.label}"></button>
+          style="background:${resolveSwatchHex(c.key)}" data-color="${c.key}" title="${colorLabel(c.key)}" aria-label="${colorLabel(c.key)}"></button>
+      `).join('')}
+    </div>
+    <label class="field-label">${t('cardLanguageLabel')}</label>
+    <p class="view-subtitle" style="margin-top:-4px;">${t('cardLanguageDesc')}</p>
+    <div class="chip-row" id="card-language-row">
+      ${CARD_LANGUAGES.map((l) => `
+        <button type="button" class="chip ${wizardState.cardLanguage === l.key ? 'selected' : ''}" data-lang="${l.key}">${t(l.labelKey)}</button>
       `).join('')}
     </div>
   `;
@@ -110,12 +130,12 @@ function wizardStepCoverHTML() {
 
 function wizardStepSizeHTML() {
   const sizes = [
-    { key: 'chica', cols: 2, rows: 2, label: 'Chica', desc: '4 slots por hoja · tipo binder de bolsillo' },
-    { key: 'mediana', cols: 4, rows: 3, label: 'Mediana', desc: '12 slots por hoja · el clásico "12-pocket"' },
-    { key: 'grande', cols: 5, rows: 4, label: 'Grande', desc: '20 slots por hoja · alta capacidad' },
+    { key: 'chica', cols: 2, rows: 2, label: t('sizeSmallLabel'), desc: t('sizeSmallDesc') },
+    { key: 'mediana', cols: 4, rows: 3, label: t('sizeMediumLabel'), desc: t('sizeMediumDesc') },
+    { key: 'grande', cols: 5, rows: 4, label: t('sizeLargeLabel'), desc: t('sizeLargeDesc') },
   ];
   return `
-    <label class="field-label">Tamaño de carpeta</label>
+    <label class="field-label">${t('sizeFieldLabel')}</label>
     <div class="size-option-row">
       ${sizes.map((s) => `
         <button type="button" class="size-option ${wizardState.size === s.key ? 'selected' : ''}" data-size="${s.key}">
@@ -134,12 +154,12 @@ function wizardStepSizeHTML() {
 
 function wizardStepFolioHTML() {
   return `
-    <label class="field-label">Color de folio</label>
-    <p class="view-subtitle" style="margin-top:-4px;">Tiñe el área alrededor de cada carta. La carpeta y el fondo siempre son negros.</p>
+    <label class="field-label">${t('folioColorLabel')}</label>
+    <p class="view-subtitle" style="margin-top:-4px;">${t('folioColorDesc')}</p>
     <div class="swatch-row" id="folio-swatch-row">
       ${FOLIO_COLORS.map((c) => `
         <button type="button" class="swatch ${c.key === 'transparente' ? 'is-transparent' : ''} ${wizardState.folioColor === c.key ? 'selected' : ''}"
-          style="${c.key === 'transparente' ? '' : `background:${resolveSwatchHex(c.key)}`}" data-color="${c.key}" title="${c.label}" aria-label="${c.label}"></button>
+          style="${c.key === 'transparente' ? '' : `background:${resolveSwatchHex(c.key)}`}" data-color="${c.key}" title="${colorLabel(c.key)}" aria-label="${colorLabel(c.key)}"></button>
       `).join('')}
     </div>
   `;
@@ -154,6 +174,14 @@ function wireWizardStepEvents() {
     document.querySelectorAll('#cover-swatch-row .swatch').forEach((btn) => {
       btn.addEventListener('click', () => {
         wizardState.coverColor = btn.dataset.color;
+        renderWizardStep();
+      });
+    });
+    document.querySelectorAll('#card-language-row .chip').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        wizardState.cardLanguage = btn.dataset.lang;
+        PREVIEW_CARD = null;
+        loadPreviewCard(); // la carta de muestra pasa a cargarse en el idioma recién elegido
         renderWizardStep();
       });
     });
@@ -177,7 +205,7 @@ function wireWizardStepEvents() {
 }
 
 function isWizardStepValid() {
-  if (wizardStep === 1) return Boolean(wizardState.coverColor);
+  if (wizardStep === 1) return Boolean(wizardState.coverColor) && Boolean(wizardState.cardLanguage);
   if (wizardStep === 2) return Boolean(wizardState.size);
   if (wizardStep === 3) return Boolean(wizardState.folioColor);
   return false;
@@ -203,10 +231,10 @@ function updateWizardPreview() {
     slot.style.background = 'var(--black)';
     if (wizardState.coverColor) {
       slot.innerHTML = renderClosedCoverHTML(coverHex);
-      caption.textContent = 'Así se va a ver la portada de tu carpeta.';
+      caption.textContent = t('coverPreviewCaption');
     } else {
       slot.innerHTML = `<div style="width:78%;height:88%;border-radius:6px;border:2px dashed rgba(255,255,255,0.3);"></div>`;
-      caption.textContent = 'Elegí un color para ver la portada.';
+      caption.textContent = t('coverPreviewChoose');
     }
     return;
   }
@@ -217,10 +245,10 @@ function updateWizardPreview() {
       const { cols, rows } = SIZES[wizardState.size];
       const cells = cols * rows;
       slot.innerHTML = renderClosedCoverHTML(coverHex);
-      caption.textContent = `Carpeta ${SIZES[wizardState.size].label} — ${cells} slots por hoja.`;
+      caption.textContent = t('sizePreviewCaption', { size: t(`size${wizardState.size === 'chica' ? 'Small' : wizardState.size === 'mediana' ? 'Medium' : 'Large'}Label`), n: cells });
     } else {
       slot.innerHTML = renderClosedCoverHTML(coverHex);
-      caption.textContent = 'Elegí un tamaño para ver cómo queda la hoja.';
+      caption.textContent = t('sizePreviewChoose');
     }
     return;
   }
@@ -229,7 +257,7 @@ function updateWizardPreview() {
   if (!PREVIEW_CARD) {
     slot.innerHTML = '';
     slot.style.background = 'var(--black)';
-    caption.textContent = 'Cargando carta de muestra…';
+    caption.textContent = t('loadingSampleCard');
     if (!previewCardLoading) loadPreviewCard(); // por si la primera carga falló, reintenta sola
     return;
   }
@@ -238,11 +266,11 @@ function updateWizardPreview() {
     const hex = resolveSwatchHex(wizardState.folioColor);
     slot.style.background = hex === 'transparent' ? 'var(--black)' : hex;
     caption.textContent = wizardState.folioColor === 'transparente'
-      ? 'Folio transparente: se ve el fondo negro de la carpeta.'
-      : `Folio color ${wizardState.folioColor}.`;
+      ? t('folioTransparentCaption')
+      : t('folioColorCaption', { color: colorLabel(wizardState.folioColor) });
   } else {
     slot.style.background = 'var(--black)';
-    caption.textContent = 'Elegí un color de folio.';
+    caption.textContent = t('folioChooseCaption');
   }
 }
 

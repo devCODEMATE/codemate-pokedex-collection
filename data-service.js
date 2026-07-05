@@ -2,28 +2,38 @@
  * data-service.js
  * -----------------------------------------------------------------------
  * Reemplaza a mock-data.js. Todo acá es asíncrono porque los datos ahora
- * viven en archivos reales (data/...) que hay que pedir por fetch, no en
- * un array ya cargado en memoria.
+ * viven en archivos reales (data/{lang}/...) que hay que pedir por fetch.
+ *
+ * Cada carpeta ("binder") tiene su propio idioma de cartas (cardLanguage:
+ * 'en' o 'es'), así que cada función de carga recibe `lang` como parámetro
+ * y arma la ruta dentro de data/{lang}/... El caché se guarda separado por
+ * idioma, para que tener abierta una carpeta en inglés y otra en español
+ * en la misma sesión no mezcle resultados.
  *
  * Estrategia de carga: nunca se pide todo el catálogo de una. Cada función
  * trae solo el archivo puntual que hace falta, y lo cachea en memoria para
- * no volver a pedirlo. Así, abrir el Buscador no descarga 23.000 cartas —
- * descarga como mucho un chunk alfabético (unos miles) o un ilustrador
- * puntual (unas decenas).
+ * no volver a pedirlo.
  */
 
 const DATA_BASE = 'data';
 
-const cache = {
-  sets: null, // Map<setId, setMeta>
-  facets: null,
-  searchBuckets: new Map(), // bucket -> {totalCards, cards}
-  allBucketsMerged: null, // {totalCards, cards} combinado, para búsquedas por número
-  byIllustrator: new Map(), // slug -> {name, totalCards, cards}
-  byGeneration: new Map(), // serieId -> {name, totalCards, cards}
-  byPokemon: new Map(), // slug -> {name, totalCards, cards}
-  cardsBySet: new Map(), // setId -> full card[] (detalle completo)
-};
+const cacheByLang = {}; // lang -> { sets, facets, searchBuckets, allBucketsMerged, byIllustrator, byGeneration, byPokemon, cardsBySet }
+
+function cacheFor(lang) {
+  if (!cacheByLang[lang]) {
+    cacheByLang[lang] = {
+      sets: null,
+      facets: null,
+      searchBuckets: new Map(),
+      allBucketsMerged: null,
+      byIllustrator: new Map(),
+      byGeneration: new Map(),
+      byPokemon: new Map(),
+      cardsBySet: new Map(),
+    };
+  }
+  return cacheByLang[lang];
+}
 
 async function fetchJSON(relativePath) {
   const res = await fetch(`${DATA_BASE}/${relativePath}`);
@@ -60,81 +70,85 @@ function looksLikeNumberQuery(query) {
   return !(first >= 'a' && first <= 'z');
 }
 
-/** Lista de todos los sets (liviano, 209 entradas) — se pide una sola vez */
-async function loadSets() {
-  if (cache.sets) return cache.sets;
-  const list = await fetchJSON('sets.json');
-  cache.sets = new Map(list.map((s) => [s.id, s]));
-  return cache.sets;
+/** Lista de todos los sets del idioma pedido (liviano) — se pide una sola vez por idioma */
+async function loadSets(lang = 'en') {
+  const c = cacheFor(lang);
+  if (c.sets) return c.sets;
+  const list = await fetchJSON(`${lang}/sets.json`);
+  c.sets = new Map(list.map((s) => [s.id, s]));
+  return c.sets;
 }
 
 /** rarezas / tipos / ilustradores / generaciones disponibles, para poblar filtros */
-async function loadFacets() {
-  if (cache.facets) return cache.facets;
-  cache.facets = await fetchJSON('indices/facets.json');
-  return cache.facets;
+async function loadFacets(lang = 'en') {
+  const c = cacheFor(lang);
+  if (c.facets) return c.facets;
+  c.facets = await fetchJSON(`${lang}/indices/facets.json`);
+  return c.facets;
 }
 
-async function loadSearchBucket(bucket) {
-  if (cache.searchBuckets.has(bucket)) return cache.searchBuckets.get(bucket);
-  const data = await fetchJSON(`indices/search/${bucket}.json`);
-  cache.searchBuckets.set(bucket, data);
+async function loadSearchBucket(bucket, lang = 'en') {
+  const c = cacheFor(lang);
+  if (c.searchBuckets.has(bucket)) return c.searchBuckets.get(bucket);
+  const data = await fetchJSON(`${lang}/indices/search/${bucket}.json`);
+  c.searchBuckets.set(bucket, data);
   return data;
 }
 
 /**
- * Para búsquedas por número de carta: no hay forma de saber en qué bloque
- * alfabético cae un número, así que traemos todos los bloques (son solo
- * unos pocos archivos) y los combinamos. Se cachea igual que el resto, así
- * que solo paga este costo la primera vez que alguien busca por número.
+ * Para búsquedas por número de carta: traemos todos los bloques alfabéticos
+ * y los combinamos. Se cachea por idioma igual que el resto.
  */
-async function loadAllSearchBuckets() {
-  if (cache.allBucketsMerged) return cache.allBucketsMerged;
+async function loadAllSearchBuckets(lang = 'en') {
+  const c = cacheFor(lang);
+  if (c.allBucketsMerged) return c.allBucketsMerged;
   const results = await Promise.all(
-    SEARCH_BUCKETS.map((bucket) =>
-      loadSearchBucket(bucket).catch(() => null) // el bucket "otros" puede no existir si nadie cae ahí
-    )
+    SEARCH_BUCKETS.map((bucket) => loadSearchBucket(bucket, lang).catch(() => null))
   );
   const cards = results.filter(Boolean).flatMap((r) => r.cards);
-  cache.allBucketsMerged = { totalCards: cards.length, cards };
-  return cache.allBucketsMerged;
+  c.allBucketsMerged = { totalCards: cards.length, cards };
+  return c.allBucketsMerged;
 }
 
-async function loadByIllustrator(slug) {
-  if (cache.byIllustrator.has(slug)) return cache.byIllustrator.get(slug);
-  const data = await fetchJSON(`indices/by-illustrator/${slug}.json`);
-  cache.byIllustrator.set(slug, data);
+async function loadByIllustrator(slug, lang = 'en') {
+  const c = cacheFor(lang);
+  if (c.byIllustrator.has(slug)) return c.byIllustrator.get(slug);
+  const data = await fetchJSON(`${lang}/indices/by-illustrator/${slug}.json`);
+  c.byIllustrator.set(slug, data);
   return data;
 }
 
-async function loadByGeneration(serieId) {
-  if (cache.byGeneration.has(serieId)) return cache.byGeneration.get(serieId);
-  const data = await fetchJSON(`indices/by-generation/${serieId}.json`);
-  cache.byGeneration.set(serieId, data);
+async function loadByGeneration(serieId, lang = 'en') {
+  const c = cacheFor(lang);
+  if (c.byGeneration.has(serieId)) return c.byGeneration.get(serieId);
+  const data = await fetchJSON(`${lang}/indices/by-generation/${serieId}.json`);
+  c.byGeneration.set(serieId, data);
   return data;
 }
 
-async function loadByPokemonName(slug) {
-  if (cache.byPokemon.has(slug)) return cache.byPokemon.get(slug);
-  const data = await fetchJSON(`indices/by-pokemon/${slug}.json`);
-  cache.byPokemon.set(slug, data);
+async function loadByPokemonName(slug, lang = 'en') {
+  const c = cacheFor(lang);
+  if (c.byPokemon.has(slug)) return c.byPokemon.get(slug);
+  const data = await fetchJSON(`${lang}/indices/by-pokemon/${slug}.json`);
+  c.byPokemon.set(slug, data);
   return data;
 }
 
-/** Detalle completo (ataques, descripción, todo) de todas las cartas de un set */
-async function loadCardsBySet(setId) {
-  if (cache.cardsBySet.has(setId)) return cache.cardsBySet.get(setId);
-  const data = await fetchJSON(`cards/by-set/${setId}.json`);
-  cache.cardsBySet.set(setId, data);
+/** Detalle completo (ataques, descripción, todo) de todas las cartas de un set, en un idioma */
+async function loadCardsBySet(setId, lang = 'en') {
+  const c = cacheFor(lang);
+  if (c.cardsBySet.has(setId)) return c.cardsBySet.get(setId);
+  const data = await fetchJSON(`${lang}/cards/by-set/${setId}.json`);
+  c.cardsBySet.set(setId, data);
   return data;
 }
 
 /**
  * Resuelve el detalle completo de una carta puntual a partir de su id
- * (ej. "base1-4"): separa el setId, carga ese set (cacheado) y busca la carta.
+ * (ej. "base1-4") en el idioma pedido.
  */
-async function resolveCard(cardId) {
+async function resolveCard(cardId, lang = 'en') {
   const setId = cardId.slice(0, cardId.lastIndexOf('-'));
-  const cards = await loadCardsBySet(setId);
+  const cards = await loadCardsBySet(setId, lang);
   return cards.find((c) => c.id === cardId) || null;
 }

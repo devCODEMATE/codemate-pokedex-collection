@@ -2,22 +2,21 @@
 /**
  * scripts/fetch-tcgdex.js
  * -----------------------------------------------------------------------
- * Fase 2 — Paso 1: trae el catálogo real de TCGdex (api.tcgdex.net) y lo
- * guarda en /data, con la misma forma pensada en el plan original:
+ * Trae el catálogo de TCGdex (api.tcgdex.net) para UN idioma puntual y lo
+ * guarda en /data/{lang}, con la misma forma pensada en el plan original:
  *
- *   data/sets.json
- *   data/metadata/last-updated.json
- *   data/cards/by-set/{setId}.json   (cartas completas de ese set)
+ *   data/{lang}/sets.json
+ *   data/{lang}/metadata/last-updated.json
+ *   data/{lang}/cards/by-set/{setId}.json   (cartas completas de ese set)
  *
- * Es RESUMIBLE: si un set ya tiene su archivo en data/cards/by-set, no lo
- * vuelve a descargar (a menos que uses --force). Así, si se corta a mitad
- * de camino, correrlo de nuevo retoma donde quedó.
+ * Es RESUMIBLE: si un set ya tiene su archivo en data/{lang}/cards/by-set,
+ * no lo vuelve a descargar (a menos que uses --force).
  *
  * Uso:
- *   node scripts/fetch-tcgdex.js                    -> TODO el catálogo (tarda horas)
- *   node scripts/fetch-tcgdex.js --sets=base1        -> solo un set, para probar
- *   node scripts/fetch-tcgdex.js --sets=base1,jungle -> varios sets puntuales
- *   node scripts/fetch-tcgdex.js --force             -> ignora la caché y re-descarga todo
+ *   node scripts/fetch-tcgdex.js                          -> inglés, TODO el catálogo
+ *   node scripts/fetch-tcgdex.js --lang=es                 -> español, TODO el catálogo
+ *   node scripts/fetch-tcgdex.js --lang=es --sets=base1    -> solo un set, para probar
+ *   node scripts/fetch-tcgdex.js --lang=es --force         -> ignora la caché y re-descarga todo
  *
  * Requiere Node 18 o superior (usa fetch nativo, sin dependencias).
  */
@@ -25,22 +24,23 @@
 const fs = require('fs');
 const path = require('path');
 
-const API = 'https://api.tcgdex.net/v2/en';
-const DATA_DIR = path.join(__dirname, '..', 'data');
-const CARDS_DIR = path.join(DATA_DIR, 'cards', 'by-set');
-const CONCURRENCY = 8;
-
 const args = process.argv.slice(2).reduce((acc, arg) => {
   const [key, value] = arg.replace(/^--/, '').split('=');
   acc[key] = value ?? true;
   return acc;
 }, {});
 
+const LANG = args.lang || 'en';
+const API = `https://api.tcgdex.net/v2/${LANG}`;
+const DATA_DIR = path.join(__dirname, '..', 'data', LANG);
+const CARDS_DIR = path.join(DATA_DIR, 'cards', 'by-set');
+const CONCURRENCY = 8;
+
 const onlySets = args.sets ? args.sets.split(',').map((s) => s.trim()) : null;
 const force = Boolean(args.force);
 
 function log(msg) {
-  console.log(`[fetch-tcgdex] ${msg}`);
+  console.log(`[fetch-tcgdex:${LANG}] ${msg}`);
 }
 
 async function fetchJSON(url, retries = 3) {
@@ -101,7 +101,7 @@ async function main() {
 
   log('Trayendo lista de sets...');
   let sets = await fetchJSON(`${API}/sets`);
-  log(`Total de sets disponibles en TCGdex: ${sets.length}`);
+  log(`Total de sets disponibles en TCGdex (${LANG}): ${sets.length}`);
 
   if (onlySets) {
     sets = sets.filter((s) => onlySets.includes(s.id));
@@ -126,7 +126,6 @@ async function main() {
       const cached = JSON.parse(fs.readFileSync(outFile, 'utf8'));
       totalCards += cached.length;
       setsSkippedFromCache += 1;
-      // igual necesitamos su metadata para sets.json
       const setDetail = await fetchJSON(`${API}/sets/${setBrief.id}`);
       allSetsMeta.push(setMeta(setDetail));
       continue;
@@ -135,7 +134,7 @@ async function main() {
     const setDetail = await fetchJSON(`${API}/sets/${setBrief.id}`);
     allSetsMeta.push(setMeta(setDetail));
 
-    const briefs = setDetail.cards; // [{id, image, localId, name}]
+    const briefs = setDetail.cards;
     log(`  -> ${briefs.length} cartas, descargando detalle completo...`);
 
     let done = 0;
@@ -145,8 +144,6 @@ async function main() {
       if (done % 20 === 0 || done === briefs.length) {
         process.stdout.write(`\r  -> ${done}/${briefs.length} cartas`);
       }
-      // si falló por las dos vías, guardamos igual los datos mínimos que ya
-      // teníamos (brief), marcada como incompleta, para no perder la carta del todo
       return full || { ...brief, incomplete: true };
     });
     process.stdout.write('\n');
@@ -160,7 +157,7 @@ async function main() {
   fs.writeFileSync(
     path.join(DATA_DIR, 'metadata', 'last-updated.json'),
     JSON.stringify(
-      { updatedAt: new Date().toISOString(), totalSets: allSetsMeta.length, totalCards },
+      { lang: LANG, updatedAt: new Date().toISOString(), totalSets: allSetsMeta.length, totalCards },
       null,
       2
     )
@@ -170,9 +167,9 @@ async function main() {
     JSON.stringify(failedCards, null, 2)
   );
 
-  log(`Listo. ${allSetsMeta.length} sets (${setsSkippedFromCache} ya estaban en caché), ${totalCards} cartas guardadas en /data.`);
+  log(`Listo. ${allSetsMeta.length} sets (${setsSkippedFromCache} ya estaban en caché), ${totalCards} cartas guardadas en /data/${LANG}.`);
   if (failedCards.length) {
-    log(`ATENCIÓN: ${failedCards.length} carta(s) no se pudieron traer completas (quedaron con datos mínimos). Ver data/metadata/failed-cards.json.`);
+    log(`ATENCIÓN: ${failedCards.length} carta(s) no se pudieron traer completas. Ver data/${LANG}/metadata/failed-cards.json.`);
   } else {
     log('Ninguna carta falló. Catálogo completo.');
   }
@@ -191,6 +188,6 @@ function setMeta(setDetail) {
 }
 
 main().catch((err) => {
-  console.error('[fetch-tcgdex] ERROR:', err);
+  console.error(`[fetch-tcgdex:${LANG}] ERROR:`, err);
   process.exit(1);
 });

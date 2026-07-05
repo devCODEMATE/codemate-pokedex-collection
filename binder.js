@@ -43,7 +43,7 @@ async function renderBinderPage() {
     return `
       <div class="binder-slot ${isTransparentFolio ? 'is-transparent-folio' : ''}" style="${bg}"
         id="slot-${slotIndex}" role="button" tabindex="0"
-        aria-label="${cardId ? 'Cargando carta…' : 'Slot vacío'}">
+        aria-label="${cardId ? t('loadingCardAria') : t('emptySlotAria')}">
         ${cardId ? '<div class="binder-slot-loading"></div>' : '<div class="binder-slot-empty"></div>'}
       </div>`;
   }).join('');
@@ -68,10 +68,10 @@ async function renderBinderPage() {
   // progreso: sin sourceFilter todavía, mostramos solo cantidad de slots llenos
   const filled = countFilledSlots(currentBinderData);
   const total = cols * rows * currentBinderData.pages.length;
-  document.getElementById('binder-progress-label').textContent = `${filled} / ${total} cartas`;
+  document.getElementById('binder-progress-label').textContent = t('cardsProgress', { filled, total });
 
   document.getElementById('binder-page-indicator').textContent =
-    `Página ${currentPageIndex + 1} de ${currentBinderData.pages.length}`;
+    t('pageIndicator', { n: currentPageIndex + 1, total: currentBinderData.pages.length });
   document.getElementById('binder-prev-btn').disabled = currentPageIndex === 0;
   document.getElementById('binder-next-btn').disabled = currentPageIndex === currentBinderData.pages.length - 1;
 
@@ -83,7 +83,7 @@ async function renderBinderPage() {
 
   await Promise.all(pendingSlots.map(async ({ cardId, slotIndex }) => {
     try {
-      const card = await resolveCard(cardId);
+      const card = await resolveCard(cardId, getBinderLanguage(currentBinderEntry));
       if (currentBinderData.__renderToken !== renderToken) return; // el usuario ya cambió de página
       const el = document.getElementById(`slot-${slotIndex}`);
       if (el && card) {

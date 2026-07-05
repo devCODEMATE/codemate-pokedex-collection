@@ -16,6 +16,19 @@ function goToView(name) {
 }
 
 function initApp() {
+  applyStaticTranslations(); // fija el idioma inicial en el HTML estático
+
+  document.getElementById('lang-toggle-btn').addEventListener('click', () => {
+    setLanguage(getLanguage() === 'en' ? 'es' : 'en');
+  });
+  document.addEventListener('languagechange', () => {
+    if (!document.getElementById('view-library').hidden) renderLibrary();
+    if (!document.getElementById('view-wizard').hidden) renderWizardStep();
+    if (!document.getElementById('view-binder').hidden) renderBinderPage();
+    if (!document.getElementById('buscador-modal').hidden) { renderBuscadorFilterControls(); runBuscadorSearch(); }
+    if (!document.getElementById('card-detail-modal').hidden) renderCardDetail();
+  });
+
   document.getElementById('brand-home-btn').addEventListener('click', () => {
     renderLibrary();
     goToView('library');
@@ -48,9 +61,11 @@ function initApp() {
   document.getElementById('binder-prev-btn').addEventListener('click', () => flipBinderPage(-1));
   document.getElementById('binder-next-btn').addEventListener('click', () => flipBinderPage(1));
   document.getElementById('binder-add-page-btn').addEventListener('click', handleAddPage);
+document.getElementById('binder-export-btn').addEventListener('click', () => exportBinderHTML(currentBinderEntry));
 
   wireBuscadorGlobalEvents();
   wireCardDetailGlobalEvents();
+  wireCardZoomGlobalEvents();
   wireEditBinderGlobalEvents();
 
   renderLibrary();

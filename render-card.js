@@ -79,8 +79,8 @@ function renderCardFaceFallbackSVG(card, { compact = false } = {}) {
     <g transform="translate(45, 24) scale(1.4)" fill="${palette.border}" opacity="0.6">
       <path d="${glyph}"/>
     </g>
-    <text x="63" y="70" font-family="'DM Sans', sans-serif" font-size="6" font-weight="700" fill="${palette.border}" text-anchor="middle" opacity="0.85">IMAGEN</text>
-    <text x="63" y="80" font-family="'DM Sans', sans-serif" font-size="6" font-weight="700" fill="${palette.border}" text-anchor="middle" opacity="0.85">PRÓXIMAMENTE</text>
+    <text x="63" y="70" font-family="'DM Sans', sans-serif" font-size="6" font-weight="700" fill="${palette.border}" text-anchor="middle" opacity="0.85">${t('imageComingSoonLine1')}</text>
+    <text x="63" y="80" font-family="'DM Sans', sans-serif" font-size="6" font-weight="700" fill="${palette.border}" text-anchor="middle" opacity="0.85">${t('imageComingSoonLine2')}</text>
     <text x="10" y="16" font-family="'Space Mono', monospace" font-size="9" font-weight="700" fill="#1a1a1a">${escapeXML(card.name)}</text>
     ${card.hp ? `<text x="116" y="16" font-family="'Space Mono', monospace" font-size="8" font-weight="700" fill="${palette.border}" text-anchor="end">HP${card.hp}</text>` : ''}
     ${!compact ? `

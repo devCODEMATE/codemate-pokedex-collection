@@ -1,29 +1,30 @@
 /**
  * buscador.js
  * -----------------------------------------------------------------------
- * Fase 2: ya no filtra sobre un array en memoria (eso era Fase 1 con 24
- * cartas mock). Ahora decide, según lo que el usuario tocó, qué archivo
- * puntual pedir:
+ * Decide, según lo que el usuario tocó, qué archivo puntual pedir del
+ * idioma de cartas de la carpeta activa (buscadorLang, fijado al abrir):
  *
- *   - Elige un ilustrador  -> data/indices/by-illustrator/{slug}.json
- *   - Elige una generación -> data/indices/by-generation/{serieId}.json
- *   - Escribe un nombre    -> data/indices/search/{bucket}.json (según 1ª letra)
+ *   - Elige un ilustrador  -> data/{lang}/indices/by-illustrator/{slug}.json
+ *   - Elige una generación -> data/{lang}/indices/by-generation/{serieId}.json
+ *   - Escribe un nombre    -> data/{lang}/indices/search/{bucket}.json
  *
  * Rareza y Tipo son filtros secundarios: se aplican en memoria sobre lo
- * que ya se cargó, no piden nada nuevo. Si no hay ningún disparador
- * (nada escrito, ningún ilustrador/generación elegido), no se pide nada
- * — se le pide al usuario que arranque por ahí.
+ * que ya se cargó, no piden nada nuevo.
  */
 
 let buscadorPendingSlot = null; // { binderId, pageNumber, slotIndex }
+let buscadorLang = 'en'; // idioma de cartas de la carpeta activa, fijado en openBuscador
 let buscadorFilters = { query: '', rarity: null, type: null, illustratorSlug: null, generationId: null };
 let buscadorFacets = null;
 let buscadorSets = null; // Map<setId, setMeta> — para poder filtrar por generación aunque el pool venga de otro lado
-let buscadorRequestToken = 0; // evita pintar resultados viejos si el usuario sigue escribiendo
-let buscadorHasAutoCollapsed = false; // solo colapsamos los filtros solos una vez por apertura
+let buscadorRequestToken = 0;
+let buscadorHasAutoCollapsed = false;
 
 async function openBuscador(pendingSlot) {
   buscadorPendingSlot = pendingSlot;
+  const binderEntry = getBindersIndex().find((b) => b.id === pendingSlot.binderId);
+  buscadorLang = getBinderLanguage(binderEntry);
+
   buscadorFilters = { query: '', rarity: null, type: null, illustratorSlug: null, generationId: null };
   buscadorHasAutoCollapsed = false;
   document.getElementById('buscador-search-input').value = '';
@@ -31,19 +32,19 @@ async function openBuscador(pendingSlot) {
   document.getElementById('buscador-search-input').focus();
   setBuscadorFiltersCollapsed(false);
 
-  renderBuscadorPrompt('Cargando filtros…');
+  renderBuscadorPrompt(t('loadingFilters'));
 
   try {
-    if (!buscadorFacets) buscadorFacets = await loadFacets();
-    if (!buscadorSets) buscadorSets = await loadSets();
+    buscadorFacets = await loadFacets(buscadorLang);
+    buscadorSets = await loadSets(buscadorLang);
   } catch (err) {
     console.error('No se pudieron cargar los filtros del buscador:', err);
-    renderBuscadorPrompt('No se pudieron cargar los filtros (¿corriste "node scripts/build-indices.js"? revisá la consola para más detalle).');
+    renderBuscadorPrompt(t('filtersLoadError'));
     return;
   }
 
   renderBuscadorFilterControls();
-  renderBuscadorPrompt('Escribí un nombre, o elegí ilustrador/generación para empezar.');
+  renderBuscadorPrompt(t('startPrompt'));
 }
 
 function setBuscadorFiltersCollapsed(collapsed) {
@@ -92,7 +93,7 @@ function renderBuscadorFilterControls() {
   }
 
   const generationSelect = document.getElementById('buscador-generation-select');
-  generationSelect.innerHTML = `<option value="">Todas las generaciones</option>` +
+  generationSelect.innerHTML = `<option value="">${t('generationAllOption')}</option>` +
     buscadorFacets.generations.map((g) => `<option value="${g.id}">${escapeHTML(g.name)}</option>`).join('');
   generationSelect.value = buscadorFilters.generationId || '';
 }
@@ -107,7 +108,7 @@ function renderIllustratorSuggestions(query) {
     : buscadorFacets.illustrators.slice(0, 40);
 
   if (matches.length === 0) {
-    list.innerHTML = `<div class="combo-empty">Sin coincidencias.</div>`;
+    list.innerHTML = `<div class="combo-empty">${t('noComboMatches')}</div>`;
   } else {
     list.innerHTML = matches.map((i) => `<button type="button" class="combo-option" data-slug="${i.slug}" data-name="${escapeHTML(i.name)}">${escapeHTML(i.name)}</button>`).join('');
   }
@@ -115,7 +116,7 @@ function renderIllustratorSuggestions(query) {
 
   list.querySelectorAll('.combo-option').forEach((opt) => {
     opt.addEventListener('mousedown', (e) => {
-      e.preventDefault(); // evita que el blur del input se dispare antes del click
+      e.preventDefault();
       document.getElementById('buscador-illustrator-input').value = opt.dataset.name;
       document.getElementById('buscador-illustrator-slug').value = opt.dataset.slug;
       buscadorFilters.illustratorSlug = opt.dataset.slug;
@@ -146,7 +147,6 @@ function wireBuscadorGlobalEvents() {
     }
   });
   document.getElementById('buscador-illustrator-input').addEventListener('blur', () => {
-    // si lo que quedó escrito no coincide con el ilustrador elegido, se descarta la selección
     const input = document.getElementById('buscador-illustrator-input');
     const slugField = document.getElementById('buscador-illustrator-slug');
     if (!slugField.value || input.value.trim() === '') {
@@ -180,40 +180,40 @@ async function runBuscadorSearch() {
   let pool = null;
   try {
     if (buscadorFilters.illustratorSlug) {
-      renderBuscadorPrompt('Cargando cartas de ese ilustrador…');
-      const data = await loadByIllustrator(buscadorFilters.illustratorSlug);
+      renderBuscadorPrompt(t('loadingIllustratorCards'));
+      const data = await loadByIllustrator(buscadorFilters.illustratorSlug, buscadorLang);
       pool = data.cards;
     } else if (buscadorFilters.generationId) {
-      renderBuscadorPrompt('Cargando cartas de esa generación…');
-      const data = await loadByGeneration(buscadorFilters.generationId);
+      renderBuscadorPrompt(t('loadingGenerationCards'));
+      const data = await loadByGeneration(buscadorFilters.generationId, buscadorLang);
       pool = data.cards;
     } else if (q.length >= 1) {
       if (looksLikeNumberQuery(q)) {
-        renderBuscadorPrompt('Buscando por número…');
-        const data = await loadAllSearchBuckets();
+        renderBuscadorPrompt(t('searchingByNumber'));
+        const data = await loadAllSearchBuckets(buscadorLang);
         pool = data.cards;
       } else {
-        renderBuscadorPrompt('Buscando…');
+        renderBuscadorPrompt(t('searching'));
         const bucket = searchBucketFor(q);
-        const data = await loadSearchBucket(bucket);
+        const data = await loadSearchBucket(bucket, buscadorLang);
         pool = data.cards;
       }
     } else {
-      renderBuscadorPrompt('Escribí un nombre, o elegí ilustrador/generación para empezar.');
+      renderBuscadorPrompt(t('startPrompt'));
       return;
     }
   } catch (err) {
     if (token !== buscadorRequestToken) return;
     console.error('No se pudo cargar el resultado de la búsqueda:', err);
-    renderBuscadorPrompt('No se pudo cargar esa búsqueda. Revisá la consola para más detalle.');
+    renderBuscadorPrompt(t('searchLoadError'));
     return;
   }
 
-  if (token !== buscadorRequestToken) return; // el usuario ya cambió el filtro, este resultado quedó viejo
+  if (token !== buscadorRequestToken) return;
 
   const qParts = q.toLowerCase().replace(/^#/, '').split('/');
-  const qLower = qParts[0].trim(); // "#189", "189" y "189/192" buscan por el mismo número...
-  const qSetTotal = qParts[1] ? qParts[1].trim() : null; // ...pero si escribiste el "/192", lo usamos para afinar al set exacto
+  const qLower = qParts[0].trim();
+  const qSetTotal = qParts[1] ? qParts[1].trim() : null;
 
   const filtered = pool.filter((card) => {
     if (qLower) {
@@ -231,7 +231,6 @@ async function runBuscadorSearch() {
     if (buscadorFilters.rarity && card.rarity !== buscadorFilters.rarity) return false;
     if (buscadorFilters.type && !(card.types || []).includes(buscadorFilters.type)) return false;
     if (buscadorFilters.generationId && buscadorFilters.illustratorSlug) {
-      // generación se usó como filtro secundario porque el pool vino del ilustrador
       const setMeta = buscadorSets.get(card.set);
       if (!setMeta || !setMeta.serie || setMeta.serie.id !== buscadorFilters.generationId) return false;
     }
@@ -244,7 +243,7 @@ async function runBuscadorSearch() {
 }
 
 const BUSCADOR_BATCH_SIZE = 60;
-let buscadorFullResults = []; // el listado filtrado completo, ya en memoria
+let buscadorFullResults = [];
 let buscadorShownCount = 0;
 
 function renderBuscadorResults(results, activeFilterCount = 0) {
@@ -258,15 +257,14 @@ function renderBuscadorResults(results, activeFilterCount = 0) {
 
   const container = document.getElementById('buscador-results');
   if (results.length === 0) {
-    const hint = activeFilterCount > 1 ? ' Probá sacar algún filtro.' : '';
-    container.innerHTML = `<p class="buscador-empty">No encontramos cartas con esta combinación.${hint}</p>`;
+    const hint = activeFilterCount > 1 ? t('tryRemovingFilter') : '';
+    container.innerHTML = `<p class="buscador-empty">${t('noMatches')}${hint}</p>`;
     return;
   }
 
   renderBuscadorResultsBatch();
 }
 
-/** Pinta el resultado por tandas de BUSCADOR_BATCH_SIZE, agregando "Cargar más" si falta */
 function renderBuscadorResultsBatch() {
   const container = document.getElementById('buscador-results');
   buscadorShownCount = Math.min(buscadorShownCount + BUSCADOR_BATCH_SIZE, buscadorFullResults.length);
@@ -281,7 +279,7 @@ function renderBuscadorResultsBatch() {
   if (buscadorShownCount < buscadorFullResults.length) {
     container.innerHTML += `
       <button type="button" class="load-more-btn" id="buscador-load-more-btn">
-        Cargar más (${buscadorShownCount} de ${buscadorFullResults.length})
+        ${t('loadMoreBtn', { shown: buscadorShownCount, total: buscadorFullResults.length })}
       </button>`;
     document.getElementById('buscador-load-more-btn').addEventListener('click', renderBuscadorResultsBatch);
   }

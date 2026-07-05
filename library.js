@@ -11,27 +11,9 @@ function renderLibrary() {
   if (index.length === 0) {
     container.innerHTML = `
       <div class="empty-state">
-        <svg class="empty-state-icon" viewBox="0 0 200 150" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-          <!-- estante -->
-          <rect x="8" y="98" width="184" height="8" rx="3" fill="#073b4c"/>
-          <!-- carpetas paradas, de colores de marca -->
-          <rect x="20" y="34" width="26" height="64" rx="4" fill="#5a527a"/>
-          <rect x="50" y="22" width="26" height="76" rx="4" fill="#ffd166"/>
-          <rect x="80" y="40" width="26" height="58" rx="4" fill="#6b9e93"/>
-          <rect x="110" y="28" width="26" height="70" rx="4" fill="#073b4c"/>
-          <rect x="140" y="46" width="26" height="52" rx="4" fill="#c96a90"/>
-          <!-- lomo con detalle -->
-          <rect x="26" y="42" width="14" height="4" rx="2" fill="#ffffff" opacity="0.5"/>
-          <rect x="56" y="30" width="14" height="4" rx="2" fill="#073b4c" opacity="0.3"/>
-          <rect x="86" y="48" width="14" height="4" rx="2" fill="#ffffff" opacity="0.5"/>
-          <rect x="116" y="36" width="14" height="4" rx="2" fill="#ffd166" opacity="0.8"/>
-          <rect x="146" y="54" width="14" height="4" rx="2" fill="#ffffff" opacity="0.5"/>
-          <!-- flechita apuntando hacia abajo, al botón "+ Nueva carpeta" que está justo debajo -->
-          <path d="M100 116 v16" stroke="#5a527a" stroke-width="3" fill="none" stroke-linecap="round" stroke-dasharray="1 6"/>
-          <path d="M91 128 l9 10 9 -10 z" fill="#5a527a"/>
-        </svg>
-        <p>Todavía no armaste ninguna carpeta.</p>
-        <button class="btn btn-primary" onclick="goToView('wizard')">+ Nueva carpeta</button>
+        <img class="empty-state-icon" src="images/rack.png" alt="${t('emptyStateAlt')}" />
+        <p>${t('emptyStateText')}</p>
+        <button class="btn btn-primary" onclick="goToView('wizard')">${t('navNew')}</button>
       </div>`;
     return;
   }
@@ -46,7 +28,7 @@ function renderLibrary() {
     });
     document.getElementById(`delete-${entry.id}`).addEventListener('click', (e) => {
       e.stopPropagation();
-      if (confirm(`¿Eliminar "${entry.name}"? Esta acción no se puede deshacer.`)) {
+      if (confirm(t('deleteConfirm', { name: entry.name }))) {
         deleteBinder(entry.id);
         renderLibrary();
       }
@@ -73,13 +55,13 @@ function binderCardHTML(entry) {
       </div>
       <span class="binder-card-name">${escapeHTML(entry.name)}</span>
       <span class="binder-card-meta">
-        <span>${SIZES[entry.size].label}</span>
-        <span>${entry.pageCount} hojas</span>
+        <span>${sizeLabel(entry.size)} · ${cardLanguageLabel(getBinderLanguage(entry))}</span>
+        <span>${t('pagesLabel', { n: entry.pageCount })}</span>
       </span>
-      <span class="binder-card-progress">${filled} / ${totalSlots} cartas</span>
+      <span class="binder-card-progress">${t('cardsProgress', { filled, total: totalSlots })}</span>
       <span class="binder-card-actions">
-        <button class="link-btn" id="edit-${entry.id}" type="button">Editar</button>
-        <button class="link-btn danger" id="delete-${entry.id}" type="button">Eliminar</button>
+        <button class="link-btn" id="edit-${entry.id}" type="button">${t('editBtn')}</button>
+        <button class="link-btn danger" id="delete-${entry.id}" type="button">${t('deleteBtn')}</button>
       </span>
     </div>`;
 }
@@ -115,7 +97,7 @@ function renderEditBinderSwatches() {
   const coverRow = document.getElementById('edit-binder-cover-row');
   coverRow.innerHTML = COVER_COLORS.map((c) => `
     <button type="button" class="swatch ${editBinderState.coverColor === c.key ? 'selected' : ''}"
-      style="background:${resolveSwatchHex(c.key)}" data-color="${c.key}" title="${c.label}" aria-label="${c.label}"></button>
+      style="background:${resolveSwatchHex(c.key)}" data-color="${c.key}" title="${colorLabel(c.key)}" aria-label="${colorLabel(c.key)}"></button>
   `).join('');
   coverRow.querySelectorAll('.swatch').forEach((btn) => {
     btn.addEventListener('click', () => {
@@ -127,7 +109,7 @@ function renderEditBinderSwatches() {
   const folioRow = document.getElementById('edit-binder-folio-row');
   folioRow.innerHTML = FOLIO_COLORS.map((c) => `
     <button type="button" class="swatch ${c.key === 'transparente' ? 'is-transparent' : ''} ${editBinderState.folioColor === c.key ? 'selected' : ''}"
-      style="${c.key === 'transparente' ? '' : `background:${resolveSwatchHex(c.key)}`}" data-color="${c.key}" title="${c.label}" aria-label="${c.label}"></button>
+      style="${c.key === 'transparente' ? '' : `background:${resolveSwatchHex(c.key)}`}" data-color="${c.key}" title="${colorLabel(c.key)}" aria-label="${colorLabel(c.key)}"></button>
   `).join('');
   folioRow.querySelectorAll('.swatch').forEach((btn) => {
     btn.addEventListener('click', () => {
