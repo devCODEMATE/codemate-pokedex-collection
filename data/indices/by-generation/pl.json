@@ -1,0 +1,6829 @@
+{
+  "name": "Platinum",
+  "totalCards": 533,
+  "cards": [
+    {
+      "id": "pl1-1",
+      "name": "Ampharos",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "1",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/1",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl1-10",
+      "name": "Giratina",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "10",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/10",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl1-100",
+      "name": "Torkoal",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "100",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/100",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-101",
+      "name": "Turtwig",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "101",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/101",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-102",
+      "name": "Vulpix",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "102",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/102",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-103",
+      "name": "Wurmple",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "103",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/103",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "pl1-104",
+      "name": "Broken Time-Space",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "104",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/104",
+      "types": null,
+      "illustrator": "Kent Kanetsuna"
+    },
+    {
+      "id": "pl1-105",
+      "name": "Cyrus's Conspiracy",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "105",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/105",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl1-106",
+      "name": "Galactic HQ",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "106",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/106",
+      "types": null,
+      "illustrator": "Ryota Saito"
+    },
+    {
+      "id": "pl1-107",
+      "name": "Level Max",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "107",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/107",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl1-108",
+      "name": "Life Herb",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "108",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/108",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl1-109",
+      "name": "Looker's Investigation",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "109",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/109",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl1-11",
+      "name": "Manectric",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "11",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/11",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-110",
+      "name": "Memory Berry",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "110",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/110",
+      "types": null,
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl1-111",
+      "name": "Miasma Valley",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "111",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/111",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl1-112",
+      "name": "PlusPower",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "112",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/112",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl1-113",
+      "name": "Poké Ball",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "113",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/113",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl1-114",
+      "name": "Pokédex HANDY910is",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "114",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/114",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl1-115",
+      "name": "Pokémon Rescue",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "115",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/115",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl1-116",
+      "name": "Team Galactic's Invention G-101 Energy Gain",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "116",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/116",
+      "types": null,
+      "illustrator": "Makoto Imai"
+    },
+    {
+      "id": "pl1-117",
+      "name": "Team Galactic's Invention G-103 Power Spray",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "117",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/117",
+      "types": null,
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl1-118",
+      "name": "Team Galactic's Invention G-105 Poké Turn",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "118",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/118",
+      "types": null,
+      "illustrator": "Makoto Imai"
+    },
+    {
+      "id": "pl1-119",
+      "name": "Armor Fossil",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "119",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/119",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl1-12",
+      "name": "Palkia G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "12",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/12",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl1-120",
+      "name": "Skull Fossil",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "120",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/120",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl1-121",
+      "name": "Rainbow Energy",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "121",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/121",
+      "types": null,
+      "illustrator": "Takumi Akabane"
+    },
+    {
+      "id": "pl1-122",
+      "name": "Dialga G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "122",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/122",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-123",
+      "name": "Drapion",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "123",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/123",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl1-124",
+      "name": "Giratina",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "124",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/124",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl1-125",
+      "name": "Palkia G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "125",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/125",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-126",
+      "name": "Shaymin",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "126",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/126",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl1-127",
+      "name": "Shaymin",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "127",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/127",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl1-128",
+      "name": "Electabuzz",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "128",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/128",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl1-129",
+      "name": "Hitmonchan",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "129",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/129",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl1-13",
+      "name": "Rampardos",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "13",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/13",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl1-130",
+      "name": "Scyther",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "130",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/130",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl1-14",
+      "name": "Shaymin",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "14",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/14",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-15",
+      "name": "Shaymin",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "15",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/15",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl1-16",
+      "name": "Slaking",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "16",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/16",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl1-17",
+      "name": "Weavile G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "17",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/17",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Makoto Imai"
+    },
+    {
+      "id": "pl1-18",
+      "name": "Altaria",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "18",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/18",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl1-19",
+      "name": "Banette",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "19",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/19",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl1-2",
+      "name": "Blastoise",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "2",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/2",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-20",
+      "name": "Bastiodon",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "20",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/20",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-21",
+      "name": "Beautifly",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/21",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "pl1-22",
+      "name": "Blissey",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/22",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl1-23",
+      "name": "Dialga",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "23",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/23",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kent Kanetsuna"
+    },
+    {
+      "id": "pl1-24",
+      "name": "Dugtrio",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "24",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/24",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "pl1-25",
+      "name": "Dustox",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "25",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/25",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl1-26",
+      "name": "Empoleon",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "26",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/26",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-27",
+      "name": "Giratina",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "27",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/27",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-28",
+      "name": "Giratina",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "28",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/28",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl1-29",
+      "name": "Golduck",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "29",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/29",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-3",
+      "name": "Blaziken",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "3",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/3",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl1-30",
+      "name": "Gyarados G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "30",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/30",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kent Kanetsuna"
+    },
+    {
+      "id": "pl1-31",
+      "name": "Infernape",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "31",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/31",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-32",
+      "name": "Kricketune",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "32",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/32",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl1-33",
+      "name": "Lickilicky",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "33",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/33",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-34",
+      "name": "Ludicolo",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "34",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/34",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-35",
+      "name": "Luvdisc",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "35",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/35",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-36",
+      "name": "Ninetales",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "36",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/36",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "pl1-37",
+      "name": "Palkia",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "37",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/37",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kent Kanetsuna"
+    },
+    {
+      "id": "pl1-38",
+      "name": "Shaymin",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "38",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/38",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-39",
+      "name": "Torterra",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "39",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/39",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-4",
+      "name": "Delcatty",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "4",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/4",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-40",
+      "name": "Toxicroak G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "40",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/40",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Saito"
+    },
+    {
+      "id": "pl1-41",
+      "name": "Bronzong G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "41",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/41",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Makoto Imai"
+    },
+    {
+      "id": "pl1-42",
+      "name": "Cacturne",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/42",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-43",
+      "name": "Carnivine",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "43",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/43",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-44",
+      "name": "Cascoon",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/44",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl1-45",
+      "name": "Combusken",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "45",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/45",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl1-46",
+      "name": "Cranidos",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "46",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/46",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-47",
+      "name": "Crobat G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "47",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/47",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Makoto Imai"
+    },
+    {
+      "id": "pl1-48",
+      "name": "Flaaffy",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/48",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "pl1-49",
+      "name": "Grotle",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "49",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/49",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-5",
+      "name": "Dialga",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "5",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/5",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-50",
+      "name": "Houndoom G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/50",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kent Kanetsuna"
+    },
+    {
+      "id": "pl1-51",
+      "name": "Kirlia",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "51",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/51",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl1-52",
+      "name": "Lombre",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "52",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/52",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl1-53",
+      "name": "Lucario",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "53",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/53",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-54",
+      "name": "Mightyena",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "54",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/54",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-55",
+      "name": "Mismagius",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "55",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/55",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-56",
+      "name": "Monferno",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "56",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/56",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-57",
+      "name": "Muk",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/57",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl1-58",
+      "name": "Octillery",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "58",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/58",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl1-59",
+      "name": "Prinplup",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "59",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/59",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-6",
+      "name": "Dialga",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "6",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/6",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-60",
+      "name": "Probopass",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "60",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/60",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-61",
+      "name": "Seviper",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "61",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/61",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "pl1-62",
+      "name": "Shieldon",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "62",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/62",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-63",
+      "name": "Silcoon",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "63",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/63",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "pl1-64",
+      "name": "Vigoroth",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "64",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/64",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-65",
+      "name": "Wartortle",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "65",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/65",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl1-66",
+      "name": "Zangoose",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "66",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/66",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl1-67",
+      "name": "Cacnea",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "67",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/67",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "pl1-68",
+      "name": "Carnivine",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/68",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-69",
+      "name": "Chansey",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "69",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/69",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-7",
+      "name": "Dialga G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "7",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/7",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl1-70",
+      "name": "Chimchar",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "70",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/70",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-71",
+      "name": "Combee",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "71",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/71",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-72",
+      "name": "Diglett",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "72",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/72",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl1-73",
+      "name": "Dunsparce",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "73",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/73",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-74",
+      "name": "Electrike",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "74",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/74",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl1-75",
+      "name": "Grimer",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "75",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/75",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl1-76",
+      "name": "Happiny",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "76",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/76",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-77",
+      "name": "Honchkrow G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "77",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/77",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl1-78",
+      "name": "Kricketot",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "78",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/78",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "pl1-79",
+      "name": "Lapras",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "79",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/79",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-8",
+      "name": "Gardevoir",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "8",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/8",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-80",
+      "name": "Lickitung",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "80",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/80",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "pl1-81",
+      "name": "Lotad",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "81",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/81",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl1-82",
+      "name": "Mareep",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "82",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/82",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "pl1-83",
+      "name": "Misdreavus",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "83",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/83",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-84",
+      "name": "Nosepass",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "84",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/84",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-85",
+      "name": "Piplup",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "85",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/85",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-86",
+      "name": "Poochyena",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "86",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/86",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl1-87",
+      "name": "Psyduck",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "87",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/87",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl1-88",
+      "name": "Purugly G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "88",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/88",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryota Saito"
+    },
+    {
+      "id": "pl1-89",
+      "name": "Ralts",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "89",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/89",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl1-9",
+      "name": "Giratina",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "9",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/9",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-90",
+      "name": "Remoraid",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "90",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/90",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl1-91",
+      "name": "Riolu",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "91",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/91",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl1-92",
+      "name": "Shuppet",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "92",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/92",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "pl1-93",
+      "name": "Skitty",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "93",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/93",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl1-94",
+      "name": "Skuntank G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "94",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/94",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Makoto Imai"
+    },
+    {
+      "id": "pl1-95",
+      "name": "Slakoth",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "95",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/95",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl1-96",
+      "name": "Squirtle",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "96",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/96",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl1-97",
+      "name": "Swablu",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "97",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/97",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-98",
+      "name": "Tauros",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "98",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/98",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl1-99",
+      "name": "Torchic",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "99",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/99",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl1-SH4",
+      "name": "Lotad",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "SH4",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/SH4",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl1-SH5",
+      "name": "Swablu",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "SH5",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/SH5",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl1-SH6",
+      "name": "Vulpix",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "SH6",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/SH6",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl2-1",
+      "name": "Arcanine",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "1",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/1",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl2-10",
+      "name": "Mismagius GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "10",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/10",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl2-100",
+      "name": "Metal Energy",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "100",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/100",
+      "types": null,
+      "illustrator": "Takumi Akabane"
+    },
+    {
+      "id": "pl2-101",
+      "name": "SP Energy",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "101",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/101",
+      "types": null,
+      "illustrator": "Kent Kanetsuna"
+    },
+    {
+      "id": "pl2-102",
+      "name": "Upper Energy",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "102",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/102",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl2-103",
+      "name": "Alakazam 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "103",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/103",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl2-104",
+      "name": "Floatzel GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "104",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/104",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl2-105",
+      "name": "Flygon",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "105",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/105",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl2-106",
+      "name": "Gallade 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "106",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/106",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl2-107",
+      "name": "Hippowdon",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "107",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/107",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl2-108",
+      "name": "Infernape 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "108",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/108",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl2-109",
+      "name": "Luxray GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "109",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/109",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl2-11",
+      "name": "Rampardos GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "11",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/11",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "pl2-110",
+      "name": "Mismagius GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "110",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/110",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kent Kanetsuna"
+    },
+    {
+      "id": "pl2-111",
+      "name": "Snorlax",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "111",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/111",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl2-112",
+      "name": "Pikachu",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "112",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/112",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl2-113",
+      "name": "Flying Pikachu",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "113",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/113",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "pl2-114",
+      "name": "Surfing Pikachu",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "114",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/114",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "pl2-12",
+      "name": "Roserade GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "12",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/12",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl2-13",
+      "name": "Shiftry",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "13",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/13",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-14",
+      "name": "Aggron",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/14",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl2-15",
+      "name": "Beedrill",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/15",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-16",
+      "name": "Bronzong 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/16",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl2-17",
+      "name": "Drapion 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "17",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/17",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl2-18",
+      "name": "Espeon 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "18",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/18",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl2-19",
+      "name": "Flareon",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "19",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/19",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl2-2",
+      "name": "Bastiodon GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "2",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/2",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl2-20",
+      "name": "Gallade 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "20",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/20",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl2-21",
+      "name": "Gastrodon East Sea",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/21",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-22",
+      "name": "Gastrodon West Sea",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/22",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "pl2-23",
+      "name": "Golem 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "23",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/23",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-24",
+      "name": "Heracross 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "24",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/24",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl2-25",
+      "name": "Hippowdon",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "25",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/25",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Tomoaki Imakuni"
+    },
+    {
+      "id": "pl2-26",
+      "name": "Jolteon",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "26",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/26",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl2-27",
+      "name": "Mamoswine GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "27",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/27",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl2-28",
+      "name": "Mr. Mime 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "28",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/28",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl2-29",
+      "name": "Nidoking",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "29",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/29",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl2-3",
+      "name": "Darkrai G",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "3",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/3",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Makoto Imai"
+    },
+    {
+      "id": "pl2-30",
+      "name": "Nidoqueen",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "30",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/30",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl2-31",
+      "name": "Raichu GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "31",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/31",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl2-32",
+      "name": "Rhyperior 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "32",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/32",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-33",
+      "name": "Snorlax",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "33",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/33",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-34",
+      "name": "Vaporeon",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "34",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/34",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl2-35",
+      "name": "Vespiquen 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "35",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/35",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl2-36",
+      "name": "Walrein",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "36",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/36",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl2-37",
+      "name": "Yanmega 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "37",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/37",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl2-38",
+      "name": "Alakazam 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "38",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/38",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl2-39",
+      "name": "Electrode G",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "39",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/39",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl2-4",
+      "name": "Floatzel GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "4",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/4",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl2-40",
+      "name": "Gengar GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "40",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/40",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl2-41",
+      "name": "Glaceon",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "41",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/41",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl2-42",
+      "name": "Hippowdon 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/42",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-43",
+      "name": "Infernape 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "43",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/43",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl2-44",
+      "name": "Lairon",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/44",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl2-45",
+      "name": "Leafeon",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "45",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/45",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "pl2-46",
+      "name": "Machamp GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "46",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/46",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-47",
+      "name": "Rapidash 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "47",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/47",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl2-48",
+      "name": "Scizor 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/48",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl2-49",
+      "name": "Sharpedo",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "49",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/49",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl2-5",
+      "name": "Flygon",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "5",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/5",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl2-50",
+      "name": "Starmie",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/50",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-51",
+      "name": "Steelix GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "51",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/51",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl2-52",
+      "name": "Tropius",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "52",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/52",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-53",
+      "name": "Vibrava",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "53",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/53",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "pl2-54",
+      "name": "Whiscash 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "54",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/54",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-55",
+      "name": "Aerodactyl GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "55",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/55",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "pl2-56",
+      "name": "Ambipom G",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "56",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/56",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Makoto Imai"
+    },
+    {
+      "id": "pl2-57",
+      "name": "Aron",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "57",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/57",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Takao Unno"
+    },
+    {
+      "id": "pl2-58",
+      "name": "Carvanha",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "58",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/58",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl2-59",
+      "name": "Eevee",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "59",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/59",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl2-6",
+      "name": "Froslass GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "6",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/6",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl2-60",
+      "name": "Flareon 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "60",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/60",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl2-61",
+      "name": "Forretress G",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "61",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/61",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Ryota Saito"
+    },
+    {
+      "id": "pl2-62",
+      "name": "Gliscor 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "62",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/62",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-63",
+      "name": "Growlithe",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/63",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl2-64",
+      "name": "Hippopotas",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/64",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl2-65",
+      "name": "Houndoom 4",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "65",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/65",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl2-66",
+      "name": "Kakuna",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "66",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/66",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl2-67",
+      "name": "Kecleon",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "67",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/67",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl2-68",
+      "name": "Koffing",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/68",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl2-69",
+      "name": "Munchlax",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "69",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/69",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl2-7",
+      "name": "Jirachi",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "7",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/7",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kenkichi Toyama"
+    },
+    {
+      "id": "pl2-70",
+      "name": "Munchlax",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "70",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/70",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-71",
+      "name": "Nidoran♀",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "71",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/71",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl2-72",
+      "name": "Nidoran♂",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "72",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/72",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-73",
+      "name": "Nidorina",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "73",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/73",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-74",
+      "name": "Nidorino",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "74",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/74",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl2-75",
+      "name": "Nuzleaf",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "75",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/75",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl2-76",
+      "name": "Quagsire GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "76",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/76",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl2-77",
+      "name": "Sealeo",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "77",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/77",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "pl2-78",
+      "name": "Seedot",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "78",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/78",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl2-79",
+      "name": "Shellos East Sea",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "79",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/79",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl2-8",
+      "name": "Lucario GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "8",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/8",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-80",
+      "name": "Shellos West Sea",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "80",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/80",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl2-81",
+      "name": "Snorlax",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "81",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/81",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl2-82",
+      "name": "Spheal",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "82",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/82",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl2-83",
+      "name": "Staryu",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "83",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/83",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl2-84",
+      "name": "Trapinch",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "84",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl2-85",
+      "name": "Turtwig GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "85",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/85",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl2-86",
+      "name": "Weedle",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "86",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/86",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-87",
+      "name": "Weezing",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "87",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/87",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-88",
+      "name": "Aaron's Collection",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "88",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/88",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-89",
+      "name": "Bebe's Search",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "89",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/89",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-9",
+      "name": "Luxray GL",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "9",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/9",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl2-90",
+      "name": "Bertha's Warmth",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "90",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/90",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-91",
+      "name": "Flint's Willpower",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "91",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/91",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-92",
+      "name": "Lucian's Assignment",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "92",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/92",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-93",
+      "name": "Pokémon Contest Hall",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "93",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/93",
+      "types": null,
+      "illustrator": "Makoto Imai"
+    },
+    {
+      "id": "pl2-94",
+      "name": "Sunyshore City Gym",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "94",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/94",
+      "types": null,
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl2-95",
+      "name": "Team Galactic's Invention G-107 Technical Machine",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "95",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/95",
+      "types": null,
+      "illustrator": "Makoto Imai"
+    },
+    {
+      "id": "pl2-96",
+      "name": "Team Galactic's Invention G-109 SP Radar",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "96",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/96",
+      "types": null,
+      "illustrator": "Kent Kanetsuna"
+    },
+    {
+      "id": "pl2-97",
+      "name": "Underground Expedition",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "97",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/97",
+      "types": null,
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-98",
+      "name": "Volkner's Philosophy",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "98",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/98",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl2-99",
+      "name": "Darkness Energy",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "99",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/99",
+      "types": null,
+      "illustrator": "Takumi Akabane"
+    },
+    {
+      "id": "pl2-RT1",
+      "name": "Fan Rotom",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "RT1",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/RT1",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Motofumi Fujiwara"
+    },
+    {
+      "id": "pl2-RT2",
+      "name": "Frost Rotom",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "RT2",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/RT2",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hironobu Yoshida"
+    },
+    {
+      "id": "pl2-RT3",
+      "name": "Heat Rotom",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "RT3",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/RT3",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Lee HyunJung"
+    },
+    {
+      "id": "pl2-RT4",
+      "name": "Mow Rotom",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "RT4",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/RT4",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yusuke Ohmura"
+    },
+    {
+      "id": "pl2-RT5",
+      "name": "Wash Rotom",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "RT5",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/RT5",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hiroki Fuchino"
+    },
+    {
+      "id": "pl2-RT6",
+      "name": "Charon's Choice",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "RT6",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/RT6",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl3-1",
+      "name": "Absol G",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "1",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/1",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl3-10",
+      "name": "Rhyperior",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "10",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/10",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl3-100",
+      "name": "Corphish",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "100",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/100",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl3-101",
+      "name": "Croagunk",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "101",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/101",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-102",
+      "name": "Doduo",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "102",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/102",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl3-103",
+      "name": "Drifloon",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "103",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/103",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl3-104",
+      "name": "Feebas",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "104",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/104",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl3-105",
+      "name": "Geodude",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "105",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/105",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl3-106",
+      "name": "Gible",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "106",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/106",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl3-107",
+      "name": "Goldeen",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "107",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/107",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "pl3-108",
+      "name": "Growlithe",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "108",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/108",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl3-109",
+      "name": "Kricketot",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "109",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/109",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl3-11",
+      "name": "Staraptor FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "11",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/11",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Hiroki Fuchino"
+    },
+    {
+      "id": "pl3-110",
+      "name": "Magikarp",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "110",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/110",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-111",
+      "name": "Magnemite",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "111",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/111",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-112",
+      "name": "Mankey",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "112",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/112",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl3-113",
+      "name": "Meditite",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "113",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/113",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl3-114",
+      "name": "Meowth",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "114",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/114",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl3-115",
+      "name": "Mime Jr.",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "115",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/115",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl3-116",
+      "name": "Mudkip",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "116",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/116",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl3-117",
+      "name": "Nincada",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "117",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/117",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl3-118",
+      "name": "Pachirisu",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "118",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/118",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl3-119",
+      "name": "Paras",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "119",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/119",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl3-12",
+      "name": "Swampert",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "12",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/12",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl3-120",
+      "name": "Pikachu",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "120",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/120",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Takao Unno"
+    },
+    {
+      "id": "pl3-121",
+      "name": "Piplup",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "121",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/121",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl3-122",
+      "name": "Rhyhorn",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "122",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/122",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl3-123",
+      "name": "Roselia",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "123",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/123",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl3-124",
+      "name": "Sandshrew",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "124",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/124",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "pl3-125",
+      "name": "Seel",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "125",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/125",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl3-126",
+      "name": "Shinx",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "126",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/126",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl3-127",
+      "name": "Shroomish",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "127",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/127",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "pl3-128",
+      "name": "Skorupi",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "128",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/128",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl3-129",
+      "name": "Starly",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "129",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/129",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl3-13",
+      "name": "Venusaur",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "13",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/13",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl3-130",
+      "name": "Surskit",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "130",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/130",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl3-131",
+      "name": "Turtwig",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "131",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/131",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl3-132",
+      "name": "Whismur",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "132",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/132",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "pl3-133",
+      "name": "Zubat",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "133",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/133",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-134",
+      "name": "Battle Tower",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "134",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/134",
+      "types": null,
+      "illustrator": "Wataru Kawahara"
+    },
+    {
+      "id": "pl3-135",
+      "name": "Champion's Room",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "135",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/135",
+      "types": null,
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl3-136",
+      "name": "Cynthia's Guidance",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "136",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/136",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl3-137",
+      "name": "Cyrus's Initiative",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "137",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/137",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl3-138",
+      "name": "Night Teleporter",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "138",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/138",
+      "types": null,
+      "illustrator": "Ryota Saito"
+    },
+    {
+      "id": "pl3-139",
+      "name": "Palmer's Contribution",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "139",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/139",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl3-14",
+      "name": "Yanmega",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "14",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/14",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-140",
+      "name": "VS Seeker",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "140",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/140",
+      "types": null,
+      "illustrator": "Wataru Kawahara"
+    },
+    {
+      "id": "pl3-141",
+      "name": "Absol G",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "141",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/141",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl3-142",
+      "name": "Blaziken FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "142",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/142",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl3-143",
+      "name": "Charizard G",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "143",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/143",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Wataru Kawahara"
+    },
+    {
+      "id": "pl3-144",
+      "name": "Electivire FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "144",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/144",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl3-145",
+      "name": "Garchomp C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "145",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/145",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl3-146",
+      "name": "Rayquaza C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "146",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/146",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl3-147",
+      "name": "Staraptor FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "147",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/147",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl3-148",
+      "name": "Articuno",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "148",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/148",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "pl3-149",
+      "name": "Moltres",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "149",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/149",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "pl3-15",
+      "name": "Arcanine G",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/15",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl3-150",
+      "name": "Zapdos",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "150",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/150",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "pl3-16",
+      "name": "Articuno",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/16",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl3-17",
+      "name": "Butterfree FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "17",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/17",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Lee HyunJung"
+    },
+    {
+      "id": "pl3-18",
+      "name": "Camerupt",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "18",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/18",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl3-19",
+      "name": "Camerupt G",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "19",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/19",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Saito"
+    },
+    {
+      "id": "pl3-2",
+      "name": "Blaziken FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "2",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/2",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Motofumi Fujiwara"
+    },
+    {
+      "id": "pl3-20",
+      "name": "Charizard G",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "20",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/20",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Wataru Kawahara"
+    },
+    {
+      "id": "pl3-21",
+      "name": "Chimecho",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/21",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl3-22",
+      "name": "Claydol",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/22",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl3-23",
+      "name": "Crawdaunt G",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "23",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/23",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Wataru Kawahara"
+    },
+    {
+      "id": "pl3-24",
+      "name": "Dewgong",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "24",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/24",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl3-25",
+      "name": "Dodrio",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "25",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/25",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl3-26",
+      "name": "Dusknoir FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "26",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/26",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Motofumi Fujiwara"
+    },
+    {
+      "id": "pl3-27",
+      "name": "Empoleon FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "27",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/27",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hiroki Fuchino"
+    },
+    {
+      "id": "pl3-28",
+      "name": "Exploud",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "28",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/28",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-29",
+      "name": "Honchkrow",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "29",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/29",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl3-3",
+      "name": "Drifblim FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "3",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/3",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Lee HyunJung"
+    },
+    {
+      "id": "pl3-30",
+      "name": "Lickilicky C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "30",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/30",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl3-31",
+      "name": "Lucario C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "31",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/31",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl3-32",
+      "name": "Lunatone",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "32",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/32",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl3-33",
+      "name": "Mawile",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "33",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/33",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "pl3-34",
+      "name": "Medicham",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "34",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/34",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-35",
+      "name": "Milotic C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "35",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/35",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl3-36",
+      "name": "Moltres",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "36",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/36",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl3-37",
+      "name": "Mr. Mime",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "37",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/37",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl3-38",
+      "name": "Parasect",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "38",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/38",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl3-39",
+      "name": "Primeape",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "39",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/39",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl3-4",
+      "name": "Electivire FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "4",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/4",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hironobu Yoshida"
+    },
+    {
+      "id": "pl3-40",
+      "name": "Roserade C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "40",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/40",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl3-41",
+      "name": "Sableye G",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "41",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/41",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl3-42",
+      "name": "Sandslash",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "42",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/42",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl3-43",
+      "name": "Seaking",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "43",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/43",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "pl3-44",
+      "name": "Shedinja",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "44",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/44",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl3-45",
+      "name": "Solrock",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "45",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/45",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl3-46",
+      "name": "Spinda",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "46",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/46",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl3-47",
+      "name": "Wailord",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "47",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/47",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl3-48",
+      "name": "Zapdos",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "48",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/48",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl3-49",
+      "name": "Altaria C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "49",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/49",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl3-5",
+      "name": "Garchomp",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "5",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/5",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl3-50",
+      "name": "Arcanine",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/50",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl3-51",
+      "name": "Bibarel",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "51",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/51",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl3-52",
+      "name": "Breloom",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "52",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/52",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "pl3-53",
+      "name": "Carnivine",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "53",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/53",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Satoshi Ohta"
+    },
+    {
+      "id": "pl3-54",
+      "name": "Chatot G",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "54",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/54",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl3-55",
+      "name": "Cherrim",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "55",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/55",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "pl3-56",
+      "name": "Dragonite FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "56",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/56",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "pl3-57",
+      "name": "Drifblim",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/57",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl3-58",
+      "name": "Floatzel",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "58",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/58",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl3-59",
+      "name": "Gabite",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "59",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/59",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl3-6",
+      "name": "Magmortar",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "6",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/6",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl3-60",
+      "name": "Garchomp C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "60",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/60",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl3-61",
+      "name": "Hippopotas",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "61",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/61",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-62",
+      "name": "Ivysaur",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "62",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/62",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl3-63",
+      "name": "Lopunny",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "63",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/63",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl3-64",
+      "name": "Loudred",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "64",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/64",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl3-65",
+      "name": "Magmar",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "65",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/65",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl3-66",
+      "name": "Manectric G",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "66",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/66",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ryota Saito"
+    },
+    {
+      "id": "pl3-67",
+      "name": "Marshtomp",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "67",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/67",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl3-68",
+      "name": "Masquerain",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "68",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/68",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-69",
+      "name": "Metang",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "69",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/69",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "pl3-7",
+      "name": "Metagross",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "7",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/7",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl3-70",
+      "name": "Milotic",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "70",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/70",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl3-71",
+      "name": "Minun",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "71",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/71",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "pl3-72",
+      "name": "Murkrow",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "72",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/72",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl3-73",
+      "name": "Ninjask",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "73",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/73",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl3-74",
+      "name": "Numel",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "74",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/74",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl3-75",
+      "name": "Pinsir",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "75",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/75",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl3-76",
+      "name": "Plusle",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "76",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/76",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "pl3-77",
+      "name": "Raichu",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "77",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/77",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Takao Unno"
+    },
+    {
+      "id": "pl3-78",
+      "name": "Raticate G",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "78",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/78",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryota Saito"
+    },
+    {
+      "id": "pl3-79",
+      "name": "Relicanth",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "79",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/79",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "pl3-8",
+      "name": "Rayquaza C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "8",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/8",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl3-80",
+      "name": "Rhydon",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "80",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/80",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-81",
+      "name": "Roserade",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "81",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/81",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl3-82",
+      "name": "Rotom",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "82",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/82",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl3-83",
+      "name": "Skarmory FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "83",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/83",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Hironobu Yoshida"
+    },
+    {
+      "id": "pl3-84",
+      "name": "Spiritomb C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "84",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/84",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl3-85",
+      "name": "Staravia",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "85",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/85",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl3-86",
+      "name": "Togekiss C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "86",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/86",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl3-87",
+      "name": "Wailmer",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "87",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/87",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-88",
+      "name": "Yanma",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "88",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/88",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl3-89",
+      "name": "Baltoy",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "89",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/89",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-9",
+      "name": "Regigigas FB",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "9",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/9",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "pl3-90",
+      "name": "Beldum",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "90",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/90",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl3-91",
+      "name": "Bidoof",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "91",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/91",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl3-92",
+      "name": "Buizel",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "92",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/92",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl3-93",
+      "name": "Bulbasaur",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "93",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/93",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl3-94",
+      "name": "Buneary",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "94",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/94",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl3-95",
+      "name": "Chatot",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "95",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/95",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Satoshi Ohta"
+    },
+    {
+      "id": "pl3-96",
+      "name": "Cherubi",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "96",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/96",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "pl3-97",
+      "name": "Chimchar",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "97",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/97",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-98",
+      "name": "Chingling",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "98",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/98",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl3-99",
+      "name": "Combee",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "99",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/99",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl3-SH7",
+      "name": "Milotic",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "SH7",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/SH7",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl3-SH8",
+      "name": "Relicanth",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "SH8",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/SH8",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "pl3-SH9",
+      "name": "Yanma",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "SH9",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/SH9",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl4-1",
+      "name": "Charizard",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "1",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/1",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl4-10",
+      "name": "Tangrowth",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "10",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/10",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl4-11",
+      "name": "Toxicroak",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "11",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/11",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl4-12",
+      "name": "Zapdos",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "12",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/12",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ryota Saito"
+    },
+    {
+      "id": "pl4-13",
+      "name": "Aerodactyl",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "13",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/13",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl4-14",
+      "name": "Bronzong",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/14",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl4-15",
+      "name": "Cherrim",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/15",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl4-16",
+      "name": "Gengar",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/16",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl4-17",
+      "name": "Gengar",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "17",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/17",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl4-18",
+      "name": "Glalie",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "18",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/18",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hiroki Fuchino"
+    },
+    {
+      "id": "pl4-19",
+      "name": "Golem",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "19",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/19",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl4-2",
+      "name": "Froslass",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "2",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/2",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "pl4-20",
+      "name": "Hariyama",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "20",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/20",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl4-21",
+      "name": "Lopunny",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/21",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "pl4-22",
+      "name": "Manectric",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/22",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mana Ibe"
+    },
+    {
+      "id": "pl4-23",
+      "name": "Omastar",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "23",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/23",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl4-24",
+      "name": "Pelipper",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "24",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/24",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl4-25",
+      "name": "Pichu",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "25",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/25",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl4-26",
+      "name": "Porygon-Z",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "26",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/26",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Nobuyuki Fujimoto"
+    },
+    {
+      "id": "pl4-27",
+      "name": "Raichu",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "27",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/27",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "pl4-28",
+      "name": "Rapidash",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "28",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/28",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Lee HyunJung"
+    },
+    {
+      "id": "pl4-29",
+      "name": "Raticate",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "29",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/29",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl4-3",
+      "name": "Heatran",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "3",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/3",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Keiko Moritsugu"
+    },
+    {
+      "id": "pl4-30",
+      "name": "Sceptile",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "30",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/30",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Reiko Tanoue"
+    },
+    {
+      "id": "pl4-31",
+      "name": "Sceptile",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "31",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/31",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl4-32",
+      "name": "Spiritomb",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "32",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/32",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "pl4-33",
+      "name": "Bronzong",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "33",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/33",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl4-34",
+      "name": "Bronzor",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/34",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl4-35",
+      "name": "Charmeleon",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "35",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/35",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "pl4-36",
+      "name": "Gastly",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "36",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/36",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl4-37",
+      "name": "Graveler",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "37",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/37",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "pl4-38",
+      "name": "Grovyle",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "38",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/38",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Tomoaki Imakuni"
+    },
+    {
+      "id": "pl4-39",
+      "name": "Grovyle",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "39",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/39",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl4-4",
+      "name": "Kabutops",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "4",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/4",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl4-40",
+      "name": "Gulpin",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "40",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/40",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "pl4-41",
+      "name": "Haunter",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "41",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/41",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl4-42",
+      "name": "Haunter",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/42",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl4-43",
+      "name": "Luxio",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "43",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/43",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "pl4-44",
+      "name": "Manectric",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/44",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "pl4-45",
+      "name": "Pelipper",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "45",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/45",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl4-46",
+      "name": "Ponyta",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "46",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/46",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl4-47",
+      "name": "Rapidash",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "47",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/47",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl4-48",
+      "name": "Shelgon",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/48",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl4-49",
+      "name": "Wormadam Plant Cloak",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "49",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/49",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl4-5",
+      "name": "Luxray",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "5",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/5",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl4-50",
+      "name": "Wormadam Sandy Cloak",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/50",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "pl4-51",
+      "name": "Wormadam Trash Cloak",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "51",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/51",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl4-52",
+      "name": "Bagon",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "52",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/52",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl4-53",
+      "name": "Beedrill",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "53",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/53",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Wataru Kawahara"
+    },
+    {
+      "id": "pl4-54",
+      "name": "Bronzor",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "54",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/54",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl4-55",
+      "name": "Buneary",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "55",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/55",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "pl4-56",
+      "name": "Burmy Plant Cloak",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "56",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/56",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "pl4-57",
+      "name": "Burmy Sandy Cloak",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "57",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/57",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl4-58",
+      "name": "Burmy Trash Cloak",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "58",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/58",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl4-59",
+      "name": "Charmander",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "59",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/59",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "pl4-6",
+      "name": "Mothim",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "6",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/6",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl4-60",
+      "name": "Cherubi",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "60",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/60",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "pl4-61",
+      "name": "Croagunk",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "61",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/61",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "pl4-62",
+      "name": "Electrike",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "62",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/62",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl4-63",
+      "name": "Electrike",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/63",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "pl4-64",
+      "name": "Gastly",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/64",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl4-65",
+      "name": "Geodude",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "65",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/65",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Motofumi Fujiwara"
+    },
+    {
+      "id": "pl4-66",
+      "name": "Gulpin",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "66",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/66",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "pl4-67",
+      "name": "Kabuto",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "67",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/67",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hironobu Yoshida"
+    },
+    {
+      "id": "pl4-68",
+      "name": "Makuhita",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/68",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "pl4-69",
+      "name": "Nosepass",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "69",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/69",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl4-7",
+      "name": "Probopass",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "7",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/7",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl4-70",
+      "name": "Omanyte",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "70",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/70",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "pl4-71",
+      "name": "Pikachu",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "71",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/71",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "pl4-72",
+      "name": "Ponyta",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "72",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/72",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl4-73",
+      "name": "Rattata",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "73",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/73",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "pl4-74",
+      "name": "Shinx",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "74",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/74",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "pl4-75",
+      "name": "Snorunt",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "75",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/75",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "pl4-76",
+      "name": "Tangela",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "76",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/76",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl4-77",
+      "name": "Tangela",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "77",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/77",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl4-78",
+      "name": "Treecko",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "78",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/78",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "pl4-79",
+      "name": "Treecko",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "79",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/79",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl4-8",
+      "name": "Salamence",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "8",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/8",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "pl4-80",
+      "name": "Wingull",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "80",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/80",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "pl4-81",
+      "name": "Wingull",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "81",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/81",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl4-82",
+      "name": "Beginning Door",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "82",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/82",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl4-83",
+      "name": "Bench Shield",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "83",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/83",
+      "types": null,
+      "illustrator": "Wataru Kawahara"
+    },
+    {
+      "id": "pl4-84",
+      "name": "Buffer Piece",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "84",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/84",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl4-85",
+      "name": "Department Store Girl",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "85",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/85",
+      "types": null,
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl4-86",
+      "name": "Energy Restore",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "86",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/86",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl4-87",
+      "name": "Expert Belt",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "87",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/87",
+      "types": null,
+      "illustrator": "Wataru Kawahara"
+    },
+    {
+      "id": "pl4-88",
+      "name": "Lucky Egg",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "88",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/88",
+      "types": null,
+      "illustrator": "Nobuyuki Fujimoto"
+    },
+    {
+      "id": "pl4-89",
+      "name": "Old Amber",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "89",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/89",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl4-9",
+      "name": "Swalot",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "9",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/9",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "pl4-90",
+      "name": "Professor Oak's Visit",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "90",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/90",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl4-91",
+      "name": "Ultimate Zone",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "91",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/91",
+      "types": null,
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl4-92",
+      "name": "Dome Fossil",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "92",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/92",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl4-93",
+      "name": "Helix Fossil",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "93",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/93",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl4-94",
+      "name": "Arceus LV. X",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "94",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/94",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl4-95",
+      "name": "Arceus LV. X",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "95",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/95",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl4-96",
+      "name": "Arceus LV. X",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "96",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/96",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl4-97",
+      "name": "Gengar LV. X",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "97",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/97",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl4-98",
+      "name": "Salamence LV. X",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "98",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/98",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl4-99",
+      "name": "Tangrowth LV. X",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "99",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/99",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "pl4-AR1",
+      "name": "Arceus",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "AR1",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/AR1",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl4-AR2",
+      "name": "Arceus",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "AR2",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/AR2",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "pl4-AR3",
+      "name": "Arceus",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "AR3",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/AR3",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Wataru Kawahara"
+    },
+    {
+      "id": "pl4-AR4",
+      "name": "Arceus",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "AR4",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/AR4",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "pl4-AR5",
+      "name": "Arceus",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "AR5",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/AR5",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl4-AR6",
+      "name": "Arceus",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "AR6",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/AR6",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Wataru Kawahara"
+    },
+    {
+      "id": "pl4-AR7",
+      "name": "Arceus",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "AR7",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/AR7",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl4-AR8",
+      "name": "Arceus",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "AR8",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/AR8",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl4-AR9",
+      "name": "Arceus",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "AR9",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/AR9",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "pl4-SH10",
+      "name": "Bagon",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "SH10",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/SH10",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "pl4-SH11",
+      "name": "Ponyta",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "SH11",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/SH11",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kanako Eo"
+    },
+    {
+      "id": "pl4-SH12",
+      "name": "Shinx",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "SH12",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/SH12",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "ru1-1",
+      "name": "Venusaur",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "1",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-10",
+      "name": "Mew",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "10",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/10",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-11",
+      "name": "Diglett",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "11",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/11",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-12",
+      "name": "Lucario",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "12",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/12",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-13",
+      "name": "Skuntank",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "13",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/13",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-14",
+      "name": "Bastiodon",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "14",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/14",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-15",
+      "name": "Rattata",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "15",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/15",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-16",
+      "name": "Bibarel",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "16",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/16",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-2",
+      "name": "Cherrim",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "2",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/2",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-3",
+      "name": "Ninetales",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "3",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/3",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-4",
+      "name": "Heatran",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "4",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/4",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-5",
+      "name": "Starmie",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "5",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/5",
+      "types": [
+        "Water"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-6",
+      "name": "Gyarados",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "6",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/6",
+      "types": [
+        "Water"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-7",
+      "name": "Pikachu",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "7",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/7",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-8",
+      "name": "Zapdos",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "8",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/8",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "ru1-9",
+      "name": "Mewtwo",
+      "set": "ru1",
+      "setName": "Pokémon Rumble",
+      "number": "9",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/pl/ru1/9",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    }
+  ]
+}

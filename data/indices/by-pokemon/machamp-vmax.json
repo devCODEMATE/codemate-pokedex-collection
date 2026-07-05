@@ -1,0 +1,32 @@
+{
+  "name": "Machamp VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh10-073",
+      "name": "Machamp VMAX",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "073",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/073",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh10-194",
+      "name": "Machamp VMAX",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "194",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/194",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    }
+  ]
+}

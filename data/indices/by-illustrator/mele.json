@@ -1,0 +1,84 @@
+{
+  "name": "mele",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A3-172",
+      "name": "Rockruff",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "172",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/172",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "mele"
+    },
+    {
+      "id": "A4a-090",
+      "name": "Suicune ex",
+      "set": "A4a",
+      "setName": "Secluded Springs",
+      "number": "090",
+      "rarity": "Three Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4a/090",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "mele"
+    },
+    {
+      "id": "sv05-071",
+      "name": "Duosion",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "071",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/071",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "mele"
+    },
+    {
+      "id": "sv10.5b-006",
+      "name": "Petilil",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "006",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/006",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mele"
+    },
+    {
+      "id": "sv10.5b-007",
+      "name": "Lilligant",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "007",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/007",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mele"
+    },
+    {
+      "id": "sv10.5w-165",
+      "name": "Whimsicott ex",
+      "set": "sv10.5w",
+      "setName": "White Flare",
+      "number": "165",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5w/165",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mele"
+    }
+  ]
+}

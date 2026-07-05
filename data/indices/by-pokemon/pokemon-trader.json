@@ -1,0 +1,39 @@
+{
+  "name": "Pokémon Trader",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "base1-77",
+      "name": "Pokémon Trader",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "77",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base1/77",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base4-106",
+      "name": "Pokémon Trader",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "106",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base4/106",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "lc-103",
+      "name": "Pokémon Trader",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "103",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/lc/lc/103",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

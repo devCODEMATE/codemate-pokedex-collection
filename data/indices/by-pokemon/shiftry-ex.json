@@ -1,0 +1,32 @@
+{
+  "name": "Shiftry ex",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "ex14-97",
+      "name": "Shiftry ex",
+      "set": "ex14",
+      "setName": "Crystal Guardians",
+      "number": "97",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex14/97",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "ex16-97",
+      "name": "Shiftry ex",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "97",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/97",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ryo Ueda"
+    }
+  ]
+}

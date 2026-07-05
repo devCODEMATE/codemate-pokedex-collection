@@ -1,0 +1,32 @@
+{
+  "name": "Koga's Koffing",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym2-48",
+      "name": "Koga's Koffing",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/48",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym2-79",
+      "name": "Koga's Koffing",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "79",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/79",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

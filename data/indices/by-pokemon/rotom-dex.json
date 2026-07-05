@@ -1,0 +1,39 @@
+{
+  "name": "Rotom Dex",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "A3-145",
+      "name": "Rotom Dex",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "145",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/145",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm1-131",
+      "name": "Rotom Dex",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "131",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/131",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm1-159",
+      "name": "Rotom Dex",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "159",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/159",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

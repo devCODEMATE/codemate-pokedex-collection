@@ -1,0 +1,84 @@
+{
+  "name": "Blacephalon",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A3a-009",
+      "name": "Blacephalon",
+      "set": "A3a",
+      "setName": "Extradimensional Crisis",
+      "number": "009",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3a/009",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A3a-072",
+      "name": "Blacephalon",
+      "set": "A3a",
+      "setName": "Extradimensional Crisis",
+      "number": "072",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3a/072",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "akagi"
+    },
+    {
+      "id": "P-A-076",
+      "name": "Blacephalon",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "076",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm10-32",
+      "name": "Blacephalon",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "32",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/32",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "sm12-104",
+      "name": "Blacephalon",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "104",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/104",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "smp-SM221",
+      "name": "Blacephalon",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM221",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shin Nagasawa"
+    }
+  ]
+}

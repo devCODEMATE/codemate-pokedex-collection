@@ -1,0 +1,28 @@
+{
+  "name": "Challenge!",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "base5-74",
+      "name": "Challenge!",
+      "set": "base5",
+      "setName": "Team Rocket",
+      "number": "74",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base5/74",
+      "types": null,
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "lc-106",
+      "name": "Challenge!",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "106",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/lc/lc/106",
+      "types": null,
+      "illustrator": "Kagemaru Himeno"
+    }
+  ]
+}

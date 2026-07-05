@@ -1,0 +1,32 @@
+{
+  "name": "Unown K",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dp3-68",
+      "name": "Unown K",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "68",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/68",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Daisuke Ito"
+    },
+    {
+      "id": "neo3-58",
+      "name": "Unown [K]",
+      "set": "neo3",
+      "setName": "Neo Revelation",
+      "number": "58",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/neo/neo3/58",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "CR CG gangs"
+    }
+  ]
+}

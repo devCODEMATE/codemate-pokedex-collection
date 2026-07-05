@@ -1,0 +1,71 @@
+{
+  "name": "Kartana",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "A3a-008",
+      "name": "Kartana",
+      "set": "A3a",
+      "setName": "Extradimensional Crisis",
+      "number": "008",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3a/008",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "P-A-075",
+      "name": "Kartana",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "075",
+      "rarity": "One Diamond",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm10-19",
+      "name": "Kartana",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "19",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/19",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sm7-101",
+      "name": "Kartana",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "101",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/101",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sma-SV33",
+      "name": "Kartana",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV33",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV33",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Team Aqua's Sharpedo",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "dc1-21",
+      "name": "Team Aqua's Sharpedo",
+      "set": "dc1",
+      "setName": "Double Crisis",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/dc1/21",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "ex4-18",
+      "name": "Team Aqua's Sharpedo",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "18",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/18",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Katsura Tabata"
+    },
+    {
+      "id": "ex4-5",
+      "name": "Team Aqua's Sharpedo",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "5",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/5",
+      "types": [
+        "Water",
+        "Darkness"
+      ],
+      "illustrator": "Katsura Tabata"
+    }
+  ]
+}

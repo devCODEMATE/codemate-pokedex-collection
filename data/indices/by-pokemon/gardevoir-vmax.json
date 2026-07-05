@@ -1,0 +1,32 @@
+{
+  "name": "Gardevoir VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh3.5-17",
+      "name": "Gardevoir VMAX",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "17",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/17",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh3.5-76",
+      "name": "Gardevoir VMAX",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "76",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/76",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

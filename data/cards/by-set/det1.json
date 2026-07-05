@@ -1,0 +1,1791 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "det1-1",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/en/sm/det1/1",
+    "localId": "1",
+    "name": "Bulbasaur",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      1
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Find a Friend",
+        "effect": "Search your deck for a Grass Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370766,
+        "avg": 0.78,
+        "low": 0.02,
+        "trend": 0.67,
+        "avg1": 0.21,
+        "avg7": 0.6,
+        "avg30": 0.77,
+        "avg-holo": null,
+        "low-holo": 0.02,
+        "trend-holo": 1.22,
+        "avg1-holo": 1.99,
+        "avg7-holo": 1.15,
+        "avg30-holo": 0.81
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186001,
+          "lowPrice": 0.2,
+          "midPrice": 0.95,
+          "highPrice": 38.61,
+          "marketPrice": 1.08,
+          "directLowPrice": 1.97
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-2",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/en/sm/det1/2",
+    "localId": "2",
+    "name": "Ludicolo",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      272
+    ],
+    "hp": 140,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Lombre",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Table Service",
+        "effect": "Once during your turn (before your attack), you may heal 30 damage from 1 of your Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Punch and Run",
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.557Z",
+        "unit": "EUR",
+        "idProduct": 370767,
+        "avg": 1.8,
+        "low": 0.19,
+        "trend": 1.54,
+        "avg1": 2.48,
+        "avg7": 1.85,
+        "avg30": 1.88,
+        "avg-holo": 2.17,
+        "low-holo": 1.49,
+        "trend-holo": 1.85,
+        "avg1-holo": 1.5,
+        "avg7-holo": 1.81,
+        "avg30-holo": 1.87
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186003,
+          "lowPrice": 0.3,
+          "midPrice": 0.96,
+          "highPrice": 18.4,
+          "marketPrice": 0.96,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-3",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/en/sm/det1/3",
+    "localId": "3",
+    "name": "Morelull",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      755
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Sleep Spore",
+        "effect": "Your opponent’s Active Pokémon is now Asleep.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370768,
+        "avg": 0.23,
+        "low": 0.02,
+        "trend": 0.19,
+        "avg1": 0.04,
+        "avg7": 0.21,
+        "avg30": 0.23,
+        "avg-holo": 0.21,
+        "low-holo": 0.02,
+        "trend-holo": 0.33,
+        "avg1-holo": 0.02,
+        "avg7-holo": 0.28,
+        "avg30-holo": 0.31
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186004,
+          "lowPrice": 0.07,
+          "midPrice": 0.33,
+          "highPrice": 19.78,
+          "marketPrice": 0.33,
+          "directLowPrice": 0.16
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-4",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/en/sm/det1/4",
+    "localId": "4",
+    "name": "Charmander",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      4
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Reckless Charge",
+        "effect": "This Pokémon does 10 damage to itself.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370769,
+        "avg": 0.52,
+        "low": 0.02,
+        "trend": 0.7,
+        "avg1": 0.26,
+        "avg7": 0.49,
+        "avg30": 0.51,
+        "avg-holo": 1,
+        "low-holo": 0.02,
+        "trend-holo": 1.04,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.64,
+        "avg30-holo": 0.72
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186005,
+          "lowPrice": 0.14,
+          "midPrice": 0.69,
+          "highPrice": 50,
+          "marketPrice": 0.66,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-5",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/en/sm/det1/5",
+    "localId": "5",
+    "name": "Charizard",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      6
+    ],
+    "hp": 180,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Charmeleon",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Slash",
+        "damage": 70
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Wild Tackle",
+        "effect": "This Pokémon does 50 damage to itself.",
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370770,
+        "avg": 10.79,
+        "low": 3.5,
+        "trend": 9.4,
+        "avg1": 9.75,
+        "avg7": 9.02,
+        "avg30": 11.25,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 17.65,
+        "avg1-holo": 17.45,
+        "avg7-holo": 18.32,
+        "avg30-holo": 18.7
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186007,
+          "lowPrice": 6.99,
+          "midPrice": 11.99,
+          "highPrice": 118.97,
+          "marketPrice": 11.42,
+          "directLowPrice": 12.72
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-6",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/en/sm/det1/6",
+    "localId": "6",
+    "name": "Arcanine",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      59
+    ],
+    "hp": 120,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Growlithe",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Security Guard",
+        "effect": "As long as this Pokémon is your Active Pokémon, all of your Pokémon take 30 less damage from your opponent’s attacks (after applying Weakness and Resistance)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Sharp Fang",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.557Z",
+        "unit": "EUR",
+        "idProduct": 370771,
+        "avg": 3.25,
+        "low": 0.4,
+        "trend": 2.63,
+        "avg1": 1.94,
+        "avg7": 2.45,
+        "avg30": 3.01,
+        "avg-holo": null,
+        "low-holo": 1,
+        "trend-holo": 4.93,
+        "avg1-holo": 1.5,
+        "avg7-holo": 4.5,
+        "avg30-holo": 4.92
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186009,
+          "lowPrice": 1.07,
+          "midPrice": 3,
+          "highPrice": 25.6,
+          "marketPrice": 3.71,
+          "directLowPrice": 5.59
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-7",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/en/sm/det1/7",
+    "localId": "7",
+    "name": "Psyduck",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      54
+    ],
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Panic",
+        "effect": "This Pokémon is now Confused.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370626,
+        "avg": 0.73,
+        "low": 0.02,
+        "trend": 0.38,
+        "avg1": 0.14,
+        "avg7": 0.66,
+        "avg30": 0.68,
+        "avg-holo": 1.05,
+        "low-holo": 0.05,
+        "trend-holo": 1.06,
+        "avg1-holo": 1,
+        "avg7-holo": 0.98,
+        "avg30-holo": 0.66
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186010,
+          "lowPrice": 0.2,
+          "midPrice": 1.01,
+          "highPrice": 7,
+          "marketPrice": 1.27,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-8",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/en/sm/det1/8",
+    "localId": "8",
+    "name": "Magikarp",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      129
+    ],
+    "hp": 30,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Hold Still",
+        "effect": "Heal 10 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370772,
+        "avg": 0.33,
+        "low": 0.02,
+        "trend": 0.23,
+        "avg1": 0.37,
+        "avg7": 0.18,
+        "avg30": 0.3,
+        "avg-holo": 0.5,
+        "low-holo": 0.02,
+        "trend-holo": 1.4,
+        "avg1-holo": 3.5,
+        "avg7-holo": 0.46,
+        "avg30-holo": 0.55
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186012,
+          "lowPrice": 0.1,
+          "midPrice": 0.54,
+          "highPrice": 4.99,
+          "marketPrice": 0.8,
+          "directLowPrice": 1.47
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-9",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/en/sm/det1/9",
+    "localId": "9",
+    "name": "Greninja",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      658
+    ],
+    "hp": 140,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Frogadier",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Evasion Jutsu",
+        "effect": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Furious Shurikens",
+        "effect": "This attack does 50 damage to 2 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370773,
+        "avg": 5.33,
+        "low": 2,
+        "trend": 5.1,
+        "avg1": 4.99,
+        "avg7": 5.3,
+        "avg30": 6.51,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 7.96,
+        "avg1-holo": 7.5,
+        "avg7-holo": 8.61,
+        "avg30-holo": 7.15
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186013,
+          "lowPrice": 3.43,
+          "midPrice": 8.43,
+          "highPrice": 112.43,
+          "marketPrice": 9.08,
+          "directLowPrice": 109.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-10",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/en/sm/det1/10",
+    "localId": "10",
+    "name": "Detective Pikachu",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Scout",
+        "effect": "Your opponent reveals their hand."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Surprise Attack",
+        "effect": "Flip a coin. If tails, this attack does nothing.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370774,
+        "avg": 11.82,
+        "low": 0.99,
+        "trend": 16.08,
+        "avg1": 15.75,
+        "avg7": 16.09,
+        "avg30": 12.73,
+        "avg-holo": 5.5,
+        "low-holo": 5,
+        "trend-holo": 9.89,
+        "avg1-holo": 5,
+        "avg7-holo": 9.57,
+        "avg30-holo": 9.67
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186015,
+          "lowPrice": 4.74,
+          "midPrice": 13.76,
+          "highPrice": 98.83,
+          "marketPrice": 14.47,
+          "directLowPrice": 19.5
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-11",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/en/sm/det1/11",
+    "localId": "11",
+    "name": "Mr. Mime",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      122
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Pantomime",
+        "effect": "When you play this Pokémon from your hand onto your Bench during your turn, you may switch 1 of your face-down Prize cards with the top card of your deck."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Juggling",
+        "effect": "Flip 4 coins. This attack does 20 damage for each heads.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370628,
+        "avg": 2.78,
+        "low": 0.1,
+        "trend": 3,
+        "avg1": 3,
+        "avg7": 3.31,
+        "avg30": 2.74,
+        "avg-holo": 3.13,
+        "low-holo": 2,
+        "trend-holo": 2.68,
+        "avg1-holo": 4,
+        "avg7-holo": 3.6,
+        "avg30-holo": 2.78
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186019,
+          "lowPrice": 0.75,
+          "midPrice": 2.09,
+          "highPrice": 96.56,
+          "marketPrice": 2.9,
+          "directLowPrice": 5.96
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-12",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/en/sm/det1/12",
+    "localId": "12",
+    "name": "Mewtwo",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      150
+    ],
+    "hp": 130,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Psyjack",
+        "effect": "Choose 1 of your opponent’s Active Pokémon’s attacks. That Pokémon can’t use that attack during your opponent’s next turn.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Break Burn",
+        "effect": "Discard 2 Psychic Energy from this Pokémon.",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370775,
+        "avg": 9,
+        "low": 1.5,
+        "trend": 9.65,
+        "avg1": 6.32,
+        "avg7": 10.69,
+        "avg30": 9.1,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 10.41,
+        "avg1-holo": 6.63,
+        "avg7-holo": 9.97,
+        "avg30-holo": 9.86
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186020,
+          "lowPrice": 4.49,
+          "midPrice": 8.35,
+          "highPrice": 155.59,
+          "marketPrice": 9.17,
+          "directLowPrice": 9.16
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-13",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/en/sm/det1/13",
+    "localId": "13",
+    "name": "Machamp",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      68
+    ],
+    "hp": 160,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Machoke",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Directing Traffic",
+        "effect": "Look at the top 5 cards of your deck and put them back in any order."
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Cross Chop",
+        "effect": "Flip a coin. If heads, this attack does 60 more damage.",
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.557Z",
+        "unit": "EUR",
+        "idProduct": 370776,
+        "avg": 1.33,
+        "low": 0.08,
+        "trend": 1.04,
+        "avg1": 0.45,
+        "avg7": 1.29,
+        "avg30": 1.39,
+        "avg-holo": 0.5,
+        "low-holo": 0.08,
+        "trend-holo": 1.91,
+        "avg1-holo": 0.5,
+        "avg7-holo": 2.06,
+        "avg30-holo": 1.86
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186021,
+          "lowPrice": 0.5,
+          "midPrice": 1.41,
+          "highPrice": 4321,
+          "marketPrice": 1.65,
+          "directLowPrice": 0.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-14",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/en/sm/det1/14",
+    "localId": "14",
+    "name": "Jigglypuff",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      39
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": "Healing Melody",
+        "effect": "Heal 10 damage from each of your Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.557Z",
+        "unit": "EUR",
+        "idProduct": 370627,
+        "avg": 0.42,
+        "low": 0.02,
+        "trend": 0.25,
+        "avg1": 0.15,
+        "avg7": 0.29,
+        "avg30": 0.41,
+        "avg-holo": 0.41,
+        "low-holo": 0.02,
+        "trend-holo": 0.59,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.4,
+        "avg30-holo": 0.48
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186022,
+          "lowPrice": 0.17,
+          "midPrice": 0.51,
+          "highPrice": 5,
+          "marketPrice": 0.5,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-15",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/en/sm/det1/15",
+    "localId": "15",
+    "name": "Snubbull",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      209
+    ],
+    "hp": 70,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Play Rough",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370777,
+        "avg": 0.25,
+        "low": 0.02,
+        "trend": 0.22,
+        "avg1": 0.2,
+        "avg7": 0.3,
+        "avg30": 0.24,
+        "avg-holo": 0.52,
+        "low-holo": 0.03,
+        "trend-holo": 0.56,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.42,
+        "avg30-holo": 0.41
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186023,
+          "lowPrice": 0.08,
+          "midPrice": 0.39,
+          "highPrice": 19.92,
+          "marketPrice": 0.35,
+          "directLowPrice": 0.15
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-16",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/en/sm/det1/16",
+    "localId": "16",
+    "name": "Lickitung",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      108
+    ],
+    "hp": 100,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Continuous Lick",
+        "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370778,
+        "avg": 0.27,
+        "low": 0.02,
+        "trend": 0.39,
+        "avg1": 0.19,
+        "avg7": 0.26,
+        "avg30": 0.27,
+        "avg-holo": 0.35,
+        "low-holo": 0.02,
+        "trend-holo": 0.45,
+        "avg1-holo": 0.59,
+        "avg7-holo": 0.4,
+        "avg30-holo": 0.48
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186024,
+          "lowPrice": 0.02,
+          "midPrice": 0.39,
+          "highPrice": 5,
+          "marketPrice": 0.37,
+          "directLowPrice": 0.37
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-17",
+    "illustrator": "MPC Film",
+    "image": "https://assets.tcgdex.net/en/sm/det1/17",
+    "localId": "17",
+    "name": "Ditto",
+    "rarity": "Ultra Rare",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      132
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Copy Anything",
+        "effect": "Choose 1 of your opponent’s Pokémon’s attacks and use it as this attack. If this Pokémon doesn’t have the necessary Energy to use that attack, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370779,
+        "avg": 6.2,
+        "low": 1.2,
+        "trend": 5.84,
+        "avg1": 7.99,
+        "avg7": 5.63,
+        "avg30": 6.22,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 6.08,
+        "avg1-holo": 6.73,
+        "avg7-holo": 5.59,
+        "avg30-holo": 6.54
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186025,
+          "lowPrice": 6.5,
+          "midPrice": 11.03,
+          "highPrice": 145.87,
+          "marketPrice": 10.98,
+          "directLowPrice": 8.39
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "det1-18",
+    "illustrator": "Framestore",
+    "image": "https://assets.tcgdex.net/en/sm/det1/18",
+    "localId": "18",
+    "name": "Slaking",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 18,
+        "total": 18
+      },
+      "id": "det1",
+      "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+      "name": "Detective Pikachu",
+      "symbol": "https://assets.tcgdex.net/univ/sm/det1/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      289
+    ],
+    "hp": 180,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Vigoroth",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Pitch",
+        "effect": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2025-08-16T20:39:55Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 370780,
+        "avg": 2.36,
+        "low": 0.2,
+        "trend": 2.36,
+        "avg1": 1,
+        "avg7": 2.55,
+        "avg30": 2.38,
+        "avg-holo": 4,
+        "low-holo": 1,
+        "trend-holo": 2.62,
+        "avg1-holo": 1.95,
+        "avg7-holo": 2.78,
+        "avg30-holo": 2.18
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:57.718Z",
+        "holofoil": {
+          "productId": 186026,
+          "lowPrice": 0.35,
+          "midPrice": 1,
+          "highPrice": 19.96,
+          "marketPrice": 1.02,
+          "directLowPrice": 1.47
+        }
+      }
+    }
+  }
+]

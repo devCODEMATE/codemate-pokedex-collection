@@ -1,0 +1,50 @@
+{
+  "name": "Brock",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "A1-224",
+      "name": "Brock",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "224",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/224",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "A1-271",
+      "name": "Brock",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "271",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/271",
+      "types": null,
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "gym1-15",
+      "name": "Brock",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "15",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/15",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym1-98",
+      "name": "Brock",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "98",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/98",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

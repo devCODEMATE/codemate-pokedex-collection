@@ -1,0 +1,84 @@
+{
+  "name": "Pikachu VMAX",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "swsh11-TG17",
+      "name": "Pikachu VMAX",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "TG17",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG17",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh11-TG29",
+      "name": "Pikachu VMAX",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "TG29",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG29",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh4-188",
+      "name": "Pikachu VMAX",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "188",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/188",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "aky CG Works"
+    },
+    {
+      "id": "swsh4-44",
+      "name": "Pikachu VMAX",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "44",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/44",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "aky CG Works"
+    },
+    {
+      "id": "swshp-SWSH062",
+      "name": "Pikachu VMAX",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH062",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH062",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH286",
+      "name": "Pikachu VMAX",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH286",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH286",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    }
+  ]
+}

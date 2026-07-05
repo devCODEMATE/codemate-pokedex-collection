@@ -1,0 +1,305 @@
+{
+  "name": "Absol",
+  "totalCards": 23,
+  "cards": [
+    {
+      "id": "A3-112",
+      "name": "Absol",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "112",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/112",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A4-120",
+      "name": "Absol",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "120",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/120",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "B1-150",
+      "name": "Absol",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "150",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/150",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "bw9-67",
+      "name": "Absol",
+      "set": "bw9",
+      "setName": "Plasma Freeze",
+      "number": "67",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw9/67",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "dp3-21",
+      "name": "Absol",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/21",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ex12-15",
+      "name": "Absol",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/15",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ex13-18",
+      "name": "Absol",
+      "set": "ex13",
+      "setName": "Holon Phantoms",
+      "number": "18",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex13/18",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "ex3-1",
+      "name": "Absol",
+      "set": "ex3",
+      "setName": "Dragon",
+      "number": "1",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex3/1",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "ex4-96",
+      "name": "Absol",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "96",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/96",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "hgss4-91",
+      "name": "Absol",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "91",
+      "rarity": "Rare PRIME",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/91",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Hideaki Hakozaki"
+    },
+    {
+      "id": "me02-063",
+      "name": "Absol",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "063",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02/063",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Takumi Wada"
+    },
+    {
+      "id": "sm12-133",
+      "name": "Absol",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "133",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/133",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sm2-81",
+      "name": "Absol",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "81",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/81",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm9-88",
+      "name": "Absol",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "88",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/88",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv04-113",
+      "name": "Absol",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "113",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/113",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shinji Kanda"
+    },
+    {
+      "id": "sv06.5-030",
+      "name": "Absol",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "030",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/030",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "rika"
+    },
+    {
+      "id": "swsh10-097",
+      "name": "Absol",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "097",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/097",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh12.5-076",
+      "name": "Absol",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "076",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/076",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh12.5-GG16",
+      "name": "Absol",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "GG16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG16",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh3.5-38",
+      "name": "Absol",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "38",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/38",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "swsh8-164",
+      "name": "Absol",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "164",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/164",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Eri Yamaki"
+    },
+    {
+      "id": "xy6-40",
+      "name": "Absol",
+      "set": "xy6",
+      "setName": "Roaring Skies",
+      "number": "40",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy6/40",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "xyp-XY178",
+      "name": "Absol",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY178",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY178",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Hasuno"
+    }
+  ]
+}

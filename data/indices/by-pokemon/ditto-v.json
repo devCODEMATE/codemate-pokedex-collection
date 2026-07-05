@@ -1,0 +1,32 @@
+{
+  "name": "Ditto V",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh4.5-50",
+      "name": "Ditto V",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "50",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/50",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Saki Hayashiro"
+    },
+    {
+      "id": "swsh4.5-SV118",
+      "name": "Ditto V",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV118",
+      "rarity": "Shiny rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV118",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Saki Hayashiro"
+    }
+  ]
+}

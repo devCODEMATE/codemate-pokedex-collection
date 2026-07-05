@@ -1,0 +1,110 @@
+{
+  "name": "Ceruledge",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "B2a-048",
+      "name": "Ceruledge",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "048",
+      "rarity": "Three Diamond",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "me02-020",
+      "name": "Ceruledge",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "020",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02/020",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Gemi"
+    },
+    {
+      "id": "mep-014",
+      "name": "Ceruledge",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "014",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv02-098",
+      "name": "Ceruledge",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "098",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/098",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv04.5-040",
+      "name": "Ceruledge",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "040",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/040",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv04.5-162",
+      "name": "Ceruledge",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "162",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/162",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv08-035",
+      "name": "Ceruledge",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "035",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/035",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "kantaro"
+    },
+    {
+      "id": "sv08-197",
+      "name": "Ceruledge",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "197",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/197",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Rond"
+    }
+  ]
+}

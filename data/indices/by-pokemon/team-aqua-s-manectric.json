@@ -1,0 +1,33 @@
+{
+  "name": "Team Aqua's Manectric",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "ex4-29",
+      "name": "Team Aqua's Manectric",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "29",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/29",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "K. Utsunomiya"
+    },
+    {
+      "id": "ex4-4",
+      "name": "Team Aqua's Manectric",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "4",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/4",
+      "types": [
+        "Lightning",
+        "Darkness"
+      ],
+      "illustrator": "K. Utsunomiya"
+    }
+  ]
+}

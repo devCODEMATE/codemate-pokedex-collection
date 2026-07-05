@@ -1,0 +1,32 @@
+{
+  "name": "Unown O",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dp3-70",
+      "name": "Unown O",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "70",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/70",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Daisuke Ito"
+    },
+    {
+      "id": "neo2-69",
+      "name": "Unown [O]",
+      "set": "neo2",
+      "setName": "Neo Discovery",
+      "number": "69",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/neo/neo2/69",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "CR CG gangs"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "name": "REND",
+  "totalCards": 30,
+  "cards": [
+    {
+      "id": "A2-133",
+      "name": "Staravia",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "133",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/133",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "A2-159",
+      "name": "Shaymin",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "159",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/159",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "A2b-044",
+      "name": "Flamigo",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "044",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/044",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "A2b-093",
+      "name": "Paldean Clodsire ex",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "093",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/093",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "A3a-075",
+      "name": "Celesteela",
+      "set": "A3a",
+      "setName": "Extradimensional Crisis",
+      "number": "075",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3a/075",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "A4-169",
+      "name": "Octillery",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "169",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/169",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "B1-231",
+      "name": "Chandelure",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "231",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/231",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "B2-070",
+      "name": "Meloetta",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "070",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/070",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "B2a-113",
+      "name": "Bellibolt",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "113",
+      "rarity": "Two Star",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "me01-007",
+      "name": "Tangrowth",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "007",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me01/007",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "me01-028",
+      "name": "Cinderace",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "028",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me01/028",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "me02.5-041",
+      "name": "Totodile",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "041",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/041",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "me02.5-226",
+      "name": "Psyduck",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "226",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/226",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "me02.5-258",
+      "name": "Cheren",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "258",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/258",
+      "types": null,
+      "illustrator": "REND"
+    },
+    {
+      "id": "me02-080",
+      "name": "Smeargle",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "080",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02/080",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "P-A-054",
+      "name": "Pawmot",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "054",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/tcgp/P-A/054",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv04.5-226",
+      "name": "Pawmi",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "226",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/226",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv05-032",
+      "name": "Litten",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "032",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/032",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv05-172",
+      "name": "Cutiefly",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "172",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/172",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv06.5-007",
+      "name": "Houndour",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "007",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/007",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv06.5-075",
+      "name": "Zorua",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "075",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/075",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv06-179",
+      "name": "Chimecho",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "179",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/179",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv07-126",
+      "name": "Lechonk",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "126",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/126",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv08-193",
+      "name": "Vivillon",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "193",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/193",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv09-077",
+      "name": "Swinub",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "077",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/077",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv09-168",
+      "name": "Furret",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "168",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/168",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv10.5b-170",
+      "name": "N's Plan",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "170",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/170",
+      "types": null,
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv10.5w-115",
+      "name": "Zebstrika",
+      "set": "sv10.5w",
+      "setName": "White Flare",
+      "number": "115",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5w/115",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv10-114",
+      "name": "Team Rocket's Nidoran♀",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "114",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/114",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "REND"
+    },
+    {
+      "id": "sv10-130",
+      "name": "Marnie's Purrloin",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "130",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/130",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "REND"
+    }
+  ]
+}

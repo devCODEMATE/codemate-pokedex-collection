@@ -1,0 +1,32 @@
+{
+  "name": "Malamar VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh2-122",
+      "name": "Malamar VMAX",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "122",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/122",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh2-198",
+      "name": "Malamar VMAX",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "198",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/198",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

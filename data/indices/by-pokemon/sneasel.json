@@ -1,0 +1,357 @@
+{
+  "name": "Sneasel",
+  "totalCards": 27,
+  "cards": [
+    {
+      "id": "A2-098",
+      "name": "Sneasel",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "098",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/098",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "A4-115",
+      "name": "Sneasel",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "115",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/115",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "yuu"
+    },
+    {
+      "id": "A4-229",
+      "name": "Sneasel",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "229",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/229",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "bw4-69",
+      "name": "Sneasel",
+      "set": "bw4",
+      "setName": "Next Destinies",
+      "number": "69",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw4/69",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "bw9-65",
+      "name": "Sneasel",
+      "set": "bw9",
+      "setName": "Plasma Freeze",
+      "number": "65",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw9/65",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "dp1-100",
+      "name": "Sneasel",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "100",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/100",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "dp6-120",
+      "name": "Sneasel",
+      "set": "dp6",
+      "setName": "Legends Awakened",
+      "number": "120",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp6/120",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ecard2-110",
+      "name": "Sneasel",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "110",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/110",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "hgss3-68",
+      "name": "Sneasel",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/68",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "me02.5-044",
+      "name": "Sneasel",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "044",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/044",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Krgc"
+    },
+    {
+      "id": "mep-020",
+      "name": "Sneasel",
+      "set": "mep",
+      "setName": "MEP Black Star Promos",
+      "number": "020",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "neo1-25",
+      "name": "Sneasel",
+      "set": "neo1",
+      "setName": "Neo Genesis",
+      "number": "25",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo1/25",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "neo3-24",
+      "name": "Sneasel",
+      "set": "neo3",
+      "setName": "Neo Revelation",
+      "number": "24",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo3/24",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "sm11-131",
+      "name": "Sneasel",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "131",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/131",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm12-43",
+      "name": "Sneasel",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "43",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/43",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "sm3-85",
+      "name": "Sneasel",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "85",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/85",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "sm5-73",
+      "name": "Sneasel",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "73",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/73",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm7-86",
+      "name": "Sneasel",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "86",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/86",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "sv02-133",
+      "name": "Sneasel",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "133",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/133",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sv04.5-182",
+      "name": "Sneasel",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "182",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/182",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sv06.5-013",
+      "name": "Sneasel",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "013",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/013",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Krgc"
+    },
+    {
+      "id": "sv08.5-061",
+      "name": "Sneasel",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "061",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/061",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kurata So"
+    },
+    {
+      "id": "swsh6-30",
+      "name": "Sneasel",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "30",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/30",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "NC Empire"
+    },
+    {
+      "id": "swsh9-086",
+      "name": "Sneasel",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "086",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/086",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy11-60",
+      "name": "Sneasel",
+      "set": "xy11",
+      "setName": "Steam Siege",
+      "number": "60",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy11/60",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "xy2-50",
+      "name": "Sneasel",
+      "set": "xy2",
+      "setName": "Flashfire",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy2/50",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "xy2-51",
+      "name": "Sneasel",
+      "set": "xy2",
+      "setName": "Flashfire",
+      "number": "51",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy2/51",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "match"
+    }
+  ]
+}

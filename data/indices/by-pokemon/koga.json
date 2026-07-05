@@ -1,0 +1,50 @@
+{
+  "name": "Koga",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "A1-222",
+      "name": "Koga",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "222",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/222",
+      "types": null,
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "A1-269",
+      "name": "Koga",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "269",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/269",
+      "types": null,
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "gym2-106",
+      "name": "Koga",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "106",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/106",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym2-19",
+      "name": "Koga",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "19",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/19",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

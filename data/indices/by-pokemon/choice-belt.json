@@ -1,0 +1,39 @@
+{
+  "name": "Choice Belt",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv02-176",
+      "name": "Choice Belt",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "176",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/176",
+      "types": null,
+      "illustrator": "Studio Bora Inc."
+    },
+    {
+      "id": "swsh10-211",
+      "name": "Choice Belt",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "211",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/211",
+      "types": null,
+      "illustrator": null
+    },
+    {
+      "id": "swsh9-135",
+      "name": "Choice Belt",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "135",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/135",
+      "types": null,
+      "illustrator": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Brock's Graveler",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym1-40",
+      "name": "Brock's Graveler",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "40",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/40",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym2-34",
+      "name": "Brock's Graveler",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/34",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Atsuko Nishida"
+    }
+  ]
+}

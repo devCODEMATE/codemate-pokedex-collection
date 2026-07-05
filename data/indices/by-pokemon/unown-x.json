@@ -1,0 +1,32 @@
+{
+  "name": "Unown X",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dp3-71",
+      "name": "Unown X",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "71",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/71",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kazuyuki Kano"
+    },
+    {
+      "id": "neo4-30",
+      "name": "Unown [X]",
+      "set": "neo4",
+      "setName": "Neo Destiny",
+      "number": "30",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo4/30",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "CR CG gangs"
+    }
+  ]
+}

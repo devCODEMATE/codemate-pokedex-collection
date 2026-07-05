@@ -1,0 +1,33 @@
+{
+  "name": "Dark Muk",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "base5-41",
+      "name": "Dark Muk",
+      "set": "base5",
+      "setName": "Team Rocket",
+      "number": "41",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base5/41",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "ex7-16",
+      "name": "Dark Muk",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/16",
+      "types": [
+        "Grass",
+        "Darkness"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Mimikyu V",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "swsh5-148",
+      "name": "Mimikyu V",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "148",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/148",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Eske Yoshinob"
+    },
+    {
+      "id": "swsh5-62",
+      "name": "Mimikyu V",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "62",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/62",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Eske Yoshinob"
+    },
+    {
+      "id": "swsh9-068",
+      "name": "Mimikyu V",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "068",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/068",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh9-TG16",
+      "name": "Mimikyu V",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "TG16",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/TG16",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Team Magma's Aggron",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dc1-14",
+      "name": "Team Magma's Aggron",
+      "set": "dc1",
+      "setName": "Double Crisis",
+      "number": "14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/dc1/14",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "ex4-7",
+      "name": "Team Magma's Aggron",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "7",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/7",
+      "types": [
+        "Fighting",
+        "Darkness"
+      ],
+      "illustrator": "Hiromichi Sugiyama"
+    }
+  ]
+}

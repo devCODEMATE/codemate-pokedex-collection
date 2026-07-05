@@ -1,0 +1,734 @@
+{
+  "name": "Uta",
+  "totalCards": 56,
+  "cards": [
+    {
+      "id": "A1-042",
+      "name": "Ponyta",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "042",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/042",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "A3a-030",
+      "name": "Baltoy",
+      "set": "A3a",
+      "setName": "Extradimensional Crisis",
+      "number": "030",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3a/030",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "A4-019",
+      "name": "Yanmega",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "019",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/019",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "A4-098",
+      "name": "Mamoswine",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "098",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/098",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "A4a-061",
+      "name": "Ursaring",
+      "set": "A4a",
+      "setName": "Secluded Springs",
+      "number": "061",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4a/061",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "B1-086",
+      "name": "Shinx",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "086",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/086",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "B1-146",
+      "name": "Carkol",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "146",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/146",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "B1-154",
+      "name": "Darkrai",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "154",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/154",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "B1-158",
+      "name": "Pangoro",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "158",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/158",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "me01-070",
+      "name": "Onix",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "070",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/070",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "me02-016",
+      "name": "Darmanitan",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "016",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02/016",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "me02-051",
+      "name": "Trapinch",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "051",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02/051",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "me04-007",
+      "name": "Chesnaught",
+      "set": "me04",
+      "setName": "Chaos Rising",
+      "number": "007",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me04/007",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sm12-23",
+      "name": "Ponyta",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "23",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/23",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sm12-48",
+      "name": "Glalie",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "48",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/48",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sm12-70",
+      "name": "Jolteon",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "70",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/70",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv02-032",
+      "name": "Pyroar",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "032",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/032",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv02-150",
+      "name": "Copperajah ex",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "150",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/150",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv03.5-074",
+      "name": "Geodude",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "074",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/074",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv03.5-075",
+      "name": "Graveler",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "075",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/075",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv03.5-076",
+      "name": "Golem ex",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "076",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/076",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv04-093",
+      "name": "Groudon",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "093",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/093",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv04-112",
+      "name": "Crobat",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "112",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/112",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv05-053",
+      "name": "Electabuzz",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "053",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/053",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv06-092",
+      "name": "Palossand",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "092",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/092",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv08.5-049",
+      "name": "Groudon",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "049",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/049",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv08-054",
+      "name": "Cetitan",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "054",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/054",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv08-101",
+      "name": "Paldean Tauros",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "101",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/101",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv09-057",
+      "name": "Alolan Marowak",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "057",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/057",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv09-082",
+      "name": "Regirock",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "082",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/082",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv10.5b-042",
+      "name": "Golett",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "042",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/042",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv10.5b-043",
+      "name": "Golurk",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "043",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/043",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv10.5b-138",
+      "name": "Escavalier",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "138",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/138",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv10-108",
+      "name": "Mudsdale",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "108",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/108",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv10-124",
+      "name": "Team Rocket's Muk",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "124",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/124",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "svp-024",
+      "name": "Growlithe",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "024",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/024",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "svp-090",
+      "name": "Metang",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "090",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/090",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "svp-202",
+      "name": "Kangaskhan",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "202",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh1-101",
+      "name": "Baltoy",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "101",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/101",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh2-1",
+      "name": "Caterpie",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "1",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh2-60",
+      "name": "Shinx",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "60",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/60",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh3.5-33",
+      "name": "Ekans",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "33",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/33",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh3-139",
+      "name": "Ursaring",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "139",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/139",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh3-29",
+      "name": "Larvesta",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "29",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/29",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh4.5-31",
+      "name": "Shinx",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "31",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/31",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh4.5-4",
+      "name": "Cacnea",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "4",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/4",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh4-12",
+      "name": "Shiftry",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "12",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/12",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh4-7",
+      "name": "Yanmega",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "7",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/7",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh5-74",
+      "name": "Gurdurr",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "74",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/74",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh5-79",
+      "name": "Carkol",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "79",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/79",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh6-170",
+      "name": "Galarian Articuno V",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "170",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/170",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh6-79",
+      "name": "Galarian Sirfetch'd",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "79",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/79",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh7-100",
+      "name": "Garbodor V",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "100",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/100",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swsh7-81",
+      "name": "Hitmonchan",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "81",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/81",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swshp-SWSH090",
+      "name": "Houndoom",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH090",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH090",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "swshp-SWSH092",
+      "name": "Charmander",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH092",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH092",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Uta"
+    }
+  ]
+}

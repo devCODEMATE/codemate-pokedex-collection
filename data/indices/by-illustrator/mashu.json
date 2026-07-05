@@ -1,0 +1,253 @@
+{
+  "name": "mashu",
+  "totalCards": 19,
+  "cards": [
+    {
+      "id": "A2b-005",
+      "name": "Sprigatito",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "005",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/005",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "A2b-006",
+      "name": "Floragato",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "006",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/006",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "A2b-007",
+      "name": "Meowscarada",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "007",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/007",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "A3-168",
+      "name": "Comfey",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "168",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/168",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "B1a-073",
+      "name": "Xerneas",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "073",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/073",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "B2-002",
+      "name": "Ledian",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "002",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "B2-196",
+      "name": "Alolan Ninetales ex",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "196",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/196",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "me01-133",
+      "name": "Bulbasaur",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "133",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me01/133",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "me01-134",
+      "name": "Ivysaur",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "134",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me01/134",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "me01-177",
+      "name": "Mega Venusaur ex",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "177",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me01/177",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "me02.5-054",
+      "name": "Glastrier",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "054",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/054",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "me02.5-233",
+      "name": "Misdreavus",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "233",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/233",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "sv06.5-002",
+      "name": "Galvantula",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "002",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "sv08.5-169",
+      "name": "Terapagos ex",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "169",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/169",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "sv09-067",
+      "name": "Lillie's Ribombee",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "067",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/067",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "sv10.5b-015",
+      "name": "Larvesta",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "015",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/015",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "sv10.5b-016",
+      "name": "Volcarona",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "016",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/016",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "sv10.5w-089",
+      "name": "Leavanny",
+      "set": "sv10.5w",
+      "setName": "White Flare",
+      "number": "089",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5w/089",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "sv10-013",
+      "name": "Fomantis",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "013",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/013",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mashu"
+    }
+  ]
+}

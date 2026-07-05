@@ -1,0 +1,32 @@
+{
+  "name": "Burmy Trash Cloak",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dp3-80",
+      "name": "Burmy Trash Cloak",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "80",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/80",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "pl4-58",
+      "name": "Burmy Trash Cloak",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "58",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/58",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yukiko Baba"
+    }
+  ]
+}

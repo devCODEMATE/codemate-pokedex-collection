@@ -1,0 +1,45 @@
+{
+  "name": "Wailord ex",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "ex2-100",
+      "name": "Wailord ex",
+      "set": "ex2",
+      "setName": "Sandstorm",
+      "number": "100",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex2/100",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "xy5-147",
+      "name": "Wailord EX",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "147",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/147",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "xy5-38",
+      "name": "Wailord EX",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "38",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/38",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Eske Yoshinob"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "name": "Drowzee",
+  "totalCards": 25,
+  "cards": [
+    {
+      "id": "A1-124",
+      "name": "Drowzee",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "124",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/124",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "B1-305",
+      "name": "Drowzee",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "305",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/305",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Taiga Kasai"
+    },
+    {
+      "id": "base1-49",
+      "name": "Drowzee",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "49",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base1/49",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base4-73",
+      "name": "Drowzee",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "73",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base4/73",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base5-54",
+      "name": "Drowzee",
+      "set": "base5",
+      "setName": "Team Rocket",
+      "number": "54",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base5/54",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "dp4-65",
+      "name": "Drowzee",
+      "set": "dp4",
+      "setName": "Great Encounters",
+      "number": "65",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp4/65",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ecard2-74a",
+      "name": "Drowzee",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "74a",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hisao Nakamura"
+    },
+    {
+      "id": "ecard2-74b",
+      "name": "Drowzee",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "74b",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hisao Nakamura"
+    },
+    {
+      "id": "ex11-67",
+      "name": "Drowzee",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "67",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/67",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "ex6-32",
+      "name": "Drowzee",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "32",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/32",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "ex7-54",
+      "name": "Drowzee",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "54",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/54",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "hgss1-62",
+      "name": "Drowzee",
+      "set": "hgss1",
+      "setName": "HeartGold SoulSilver",
+      "number": "62",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss1/62",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "lc-73",
+      "name": "Drowzee",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "73",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/lc/lc/73",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "sm10-71",
+      "name": "Drowzee",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "71",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/71",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "sm1-59",
+      "name": "Drowzee",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "59",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/59",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "sv01-082",
+      "name": "Drowzee",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "082",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/082",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "sv01-210",
+      "name": "Drowzee",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "210",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/210",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "sv03.5-096",
+      "name": "Drowzee",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "096",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/096",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mousho"
+    },
+    {
+      "id": "sv06.5-016",
+      "name": "Drowzee",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "016",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/016",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "OKUBO"
+    },
+    {
+      "id": "swsh12-060",
+      "name": "Drowzee",
+      "set": "swsh12",
+      "setName": "Silver Tempest",
+      "number": "060",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12/060",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh7-61",
+      "name": "Drowzee",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "61",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/61",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "tk-sm-r-22",
+      "name": "Drowzee",
+      "set": "tk-sm-r",
+      "setName": "SM trainer Kit (Alolan Raichu)",
+      "number": "22",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy12-49",
+      "name": "Drowzee",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "49",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/49",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "xy3-35",
+      "name": "Drowzee",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "35",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/35",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "xy9-50",
+      "name": "Drowzee",
+      "set": "xy9",
+      "setName": "BREAKpoint",
+      "number": "50",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy9/50",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shigenori Negishi"
+    }
+  ]
+}

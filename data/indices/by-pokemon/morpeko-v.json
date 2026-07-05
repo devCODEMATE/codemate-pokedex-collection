@@ -1,0 +1,71 @@
+{
+  "name": "Morpeko V",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "swsh1-190",
+      "name": "Morpeko V",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "190",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/190",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh1-79",
+      "name": "Morpeko V",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "79",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/79",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh4.5-37",
+      "name": "Morpeko V",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "37",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/37",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh9-095",
+      "name": "Morpeko V",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "095",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/095",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH056",
+      "name": "Morpeko V",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH056",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH056",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

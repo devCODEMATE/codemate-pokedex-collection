@@ -1,0 +1,45 @@
+{
+  "name": "Rayquaza C",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "dpp-DP47",
+      "name": "Rayquaza C",
+      "set": "dpp",
+      "setName": "DP Black Star Promos",
+      "number": "DP47",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dpp/DP47",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "pl3-146",
+      "name": "Rayquaza C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "146",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/146",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl3-8",
+      "name": "Rayquaza C",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "8",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/8",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kawayoo"
+    }
+  ]
+}

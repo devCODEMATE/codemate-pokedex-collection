@@ -1,0 +1,28 @@
+{
+  "name": "Moo-Moo Milk",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "ecard1-155",
+      "name": "Moo-Moo Milk",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "155",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/155",
+      "types": null,
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "neo1-101",
+      "name": "Moo-Moo Milk",
+      "set": "neo1",
+      "setName": "Neo Genesis",
+      "number": "101",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/neo/neo1/101",
+      "types": null,
+      "illustrator": "Tomokazu Komiya"
+    }
+  ]
+}

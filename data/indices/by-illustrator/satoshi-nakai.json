@@ -1,0 +1,851 @@
+{
+  "name": "SATOSHI NAKAI",
+  "totalCards": 65,
+  "cards": [
+    {
+      "id": "A1-099",
+      "name": "Voltorb",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "099",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/099",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "A2a-051",
+      "name": "Croagunk",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "051",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/051",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "A3-119",
+      "name": "Excadrill",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "119",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/119",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "A3b-100",
+      "name": "Ekans",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "100",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/100",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "A3b-101",
+      "name": "Arbok",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "101",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/101",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "B1-065",
+      "name": "Seismitoad",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "065",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/065",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "B1-153",
+      "name": "Drapion",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "153",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/153",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "B2-062",
+      "name": "Granbull",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "062",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/062",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "B2-089",
+      "name": "Tyrunt",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "089",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/089",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm10-110",
+      "name": "Carvanha",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "110",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/110",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm10-115",
+      "name": "Krokorok",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "115",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/115",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm10-122",
+      "name": "Alolan Dugtrio",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "122",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/122",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm11-113",
+      "name": "Gabite",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "113",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/113",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm11-134",
+      "name": "Drapion",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "134",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/134",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm11-32",
+      "name": "Talonflame",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "32",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/32",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm11-43",
+      "name": "Basculin",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "43",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/43",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm115-21",
+      "name": "Voltorb",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "21",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/21",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm11-64",
+      "name": "Tynamo",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/64",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm12-109",
+      "name": "Vibrava",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "109",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/109",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm12-115",
+      "name": "Excadrill",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "115",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/115",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm12-135",
+      "name": "Bisharp",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "135",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/135",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm12-50",
+      "name": "Spheal",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "50",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/50",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm3-52",
+      "name": "Dusclops",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "52",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/52",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm3-57",
+      "name": "Whirlipede",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/57",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm5-3",
+      "name": "Yanmega",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "3",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm5-56",
+      "name": "Croagunk",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "56",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/56",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm6-53",
+      "name": "Dragalge",
+      "set": "sm6",
+      "setName": "Forbidden Light",
+      "number": "53",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm6/53",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm6-63",
+      "name": "Croagunk",
+      "set": "sm6",
+      "setName": "Forbidden Light",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm6/63",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm6-68",
+      "name": "Tyrunt",
+      "set": "sm6",
+      "setName": "Forbidden Light",
+      "number": "68",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm6/68",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm6-78",
+      "name": "Pangoro",
+      "set": "sm6",
+      "setName": "Forbidden Light",
+      "number": "78",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm6/78",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm7-35",
+      "name": "Swampert",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "35",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/35",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm7-94",
+      "name": "Metang",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "94",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/94",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm8-115",
+      "name": "Larvitar",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "115",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/115",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm8-29",
+      "name": "Nincada",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "29",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/29",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm8-43",
+      "name": "Slugma",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "43",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/43",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm9-3",
+      "name": "Weedle",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "3",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm9-48",
+      "name": "Galvantula",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "48",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/48",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sm9-83",
+      "name": "Alolan Grimer",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "83",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/83",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sma-SV15",
+      "name": "Seviper",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV15",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV15",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sma-SV27",
+      "name": "Magnemite",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV27",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV27",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sma-SV4",
+      "name": "Wimpod",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV4",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV4",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sv03-113",
+      "name": "Diggersby",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "113",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/113",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "sv04-128",
+      "name": "Ferrothorn",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "128",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/128",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh1-27",
+      "name": "Salandit",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "27",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/27",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh1-46",
+      "name": "Goldeen",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "46",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/46",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh2-46",
+      "name": "Seismitoad",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "46",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/46",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh2-64",
+      "name": "Heliolisk",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "64",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/64",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh3-71",
+      "name": "Granbull",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "71",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/71",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh3-97",
+      "name": "Passimian",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "97",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/97",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh4.5-SV009",
+      "name": "Orbeetle",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV009",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV009",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh4.5-SV019",
+      "name": "Centiskorch",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV019",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV019",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh4.5-SV023",
+      "name": "Galarian Darumaka",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV023",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV023",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh4.5-SV036",
+      "name": "Dracovish",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV036",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV036",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh4.5-SV084",
+      "name": "Morgrem",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV084",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV084",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh4-24",
+      "name": "Charmeleon",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "24",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/24",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh4-32",
+      "name": "Wailord",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "32",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/32",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh4-52",
+      "name": "Manectric",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "52",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/52",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh5-78",
+      "name": "Rolycoly",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "78",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/78",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh5-91",
+      "name": "Crobat",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "91",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/91",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh6-82",
+      "name": "Galarian Yamask",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "82",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/82",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh7-137",
+      "name": "Braviary",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "137",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/137",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh7-26",
+      "name": "Tentacool",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "26",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/26",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh8-141",
+      "name": "Gliscor",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "141",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/141",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swsh8-72",
+      "name": "Galarian Darmanitan",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "72",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/72",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    },
+    {
+      "id": "swshp-SWSH053",
+      "name": "Machamp",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH053",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH053",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SATOSHI NAKAI"
+    }
+  ]
+}

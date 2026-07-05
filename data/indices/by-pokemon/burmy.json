@@ -1,0 +1,71 @@
+{
+  "name": "Burmy",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "A2-015",
+      "name": "Burmy",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "015",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/015",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mugi Hamada"
+    },
+    {
+      "id": "A2a-002",
+      "name": "Burmy",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "002",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "miki kudo"
+    },
+    {
+      "id": "B1a-009",
+      "name": "Burmy",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "009",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/009",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "swsh9-009",
+      "name": "Burmy",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "009",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/009",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy10-2",
+      "name": "Burmy",
+      "set": "xy10",
+      "setName": "Fates Collide",
+      "number": "2",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/2",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Unown Z",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dp3-72",
+      "name": "Unown Z",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "72",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/72",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kazuyuki Kano"
+    },
+    {
+      "id": "neo4-60",
+      "name": "Unown [Z]",
+      "set": "neo4",
+      "setName": "Neo Destiny",
+      "number": "60",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/neo/neo4/60",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "CR CG gangs"
+    }
+  ]
+}

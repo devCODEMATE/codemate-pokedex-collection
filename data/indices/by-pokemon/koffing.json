@@ -1,0 +1,370 @@
+{
+  "name": "Koffing",
+  "totalCards": 28,
+  "cards": [
+    {
+      "id": "A1-176",
+      "name": "Koffing",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "176",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/176",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "A1a-049",
+      "name": "Koffing",
+      "set": "A1a",
+      "setName": "Mythical Island",
+      "number": "049",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1a/049",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "base1-51",
+      "name": "Koffing",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "51",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base1/51",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base5-58",
+      "name": "Koffing",
+      "set": "base5",
+      "setName": "Team Rocket",
+      "number": "58",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base5/58",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "bw8-56",
+      "name": "Koffing",
+      "set": "bw8",
+      "setName": "Plasma Storm",
+      "number": "56",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw8/56",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "bw8-57",
+      "name": "Koffing",
+      "set": "bw8",
+      "setName": "Plasma Storm",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw8/57",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "col1-60",
+      "name": "Koffing",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "60",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/col/col1/60",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "dp4-74",
+      "name": "Koffing",
+      "set": "dp4",
+      "setName": "Great Encounters",
+      "number": "74",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp4/74",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Lee HyunJung"
+    },
+    {
+      "id": "ecard1-114",
+      "name": "Koffing",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "114",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/114",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex11-72",
+      "name": "Koffing",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "72",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/72",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ex1-54",
+      "name": "Koffing",
+      "set": "ex1",
+      "setName": "Ruby & Sapphire",
+      "number": "54",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex1/54",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "ex7-61",
+      "name": "Koffing",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "61",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/61",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ex8-62",
+      "name": "Koffing",
+      "set": "ex8",
+      "setName": "Deoxys",
+      "number": "62",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex8/62",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hisao Nakamura"
+    },
+    {
+      "id": "hgss1-70",
+      "name": "Koffing",
+      "set": "hgss1",
+      "setName": "HeartGold SoulSilver",
+      "number": "70",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss1/70",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "pl2-68",
+      "name": "Koffing",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/68",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "sm10-73",
+      "name": "Koffing",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "73",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/73",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sm115-28",
+      "name": "Koffing",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "28",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/28",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "sm12-243",
+      "name": "Koffing",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "243",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/243",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "sm12-76",
+      "name": "Koffing",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "76",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/76",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "sv03.5-109",
+      "name": "Koffing",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "109",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/109",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "sv09-091",
+      "name": "Koffing",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "091",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/091",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Rond"
+    },
+    {
+      "id": "swsh12.5-075",
+      "name": "Koffing",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "075",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/075",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh2-112",
+      "name": "Koffing",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "112",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/112",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "swsh4.5-41",
+      "name": "Koffing",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "41",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/41",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Pani Kobayashi"
+    },
+    {
+      "id": "swsh4.5-SV076",
+      "name": "Koffing",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV076",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV076",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Yumi"
+    },
+    {
+      "id": "swsh6-94",
+      "name": "Koffing",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "94",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/94",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "xy10-27",
+      "name": "Koffing",
+      "set": "xy10",
+      "setName": "Fates Collide",
+      "number": "27",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/27",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "xy12-50",
+      "name": "Koffing",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/50",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

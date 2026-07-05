@@ -1,0 +1,32 @@
+{
+  "name": "Chandelure VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh8-265",
+      "name": "Chandelure VMAX",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "265",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/265",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "swsh8-40",
+      "name": "Chandelure VMAX",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "40",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/40",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Iron Thorns",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv05-062",
+      "name": "Iron Thorns",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "062",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/062",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Takeshi Nakamura"
+    },
+    {
+      "id": "svp-098",
+      "name": "Iron Thorns",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "098",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/098",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Tonji Matsuno"
+    }
+  ]
+}

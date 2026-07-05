@@ -1,0 +1,32 @@
+{
+  "name": "Hisuian Samurott",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh10-100",
+      "name": "Hisuian Samurott",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "100",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/100",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH207",
+      "name": "Hisuian Samurott",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH207",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH207",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    }
+  ]
+}

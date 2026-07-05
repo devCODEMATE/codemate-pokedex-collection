@@ -1,0 +1,58 @@
+{
+  "name": "Hisuian Arcanine",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sv06-100",
+      "name": "Hisuian Arcanine",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "100",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/100",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "SIE NANAHARA"
+    },
+    {
+      "id": "swsh10-071",
+      "name": "Hisuian Arcanine",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "071",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/071",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh11-084",
+      "name": "Hisuian Arcanine",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "084",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/084",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh11-TG08",
+      "name": "Hisuian Arcanine",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "TG08",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG08",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    }
+  ]
+}

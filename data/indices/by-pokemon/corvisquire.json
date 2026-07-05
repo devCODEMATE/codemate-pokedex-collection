@@ -1,0 +1,84 @@
+{
+  "name": "Corvisquire",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B1-210",
+      "name": "Corvisquire",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "210",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/210",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv02-165",
+      "name": "Corvisquire",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "165",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/165",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh1-151",
+      "name": "Corvisquire",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "151",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/151",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh3-155",
+      "name": "Corvisquire",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "155",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/155",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "swsh4.5-SV102",
+      "name": "Corvisquire",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV102",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV102",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "swsh8-220",
+      "name": "Corvisquire",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "220",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/220",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Naoyo Kimura"
+    }
+  ]
+}

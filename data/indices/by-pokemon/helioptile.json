@@ -1,0 +1,240 @@
+{
+  "name": "Helioptile",
+  "totalCards": 18,
+  "cards": [
+    {
+      "id": "A1-110",
+      "name": "Helioptile",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "110",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/110",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "A3-062",
+      "name": "Helioptile",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "062",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/062",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "0313"
+    },
+    {
+      "id": "B1a-028",
+      "name": "Helioptile",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "028",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/028",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "me01-052",
+      "name": "Helioptile",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "052",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/052",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "me01-143",
+      "name": "Helioptile",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "143",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me01/143",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "me02.5-063",
+      "name": "Helioptile",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "063",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/063",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Tika Matsuno"
+    },
+    {
+      "id": "sm12-179",
+      "name": "Helioptile",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "179",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/179",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "sm2-43",
+      "name": "Helioptile",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "43",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/43",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm6-37",
+      "name": "Helioptile",
+      "set": "sm6",
+      "setName": "Forbidden Light",
+      "number": "37",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm6/37",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "sm9-49",
+      "name": "Helioptile",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "49",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/49",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "sv06-070",
+      "name": "Helioptile",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "070",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/070",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Taiga Kayama"
+    },
+    {
+      "id": "sv08-154",
+      "name": "Helioptile",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "154",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/154",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "miki kudo"
+    },
+    {
+      "id": "swsh12.5-049",
+      "name": "Helioptile",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "049",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/049",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh2-63",
+      "name": "Helioptile",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/63",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "0313"
+    },
+    {
+      "id": "swsh8-98",
+      "name": "Helioptile",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "98",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/98",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mina Nakai"
+    },
+    {
+      "id": "xy2-36",
+      "name": "Helioptile",
+      "set": "xy2",
+      "setName": "Flashfire",
+      "number": "36",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy2/36",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "xy4-28",
+      "name": "Helioptile",
+      "set": "xy4",
+      "setName": "Phantom Forces",
+      "number": "28",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy4/28",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "HiRON"
+    },
+    {
+      "id": "xy4-29",
+      "name": "Helioptile",
+      "set": "xy4",
+      "setName": "Phantom Forces",
+      "number": "29",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy4/29",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

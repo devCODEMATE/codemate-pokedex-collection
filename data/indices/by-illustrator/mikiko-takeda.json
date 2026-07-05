@@ -1,0 +1,32 @@
+{
+  "name": "Mikiko Takeda",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dp1-10",
+      "name": "Mismagius",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "10",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/10",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mikiko Takeda"
+    },
+    {
+      "id": "dp1-7",
+      "name": "Luxray",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "7",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/7",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mikiko Takeda"
+    }
+  ]
+}

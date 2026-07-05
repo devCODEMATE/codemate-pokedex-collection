@@ -1,0 +1,84 @@
+{
+  "name": "Rabsca",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2a-049",
+      "name": "Rabsca",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "049",
+      "rarity": "Two Diamond",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "sv02-099",
+      "name": "Rabsca",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "099",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/099",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "sv02-215",
+      "name": "Rabsca",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "215",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/215",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv04.5-163",
+      "name": "Rabsca",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "163",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/163",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv05-024",
+      "name": "Rabsca",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "024",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/024",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "mingo"
+    },
+    {
+      "id": "sv08-014",
+      "name": "Rabsca",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "014",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/014",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Masako Tomii"
+    }
+  ]
+}

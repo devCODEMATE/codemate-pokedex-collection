@@ -1,0 +1,32 @@
+{
+  "name": "Umbreon & Darkrai GX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sm11-125",
+      "name": "Umbreon & Darkrai GX",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "125",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/125",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "smp-SM241",
+      "name": "Umbreon & Darkrai GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM241",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    }
+  ]
+}

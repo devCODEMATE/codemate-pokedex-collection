@@ -1,0 +1,32 @@
+{
+  "name": "Mimikyu VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh9-069",
+      "name": "Mimikyu VMAX",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "069",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/069",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh9-TG17",
+      "name": "Mimikyu VMAX",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "TG17",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/TG17",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    }
+  ]
+}

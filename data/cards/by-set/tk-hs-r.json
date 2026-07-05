@@ -1,0 +1,71 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "tk-hs-r-19",
+    "illustrator": "match",
+    "localId": "19",
+    "name": "Raichu",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 30,
+        "total": 30
+      },
+      "id": "tk-hs-r",
+      "name": "HS trainer Kit (Raichu)",
+      "symbol": "https://assets.tcgdex.net/univ/tk/tk-hs-r/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      26
+    ],
+    "hp": 90,
+    "description": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "name": "Iron Tail",
+        "effect": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+        "damage": "30×"
+      },
+      {
+        "name": "Thunderbolt",
+        "effect": "Discard all Energy attached to Raichu.",
+        "damage": 100
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-03-06T17:28:18Z",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.179Z",
+        "normal": {
+          "productId": 88520,
+          "lowPrice": 3.01,
+          "midPrice": 8.7,
+          "highPrice": 47,
+          "marketPrice": 5.03,
+          "directLowPrice": null
+        }
+      }
+    }
+  }
+]

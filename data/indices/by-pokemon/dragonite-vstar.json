@@ -1,0 +1,45 @@
+{
+  "name": "Dragonite VSTAR",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh10.5-050",
+      "name": "Dragonite VSTAR",
+      "set": "swsh10.5",
+      "setName": "Pokémon GO",
+      "number": "050",
+      "rarity": "Holo Rare VSTAR",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/050",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh10.5-081",
+      "name": "Dragonite VSTAR",
+      "set": "swsh10.5",
+      "setName": "Pokémon GO",
+      "number": "081",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/081",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH236",
+      "name": "Dragonite VSTAR",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH236",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH236",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": null
+    }
+  ]
+}

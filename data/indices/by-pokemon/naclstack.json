@@ -1,0 +1,58 @@
+{
+  "name": "Naclstack",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "me01-083",
+      "name": "Naclstack",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "083",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/083",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sv02-122",
+      "name": "Naclstack",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "122",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/122",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "GIDORA"
+    },
+    {
+      "id": "sv04.5-177",
+      "name": "Naclstack",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "177",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/177",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "sv04-103",
+      "name": "Naclstack",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "103",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/103",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    }
+  ]
+}

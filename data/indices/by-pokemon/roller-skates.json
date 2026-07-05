@@ -1,0 +1,28 @@
+{
+  "name": "Roller Skates",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "xy1-125",
+      "name": "Roller Skates",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "125",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy1/125",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "xy4-103",
+      "name": "Roller Skates",
+      "set": "xy4",
+      "setName": "Phantom Forces",
+      "number": "103",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy4/103",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

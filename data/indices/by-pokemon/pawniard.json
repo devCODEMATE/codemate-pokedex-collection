@@ -1,0 +1,331 @@
+{
+  "name": "Pawniard",
+  "totalCards": 25,
+  "cards": [
+    {
+      "id": "A1-179",
+      "name": "Pawniard",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "179",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/179",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "bw3-75",
+      "name": "Pawniard",
+      "set": "bw3",
+      "setName": "Noble Victories",
+      "number": "75",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw3/75",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "bw3-81",
+      "name": "Pawniard",
+      "set": "bw3",
+      "setName": "Noble Victories",
+      "number": "81",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw3/81",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "bw5-78",
+      "name": "Pawniard",
+      "set": "bw5",
+      "setName": "Dark Explorers",
+      "number": "78",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw5/78",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "bw9-71",
+      "name": "Pawniard",
+      "set": "bw9",
+      "setName": "Plasma Freeze",
+      "number": "71",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw9/71",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "bw9-72",
+      "name": "Pawniard",
+      "set": "bw9",
+      "setName": "Plasma Freeze",
+      "number": "72",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw9/72",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "me02.5-146",
+      "name": "Pawniard",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "146",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/146",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "sm12-134",
+      "name": "Pawniard",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "134",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/134",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "sm9-104",
+      "name": "Pawniard",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "104",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/104",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sv01-132",
+      "name": "Pawniard",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "132",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/132",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "sv03-148",
+      "name": "Pawniard",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "148",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/148",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "sv04.5-185",
+      "name": "Pawniard",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "185",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/185",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Misa Tsutsui"
+    },
+    {
+      "id": "sv10.5b-064",
+      "name": "Pawniard",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "064",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/064",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Oku"
+    },
+    {
+      "id": "sv10.5b-142",
+      "name": "Pawniard",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "142",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/142",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "svp-111",
+      "name": "Pawniard",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "111",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/111",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "matazo"
+    },
+    {
+      "id": "swsh10-115",
+      "name": "Pawniard",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "115",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/115",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh1-133",
+      "name": "Pawniard",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "133",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/133",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Motofumi Fujiwara"
+    },
+    {
+      "id": "swsh12.5-091",
+      "name": "Pawniard",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "091",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/091",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh12.5-092",
+      "name": "Pawniard",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "092",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/092",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh5-103",
+      "name": "Pawniard",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "103",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/103",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "otumami"
+    },
+    {
+      "id": "tk-xy-b-13",
+      "name": "Pawniard",
+      "set": "tk-xy-b",
+      "setName": "XY trainer Kit (Bisharp)",
+      "number": "13",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-b-21",
+      "name": "Pawniard",
+      "set": "tk-xy-b",
+      "setName": "XY trainer Kit (Bisharp)",
+      "number": "21",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy0-19",
+      "name": "Pawniard",
+      "set": "xy0",
+      "setName": "Kalos Starter Set",
+      "number": "19",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xy0/19",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "xy11-63",
+      "name": "Pawniard",
+      "set": "xy11",
+      "setName": "Steam Siege",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy11/63",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "xy1-81",
+      "name": "Pawniard",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "81",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy1/81",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Midori Harada"
+    }
+  ]
+}

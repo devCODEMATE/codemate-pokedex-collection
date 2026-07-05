@@ -1,0 +1,45 @@
+{
+  "name": "N's Zorua",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "me02.5-136",
+      "name": "N's Zorua",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "136",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/136",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Jiro Sasumo"
+    },
+    {
+      "id": "sv09-097",
+      "name": "N's Zorua",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "097",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/097",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Jiro Sasumo"
+    },
+    {
+      "id": "svp-189",
+      "name": "N's Zorua",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "189",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/189",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Megumi Mizutani"
+    }
+  ]
+}

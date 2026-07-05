@@ -1,0 +1,306 @@
+{
+  "name": "Beedrill",
+  "totalCards": 23,
+  "cards": [
+    {
+      "id": "A1-010",
+      "name": "Beedrill",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "010",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/010",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "You Iribi"
+    },
+    {
+      "id": "base1-17",
+      "name": "Beedrill",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "17",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base1/17",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base4-21",
+      "name": "Beedrill",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base4/21",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "bw9-3",
+      "name": "Beedrill",
+      "set": "bw9",
+      "setName": "Plasma Freeze",
+      "number": "3",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw9/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "dp4-13",
+      "name": "Beedrill",
+      "set": "dp4",
+      "setName": "Great Encounters",
+      "number": "13",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/dp/dp4/13",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ecard3-5",
+      "name": "Beedrill",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "5",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/5",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hikaru Koike"
+    },
+    {
+      "id": "ecard3-H04",
+      "name": "Beedrill",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "H04",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hikaru Koike"
+    },
+    {
+      "id": "ex11-1",
+      "name": "Beedrill δ",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "1",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/1",
+      "types": [
+        "Grass",
+        "Metal"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "ex6-1",
+      "name": "Beedrill",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "1",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/1",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "hgss2-12",
+      "name": "Beedrill",
+      "set": "hgss2",
+      "setName": "Unleashed",
+      "number": "12",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss2/12",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "lc-20",
+      "name": "Beedrill",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "20",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/lc/lc/20",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "neo2-18",
+      "name": "Beedrill",
+      "set": "neo2",
+      "setName": "Neo Discovery",
+      "number": "18",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo2/18",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "pl2-15",
+      "name": "Beedrill",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/15",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl4-53",
+      "name": "Beedrill",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "53",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/53",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Wataru Kawahara"
+    },
+    {
+      "id": "sm4-3",
+      "name": "Beedrill",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "3",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "kirisAki"
+    },
+    {
+      "id": "sm9-5",
+      "name": "Beedrill",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "5",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/5",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "You Iribi"
+    },
+    {
+      "id": "sv03.5-015",
+      "name": "Beedrill",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "015",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/015",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "nisimono"
+    },
+    {
+      "id": "swsh3.5-4",
+      "name": "Beedrill",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "4",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/4",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hideki Ishikawa"
+    },
+    {
+      "id": "swsh4-3",
+      "name": "Beedrill",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "3",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh6-3",
+      "name": "Beedrill",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "3",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Misa Tsutsui"
+    },
+    {
+      "id": "xy12-7",
+      "name": "Beedrill",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "7",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/7",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "xy1-5",
+      "name": "Beedrill",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "5",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy1/5",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "xy5-3",
+      "name": "Beedrill",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "3",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

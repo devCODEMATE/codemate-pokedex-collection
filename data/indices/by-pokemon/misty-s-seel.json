@@ -1,0 +1,32 @@
+{
+  "name": "Misty's Seel",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym1-88",
+      "name": "Misty's Seel",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "88",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/88",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "gym2-91",
+      "name": "Misty's Seel",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "91",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/91",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

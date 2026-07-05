@@ -1,0 +1,32 @@
+{
+  "name": "Diancie EX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "xy10-72",
+      "name": "Diancie EX",
+      "set": "xy10",
+      "setName": "Fates Collide",
+      "number": "72",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/72",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "Eske Yoshinob"
+    },
+    {
+      "id": "xyp-XY43",
+      "name": "Diancie EX",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY43",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY43",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

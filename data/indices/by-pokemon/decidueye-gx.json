@@ -1,0 +1,58 @@
+{
+  "name": "Decidueye GX",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm1-12",
+      "name": "Decidueye GX",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "12",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/12",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm2-146",
+      "name": "Decidueye GX",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "146",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/146",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sma-SV47",
+      "name": "Decidueye-GX",
+      "set": "sma",
+      "setName": "Hidden Fates Shiny Vault",
+      "number": "SV47",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sm/sma/SV47",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM37",
+      "name": "Decidueye GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM37",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM37",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Skeledirge",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "B2a-018",
+      "name": "Skeledirge",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "018",
+      "rarity": "Three Diamond",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv01-038",
+      "name": "Skeledirge",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "038",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/038",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv08-031",
+      "name": "Skeledirge",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "031",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/031",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "akagi"
+    }
+  ]
+}

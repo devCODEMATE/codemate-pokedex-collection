@@ -21,7 +21,30 @@ const FOLIO_COLORS = [
   { key: 'transparente', hex: 'var(--swatch-transparente)', label: 'Transparente' },
 ];
 
-const PREVIEW_CARD = MOCK_CARDS_BY_ID['base1-4']; // Charizard, sample fijo para la preview
+let PREVIEW_CARD = null; // se carga async cada vez que se abre el wizard (ver loadPreviewCard)
+let previewCardLoading = false;
+
+/** Elige una carta al azar de Base Set (102 cartas, numeradas 1-102 sin huecos, así que cualquier número es válido) */
+function pickRandomPreviewCardId() {
+  const n = Math.floor(Math.random() * 102) + 1;
+  return `base1-${n}`;
+}
+
+async function loadPreviewCard() {
+  if (previewCardLoading) return;
+  previewCardLoading = true;
+  try {
+    PREVIEW_CARD = await resolveCard(pickRandomPreviewCardId());
+  } catch (err) {
+    console.error('No se pudo cargar la carta de muestra del wizard, reintentando con otra:', err);
+    PREVIEW_CARD = null;
+  } finally {
+    previewCardLoading = false;
+  }
+  if (wizardStep === 3 && !document.getElementById('view-wizard').hidden) {
+    updateWizardPreview();
+  }
+}
 
 let wizardState = { name: '', coverColor: null, size: null, folioColor: null };
 let wizardStep = 1;
@@ -29,6 +52,8 @@ let wizardStep = 1;
 function resetWizard() {
   wizardState = { name: '', coverColor: null, size: null, folioColor: null };
   wizardStep = 1;
+  PREVIEW_CARD = null;
+  loadPreviewCard(); // dispara la carga de una carta nueva al azar; se resuelve en segundo plano
   renderWizardStep();
 }
 
@@ -201,6 +226,13 @@ function updateWizardPreview() {
   }
 
   // Paso 3: folio real — franja fina de color, predomina el negro (como un binder físico)
+  if (!PREVIEW_CARD) {
+    slot.innerHTML = '';
+    slot.style.background = 'var(--black)';
+    caption.textContent = 'Cargando carta de muestra…';
+    if (!previewCardLoading) loadPreviewCard(); // por si la primera carga falló, reintenta sola
+    return;
+  }
   slot.innerHTML = renderCardFaceSVG(PREVIEW_CARD, { compact: true });
   if (wizardState.folioColor) {
     const hex = resolveSwatchHex(wizardState.folioColor);

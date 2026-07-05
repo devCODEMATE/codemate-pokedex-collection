@@ -1,0 +1,84 @@
+{
+  "name": "Minior",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "A3-105",
+      "name": "Minior",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "105",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/105",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "A3-174",
+      "name": "Minior",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "174",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/174",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "imoniii"
+    },
+    {
+      "id": "sm2-77",
+      "name": "Minior",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "77",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/77",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "sm7-83",
+      "name": "Minior",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "83",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/83",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv04-099",
+      "name": "Minior",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "099",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/099",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "OKUBO"
+    },
+    {
+      "id": "sv04-201",
+      "name": "Minior",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "201",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/201",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "0313"
+    }
+  ]
+}

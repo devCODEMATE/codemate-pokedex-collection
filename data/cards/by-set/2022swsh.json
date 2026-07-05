@@ -1,0 +1,1574 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-1",
+    "illustrator": "Naoyo Kimura",
+    "localId": "1",
+    "name": "Ledyba",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.730Z",
+            "unit": "EUR",
+            "idProduct": 670466,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.05,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      165
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Collect",
+        "effect": "Draw a card."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Punch",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 670466,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.02,
+        "avg7": 0.03,
+        "avg30": 0.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-2",
+    "illustrator": "HYOGONOSUKE",
+    "localId": "2",
+    "name": "Rowlet",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.899Z",
+            "unit": "EUR",
+            "idProduct": 670467,
+            "avg": 0.45,
+            "low": 0.02,
+            "trend": 0.39,
+            "avg1": 0.5,
+            "avg7": 0.44,
+            "avg30": 0.4,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      722
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Sky Circus",
+        "effect": "If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pokémon's attack costs"
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Wind Shard",
+        "effect": "This attack does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.899Z",
+        "unit": "EUR",
+        "idProduct": 670467,
+        "avg": 0.45,
+        "low": 0.02,
+        "trend": 0.39,
+        "avg1": 0.5,
+        "avg7": 0.44,
+        "avg30": 0.4,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-3",
+    "illustrator": "Mizue",
+    "localId": "3",
+    "name": "Gossifleur",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.730Z",
+            "unit": "EUR",
+            "idProduct": 670468,
+            "avg": 0.26,
+            "low": 0.02,
+            "trend": 0.23,
+            "avg1": 0.24,
+            "avg7": 0.22,
+            "avg30": 0.28,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      829
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Blot",
+        "effect": "Heal 10 damage from this Pokémon.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 670468,
+        "avg": 0.26,
+        "low": 0.02,
+        "trend": 0.23,
+        "avg1": 0.24,
+        "avg7": 0.22,
+        "avg30": 0.28,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-4",
+    "illustrator": "Narumi Sato",
+    "localId": "4",
+    "name": "Growlithe",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.730Z",
+            "unit": "EUR",
+            "idProduct": 670469,
+            "avg": 0.42,
+            "low": 0.02,
+            "trend": 0.64,
+            "avg1": 0.27,
+            "avg7": 0.35,
+            "avg30": 0.43,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      58
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Warm Up",
+        "effect": "Search your deck for a Fire Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck."
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Combustion",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 670469,
+        "avg": 0.42,
+        "low": 0.02,
+        "trend": 0.64,
+        "avg1": 0.27,
+        "avg7": 0.35,
+        "avg30": 0.43,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-5",
+    "illustrator": "Teeziro",
+    "localId": "5",
+    "name": "Victini",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.730Z",
+            "unit": "EUR",
+            "idProduct": 670470,
+            "avg": 0.46,
+            "low": 0.02,
+            "trend": 0.38,
+            "avg1": 0.49,
+            "avg7": 0.37,
+            "avg30": 0.46,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      494
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Victory Dive",
+        "effect": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 670470,
+        "avg": 0.46,
+        "low": 0.02,
+        "trend": 0.38,
+        "avg1": 0.49,
+        "avg7": 0.37,
+        "avg30": 0.46,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-6",
+    "illustrator": "Atsushi Furusawa",
+    "localId": "6",
+    "name": "Lapras",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.730Z",
+            "unit": "EUR",
+            "idProduct": 670471,
+            "avg": 0.18,
+            "low": 0.02,
+            "trend": 0.06,
+            "avg1": 0.11,
+            "avg7": 0.09,
+            "avg30": 0.14,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      131
+    ],
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Wintry Call",
+        "effect": "Search your deck for up to 2 Melony cards, reveal them, and put them into your hand. Then, shuffle your deck."
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Icy Wind",
+        "effect": "Your opponent's Active Pokémon is now Asleep.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 670471,
+        "avg": 0.18,
+        "low": 0.02,
+        "trend": 0.06,
+        "avg1": 0.11,
+        "avg7": 0.09,
+        "avg30": 0.14,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-7",
+    "illustrator": "chibi",
+    "localId": "7",
+    "name": "Pikachu",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.730Z",
+            "unit": "EUR",
+            "idProduct": 670472,
+            "avg": 1.94,
+            "low": 0.02,
+            "trend": 1.62,
+            "avg1": 1.9,
+            "avg7": 2.14,
+            "avg30": 1.78,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Energize",
+        "effect": "Attach a Lightning Energy card from your discard pile to this Pokémon."
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Electro Ball",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 670472,
+        "avg": 1.94,
+        "low": 0.02,
+        "trend": 1.62,
+        "avg1": 1.9,
+        "avg7": 2.14,
+        "avg30": 1.78,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-8",
+    "illustrator": "sowsow",
+    "localId": "8",
+    "name": "Chinchou",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.730Z",
+            "unit": "EUR",
+            "idProduct": 670473,
+            "avg": 0.07,
+            "low": 0.02,
+            "trend": 0.13,
+            "avg1": 0.1,
+            "avg7": 0.09,
+            "avg30": 0.07,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      170
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Electro Ball",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 670473,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.13,
+        "avg1": 0.1,
+        "avg7": 0.09,
+        "avg30": 0.07,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-9",
+    "illustrator": "sui",
+    "localId": "9",
+    "name": "Flaaffy",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.899Z",
+            "unit": "EUR",
+            "idProduct": 670474,
+            "avg": 0.11,
+            "low": 0.02,
+            "trend": 0.09,
+            "avg1": 0.1,
+            "avg7": 0.09,
+            "avg30": 0.11,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      180
+    ],
+    "hp": 100,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Mareep",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Electro Ball",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.899Z",
+        "unit": "EUR",
+        "idProduct": 670474,
+        "avg": 0.11,
+        "low": 0.02,
+        "trend": 0.09,
+        "avg1": 0.1,
+        "avg7": 0.09,
+        "avg30": 0.11,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-10",
+    "illustrator": "sowsow",
+    "localId": "10",
+    "name": "Tynamo",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.730Z",
+            "unit": "EUR",
+            "idProduct": 670475,
+            "avg": 0.07,
+            "low": 0.02,
+            "trend": 0.07,
+            "avg1": 0.23,
+            "avg7": 0.05,
+            "avg30": 0.07,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      602
+    ],
+    "hp": 40,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Levitate",
+        "effect": "If this Pokémon has any Energy attached, it has no Retreat Cost."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Tiny Charge",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 670475,
+        "avg": 0.07,
+        "low": 0.02,
+        "trend": 0.07,
+        "avg1": 0.23,
+        "avg7": 0.05,
+        "avg30": 0.07,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-11",
+    "illustrator": "Yukiko Baba",
+    "localId": "11",
+    "name": "Cutiefly",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.899Z",
+            "unit": "EUR",
+            "idProduct": 670476,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.12,
+            "avg1": 0.05,
+            "avg7": 0.04,
+            "avg30": 0.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      742
+    ],
+    "hp": 30,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Flap",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.899Z",
+        "unit": "EUR",
+        "idProduct": 670476,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.12,
+        "avg1": 0.05,
+        "avg7": 0.04,
+        "avg30": 0.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-12",
+    "illustrator": "Shigenori Negishi",
+    "localId": "12",
+    "name": "Bewear",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.899Z",
+            "unit": "EUR",
+            "idProduct": 670477,
+            "avg": 0.09,
+            "low": 0.02,
+            "trend": 0.05,
+            "avg1": 0.05,
+            "avg7": 0.04,
+            "avg30": 0.07,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      760
+    ],
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Stufful",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Split Spiral Punch",
+        "effect": "Your opponent's Active Pokémon is now Confused.",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Strength",
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-05-27T21:09:01+01:00",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.899Z",
+        "unit": "EUR",
+        "idProduct": 670477,
+        "avg": 0.09,
+        "low": 0.02,
+        "trend": 0.05,
+        "avg1": 0.05,
+        "avg7": 0.04,
+        "avg30": 0.07,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-13",
+    "illustrator": "HYOGONOSUKE",
+    "localId": "13",
+    "name": "Pangoro",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.730Z",
+            "unit": "EUR",
+            "idProduct": 670478,
+            "avg": 0.08,
+            "low": 0.02,
+            "trend": 0.13,
+            "avg1": 0.02,
+            "avg7": 0.09,
+            "avg30": 0.09,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      675
+    ],
+    "hp": 140,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Pancham",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Knocking Hammer",
+        "effect": "Discard the top card of your opponent's deck.",
+        "damage": 90
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Shakedown",
+        "effect": "Discard a random card from your opponent's hand.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 670478,
+        "avg": 0.08,
+        "low": 0.02,
+        "trend": 0.13,
+        "avg1": 0.02,
+        "avg7": 0.09,
+        "avg30": 0.09,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-14",
+    "illustrator": "Tomokazu Komiya",
+    "localId": "14",
+    "name": "Drampa",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.899Z",
+            "unit": "EUR",
+            "idProduct": 670479,
+            "avg": 0.13,
+            "low": 0.02,
+            "trend": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.13,
+            "avg30": 0.14,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      780
+    ],
+    "hp": 120,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Corkscrew Punch",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Fighting"
+        ],
+        "name": "Berkshire",
+        "effect": "If your Benched Pokémon have any damage counters on them, this attack does 90 more damage.",
+        "damage": "70+"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.899Z",
+        "unit": "EUR",
+        "idProduct": 670479,
+        "avg": 0.13,
+        "low": 0.02,
+        "trend": 0.02,
+        "avg1": 0.2,
+        "avg7": 0.13,
+        "avg30": 0.14,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2022swsh-15",
+    "illustrator": "Kouki Saitou",
+    "localId": "15",
+    "name": "Smeargle",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 15,
+        "total": 15
+      },
+      "id": "2022swsh",
+      "name": "McDonald's Collection 2022"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.730Z",
+            "unit": "EUR",
+            "idProduct": 670480,
+            "avg": 0.37,
+            "low": 0.02,
+            "trend": 0.36,
+            "avg1": 0.05,
+            "avg7": 0.24,
+            "avg30": 0.38,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0,
+            "avg1-holo": null,
+            "avg7-holo": null,
+            "avg30-holo": null
+          },
+          "tcgplayer": null
+        }
+      }
+    ],
+    "dexId": [
+      235
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Live Painting",
+        "effect": "Reveal any number of basic Energy cards from your hand. This attack does 30 more damage for each type of basic Energy you revealed in this way.",
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.730Z",
+        "unit": "EUR",
+        "idProduct": 670480,
+        "avg": 0.37,
+        "low": 0.02,
+        "trend": 0.36,
+        "avg1": 0.05,
+        "avg7": 0.24,
+        "avg30": 0.38,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0,
+        "avg1-holo": null,
+        "avg7-holo": null,
+        "avg30-holo": null
+      },
+      "tcgplayer": null
+    }
+  }
+]

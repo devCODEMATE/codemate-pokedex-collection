@@ -1,0 +1,45 @@
+{
+  "name": "Surfing Pikachu",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "basep-28",
+      "name": "Surfing Pikachu",
+      "set": "basep",
+      "setName": "Wizards Black Star Promos",
+      "number": "28",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/basep/28",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "pl2-114",
+      "name": "Surfing Pikachu",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "114",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/114",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "xy12-111",
+      "name": "Surfing Pikachu",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "111",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/111",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Toshinao Aoki"
+    }
+  ]
+}

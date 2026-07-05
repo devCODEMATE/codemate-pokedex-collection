@@ -1,0 +1,370 @@
+{
+  "name": "Gloom",
+  "totalCards": 28,
+  "cards": [
+    {
+      "id": "A1-012",
+      "name": "Gloom",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "012",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/012",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "A1-228",
+      "name": "Gloom",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "228",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/228",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "A2-002",
+      "name": "Gloom",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "002",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "A4-002",
+      "name": "Gloom",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "002",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "B1a-089",
+      "name": "Gloom",
+      "set": "B1a",
+      "setName": "Crimson Blaze",
+      "number": "089",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1a/089",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "base2-37",
+      "name": "Gloom",
+      "set": "base2",
+      "setName": "Jungle",
+      "number": "37",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base2/37",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "bw7-2",
+      "name": "Gloom",
+      "set": "bw7",
+      "setName": "Boundaries Crossed",
+      "number": "2",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw7/2",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "dp6-96",
+      "name": "Gloom",
+      "set": "dp6",
+      "setName": "Legends Awakened",
+      "number": "96",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp6/96",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "dp6-97",
+      "name": "Gloom",
+      "set": "dp6",
+      "setName": "Legends Awakened",
+      "number": "97",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp6/97",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ecard1-78",
+      "name": "Gloom",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "78",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/78",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yuichi Sawayama"
+    },
+    {
+      "id": "ecard2-49",
+      "name": "Gloom",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "49",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/49",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex10-58",
+      "name": "Gloom",
+      "set": "ex10",
+      "setName": "Unseen Forces",
+      "number": "58",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex10/58",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ex13-42",
+      "name": "Gloom δ",
+      "set": "ex13",
+      "setName": "Holon Phantoms",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex13/42",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ex5-35",
+      "name": "Gloom",
+      "set": "ex5",
+      "setName": "Hidden Legends",
+      "number": "35",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex5/35",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "hgss3-27",
+      "name": "Gloom",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "27",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/27",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "me02-002",
+      "name": "Gloom",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "002",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yoriyuki Ikegami"
+    },
+    {
+      "id": "mfb-4",
+      "name": "Gloom",
+      "set": "mfb",
+      "setName": "My First Battle",
+      "number": "4",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Natsumi Yashida"
+    },
+    {
+      "id": "neo1-36",
+      "name": "Gloom",
+      "set": "neo1",
+      "setName": "Neo Genesis",
+      "number": "36",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/neo/neo1/36",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sm10-7",
+      "name": "Gloom",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "7",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/7",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sm12-3",
+      "name": "Gloom",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "3",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sm3-5",
+      "name": "Gloom",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "5",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/5",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "sv03.5-044",
+      "name": "Gloom",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "044",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/044",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "sv03-002",
+      "name": "Gloom",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "002",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Haru Akasaka"
+    },
+    {
+      "id": "sv03-198",
+      "name": "Gloom",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "198",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/198",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Masako Tomii"
+    },
+    {
+      "id": "sv04.5-093",
+      "name": "Gloom",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "093",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/093",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "swsh11-002",
+      "name": "Gloom",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "002",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh12.5-002",
+      "name": "Gloom",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "002",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy7-2",
+      "name": "Gloom",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "2",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/2",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    }
+  ]
+}

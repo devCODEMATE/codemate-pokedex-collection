@@ -1,0 +1,84 @@
+{
+  "name": "Zarude",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "sv08-011",
+      "name": "Zarude",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "011",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/011",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "svp-199",
+      "name": "Zarude",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "199",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "swsh12.5-016",
+      "name": "Zarude",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "016",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/016",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh4.5-16",
+      "name": "Zarude",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/16",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh6-19",
+      "name": "Zarude",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "19",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/19",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh8-27",
+      "name": "Zarude",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "27",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/27",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    }
+  ]
+}

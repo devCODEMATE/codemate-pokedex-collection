@@ -1,0 +1,59 @@
+{
+  "name": "T. Honda",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "ex4-11",
+      "name": "Team Magma's Rhydon",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "11",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/11",
+      "types": [
+        "Fighting",
+        "Darkness"
+      ],
+      "illustrator": "T. Honda"
+    },
+    {
+      "id": "ex4-16",
+      "name": "Team Aqua's Sealeo",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/16",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "T. Honda"
+    },
+    {
+      "id": "ex4-22",
+      "name": "Team Magma's Rhydon",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/22",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "T. Honda"
+    },
+    {
+      "id": "ex4-31",
+      "name": "Team Aqua's Sealeo",
+      "set": "ex4",
+      "setName": "Team Magma vs Team Aqua",
+      "number": "31",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex4/31",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "T. Honda"
+    }
+  ]
+}

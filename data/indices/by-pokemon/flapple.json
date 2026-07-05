@@ -1,0 +1,110 @@
+{
+  "name": "Flapple",
+  "totalCards": 8,
+  "cards": [
+    {
+      "id": "sv08-139",
+      "name": "Flapple",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "139",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/139",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "GOTO minori"
+    },
+    {
+      "id": "sv08-210",
+      "name": "Flapple",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "210",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/210",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Uninori"
+    },
+    {
+      "id": "swsh10-TG02",
+      "name": "Flapple",
+      "set": "swsh10",
+      "setName": "Astral Radiance",
+      "number": "TG02",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10/TG02",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh2-22",
+      "name": "Flapple",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "22",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/22",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh4.5-SV013",
+      "name": "Flapple",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV013",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV013",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "swsh7-120",
+      "name": "Flapple",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "120",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/120",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swshp-SWSH022",
+      "name": "Flapple",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH022",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH022",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "swshp-SWSH189",
+      "name": "Flapple",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH189",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH189",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": null
+    }
+  ]
+}

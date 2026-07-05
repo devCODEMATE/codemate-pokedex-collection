@@ -1,0 +1,409 @@
+{
+  "name": "Dsuke",
+  "totalCards": 31,
+  "cards": [
+    {
+      "id": "A3a-084",
+      "name": "Tapu Koko ex",
+      "set": "A3a",
+      "setName": "Extradimensional Crisis",
+      "number": "084",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3a/084",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "A4a-002",
+      "name": "Skiploom",
+      "set": "A4a",
+      "setName": "Secluded Springs",
+      "number": "002",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4a/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "B2-018",
+      "name": "Alolan Marowak",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "018",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/018",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "B2-159",
+      "name": "Buzzwole",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "159",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/159",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "B2a-021",
+      "name": "Chi-Yu",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "021",
+      "rarity": "Three Diamond",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "me01-092",
+      "name": "Grafaiai",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "092",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/092",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "me02.5-014",
+      "name": "Cascoon",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "014",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/014",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "me02.5-132",
+      "name": "Galarian Obstagoon",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "132",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/132",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "me02.5-224",
+      "name": "Salazzle",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "224",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/224",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "me02.5-227",
+      "name": "Snorunt",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "227",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/227",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "me02-050",
+      "name": "Gliscor",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "050",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02/050",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "me02-081",
+      "name": "Zigzagoon",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "081",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02/081",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "me03-045",
+      "name": "Tyrantrum",
+      "set": "me03",
+      "setName": "Perfect Order",
+      "number": "045",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me03/045",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv05-001",
+      "name": "Scyther",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "001",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/001",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv06-084",
+      "name": "Farigiraf",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "084",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/084",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv06-122",
+      "name": "Aggron",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "122",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/122",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv06-184",
+      "name": "Lairon",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "184",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/184",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv07-044",
+      "name": "Drednaw",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "044",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/044",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv07-152",
+      "name": "Milcery",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "152",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/152",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv08.5-002",
+      "name": "Exeggutor",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "002",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv08-123",
+      "name": "Alolan Dugtrio",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "123",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/123",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv08-131",
+      "name": "Gholdengo",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "131",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/131",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv09-008",
+      "name": "Maractus",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "008",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/008",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv09-080",
+      "name": "Larvitar",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "080",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/080",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv10.5b-142",
+      "name": "Pawniard",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "142",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/142",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv10.5w-049",
+      "name": "Sawk",
+      "set": "sv10.5w",
+      "setName": "White Flare",
+      "number": "049",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5w/049",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv10-043",
+      "name": "Heat Rotom",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "043",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/043",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "sv10-147",
+      "name": "Team Rocket's Rattata",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "147",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/147",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "svp-057",
+      "name": "Chi-Yu",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "057",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/057",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "svp-185",
+      "name": "Yanma",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "185",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/185",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Dsuke"
+    },
+    {
+      "id": "svp-187",
+      "name": "Yanmega",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "187",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/187",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Dsuke"
+    }
+  ]
+}

@@ -1,0 +1,1208 @@
+{
+  "name": "TOKIYA",
+  "totalCards": 94,
+  "cards": [
+    {
+      "id": "bw11-19",
+      "name": "Charizard",
+      "set": "bw11",
+      "setName": "Legendary Treasures",
+      "number": "19",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw11/19",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "bw11-69",
+      "name": "Gothita",
+      "set": "bw11",
+      "setName": "Legendary Treasures",
+      "number": "69",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw11/69",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "bw5-17",
+      "name": "Blaziken",
+      "set": "bw5",
+      "setName": "Dark Explorers",
+      "number": "17",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw5/17",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "bw5-60",
+      "name": "Umbreon",
+      "set": "bw5",
+      "setName": "Dark Explorers",
+      "number": "60",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw5/60",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "bw7-117",
+      "name": "Lopunny",
+      "set": "bw7",
+      "setName": "Boundaries Crossed",
+      "number": "117",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw7/117",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "bw7-6",
+      "name": "Tangrowth",
+      "set": "bw7",
+      "setName": "Boundaries Crossed",
+      "number": "6",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw7/6",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "bw9-82",
+      "name": "Dragonair",
+      "set": "bw9",
+      "setName": "Plasma Freeze",
+      "number": "82",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw9/82",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "col1-17",
+      "name": "Ninetales",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "17",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/col/col1/17",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "col1-64",
+      "name": "Mawile",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/col/col1/64",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "col1-75",
+      "name": "Vulpix",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "75",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/col/col1/75",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "dc1-14",
+      "name": "Team Magma's Aggron",
+      "set": "dc1",
+      "setName": "Double Crisis",
+      "number": "14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/dc1/14",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "dc1-17",
+      "name": "Team Magma's Poochyena",
+      "set": "dc1",
+      "setName": "Double Crisis",
+      "number": "17",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/dc1/17",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "dv1-13",
+      "name": "Axew",
+      "set": "dv1",
+      "setName": "Dragon Vault",
+      "number": "13",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/dv1/13",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "g1-56",
+      "name": "Dodrio",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "56",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/g1/56",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "hgss1-37",
+      "name": "Corsola",
+      "set": "hgss1",
+      "setName": "HeartGold SoulSilver",
+      "number": "37",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss1/37",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "hgss1-7",
+      "name": "Ninetales",
+      "set": "hgss1",
+      "setName": "HeartGold SoulSilver",
+      "number": "7",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss1/7",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "hgss1-87",
+      "name": "Vulpix",
+      "set": "hgss1",
+      "setName": "HeartGold SoulSilver",
+      "number": "87",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss1/87",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "hgss3-18",
+      "name": "Metagross",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "18",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/18",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "hgss3-30",
+      "name": "Metang",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "30",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/30",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "hgss3-43",
+      "name": "Beldum",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "43",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/43",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "hgss3-56",
+      "name": "Mawile",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "56",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/56",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "hgss4-20",
+      "name": "Electivire",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "20",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/20",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "hgss4-21",
+      "name": "Elekid",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/21",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "hgss4-33",
+      "name": "Electabuzz",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "33",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/33",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "hgssp-HGSS22",
+      "name": "Porygon",
+      "set": "hgssp",
+      "setName": "HGSS Black Star Promos",
+      "number": "HGSS22",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "hgssp-HGSS23",
+      "name": "Porygon2",
+      "set": "hgssp",
+      "setName": "HGSS Black Star Promos",
+      "number": "HGSS23",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "pl4-2",
+      "name": "Froslass",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "2",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/2",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "pl4-78",
+      "name": "Treecko",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "78",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/78",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "pl4-AR9",
+      "name": "Arceus",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "AR9",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/AR9",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm10-211",
+      "name": "Koga’s Trap",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "211",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/211",
+      "types": null,
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm11-190",
+      "name": "Channeler",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "190",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/190",
+      "types": null,
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm11-20",
+      "name": "Dhelmise",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "20",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/20",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm11-232",
+      "name": "Channeler",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "232",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/232",
+      "types": null,
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm115-55",
+      "name": "Brock’s Training",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "55",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/55",
+      "types": null,
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm115-63",
+      "name": "Misty’s Water Command",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "63",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/63",
+      "types": null,
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm115-64",
+      "name": "Pokémon Center Lady",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "64",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/64",
+      "types": null,
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm115-67",
+      "name": "Giovanni’s Exile",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "67",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/67",
+      "types": null,
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm1-25",
+      "name": "Torracat",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "25",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/25",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm1-43",
+      "name": "Crabominable",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "43",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/43",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm1-99",
+      "name": "Kangaskhan",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "99",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/99",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm2-15",
+      "name": "Salandit",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "15",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/15",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm2-20",
+      "name": "Alolan Sandslash",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "20",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/20",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm2-3",
+      "name": "Victreebel",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "3",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm2-56",
+      "name": "Oricorio",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "56",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/56",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm2-72",
+      "name": "Pancham",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "72",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/72",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm3.5-14",
+      "name": "Reshiram",
+      "set": "sm3.5",
+      "setName": "Shining Legends",
+      "number": "14",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm3.5-18",
+      "name": "Totodile",
+      "set": "sm3.5",
+      "setName": "Shining Legends",
+      "number": "18",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm3.5-55",
+      "name": "Hoopa",
+      "set": "sm3.5",
+      "setName": "Shining Legends",
+      "number": "55",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm3-108",
+      "name": "Bouffalant",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "108",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/108",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm3-78",
+      "name": "Mudsdale",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "78",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/78",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm3-94",
+      "name": "Diancie",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "94",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/94",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm4-109",
+      "name": "Gladion",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "109",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/109",
+      "types": null,
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm4-17",
+      "name": "Magikarp",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "17",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/17",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm4-54",
+      "name": "Gastrodon",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "54",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/54",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm4-65",
+      "name": "Aron",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "65",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/65",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm5-156",
+      "name": "Volkner",
+      "set": "sm5",
+      "setName": "Ultra Prism",
+      "number": "156",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm5/156",
+      "types": null,
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm7.5-47",
+      "name": "Kyurem",
+      "set": "sm7.5",
+      "setName": "Dragon Majesty",
+      "number": "47",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm7-132",
+      "name": "Hau",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "132",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/132",
+      "types": null,
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm7-95",
+      "name": "Metagross",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "95",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/95",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "smp-SM116",
+      "name": "Xurkitree",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM116",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM116",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "smp-SM142",
+      "name": "Kyurem",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM142",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM142",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "smp-SM18",
+      "name": "Alolan Sandslash",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM18",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM18",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "smp-SM19",
+      "name": "Oricorio",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM19",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM19",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "smp-SM27",
+      "name": "Turtonator",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM27",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM27",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "swsh2-102",
+      "name": "Galarian Runerigus",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "102",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/102",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "swsh2-69",
+      "name": "Toxtricity",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "69",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/69",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy10-30",
+      "name": "Spoink",
+      "set": "xy10",
+      "setName": "Fates Collide",
+      "number": "30",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/30",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy10-36",
+      "name": "Diglett",
+      "set": "xy10",
+      "setName": "Fates Collide",
+      "number": "36",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/36",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy10-78",
+      "name": "Lugia",
+      "set": "xy10",
+      "setName": "Fates Collide",
+      "number": "78",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/78",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy10-81",
+      "name": "Loudred",
+      "set": "xy10",
+      "setName": "Fates Collide",
+      "number": "81",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/81",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy11-44",
+      "name": "Nidorino",
+      "set": "xy11",
+      "setName": "Steam Siege",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy11/44",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy11-94",
+      "name": "Fletchling",
+      "set": "xy11",
+      "setName": "Steam Siege",
+      "number": "94",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy11/94",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy3-52",
+      "name": "Hariyama",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "52",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/52",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy3-57",
+      "name": "Mienshao",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/57",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy4-26",
+      "name": "Joltik",
+      "set": "xy4",
+      "setName": "Phantom Forces",
+      "number": "26",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy4/26",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy4-57",
+      "name": "Liepard",
+      "set": "xy4",
+      "setName": "Phantom Forces",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy4/57",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy5-101",
+      "name": "Mr. Mime",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "101",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/101",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy5-45",
+      "name": "Spheal",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "45",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/45",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy5-77",
+      "name": "Rhyperior",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "77",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/77",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy5-95",
+      "name": "Probopass",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "95",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/95",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy6-57",
+      "name": "Salamence",
+      "set": "xy6",
+      "setName": "Roaring Skies",
+      "number": "57",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy6/57",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy6-81",
+      "name": "Unfezant",
+      "set": "xy6",
+      "setName": "Roaring Skies",
+      "number": "81",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy6/81",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy7-21",
+      "name": "Gyarados",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "21",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/21",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy7-54",
+      "name": "Gardevoir",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "54",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/54",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy7-66",
+      "name": "Porygon-Z",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "66",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/66",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy8-117",
+      "name": "Dodrio",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "117",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/117",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy8-94",
+      "name": "Yveltal",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "94",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/94",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy9-70",
+      "name": "Garchomp",
+      "set": "xy9",
+      "setName": "BREAKpoint",
+      "number": "70",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy9/70",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xy9-73",
+      "name": "Shiftry",
+      "set": "xy9",
+      "setName": "BREAKpoint",
+      "number": "73",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy9/73",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xyp-XY163",
+      "name": "Weezing",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY163",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY163",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xyp-XY164",
+      "name": "Volcanion",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY164",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY164",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xyp-XY185",
+      "name": "Volcanion",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY185",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY185",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xyp-XY60",
+      "name": "Gyarados",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY60",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY60",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "xyp-XY77",
+      "name": "Dialga",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY77",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY77",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    }
+  ]
+}

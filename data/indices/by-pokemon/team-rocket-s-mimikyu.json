@@ -1,0 +1,45 @@
+{
+  "name": "Team Rocket's Mimikyu",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "me02.5-097",
+      "name": "Team Rocket's Mimikyu",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "097",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/097",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "me02.5-238",
+      "name": "Team Rocket's Mimikyu",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "238",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/238",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "sv10-087",
+      "name": "Team Rocket's Mimikyu",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "087",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/087",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DOM"
+    }
+  ]
+}

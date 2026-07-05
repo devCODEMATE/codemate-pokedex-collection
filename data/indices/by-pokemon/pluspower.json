@@ -1,0 +1,105 @@
+{
+  "name": "PlusPower",
+  "totalCards": 9,
+  "cards": [
+    {
+      "id": "base1-84",
+      "name": "PlusPower",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "84",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base1/84",
+      "types": null,
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "base4-113",
+      "name": "PlusPower",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "113",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base4/113",
+      "types": null,
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "bw1-96",
+      "name": "PlusPower",
+      "set": "bw1",
+      "setName": "Black & White",
+      "number": "96",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw1/96",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "dp1-109",
+      "name": "PlusPower",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "109",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/109",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "dp3-121",
+      "name": "PlusPower",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "121",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/121",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "hgss2-80",
+      "name": "PlusPower",
+      "set": "hgss2",
+      "setName": "Unleashed",
+      "number": "80",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss2/80",
+      "types": null,
+      "illustrator": "Takashi Yamaguchi"
+    },
+    {
+      "id": "pl1-112",
+      "name": "PlusPower",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "112",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/112",
+      "types": null,
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "tk-bw-e-16",
+      "name": "PlusPower",
+      "set": "tk-bw-e",
+      "setName": "BW trainer Kit (Excadrill)",
+      "number": "16",
+      "rarity": "None",
+      "image": null,
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "tk-bw-z-11",
+      "name": "PlusPower",
+      "set": "tk-bw-z",
+      "setName": "BW trainer Kit (Zoroark)",
+      "number": "11",
+      "rarity": "None",
+      "image": null,
+      "types": null,
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "name": "Golurk",
+  "totalCards": 17,
+  "cards": [
+    {
+      "id": "A1-136",
+      "name": "Golurk",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "136",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/136",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "B1-136",
+      "name": "Golurk",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "136",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/136",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "bw10-46",
+      "name": "Golurk",
+      "set": "bw10",
+      "setName": "Plasma Blast",
+      "number": "46",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw10/46",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "bw3-72",
+      "name": "Golurk",
+      "set": "bw3",
+      "setName": "Noble Victories",
+      "number": "72",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw3/72",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "bw6-59",
+      "name": "Golurk",
+      "set": "bw6",
+      "setName": "Dragons Exalted",
+      "number": "59",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw6/59",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "bw7-150",
+      "name": "Golurk",
+      "set": "bw7",
+      "setName": "Boundaries Crossed",
+      "number": "150",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw7/150",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm12-90",
+      "name": "Golurk",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "90",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/90",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ayaka Yoshida"
+    },
+    {
+      "id": "sm3.5-44",
+      "name": "Golurk",
+      "set": "sm3.5",
+      "setName": "Shining Legends",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sv05-088",
+      "name": "Golurk",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "088",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/088",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Oku"
+    },
+    {
+      "id": "sv10.5b-043",
+      "name": "Golurk",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "043",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/043",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "sv10.5b-123",
+      "name": "Golurk",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "123",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/123",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shinya Mizuno"
+    },
+    {
+      "id": "swsh3-77",
+      "name": "Golurk",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "77",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/77",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "swsh6-66",
+      "name": "Golurk",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "66",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/66",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "swsh9-083",
+      "name": "Golurk",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "083",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/083",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy3-43",
+      "name": "Golurk",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "43",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/43",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA"
+    },
+    {
+      "id": "xy7-35",
+      "name": "Golurk",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "35",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/35",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "xy7-41",
+      "name": "Golurk",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "41",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/41",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Suwama Chiaki"
+    }
+  ]
+}

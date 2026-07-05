@@ -1,0 +1,28 @@
+{
+  "name": "Professor Elm",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "bog-3",
+      "name": "Professor Elm",
+      "set": "bog",
+      "setName": "Best of game",
+      "number": "3",
+      "rarity": "None",
+      "image": null,
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "neo1-96",
+      "name": "Professor Elm",
+      "set": "neo1",
+      "setName": "Neo Genesis",
+      "number": "96",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/neo/neo1/96",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

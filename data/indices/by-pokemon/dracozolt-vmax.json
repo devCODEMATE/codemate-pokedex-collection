@@ -1,0 +1,32 @@
+{
+  "name": "Dracozolt VMAX",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "swsh7-210",
+      "name": "Dracozolt VMAX",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "210",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/210",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh7-59",
+      "name": "Dracozolt VMAX",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "59",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/59",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

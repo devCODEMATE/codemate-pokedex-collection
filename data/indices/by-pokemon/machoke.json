@@ -1,0 +1,357 @@
+{
+  "name": "Machoke",
+  "totalCards": 27,
+  "cards": [
+    {
+      "id": "A1-144",
+      "name": "Machoke",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "144",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/144",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "A2b-038",
+      "name": "Machoke",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "038",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/038",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "A3-224",
+      "name": "Machoke",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "224",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/224",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "B2-080",
+      "name": "Machoke",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "080",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/080",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "base1-34",
+      "name": "Machoke",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base1/34",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base4-49",
+      "name": "Machoke",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "49",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base4/49",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "bw10-48",
+      "name": "Machoke",
+      "set": "bw10",
+      "setName": "Plasma Blast",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw10/48",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "dp1-53",
+      "name": "Machoke",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "53",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/53",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "dp7-41",
+      "name": "Machoke",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "41",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/41",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "ecard1-85",
+      "name": "Machoke",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "85",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/85",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shin-ichi Yoshida"
+    },
+    {
+      "id": "ecard3-38",
+      "name": "Machoke",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "38",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/38",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hisao Nakamura"
+    },
+    {
+      "id": "ex12-39",
+      "name": "Machoke",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "39",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/39",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "ex16-33",
+      "name": "Machoke",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "33",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/33",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ex5-41",
+      "name": "Machoke",
+      "set": "ex5",
+      "setName": "Hidden Legends",
+      "number": "41",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex5/41",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "g1-41",
+      "name": "Machoke",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "41",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/g1/41",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "hgss4-40",
+      "name": "Machoke",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "40",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/40",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "lc-51",
+      "name": "Machoke",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "51",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/lc/lc/51",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "sm2-64",
+      "name": "Machoke",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "64",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/64",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv03.5-067",
+      "name": "Machoke",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "067",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/067",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "sv03.5-177",
+      "name": "Machoke",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "177",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/177",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Tetsu Kayama"
+    },
+    {
+      "id": "swsh11-087",
+      "name": "Machoke",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "087",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/087",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh3.5-25",
+      "name": "Machoke",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "25",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/25",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "tk-dp-l-4",
+      "name": "Machoke",
+      "set": "tk-dp-l",
+      "setName": "DP trainer Kit (Lucario)",
+      "number": "4",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "tk-xy-latio-14",
+      "name": "Machoke",
+      "set": "tk-xy-latio",
+      "setName": "XY trainer Kit (Latios)",
+      "number": "14",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "tk-xy-latio-22",
+      "name": "Machoke",
+      "set": "tk-xy-latio",
+      "setName": "XY trainer Kit (Latios)",
+      "number": "22",
+      "rarity": "Uncommon",
+      "image": null,
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy12-58",
+      "name": "Machoke",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "58",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/58",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "xy3-45",
+      "name": "Machoke",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "45",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/45",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

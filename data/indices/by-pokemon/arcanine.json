@@ -1,0 +1,435 @@
+{
+  "name": "Arcanine",
+  "totalCards": 33,
+  "cards": [
+    {
+      "id": "A1-040",
+      "name": "Arcanine",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "040",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/040",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "A3-026",
+      "name": "Arcanine",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "026",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/026",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "A3a-090",
+      "name": "Arcanine",
+      "set": "A3a",
+      "setName": "Extradimensional Crisis",
+      "number": "090",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3a/090",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Saya Tsuruta"
+    },
+    {
+      "id": "B1-029",
+      "name": "Arcanine",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "029",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/029",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "base1-23",
+      "name": "Arcanine",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "23",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base1/23",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base4-33",
+      "name": "Arcanine",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "33",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base4/33",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "basep-6",
+      "name": "Arcanine",
+      "set": "basep",
+      "setName": "Wizards Black Star Promos",
+      "number": "6",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/basep/6",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "bw4-12",
+      "name": "Arcanine",
+      "set": "bw4",
+      "setName": "Next Destinies",
+      "number": "12",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw4/12",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "bw4-13",
+      "name": "Arcanine",
+      "set": "bw4",
+      "setName": "Next Destinies",
+      "number": "13",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw4/13",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryo Ueda"
+    },
+    {
+      "id": "det1-6",
+      "name": "Arcanine",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "6",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/det1/6",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "MPC Film"
+    },
+    {
+      "id": "dp3-22",
+      "name": "Arcanine",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/22",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ecard2-2",
+      "name": "Arcanine",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "2",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/2",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ecard2-H02",
+      "name": "Arcanine",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "H02",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ecard3-3",
+      "name": "Arcanine",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "3",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/3",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "ecard3-H02",
+      "name": "Arcanine",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "H02",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "ex2-15",
+      "name": "Arcanine",
+      "set": "ex2",
+      "setName": "Sandstorm",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex2/15",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex6-18",
+      "name": "Arcanine",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "18",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/18",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "hgss1-1",
+      "name": "Arcanine",
+      "set": "hgss1",
+      "setName": "HeartGold SoulSilver",
+      "number": "1",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss1/1",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "lc-36",
+      "name": "Arcanine",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "36",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/lc/lc/36",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "mfb-14",
+      "name": "Arcanine",
+      "set": "mfb",
+      "setName": "My First Battle",
+      "number": "14",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "nisimana"
+    },
+    {
+      "id": "pl2-1",
+      "name": "Arcanine",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "1",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/1",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "pl3-50",
+      "name": "Arcanine",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/50",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm10-22",
+      "name": "Arcanine",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/22",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "sm1-22",
+      "name": "Arcanine",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/22",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sv03.5-059",
+      "name": "Arcanine",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "059",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/059",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Atsushi Furusawa"
+    },
+    {
+      "id": "sv10-028",
+      "name": "Arcanine",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "028",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/028",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Nisota Niso"
+    },
+    {
+      "id": "svp-011",
+      "name": "Arcanine",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "011",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/011",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "swsh12-020",
+      "name": "Arcanine",
+      "set": "swsh12",
+      "setName": "Silver Tempest",
+      "number": "020",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12/020",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh2-28",
+      "name": "Arcanine",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "28",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/28",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hasuno"
+    },
+    {
+      "id": "swsh8-33",
+      "name": "Arcanine",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "33",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/33",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "tk-ex-m-1",
+      "name": "Arcanine",
+      "set": "tk-ex-m",
+      "setName": "EX trainer Kit 2 (Minun)",
+      "number": "1",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "xy12-18",
+      "name": "Arcanine",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "18",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/18",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "xy9-11",
+      "name": "Arcanine",
+      "set": "xy9",
+      "setName": "BREAKpoint",
+      "number": "11",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy9/11",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "match"
+    }
+  ]
+}

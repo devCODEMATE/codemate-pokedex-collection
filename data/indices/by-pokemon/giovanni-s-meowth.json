@@ -1,0 +1,32 @@
+{
+  "name": "Giovanni's Meowth",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym2-43",
+      "name": "Giovanni's Meowth",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "43",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/43",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "gym2-74",
+      "name": "Giovanni's Meowth",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "74",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/74",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

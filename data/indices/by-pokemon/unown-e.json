@@ -1,0 +1,32 @@
+{
+  "name": "Unown E",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "dp2-65",
+      "name": "Unown E",
+      "set": "dp2",
+      "setName": "Mysterious Treasures",
+      "number": "65",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp2/65",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Daisuke Ito"
+    },
+    {
+      "id": "neo2-67",
+      "name": "Unown [E]",
+      "set": "neo2",
+      "setName": "Neo Discovery",
+      "number": "67",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/neo/neo2/67",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "CR CG gangs"
+    }
+  ]
+}

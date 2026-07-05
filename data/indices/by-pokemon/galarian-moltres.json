@@ -1,0 +1,45 @@
+{
+  "name": "Galarian Moltres",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh7-93",
+      "name": "Galarian Moltres",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "93",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/93",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kazuma Koda"
+    },
+    {
+      "id": "swshp-SWSH125",
+      "name": "Galarian Moltres",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH125",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH125",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swshp-SWSH284",
+      "name": "Galarian Moltres",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH284",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shinji Kanda"
+    }
+  ]
+}

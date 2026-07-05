@@ -1,0 +1,45 @@
+{
+  "name": "Lillie's Ribombee",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv09-067",
+      "name": "Lillie's Ribombee",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "067",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/067",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "sv09-164",
+      "name": "Lillie's Ribombee",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "164",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/164",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "saino misaki"
+    },
+    {
+      "id": "svp-183",
+      "name": "Lillie's Ribombee",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "183",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/183",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "tono"
+    }
+  ]
+}

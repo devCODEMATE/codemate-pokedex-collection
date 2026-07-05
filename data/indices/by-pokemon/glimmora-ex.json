@@ -1,0 +1,45 @@
+{
+  "name": "Glimmora ex",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv03-123",
+      "name": "Glimmora ex",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "123",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/123",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sv03-213",
+      "name": "Glimmora ex",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "213",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/213",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sv04.5-218",
+      "name": "Glimmora ex",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "218",
+      "rarity": "Shiny Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/218",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

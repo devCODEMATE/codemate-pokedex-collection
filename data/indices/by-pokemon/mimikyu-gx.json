@@ -1,0 +1,45 @@
+{
+  "name": "Mimikyu GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm8-149",
+      "name": "Mimikyu GX",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "149",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/149",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm8-206",
+      "name": "Mimikyu GX",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "206",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/206",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm8-226",
+      "name": "Mimikyu GX",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "226",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/226",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Morty",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "A4a-071",
+      "name": "Morty",
+      "set": "A4a",
+      "setName": "Secluded Springs",
+      "number": "071",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4a/071",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "A4a-085",
+      "name": "Morty",
+      "set": "A4a",
+      "setName": "Secluded Springs",
+      "number": "085",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4a/085",
+      "types": null,
+      "illustrator": "Teeziro"
+    },
+    {
+      "id": "sm8-186",
+      "name": "Morty",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "186",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/186",
+      "types": null,
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "sm8-212",
+      "name": "Morty",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "212",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/212",
+      "types": null,
+      "illustrator": "Sanosuke Sakuma"
+    }
+  ]
+}

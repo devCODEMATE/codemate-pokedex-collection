@@ -1,0 +1,32 @@
+{
+  "name": "zig",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv01-094",
+      "name": "Dedenne",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "094",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/094",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "zig"
+    },
+    {
+      "id": "sv01-208",
+      "name": "Pachirisu",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "208",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/208",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "zig"
+    }
+  ]
+}

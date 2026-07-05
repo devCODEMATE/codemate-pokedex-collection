@@ -1,0 +1,729 @@
+{
+  "name": "Taira Akitsu",
+  "totalCards": 59,
+  "cards": [
+    {
+      "id": "A1-224",
+      "name": "Brock",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "224",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/224",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "A1-231",
+      "name": "Rapidash",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "231",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/231",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "A1-232",
+      "name": "Squirtle",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "232",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/232",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "A3a-069",
+      "name": "Lusamine",
+      "set": "A3a",
+      "setName": "Extradimensional Crisis",
+      "number": "069",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3a/069",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "A3a-083",
+      "name": "Lusamine",
+      "set": "A3a",
+      "setName": "Extradimensional Crisis",
+      "number": "083",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3a/083",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "A4-205",
+      "name": "Espeon ex",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "205",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/205",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "B1-043",
+      "name": "Chandelure",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "043",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/043",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "me01-039",
+      "name": "Sobble",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "039",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/039",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "me02.5-110",
+      "name": "Cynthia's Gabite",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "110",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/110",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "me02-022",
+      "name": "Dewgong",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "022",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02/022",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "me02-097",
+      "name": "Dewgong",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "097",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me02/097",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "P-A-094",
+      "name": "Horsea",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "094",
+      "rarity": "One Diamond",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv01-002",
+      "name": "Heracross",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "002",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/002",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv01-089",
+      "name": "Drifloon",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "089",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/089",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv02-007",
+      "name": "Tropius",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "007",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/007",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv02-010",
+      "name": "Snover",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "010",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/010",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv03.5-054",
+      "name": "Psyduck",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "054",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/054",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv03.5-055",
+      "name": "Golduck",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "055",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/055",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv04.5-116",
+      "name": "Slowpoke",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "116",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/116",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv04.5-128",
+      "name": "Frigibax",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "128",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/128",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv04-065",
+      "name": "Galvantula",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "065",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/065",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv04-200",
+      "name": "Mienshao",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "200",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/200",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv05-145",
+      "name": "Ciphermaniac's Codebreaking",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "145",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/145",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv05-198",
+      "name": "Ciphermaniac's Codebreaking",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "198",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/198",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv06.5-059",
+      "name": "Janine's Secret Art",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "059",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/059",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv06.5-088",
+      "name": "Janine's Secret Art",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "088",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/088",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv06-050",
+      "name": "Milotic",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "050",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/050",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv08.5-104",
+      "name": "Ciphermaniac's Codebreaking",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "104",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/104",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv08.5-112",
+      "name": "Janine's Secret Art",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "112",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/112",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv08-178",
+      "name": "Jasmine's Gaze",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "178",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/178",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv08-233",
+      "name": "Jasmine's Gaze",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "233",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/233",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv09-155",
+      "name": "Professor's Research",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "155",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/155",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv10.5b-085",
+      "name": "Professor's Research",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "085",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/085",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv10.5w-106",
+      "name": "Dewott",
+      "set": "sv10.5w",
+      "setName": "White Flare",
+      "number": "106",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5w/106",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "sv10-103",
+      "name": "Cynthia's Gabite",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "103",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/103",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "svp-168",
+      "name": "Vaporeon",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "168",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/168",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "svp-223",
+      "name": "Professor's Research",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "223",
+      "rarity": "None",
+      "image": null,
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh1-22",
+      "name": "Vulpix",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "22",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/22",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh1-83",
+      "name": "Gastly",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "83",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/83",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh2-3",
+      "name": "Butterfree",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "3",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/3",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh2-33",
+      "name": "Chandelure",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "33",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/33",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh3.5-49",
+      "name": "Altaria",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "49",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/49",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh3.5-7",
+      "name": "Victini",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "7",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/7",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh3-149",
+      "name": "Swanna",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "149",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/149",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh4.5-20",
+      "name": "Horsea",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "20",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/20",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh4-39",
+      "name": "Drednaw",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "39",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/39",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh5-160",
+      "name": "Korrina's Focus",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "160",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/160",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh5-174",
+      "name": "Korrina's Focus",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "174",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/174",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh5-77",
+      "name": "Mienshao",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "77",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/77",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh6-195",
+      "name": "Melony",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "195",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/195",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh6-218",
+      "name": "Melony",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "218",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/218",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh6-31",
+      "name": "Weavile",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "31",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/31",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh7-164",
+      "name": "Zinnia's Resolve",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "164",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/164",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh7-203",
+      "name": "Zinnia's Resolve",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "203",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/203",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh7-212",
+      "name": "Sylveon VMAX",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "212",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/212",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh7-225",
+      "name": "Zinnia's Resolve",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "225",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/225",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh8-216",
+      "name": "Hawlucha",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "216",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/216",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh8-224",
+      "name": "Adventurer's Discovery",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "224",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/224",
+      "types": null,
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swshp-SWSH037",
+      "name": "Hydreigon",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH037",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH037",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Taira Akitsu"
+    }
+  ]
+}

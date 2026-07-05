@@ -1,0 +1,58 @@
+{
+  "name": "Charizard & Braixen GX",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "sm12-212",
+      "name": "Charizard & Braixen GX",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "212",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/212",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm12-22",
+      "name": "Charizard & Braixen GX",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "22",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/22",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sm12-251",
+      "name": "Charizard & Braixen GX",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "251",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/251",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "smp-SM230",
+      "name": "Charizard & Braixen GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM230",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": null
+    }
+  ]
+}

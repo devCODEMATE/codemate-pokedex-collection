@@ -1,0 +1,45 @@
+{
+  "name": "Brute Bonnet",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv04-123",
+      "name": "Brute Bonnet",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "123",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/123",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv04-207",
+      "name": "Brute Bonnet",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "207",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/207",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "sv06-118",
+      "name": "Brute Bonnet",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "118",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/118",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "danciao"
+    }
+  ]
+}

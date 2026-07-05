@@ -1,0 +1,84 @@
+{
+  "name": "Veluza",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2a-031",
+      "name": "Veluza",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "031",
+      "rarity": "One Diamond",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "sv02-056",
+      "name": "Veluza",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "056",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/056",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Anesaki Dynamic"
+    },
+    {
+      "id": "sv04.5-125",
+      "name": "Veluza",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "125",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/125",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Nelnal"
+    },
+    {
+      "id": "sv04-054",
+      "name": "Veluza",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "054",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/054",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "sv04-192",
+      "name": "Veluza",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "192",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/192",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "sv07-045",
+      "name": "Veluza",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "045",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/045",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "GOTO minori"
+    }
+  ]
+}

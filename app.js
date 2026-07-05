@@ -50,6 +50,8 @@ function initApp() {
   document.getElementById('binder-add-page-btn').addEventListener('click', handleAddPage);
 
   wireBuscadorGlobalEvents();
+  wireCardDetailGlobalEvents();
+  wireEditBinderGlobalEvents();
 
   renderLibrary();
   goToView('library');

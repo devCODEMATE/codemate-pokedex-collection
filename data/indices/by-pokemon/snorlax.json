@@ -1,0 +1,604 @@
+{
+  "name": "Snorlax",
+  "totalCards": 46,
+  "cards": [
+    {
+      "id": "A1-211",
+      "name": "Snorlax",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "211",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/211",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "A1-250",
+      "name": "Snorlax",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "250",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/250",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "A2a-063",
+      "name": "Snorlax",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "063",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/063",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "burari"
+    },
+    {
+      "id": "base2-11",
+      "name": "Snorlax",
+      "set": "base2",
+      "setName": "Jungle",
+      "number": "11",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base2/11",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base2-27",
+      "name": "Snorlax",
+      "set": "base2",
+      "setName": "Jungle",
+      "number": "27",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base2/27",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "base4-30",
+      "name": "Snorlax",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "30",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/base/base4/30",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "basep-49",
+      "name": "Snorlax",
+      "set": "basep",
+      "setName": "Wizards Black Star Promos",
+      "number": "49",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/basep/49",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Craig Turvey"
+    },
+    {
+      "id": "bw7-109",
+      "name": "Snorlax",
+      "set": "bw7",
+      "setName": "Boundaries Crossed",
+      "number": "109",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw7/109",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "bw8-101",
+      "name": "Snorlax",
+      "set": "bw8",
+      "setName": "Plasma Storm",
+      "number": "101",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw8/101",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "col1-33",
+      "name": "Snorlax",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "33",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/col/col1/33",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kent Kanetsuna"
+    },
+    {
+      "id": "dp1-37",
+      "name": "Snorlax",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "37",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/37",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ecard3-100",
+      "name": "Snorlax",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "100",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/100",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Naoyo Kimura"
+    },
+    {
+      "id": "ex15-10",
+      "name": "Snorlax δ",
+      "set": "ex15",
+      "setName": "Dragon Frontiers",
+      "number": "10",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex15/10",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "ex6-15",
+      "name": "Snorlax",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/15",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "g1-58",
+      "name": "Snorlax",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "58",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/g1/58",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "lc-64",
+      "name": "Snorlax",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "64",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/lc/lc/64",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "me03-063",
+      "name": "Snorlax",
+      "set": "me03",
+      "setName": "Perfect Order",
+      "number": "063",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me03/063",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "P-A-049",
+      "name": "Snorlax",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "049",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/tcgp/P-A/049",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "okayamatakatoshi"
+    },
+    {
+      "id": "pl2-111",
+      "name": "Snorlax",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "111",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/111",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shizurow"
+    },
+    {
+      "id": "pl2-33",
+      "name": "Snorlax",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "33",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/33",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "pl2-81",
+      "name": "Snorlax",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "81",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/81",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sm10-158",
+      "name": "Snorlax",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "158",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/158",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kanahei"
+    },
+    {
+      "id": "sm115-50",
+      "name": "Snorlax",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "50",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/50",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "sv03.5-143",
+      "name": "Snorlax",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "143",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/143",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "sv04.5-202",
+      "name": "Snorlax",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "202",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/202",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "sv06-136",
+      "name": "Snorlax",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "136",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/136",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "sv08-144",
+      "name": "Snorlax",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "144",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/144",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ounishi"
+    },
+    {
+      "id": "svp-051",
+      "name": "Snorlax",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "051",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/051",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "GOSSAN"
+    },
+    {
+      "id": "svp-122",
+      "name": "Snorlax",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "122",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/122",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Po-Suzuki"
+    },
+    {
+      "id": "swsh10.5-055",
+      "name": "Snorlax",
+      "set": "swsh10.5",
+      "setName": "Pokémon GO",
+      "number": "055",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/055",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh11-143",
+      "name": "Snorlax",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "143",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/143",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh1-140",
+      "name": "Snorlax",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "140",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/140",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "swsh11-TG10",
+      "name": "Snorlax",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "TG10",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/TG10",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh12.5-109",
+      "name": "Snorlax",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "109",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/109",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh2-141",
+      "name": "Snorlax",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "141",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/141",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Eri Yamaki"
+    },
+    {
+      "id": "swsh4-131",
+      "name": "Snorlax",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "131",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/131",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "swsh6-224",
+      "name": "Snorlax",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "224",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/224",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Saki Hayashiro"
+    },
+    {
+      "id": "swsh8-206",
+      "name": "Snorlax",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "206",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/206",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Oswaldo KATO"
+    },
+    {
+      "id": "swshp-SWSH032",
+      "name": "Snorlax",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH032",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH032",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Tika Matsuno"
+    },
+    {
+      "id": "swshp-SWSH068",
+      "name": "Snorlax",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH068",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH068",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Narumi Sato"
+    },
+    {
+      "id": "swshp-SWSH119",
+      "name": "Snorlax",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH119",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH119",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Yuya Oka"
+    },
+    {
+      "id": "xy0-26",
+      "name": "Snorlax",
+      "set": "xy0",
+      "setName": "Kalos Starter Set",
+      "number": "26",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xy0/26",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "xy10-77",
+      "name": "Snorlax",
+      "set": "xy10",
+      "setName": "Fates Collide",
+      "number": "77",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy10/77",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "xy2-80",
+      "name": "Snorlax",
+      "set": "xy2",
+      "setName": "Flashfire",
+      "number": "80",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy2/80",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "xy8-118",
+      "name": "Snorlax",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "118",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/118",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "xyp-XY179",
+      "name": "Snorlax",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY179",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY179",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

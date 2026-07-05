@@ -1,0 +1,45 @@
+{
+  "name": "Galarian Runerigus",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh2-102",
+      "name": "Galarian Runerigus",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "102",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/102",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "swsh4.5-SV066",
+      "name": "Galarian Runerigus",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV066",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV066",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "swsh6-83",
+      "name": "Galarian Runerigus",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "83",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/83",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    }
+  ]
+}

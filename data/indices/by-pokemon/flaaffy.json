@@ -1,0 +1,383 @@
+{
+  "name": "Flaaffy",
+  "totalCards": 29,
+  "cards": [
+    {
+      "id": "2022swsh-9",
+      "name": "Flaaffy",
+      "set": "2022swsh",
+      "setName": "McDonald's Collection 2022",
+      "number": "9",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "A4-068",
+      "name": "Flaaffy",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "068",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/068",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "B1-083",
+      "name": "Flaaffy",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "083",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/083",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "bw6-39",
+      "name": "Flaaffy",
+      "set": "bw6",
+      "setName": "Dragons Exalted",
+      "number": "39",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw6/39",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "col1-43",
+      "name": "Flaaffy",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "43",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/col/col1/43",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "dp3-50",
+      "name": "Flaaffy",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/50",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "ecard1-77",
+      "name": "Flaaffy",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "77",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/77",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "ecard2-47",
+      "name": "Flaaffy",
+      "set": "ecard2",
+      "setName": "Aquapolis",
+      "number": "47",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard2/47",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shin-ichi Yoshida"
+    },
+    {
+      "id": "ex10-56",
+      "name": "Flaaffy",
+      "set": "ex10",
+      "setName": "Unseen Forces",
+      "number": "56",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex10/56",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex15-30",
+      "name": "Flaaffy δ",
+      "set": "ex15",
+      "setName": "Dragon Frontiers",
+      "number": "30",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex15/30",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Yuka Morii"
+    },
+    {
+      "id": "ex3-27",
+      "name": "Flaaffy",
+      "set": "ex3",
+      "setName": "Dragon",
+      "number": "27",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex3/27",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "hgss1-42",
+      "name": "Flaaffy",
+      "set": "hgss1",
+      "setName": "HeartGold SoulSilver",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss1/42",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "me04-028",
+      "name": "Flaaffy",
+      "set": "me04",
+      "setName": "Chaos Rising",
+      "number": "028",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me04/028",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "miki kudo"
+    },
+    {
+      "id": "neo1-34",
+      "name": "Flaaffy",
+      "set": "neo1",
+      "setName": "Neo Genesis",
+      "number": "34",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/neo/neo1/34",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "neo3-28",
+      "name": "Flaaffy",
+      "set": "neo3",
+      "setName": "Neo Revelation",
+      "number": "28",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/neo/neo3/28",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "pl1-48",
+      "name": "Flaaffy",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/48",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "pop7-7",
+      "name": "Flaaffy",
+      "set": "pop7",
+      "setName": "POP Series 7",
+      "number": "7",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pop/pop7/7",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sm8-77",
+      "name": "Flaaffy",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "77",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/77",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sm9-42",
+      "name": "Flaaffy",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/42",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "sv01-067",
+      "name": "Flaaffy",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "067",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/067",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Kurata So"
+    },
+    {
+      "id": "svp-015",
+      "name": "Flaaffy",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "015",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/015",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "0313"
+    },
+    {
+      "id": "svp-108",
+      "name": "Flaaffy",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "108",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/108",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "swsh12-TG03",
+      "name": "Flaaffy",
+      "set": "swsh12",
+      "setName": "Silver Tempest",
+      "number": "TG03",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG03",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh3-56",
+      "name": "Flaaffy",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "56",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/56",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "swsh6-48",
+      "name": "Flaaffy",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/48",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "swsh7-55",
+      "name": "Flaaffy",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "55",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/55",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "swsh8-280",
+      "name": "Flaaffy",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "280",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/280",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Studio Bora Inc."
+    },
+    {
+      "id": "swshp-SWSH122",
+      "name": "Flaaffy",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH122",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH122",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Pani Kobayashi"
+    },
+    {
+      "id": "xy11-39",
+      "name": "Flaaffy",
+      "set": "xy11",
+      "setName": "Steam Siege",
+      "number": "39",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy11/39",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "MAHOU"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Toxtricity VMAX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh2-196",
+      "name": "Toxtricity VMAX",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "196",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/196",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh2-71",
+      "name": "Toxtricity VMAX",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "71",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/71",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh4.5-SV113",
+      "name": "Toxtricity VMAX",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV113",
+      "rarity": "Shiny rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV113",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

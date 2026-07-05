@@ -1,0 +1,84 @@
+{
+  "name": "Chesnaught",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2-010",
+      "name": "Chesnaught",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "010",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/010",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "me04-007",
+      "name": "Chesnaught",
+      "set": "me04",
+      "setName": "Chaos Rising",
+      "number": "007",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me04/007",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Uta"
+    },
+    {
+      "id": "xy0-5",
+      "name": "Chesnaught",
+      "set": "xy0",
+      "setName": "Kalos Starter Set",
+      "number": "5",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xy0/5",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "xy1-14",
+      "name": "Chesnaught",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy1/14",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "xy8-11",
+      "name": "Chesnaught",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "11",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/11",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "xyp-XY68",
+      "name": "Chesnaught",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY68",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

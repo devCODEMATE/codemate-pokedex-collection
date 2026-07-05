@@ -1,0 +1,45 @@
+{
+  "name": "Corviknight VMAX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "swsh12-TG19",
+      "name": "Corviknight VMAX",
+      "set": "swsh12",
+      "setName": "Silver Tempest",
+      "number": "TG19",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12/TG19",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh5-110",
+      "name": "Corviknight VMAX",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "110",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/110",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "PLANETA Mochizuki"
+    },
+    {
+      "id": "swsh5-171",
+      "name": "Corviknight VMAX",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "171",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/171",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "PLANETA Mochizuki"
+    }
+  ]
+}

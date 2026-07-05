@@ -1,0 +1,383 @@
+{
+  "name": "Mawile",
+  "totalCards": 29,
+  "cards": [
+    {
+      "id": "A1-178",
+      "name": "Mawile",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "178",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/178",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "A2a-056",
+      "name": "Mawile",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "056",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/056",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "tetsuya koizumi"
+    },
+    {
+      "id": "A3b-047",
+      "name": "Mawile",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "047",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/047",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "A4-125",
+      "name": "Mawile",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "125",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/125",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "B2-112",
+      "name": "Mawile",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "112",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/112",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "bw9-80",
+      "name": "Mawile",
+      "set": "bw9",
+      "setName": "Plasma Freeze",
+      "number": "80",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw9/80",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "col1-64",
+      "name": "Mawile",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/col/col1/64",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "dp4-24",
+      "name": "Mawile",
+      "set": "dp4",
+      "setName": "Great Encounters",
+      "number": "24",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/dp/dp4/24",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ex13-23",
+      "name": "Mawile",
+      "set": "ex13",
+      "setName": "Holon Phantoms",
+      "number": "23",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex13/23",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "ex14-9",
+      "name": "Mawile",
+      "set": "ex14",
+      "setName": "Crystal Guardians",
+      "number": "9",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex14/9",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "ex16-17",
+      "name": "Mawile",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "17",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/17",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ex2-9",
+      "name": "Mawile",
+      "set": "ex2",
+      "setName": "Sandstorm",
+      "number": "9",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex2/9",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "hgss3-56",
+      "name": "Mawile",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "56",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/56",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "me02.5-144",
+      "name": "Mawile",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "144",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/144",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "CHORISO"
+    },
+    {
+      "id": "me02.5-246",
+      "name": "Mawile",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "246",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/246",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "me03-032",
+      "name": "Mawile",
+      "set": "me03",
+      "setName": "Perfect Order",
+      "number": "032",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me03/032",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "pl3-33",
+      "name": "Mawile",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "33",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/33",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "sm12-140",
+      "name": "Mawile",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "140",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/140",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "sm4-64",
+      "name": "Mawile",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "64",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/64",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "tetsuya koizumi"
+    },
+    {
+      "id": "sm7-91",
+      "name": "Mawile",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "91",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/91",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "sv03-089",
+      "name": "Mawile",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "089",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/089",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "0313"
+    },
+    {
+      "id": "sv03-143",
+      "name": "Mawile",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "143",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/143",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "sv05-112",
+      "name": "Mawile",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "112",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/112",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "aspara"
+    },
+    {
+      "id": "svp-039",
+      "name": "Mawile",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "039",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/039",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "swsh11-071",
+      "name": "Mawile",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "071",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/071",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh1-129",
+      "name": "Mawile",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "129",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/129",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "swsh5-100",
+      "name": "Mawile",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "100",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/100",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "swsh8-119",
+      "name": "Mawile",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "119",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/119",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "xy9-78",
+      "name": "Mawile",
+      "set": "xy9",
+      "setName": "BREAKpoint",
+      "number": "78",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy9/78",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Kouki Saitou"
+    }
+  ]
+}

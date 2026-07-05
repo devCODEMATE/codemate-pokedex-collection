@@ -1,0 +1,7581 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW01",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW01",
+    "localId": "BW01",
+    "name": "Snivy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      495
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Slam",
+        "effect": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+        "damage": "20x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW02",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW02",
+    "localId": "BW02",
+    "name": "Tepig",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      498
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "description": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Ember",
+        "effect": "Discard an Energy attached to this Pokémon.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW03",
+    "illustrator": "Ken Sugimori",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW03",
+    "localId": "BW03",
+    "name": "Oshawott",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      501
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Water Pulse",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW04",
+    "illustrator": "5ban Graphics",
+    "localId": "BW04",
+    "name": "Reshiram",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      643
+    ],
+    "hp": 130,
+    "types": [
+      "Fire"
+    ],
+    "description": "This Pokémon appears in legends. It sends flames into the air from its tail, burning up everything around it.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Outrage",
+        "effect": "Does 10 more damage for each damage counter on this Pokémon.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Blue Flare",
+        "effect": "Discard 2 Fire Energy attached to this Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW05",
+    "illustrator": "5ban Graphics",
+    "localId": "BW05",
+    "name": "Zekrom",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      644
+    ],
+    "hp": 130,
+    "types": [
+      "Lightning"
+    ],
+    "description": "This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Outrage",
+        "effect": "Does 10 more damage for each damage counter on this Pokémon.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Bolt Strike",
+        "effect": "This Pokémon does 40 damage to itself.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW06",
+    "illustrator": "Shizurow",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW06",
+    "localId": "BW06",
+    "name": "Snivy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      495
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Paralyzing Gaze",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Tail Smack",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW07",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW07",
+    "localId": "BW07",
+    "name": "Tepig",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      498
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "description": "It can deftly dodge its foe's attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Singe",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Firebreathing",
+        "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW08",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW08",
+    "localId": "BW08",
+    "name": "Oshawott",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      501
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "The scalchop on its stomach is made from the same elements as claws. It detaches the scalchop for use as a blade.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Sleep Pulse",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Surprise Attack",
+        "effect": "Flip a coin. If tails, this attack does nothing.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW09",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW09",
+    "localId": "BW09",
+    "name": "Zoroark",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      571
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Zorua",
+    "description": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Nasty Plot",
+        "effect": "Search your deck for a card and put it into your hand. Shuffle your deck afterward."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Foul Play",
+        "effect": "Choose 1 of the Defending Pokémon's attacks and use it as this attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW10",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW10",
+    "localId": "BW10",
+    "name": "Axew",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      610
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "description": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Dragon Rage",
+        "effect": "Flip 2 coins. If either of them is tails, this attack does nothing.",
+        "damage": 50
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "bwp-BW100",
+    "illustrator": "Yusuke Ohmura",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW100",
+    "localId": "BW100",
+    "name": "N",
+    "rarity": "Uncommon",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Each player shuffles his or her hand into his or her deck. Then, each player draws a card for each of his or her remaining Prize cards. You may play only 1 Supporter card during your turn (before your attack).",
+    "trainerType": "Supporter",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW101",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW101",
+    "localId": "BW101",
+    "name": "Genesect",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      649
+    ],
+    "hp": 110,
+    "types": [
+      "Grass"
+    ],
+    "description": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Hyper Beam",
+        "effect": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Breaker Bazooka",
+        "effect": "Discard all Grass Energy attached to this Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW11",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW11",
+    "localId": "BW11",
+    "name": "Pansage",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      511
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "It shares the leaf on its head with weary-looking Pokémon. These leaves are know to relieve stress.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Bullet Seed",
+        "effect": "Flip 4 coins. This attack does 10 damage times the number of heads.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW12",
+    "illustrator": "Tomokazu Komiya",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW12",
+    "localId": "BW12",
+    "name": "Zorua",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      570
+    ],
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "description": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Jump On",
+        "effect": "Flip a coin. If heads, this attack does 10 more damage.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW13",
+    "illustrator": "Atsuko Nishida",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW13",
+    "localId": "BW13",
+    "name": "Minccino",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      572
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "description": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Gnaw",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Tail Smack",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW14",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW14",
+    "localId": "BW14",
+    "name": "Pansage",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      511
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Bullet Seed",
+        "effect": "Flip 4 coins. This attack does 10 damage times the number of heads.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW15",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW15",
+    "localId": "BW15",
+    "name": "Pidove",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      519
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "description": "Each follows its Trainer's orders as best it can, but they sometimes fail to understand complicated commands.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Gust",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW16",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW16",
+    "localId": "BW16",
+    "name": "Axew",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      610
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "description": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Dragon Rage",
+        "effect": "Flip 2 coins. If either of them is tails, this attack does nothing.",
+        "damage": 50
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW17",
+    "illustrator": "Kagemaru Himeno",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW17",
+    "localId": "BW17",
+    "name": "Ducklett",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      580
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Water Gun",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW18",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW18",
+    "localId": "BW18",
+    "name": "Darumaka",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      554
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "description": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Searing Flame",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Burned.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW19",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW19",
+    "localId": "BW19",
+    "name": "Zoroark",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      571
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Zorua",
+    "description": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Punishment",
+        "effect": "If the Defending Pokémon is a Stage 2 Pokémon, this attack does 20 more damage.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Snarl",
+        "effect": "During your opponent's next turn, damage from the Defending Pokémon attacks is reduced by 20.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW20",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW20",
+    "localId": "BW20",
+    "name": "Serperior",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      497
+    ],
+    "hp": 130,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Servine",
+    "description": "They raise their heads to intimidate opponents but only give their all when fighting a powerful opponent.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Royal Heal",
+        "effect": "At any time between turns, heal 10 damage from each of your Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Leaf Tornado",
+        "effect": "Move as many Grass Energy attached to your Pokémon to your other Pokémon in any way you like.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW21",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW21",
+    "localId": "BW21",
+    "name": "Emboar",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      500
+    ],
+    "hp": 150,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Pignite",
+    "description": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Inferno Fandango",
+        "effect": "As often as you like during your turn (before your attack), you may attach a Fire Energy card from your hand to 1 of your Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Heat Crash",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW22",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW22",
+    "localId": "BW22",
+    "name": "Samurott",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      503
+    ],
+    "hp": 140,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Dewott",
+    "description": "Part of the armor on its anterior legs becomes a giant sword. Its cry alone is enough to intimidate most enemies.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Shell Armor",
+        "effect": "Any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Hydro Pump",
+        "effect": "Does 10 more damage for each Water Energy attached to this Pokémon.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW23",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW23",
+    "localId": "BW23",
+    "name": "Reshiram",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      643
+    ],
+    "hp": 130,
+    "types": [
+      "Fire"
+    ],
+    "description": "This Pokémon appears in legends. It sends flames into the air from its tail, burning up everything around it.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Outrage",
+        "effect": "Does 10 more damage for each damage counter on this Pokémon.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Blue Flare",
+        "effect": "Discard 2 Fire Energy attached to this Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW24",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW24",
+    "localId": "BW24",
+    "name": "Zekrom",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      644
+    ],
+    "hp": 130,
+    "types": [
+      "Lightning"
+    ],
+    "description": "This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Outrage",
+        "effect": "Does 10 more damage for each damage counter on this Pokémon.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Bolt Strike",
+        "effect": "This Pokémon does 40 damage to itself.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW25",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW25",
+    "localId": "BW25",
+    "name": "Scraggy",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      559
+    ],
+    "hp": 50,
+    "types": [
+      "Darkness"
+    ],
+    "description": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Paralyzing Gaze",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "High Jump Kick",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW26",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW26",
+    "localId": "BW26",
+    "name": "Axew",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      610
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "description": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Big Bite",
+        "effect": "The Defending Pokémon can't retreat during your opponent's next turn.",
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW27",
+    "illustrator": "Atsuko Nishida",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW27",
+    "localId": "BW27",
+    "name": "Litwick",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      607
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "description": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Call for Family",
+        "effect": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Will-O-Wisp",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "bwp-BW28",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW28",
+    "localId": "BW28",
+    "name": "Tropical Beach",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Once during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends. This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.",
+    "trainerType": "Stadium",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "bwp-BW29",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW29",
+    "localId": "BW29",
+    "name": "Victory Cup",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward. You may play as many Item cards as you like during your turn (before your attack).",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "bwp-BW30",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW30",
+    "localId": "BW30",
+    "name": "Victory Cup",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward. You may play as many Item cards as you like during your turn (before your attack).",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "bwp-BW31",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW31",
+    "localId": "BW31",
+    "name": "Victory Cup",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward. You may play as many Item cards as you like during your turn (before your attack).",
+    "trainerType": "Item",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW32",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW32",
+    "localId": "BW32",
+    "name": "Victini",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      494
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "description": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Victory Star",
+        "effect": "Once during your turn, after you flip any coins for an attack, you may ignore all effects of those coin flips and begin flipping those coins again. You can't use more than 1 Victory Star Ability each turn."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Stored Power",
+        "effect": "Move all Energy attached to this Pokémon to 1 of your Benched Pokémon.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW33",
+    "illustrator": "sui",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW33",
+    "localId": "BW33",
+    "name": "Riolu",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      447
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "description": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Run Around",
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "damage": "n/a"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Hook",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW34",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW34",
+    "localId": "BW34",
+    "name": "Luxio",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      404
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Shinx",
+    "description": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Dazzle Blast",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Random Spark",
+        "effect": "This attack does 40 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": "n/a"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW35",
+    "illustrator": "Sumiyoshi Kizuki",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW35",
+    "localId": "BW35",
+    "name": "Meowth",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      52
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "description": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Nap",
+        "effect": "Heal 20 damage from this Pokémon.",
+        "damage": "n/a"
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Jump On",
+        "effect": "Flip a coin. If heads, this attack does 10 more damage.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW36",
+    "illustrator": "Shizurow",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW36",
+    "localId": "BW36",
+    "name": "Reshiram-EX",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      643
+    ],
+    "hp": 180,
+    "types": [
+      "Fire"
+    ],
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Glinting Claw",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Brave Fire",
+        "effect": "Flip a coin. If tails, this Pokémon does 50 damage to itself.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-04-29T12:04:12+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW37",
+    "illustrator": "Shizurow",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW37",
+    "localId": "BW37",
+    "name": "Kyurem-EX",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      646
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Frozen Wings",
+        "effect": "Discard a Special Energy attached to the Defending Pokémon.",
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Hail Blizzard",
+        "effect": "This Pokémon can't use Hail Blizzard during your next turn.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-04-29T12:04:12+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW38",
+    "illustrator": "Shizurow",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW38",
+    "localId": "BW38",
+    "name": "Zekrom-EX",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      644
+    ],
+    "hp": 180,
+    "types": [
+      "Lightning"
+    ],
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Glinting Claw",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Strong Volt",
+        "effect": "Discard 2 Energy attached to this Pokémon.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-05-26T14:51:02+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "bwp-BW39",
+    "illustrator": "Hideaki Hakozaki",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW39",
+    "localId": "BW39",
+    "name": "Battle City",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Once during each player's turn, that player may flip a coin. If heads, the player draws a card. This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.",
+    "trainerType": "Stadium",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW40",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW40",
+    "localId": "BW40",
+    "name": "Volcarona",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      637
+    ],
+    "hp": 110,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Larvesta",
+    "description": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Scorching Scales",
+        "effect": "Put 4 damage counters instead of 2 on your opponent's Burned Pokémon between turns."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Burning Wind",
+        "effect": "You may discard an Energy attached to this Pokémon. If you do, the Defending Pokémon is now Burned.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW41",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW41",
+    "localId": "BW41",
+    "name": "Thundurus",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      642
+    ],
+    "hp": 110,
+    "types": [
+      "Lightning"
+    ],
+    "description": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Charge",
+        "effect": "Search your deck for a Lightning Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Disaster Volt",
+        "effect": "Discard an Energy attached to this Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW42",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW42",
+    "localId": "BW42",
+    "name": "Tornadus",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      641
+    ],
+    "hp": 110,
+    "types": [
+      "Colorless"
+    ],
+    "description": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Energy Wheel",
+        "effect": "Move an Energy from 1 of your Benched Pokémon to this Pokémon."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Hurricane",
+        "effect": "Move a basic Energy from this Pokémon to 1 of your Benched Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW43",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW43",
+    "localId": "BW43",
+    "name": "Landorus",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      645
+    ],
+    "hp": 110,
+    "types": [
+      "Fighting"
+    ],
+    "description": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Abundant Harvest",
+        "effect": "Attach a basic Energy card from your discard pile to this Pokémon."
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Gaia Hammer",
+        "effect": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW44",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW44",
+    "localId": "BW44",
+    "name": "Kyurem",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      646
+    ],
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "description": "It generates powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Outrage",
+        "effect": "Does 10 more damage for each damage counter on this Pokémon.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Glaciate",
+        "effect": "This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW45",
+    "illustrator": "Shizurow",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW45",
+    "localId": "BW45",
+    "name": "Mewtwo-EX",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      150
+    ],
+    "hp": 170,
+    "types": [
+      "Psychic"
+    ],
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "X Ball",
+        "effect": "Does 20 damage times the amount of Energy attached to this Pokémon and the Defending Pokémon.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Psydrive",
+        "effect": "Discard an Energy attached to this Pokémon.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-04-29T12:04:12+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW46",
+    "illustrator": "Shizurow",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW46",
+    "localId": "BW46",
+    "name": "Darkrai-EX",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      491
+    ],
+    "hp": 180,
+    "types": [
+      "Darkness"
+    ],
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Dark Cloak",
+        "effect": "Each of your Pokémon that has any Darkness Energy attached to it has no Retreat Cost."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Night Spear",
+        "effect": "Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-05-26T14:51:02+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW47",
+    "illustrator": "Eske Yoshinob",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW47",
+    "localId": "BW47",
+    "name": "Rayquaza-EX",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      384
+    ],
+    "hp": 170,
+    "types": [
+      "Dragon"
+    ],
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Celestial Roar",
+        "effect": "Discard the top 3 cards of your deck. If any of those cards are Energy cards, attach them to this Pokémon."
+      },
+      {
+        "cost": [
+          "Fire",
+          "Lightning"
+        ],
+        "name": "Dragon Burst",
+        "effect": "Discard all basic Fire Energy or all basic Lightning Energy attached to this Pokémon. This attack does 60 damage times the number of Energy cards you discarded.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-04-29T12:04:12+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW48",
+    "illustrator": "HiRON",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW48",
+    "localId": "BW48",
+    "name": "Altaria",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      334
+    ],
+    "hp": 70,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": "Swablu",
+    "description": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Fight Song",
+        "effect": "Your Dragon Pokémon's attacks do 20 more damage to the Active Pokémon (before applying Weakness and Resistance)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Metal",
+          "Colorless"
+        ],
+        "name": "Glide",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW49",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW49",
+    "localId": "BW49",
+    "name": "Lilligant",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      549
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Petilil",
+    "description": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Lead",
+        "effect": "Search your deck for a Supporter card, reveal it, and put it into your hand. Shuffle your deck afterward."
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Dream Dance",
+        "effect": "Both this Pokémon and the Defending Pokémon are now Asleep.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "bwp-BW50",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW50",
+    "localId": "BW50",
+    "name": "Tropical Beach",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Once during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends. This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.",
+    "trainerType": "Stadium",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW51",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW51",
+    "localId": "BW51",
+    "name": "Crobat",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      169
+    ],
+    "hp": 130,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Golbat",
+    "description": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Night Sight",
+        "effect": "Once during your turn (before your attack), you may draw a card."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Ultra-Toxic Fang",
+        "effect": "The Defending Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon between turns.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW52",
+    "illustrator": "Mizue",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW52",
+    "localId": "BW52",
+    "name": "Lillipup",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      506
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "description": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokémon flees.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Knock Away",
+        "effect": "Flip a coin. If heads, this attack does 10 more damage.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW53",
+    "illustrator": "BERUBURI",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW53",
+    "localId": "BW53",
+    "name": "Flygon",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      330
+    ],
+    "hp": 140,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": "Vibrava",
+    "description": "Known as \"The Desert Spirit,\" this Pokémon hides in the sandstorms it causes by beating its wings.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Sand Slammer",
+        "effect": "At any time between turns, if this Pokémon is your Active Pokémon, put 1 damage counter on each of your opponent's Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Flying Beatdown",
+        "effect": "You may discard a Grass Energy and a Fighting Energy attached to this Pokémon. If you do, the Defending Pokémon is now Paralyzed.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW54",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW54",
+    "localId": "BW54",
+    "name": "Pikachu",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "description": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Quick Attack",
+        "effect": "Flip a coin. If heads, this attack does 10 more damage.",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Electro Ball",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW55",
+    "illustrator": "Mizue",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW55",
+    "localId": "BW55",
+    "name": "Elgyem",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      605
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Weak Barrier",
+        "effect": "If this Pokémon has any Psychic Energy attached to it, this Pokémon has no Weakness."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Quick Blow",
+        "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW56",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW56",
+    "localId": "BW56",
+    "name": "Empoleon",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      395
+    ],
+    "hp": 140,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Prinplup",
+    "description": "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Fury Attack",
+        "effect": "Flip 3 coins. This attack does 30 damage times the number of heads.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Cold Crush",
+        "effect": "You may discard an Energy attached to this Pokémon. If you do, discard an Energy attached to the Defending Pokémon.",
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW57",
+    "illustrator": "kawayoo",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW57",
+    "localId": "BW57",
+    "name": "Haxorus",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      612
+    ],
+    "hp": 140,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": "Fraxure",
+    "description": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": "Armor Press",
+        "effect": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Metal",
+          "Colorless"
+        ],
+        "name": "Dual Chop",
+        "effect": "Flip 2 coins. This attack does 90 damage times the number of heads.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW58",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW58",
+    "localId": "BW58",
+    "name": "Black Kyurem",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      646
+    ],
+    "hp": 130,
+    "types": [
+      "Dragon"
+    ],
+    "description": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Dual Claw",
+        "effect": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Flash Freeze",
+        "effect": "Discard an Energy attached to this Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW59",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW59",
+    "localId": "BW59",
+    "name": "White Kyurem",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      646
+    ],
+    "hp": 130,
+    "types": [
+      "Dragon"
+    ],
+    "description": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Damage Rush",
+        "effect": "Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Cold Fire",
+        "effect": "Flip a coin. If heads, this attack does 40 more damage.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW60",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW60",
+    "localId": "BW60",
+    "name": "Keldeo",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      647
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "description": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Swords Dance",
+        "effect": "During your next turn, this Pokémon's Aqua Blade attack's base damage is 120."
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Aqua Blade",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW61",
+    "illustrator": "Toyste Beach",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW61",
+    "localId": "BW61",
+    "name": "Keldeo-EX",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      647
+    ],
+    "hp": 170,
+    "types": [
+      "Water"
+    ],
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Rush In",
+        "effect": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may switch this Pokémon with your Active Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Secret Sword",
+        "effect": "Does 20 more damage for each Water Energy attached to this Pokémon.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-04-29T12:04:12+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW62",
+    "illustrator": "Eske Yoshinob",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW62",
+    "localId": "BW62",
+    "name": "Black Kyurem-EX",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      646
+    ],
+    "hp": 180,
+    "types": [
+      "Dragon"
+    ],
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Dragon Fang",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Water",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Freeze Shock",
+        "effect": "This Pokémon can't attack during your next turn.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-04-29T12:04:12+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW63",
+    "illustrator": "Eske Yoshinob",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW63",
+    "localId": "BW63",
+    "name": "White Kyurem-EX",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      646
+    ],
+    "hp": 180,
+    "types": [
+      "Dragon"
+    ],
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Dragon Stream",
+        "effect": "Flip a coin. If heads, attach a basic Energy card from your discard pile to this Pokémon.",
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Ice Burn",
+        "effect": "Discard 2 Fire Energy attached to this Pokémon. The Defending Pokémon is now Burned.",
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-04-29T12:04:12+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW64",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW64",
+    "localId": "BW64",
+    "name": "Drifblim",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      426
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Drifloon",
+    "description": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Shadow Steal",
+        "effect": "Does 50 damage times the number of Special Energy cards in your opponent's discard pile.",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Plentiful Placement",
+        "effect": "Put 4 damage counters on 1 of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW65",
+    "illustrator": "MAHOU",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW65",
+    "localId": "BW65",
+    "name": "Jigglypuff",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      39
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "description": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Continuous Tumble",
+        "effect": "Flip a coin until you get tails. This attack does 10 damage times the number of heads.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW66",
+    "illustrator": "Hideaki Hakozaki",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW66",
+    "localId": "BW66",
+    "name": "Ninetales",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      38
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Vulpix",
+    "description": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Bright Look",
+        "effect": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Hexed Flame",
+        "effect": "Does 50 more damage for each Special Condition affecting the Defending Pokémon.",
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW67",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW67",
+    "localId": "BW67",
+    "name": "Ampharos",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      181
+    ],
+    "hp": 140,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Flaaffy",
+    "description": "The tip of its tail shines brightly. In the olden days, people sent signals using the tail's light.",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Random Spark",
+        "effect": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Electricannon",
+        "effect": "You may discard all Lightning Energy attached to this Pokémon. If you do, this attack does 60 more damage.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW68",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW68",
+    "localId": "BW68",
+    "name": "Meloetta",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      648
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "description": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Sing",
+        "effect": "The Defending Pokémon is now Asleep."
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Psyburn",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW69",
+    "illustrator": "Shin Nagasawa",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW69",
+    "localId": "BW69",
+    "name": "Meloetta",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      648
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "description": "Many famous songs have been inspired by the melodies that Meloetta plays.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Smack",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Acrobatics",
+        "effect": "Flip 2 coins. This attack does 20 more damage for each heads.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW70",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW70",
+    "localId": "BW70",
+    "name": "Virizion",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      640
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "description": "This Pokémon fought humans in order to protect its friends. Legends about it continue to be passed down.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Justified",
+        "effect": "Each of this Pokémon's attacks does 50 more damage to Darkness Pokémon (before applying Weakness and Resistance)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Leaf Blade",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW71",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW71",
+    "localId": "BW71",
+    "name": "Terrakion",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      639
+    ],
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "description": "This Pokémon came to the defense of Pokémon that had lost their homes in a war among humans.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Justified",
+        "effect": "Each of this Pokémon's attacks does 50 more damage to Darkness Pokémon (before applying Weakness and Resistance)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Crushing Blow",
+        "effect": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW72",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW72",
+    "localId": "BW72",
+    "name": "Cobalion",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      638
+    ],
+    "hp": 120,
+    "types": [
+      "Metal"
+    ],
+    "description": "This legendary Pokémon battled against humans to protect Pokémon. Its personality is calm and composed.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Justified",
+        "effect": "Each of this Pokémon's attacks does 50 more damage to Darkness Pokémon (before applying Weakness and Resistance)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": "Iron Head",
+        "effect": "Flip a coin until you get tails. This attack does 20 more damage for each heads.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW73",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW73",
+    "localId": "BW73",
+    "name": "Darkrai",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      491
+    ],
+    "hp": 110,
+    "types": [
+      "Darkness"
+    ],
+    "description": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Hide in Shadows",
+        "effect": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Dark Hole",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW74",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW74",
+    "localId": "BW74",
+    "name": "Giratina",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      487
+    ],
+    "hp": 130,
+    "types": [
+      "Psychic"
+    ],
+    "description": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Hex",
+        "effect": "If the Defending Pokémon is affected by a Special Condition, this attack does 50 more damage.",
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Shadow Claw",
+        "effect": "Discard a random card from your opponent's hand.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW75",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW75",
+    "localId": "BW75",
+    "name": "Metagross",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      376
+    ],
+    "hp": 140,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Metang",
+    "description": "With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Plasma Search",
+        "effect": "Once during your turn (before your attack), you may search your deck for a Team Plasma card, reveal it, and put it into your hand. Shuffle your deck afterward. You may not use an Ability with the same name during your turn."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Mind Bend",
+        "effect": "The Defending Pokémon is now Confused.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW76",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW76",
+    "localId": "BW76",
+    "name": "Electrode",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      101
+    ],
+    "hp": 100,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Voltorb",
+    "description": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Electribeam",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Self Destruct",
+        "effect": "This Pokémon does 100 damage to itself.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW77",
+    "illustrator": "Mizue",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW77",
+    "localId": "BW77",
+    "name": "Pikachu",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "description": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Tail Whap",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Thundershock",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW78",
+    "illustrator": "Mizue",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW78",
+    "localId": "BW78",
+    "name": "Raichu",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      26
+    ],
+    "hp": 100,
+    "types": [
+      "Lightning"
+    ],
+    "description": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Quick Attack",
+        "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Thunder Blast",
+        "effect": "Discard an Energy attached to this Pokémon.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW79",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW79",
+    "localId": "BW79",
+    "name": "Landorus",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      645
+    ],
+    "hp": 110,
+    "types": [
+      "Fighting"
+    ],
+    "description": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Extrasensory",
+        "effect": "If you have the same number of cards in your hand as your opponent, this attack does 30 more damage.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Rock Tomb",
+        "effect": "The Defending Pokémon can't retreat during your opponent's next turn.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW80",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW80",
+    "localId": "BW80",
+    "name": "Druddigon",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      621
+    ],
+    "hp": 100,
+    "types": [
+      "Dragon"
+    ],
+    "description": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Taunt",
+        "effect": "Switch 1 of your opponent's Benched Pokémon with the Defending Pokémon."
+      },
+      {
+        "cost": [
+          "Fire",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Boost Claw",
+        "effect": "During your next turn, each of this Pokémon's attacks does 30 more damage (before applying Weakness and Resistance).",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW81",
+    "illustrator": "Eske Yoshinob",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW81",
+    "localId": "BW81",
+    "name": "Thundurus-EX",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      642
+    ],
+    "hp": 170,
+    "types": [
+      "Lightning"
+    ],
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Raiden Knuckle",
+        "effect": "Attach an Energy card from your discard pile to 1 of your Benched Team Plasma Pokémon.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Thunderous Noise",
+        "effect": "If this Pokémon has any Plasma Energy attached to it, discard an Energy attached to the Defending Pokémon.",
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-05-26T14:51:02+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW82",
+    "illustrator": "Eske Yoshinob",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW82",
+    "localId": "BW82",
+    "name": "Deoxys-EX",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      386
+    ],
+    "hp": 170,
+    "types": [
+      "Psychic"
+    ],
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Power Connect",
+        "effect": "Your Team Plasma Pokémon's attacks (excluding Deoxys-EX) do 10 more damage to the Active Pokémon (before applying Weakness and Resistance)."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Helix Force",
+        "effect": "If this Pokémon has any Plasma Energy attached to it, this attack does 30 more damage for each Energy attached to the Defending Pokémon.",
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-04-29T12:04:12+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW83",
+    "illustrator": "Toyste Beach",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW83",
+    "localId": "BW83",
+    "name": "Lugia-EX",
+    "rarity": "Rare",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      249
+    ],
+    "hp": 180,
+    "types": [
+      "Colorless"
+    ],
+    "suffix": "EX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Overflow",
+        "effect": "If your opponent's Pokémon is Knocked Out by damage from an attack of this Pokémon, take 1 more Prize card."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Plasma Gale",
+        "effect": "Discard a Plasma Energy attached to this Pokémon. If you can't discard a Plasma Energy, this attack does nothing.",
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-05-26T14:51:02+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW84",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW84",
+    "localId": "BW84",
+    "name": "Porygon-Z",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      474
+    ],
+    "hp": 130,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": "Porygon2",
+    "description": "Its programming was modified to enable work in alien dimensions. It did not work as planned.",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Plasma Transfer",
+        "effect": "As often as you like during your turn (before your attack), you may move a Plasma Energy attached to 1 of your Pokémon to another of your Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Tri Attack",
+        "effect": "Flip 3 coins. This attack does 50 damage times the number of heads.",
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW85",
+    "illustrator": "Masakazu Fukuda",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW85",
+    "localId": "BW85",
+    "name": "Lucario",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      448
+    ],
+    "hp": 100,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": "Riolu",
+    "description": "By reading the auras of all things, it can tell how others are feeling from over half a mile away.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Intuition",
+        "effect": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Fast Punch",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW86",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW86",
+    "localId": "BW86",
+    "name": "Genesect",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      649
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "description": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Signal Beam",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Overdrive Smash",
+        "effect": "During your next turn, this Pokémon's Overdrive Smash attack does 60 more damage (before applying Weakness and Resistance).",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW87",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW87",
+    "localId": "BW87",
+    "name": "Leafeon",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      470
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Quick Attack",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Energy Assist",
+        "effect": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW88",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW88",
+    "localId": "BW88",
+    "name": "Flareon",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      136
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Sand-Attack",
+        "effect": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Fire Slash",
+        "effect": "You may discard a Fire Energy attached to this Pokémon. If you do, this attack does 30 more damage.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW89",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW89",
+    "localId": "BW89",
+    "name": "Vaporeon",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      134
+    ],
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Muddy Water",
+        "effect": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Spiral Drain",
+        "effect": "Heal 20 damage from this Pokémon.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW90",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW90",
+    "localId": "BW90",
+    "name": "Glaceon",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      471
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Quick Attack",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Reflect Energy",
+        "effect": "Move an Energy from this Pokémon to 1 of your Benched Pokémon.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW91",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW91",
+    "localId": "BW91",
+    "name": "Jolteon",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      135
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "If agitated, it uses electricity to straighten out its fur and launch it in small bunches.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Electrigun",
+        "effect": "You may discard a Lightning Energy attached to this Pokémon. If you do, this attack does 40 more damage.",
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Pin Missile",
+        "effect": "Flip 4 coins. This attack does 40 damage times the number of heads.",
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW92",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW92",
+    "localId": "BW92",
+    "name": "Espeon",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      196
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Solar Revelation",
+        "effect": "Prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon that has any Energy attached to it."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Psy Report",
+        "effect": "Your opponent reveals his or her hand.",
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW93",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW93",
+    "localId": "BW93",
+    "name": "Umbreon",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      197
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": "Eevee",
+    "description": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Shadow Drain",
+        "effect": "Heal from this Pokémon the same amount of damage you did to the Defending Pokémon.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Slashing Strike",
+        "effect": "This Pokémon can't use Slashing Strike during your next turn.",
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW94",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW94",
+    "localId": "BW94",
+    "name": "Eevee",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "description": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Growl",
+        "effect": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Quick Attack",
+        "effect": "Flip a coin. If heads, this attack does 10 more damage.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Trainer",
+    "id": "bwp-BW95",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW95",
+    "localId": "BW95",
+    "name": "Champions Festival",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "effect": "Once during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon. This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.",
+    "trainerType": "Stadium",
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW96",
+    "illustrator": "Ryo Ueda",
+    "localId": "BW96",
+    "name": "Tornadus-EX",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      641
+    ],
+    "hp": 170,
+    "types": [
+      "Colorless"
+    ],
+    "suffix": "EX",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Blow Through",
+        "effect": "If there is any Stadium card in play, this attack does 30 more damage.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Power Blast",
+        "effect": "Flip a coin. If tails, discard an Energy attached to this Pokémon.",
+        "damage": 100
+      },
+      {
+        "name": "Pokémon EX Rule",
+        "effect": "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2021-05-26T14:51:02+02:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW97",
+    "illustrator": "Akira Komayama",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW97",
+    "localId": "BW97",
+    "name": "Eevee",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "description": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Growl",
+        "effect": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Quick Attack",
+        "effect": "Flip a coin. If heads, this attack does 10 more damage.",
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW98",
+    "illustrator": "Naoki Saito",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW98",
+    "localId": "BW98",
+    "name": "Mew",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      151
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Psyscan",
+        "effect": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may have your opponent reveal his or her hand."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Psychic Exchange",
+        "effect": "Shuffle your hand into your deck. Then, draw 6 cards."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "bwp-BW99",
+    "illustrator": "5ban Graphics",
+    "image": "https://assets.tcgdex.net/en/bw/bwp/BW99",
+    "localId": "BW99",
+    "name": "Genesect",
+    "rarity": "Common",
+    "set": {
+      "cardCount": {
+        "official": 101,
+        "total": 101
+      },
+      "id": "bwp",
+      "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+      "name": "BW Black Star Promos",
+      "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": false,
+      "normal": true,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "normal",
+        "size": "standard",
+        "variantId": "generated"
+      }
+    ],
+    "dexId": [
+      649
+    ],
+    "hp": 110,
+    "types": [
+      "Grass"
+    ],
+    "description": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Hyper Beam",
+        "effect": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Breaker Bazooka",
+        "effect": "Discard all Grass Energy attached to this Pokémon.",
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "legal": {
+      "standard": false,
+      "expanded": true
+    },
+    "updated": "2026-05-27T21:30:31+01:00",
+    "pricing": {
+      "cardmarket": null,
+      "tcgplayer": null
+    }
+  }
+]

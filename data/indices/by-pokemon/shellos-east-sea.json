@@ -1,0 +1,45 @@
+{
+  "name": "Shellos East Sea",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "dp3-106",
+      "name": "Shellos East Sea",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "106",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/106",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "dp5-73",
+      "name": "Shellos East Sea",
+      "set": "dp5",
+      "setName": "Majestic Dawn",
+      "number": "73",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp5/73",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "pl2-79",
+      "name": "Shellos East Sea",
+      "set": "pl2",
+      "setName": "Rising Rivals",
+      "number": "79",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl2/79",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    }
+  ]
+}

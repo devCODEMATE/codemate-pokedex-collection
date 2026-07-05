@@ -1,0 +1,370 @@
+{
+  "name": "Zubat",
+  "totalCards": 28,
+  "cards": [
+    {
+      "id": "A1-172",
+      "name": "Zubat",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "172",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/172",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "A2a-048",
+      "name": "Zubat",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "048",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/048",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "A4-107",
+      "name": "Zubat",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "107",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/107",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "base3-57",
+      "name": "Zubat",
+      "set": "base3",
+      "setName": "Fossil",
+      "number": "57",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base3/57",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "base5-70",
+      "name": "Zubat",
+      "set": "base5",
+      "setName": "Team Rocket",
+      "number": "70",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base5/70",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "bw8-52",
+      "name": "Zubat",
+      "set": "bw8",
+      "setName": "Plasma Storm",
+      "number": "52",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw8/52",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "bw8-53",
+      "name": "Zubat",
+      "set": "bw8",
+      "setName": "Plasma Storm",
+      "number": "53",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw8/53",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "dp2-108",
+      "name": "Zubat",
+      "set": "dp2",
+      "setName": "Mysterious Treasures",
+      "number": "108",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp2/108",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ecard3-117",
+      "name": "Zubat",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "117",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/117",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Hisao Nakamura"
+    },
+    {
+      "id": "ecard3-118",
+      "name": "Zubat",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "118",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/118",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex11-88",
+      "name": "Zubat",
+      "set": "ex11",
+      "setName": "Delta Species",
+      "number": "88",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex11/88",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "ex5-83",
+      "name": "Zubat",
+      "set": "ex5",
+      "setName": "Hidden Legends",
+      "number": "83",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex5/83",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ex7-82",
+      "name": "Zubat",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "82",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/82",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "ex8-83",
+      "name": "Zubat",
+      "set": "ex8",
+      "setName": "Deoxys",
+      "number": "83",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex8/83",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Sachiko Adachi"
+    },
+    {
+      "id": "g1-30",
+      "name": "Zubat",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "30",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/g1/30",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "match"
+    },
+    {
+      "id": "hgss2-70",
+      "name": "Zubat",
+      "set": "hgss2",
+      "setName": "Unleashed",
+      "number": "70",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss2/70",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "me04-049",
+      "name": "Zubat",
+      "set": "me04",
+      "setName": "Chaos Rising",
+      "number": "049",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me04/049",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mékayu"
+    },
+    {
+      "id": "neo3-59",
+      "name": "Zubat",
+      "set": "neo3",
+      "setName": "Neo Revelation",
+      "number": "59",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/neo/neo3/59",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "pl3-133",
+      "name": "Zubat",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "133",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/133",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm10-64",
+      "name": "Zubat",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/64",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "sm1-54",
+      "name": "Zubat",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "54",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/54",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Satoshi Shirai"
+    },
+    {
+      "id": "sv03.5-041",
+      "name": "Zubat",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "041",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/041",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Scav"
+    },
+    {
+      "id": "sv04-110",
+      "name": "Zubat",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "110",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/110",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "sv06.5-027",
+      "name": "Zubat",
+      "set": "sv06.5",
+      "setName": "Shrouded Fable",
+      "number": "027",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv06.5/027",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "osare"
+    },
+    {
+      "id": "swsh12-103",
+      "name": "Zubat",
+      "set": "swsh12",
+      "setName": "Silver Tempest",
+      "number": "103",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12/103",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh5-89",
+      "name": "Zubat",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "89",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/89",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Asako Ito"
+    },
+    {
+      "id": "tk-sm-r-11",
+      "name": "Zubat",
+      "set": "tk-sm-r",
+      "setName": "SM trainer Kit (Alolan Raichu)",
+      "number": "11",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy4-31",
+      "name": "Zubat",
+      "set": "xy4",
+      "setName": "Phantom Forces",
+      "number": "31",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy4/31",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "match"
+    }
+  ]
+}

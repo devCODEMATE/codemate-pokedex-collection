@@ -1,0 +1,39 @@
+{
+  "name": "Recycle Energy",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "neo1-105",
+      "name": "Recycle Energy",
+      "set": "neo1",
+      "setName": "Neo Genesis",
+      "number": "105",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/neo/neo1/105",
+      "types": null,
+      "illustrator": "Hideki Kazama"
+    },
+    {
+      "id": "sm11-212",
+      "name": "Recycle Energy",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "212",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/212",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm11-257",
+      "name": "Recycle Energy",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "257",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/257",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

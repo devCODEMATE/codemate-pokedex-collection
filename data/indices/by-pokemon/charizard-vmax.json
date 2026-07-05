@@ -1,0 +1,58 @@
+{
+  "name": "Charizard VMAX",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "swsh3.5-74",
+      "name": "Charizard VMAX",
+      "set": "swsh3.5",
+      "setName": "Champion's Path",
+      "number": "74",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3.5/74",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "aky CG Works"
+    },
+    {
+      "id": "swsh3-20",
+      "name": "Charizard VMAX",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "20",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/20",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "aky CG Works"
+    },
+    {
+      "id": "swsh4.5-SV107",
+      "name": "Charizard VMAX",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV107",
+      "rarity": "Shiny rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV107",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "aky CG Works"
+    },
+    {
+      "id": "swshp-SWSH261",
+      "name": "Charizard VMAX",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH261",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH261",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": null
+    }
+  ]
+}

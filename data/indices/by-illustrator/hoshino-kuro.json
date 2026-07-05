@@ -1,0 +1,32 @@
+{
+  "name": "Hoshino KURO",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv08-058",
+      "name": "Magnemite",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "058",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/058",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Hoshino KURO"
+    },
+    {
+      "id": "sv10.5b-101",
+      "name": "Panpour",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "101",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/101",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hoshino KURO"
+    }
+  ]
+}

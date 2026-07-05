@@ -1,0 +1,84 @@
+{
+  "name": "Po-Suzuki",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "me02.5-170",
+      "name": "Larry's Staraptor",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "170",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/170",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Po-Suzuki"
+    },
+    {
+      "id": "sv02-200",
+      "name": "Pyroar",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "200",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/200",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Po-Suzuki"
+    },
+    {
+      "id": "sv04-125",
+      "name": "Steelix",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "125",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/125",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Po-Suzuki"
+    },
+    {
+      "id": "sv08-060",
+      "name": "Magnezone",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "060",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/060",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Po-Suzuki"
+    },
+    {
+      "id": "sv10-012",
+      "name": "Crustle",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "012",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/012",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Po-Suzuki"
+    },
+    {
+      "id": "svp-122",
+      "name": "Snorlax",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "122",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/122",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Po-Suzuki"
+    }
+  ]
+}

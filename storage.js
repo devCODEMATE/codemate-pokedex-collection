@@ -90,6 +90,24 @@ function deleteBinder(id) {
   localStorage.removeItem(storageBinderKey(id));
 }
 
+/**
+ * Edita nombre/color de carpeta/color de folio de una carpeta ya existente.
+ * A propósito NO permite cambiar el tamaño: eso implicaría rearmar la
+ * grilla de todas las hojas ya creadas (y las cartas que ya pusiste ahí
+ * quedarían mal ubicadas). Si en algún momento hace falta, es una función
+ * aparte con su propia lógica de migración de slots.
+ */
+function updateBinderMeta(id, { name, coverColor, folioColor }) {
+  const index = getBindersIndex();
+  const entry = index.find((b) => b.id === id);
+  if (!entry) return null;
+  entry.name = name && name.trim() ? name.trim() : entry.name;
+  entry.coverColor = coverColor;
+  entry.folioColor = folioColor;
+  saveBindersIndex(index);
+  return entry;
+}
+
 /** Agrega una hoja más al final de la carpeta ("comprar repuestos") */
 function addPageToBinder(binderEntry) {
   const data = getBinderPages(binderEntry.id);

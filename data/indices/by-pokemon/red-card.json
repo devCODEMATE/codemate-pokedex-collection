@@ -1,0 +1,39 @@
+{
+  "name": "Red Card",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "g1-71",
+      "name": "Red Card",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "71",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/g1/71",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "P-A-006",
+      "name": "Red Card",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "006",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/tcgp/P-A/006",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "xy1-124",
+      "name": "Red Card",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "124",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy1/124",
+      "types": null,
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

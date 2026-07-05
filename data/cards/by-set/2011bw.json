@@ -1,0 +1,1376 @@
+[
+  {
+    "category": "Pokemon",
+    "id": "2011bw-1",
+    "illustrator": "Ken Sugimori",
+    "localId": "1",
+    "name": "Snivy",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "2011bw",
+      "name": "McDonald's Collection 2011"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.899Z",
+            "unit": "EUR",
+            "idProduct": 281790,
+            "avg": 1.87,
+            "low": 0.03,
+            "trend": 1.31,
+            "avg1": 0.15,
+            "avg7": 0.99,
+            "avg30": 2.4,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 1.13,
+            "avg1-holo": 0.5,
+            "avg7-holo": 0.84,
+            "avg30-holo": 0.88
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-07-02T22:58:50.997Z",
+            "holofoil": {
+              "productId": 89378,
+              "lowPrice": 2.71,
+              "midPrice": 4.9,
+              "highPrice": 40.4,
+              "marketPrice": 4.87,
+              "directLowPrice": null
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      495
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "description": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": "Slam",
+        "effect": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+        "damage": "20×"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.899Z",
+        "unit": "EUR",
+        "idProduct": 281790,
+        "avg": 1.87,
+        "low": 0.03,
+        "trend": 1.31,
+        "avg1": 0.15,
+        "avg7": 0.99,
+        "avg30": 2.4,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.13,
+        "avg1-holo": 0.5,
+        "avg7-holo": 0.84,
+        "avg30-holo": 0.88
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.997Z",
+        "holofoil": {
+          "productId": 89378,
+          "lowPrice": 2.71,
+          "midPrice": 4.9,
+          "highPrice": 40.4,
+          "marketPrice": 4.87,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2011bw-2",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "2",
+    "name": "Maractus",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "2011bw",
+      "name": "McDonald's Collection 2011"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.899Z",
+            "unit": "EUR",
+            "idProduct": 281791,
+            "avg": 2.09,
+            "low": 0.15,
+            "trend": 0.95,
+            "avg1": 0.18,
+            "avg7": 0.98,
+            "avg30": 2.14,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.35,
+            "avg1-holo": 0.15,
+            "avg7-holo": 0.43,
+            "avg30-holo": 0.65
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-07-02T22:58:50.997Z",
+            "holofoil": {
+              "productId": 87189,
+              "lowPrice": 2.29,
+              "midPrice": 6.43,
+              "highPrice": 80.2,
+              "marketPrice": 6.39,
+              "directLowPrice": 66.85
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      556
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "description": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": "Mega Drain",
+        "effect": "Heal 20 damage from this Pokémon.",
+        "damage": 20
+      },
+      {
+        "name": "Pin Missile",
+        "effect": "Flip 4 coins. This attack does 20 damage times the number of heads.",
+        "damage": "20×"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.899Z",
+        "unit": "EUR",
+        "idProduct": 281791,
+        "avg": 2.09,
+        "low": 0.15,
+        "trend": 0.95,
+        "avg1": 0.18,
+        "avg7": 0.98,
+        "avg30": 2.14,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.35,
+        "avg1-holo": 0.15,
+        "avg7-holo": 0.43,
+        "avg30-holo": 0.65
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.997Z",
+        "holofoil": {
+          "productId": 87189,
+          "lowPrice": 2.29,
+          "midPrice": 6.43,
+          "highPrice": 80.2,
+          "marketPrice": 6.39,
+          "directLowPrice": 66.85
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2011bw-3",
+    "illustrator": "Ken Sugimori",
+    "localId": "3",
+    "name": "Tepig",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "2011bw",
+      "name": "McDonald's Collection 2011"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.899Z",
+            "unit": "EUR",
+            "idProduct": 281792,
+            "avg": 1.92,
+            "low": 0.03,
+            "trend": 1.97,
+            "avg1": 1.99,
+            "avg7": 1.45,
+            "avg30": 1.66,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.77,
+            "avg1-holo": 0.2,
+            "avg7-holo": 0.68,
+            "avg30-holo": 0.8
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-07-02T22:58:50.997Z",
+            "holofoil": {
+              "productId": 89882,
+              "lowPrice": 3,
+              "midPrice": 6,
+              "highPrice": 109.82,
+              "marketPrice": 6.25,
+              "directLowPrice": 19.99
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      498
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "description": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": "Ember",
+        "effect": "Discard an Energy attached to this Pokémon.",
+        "damage": 30
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.899Z",
+        "unit": "EUR",
+        "idProduct": 281792,
+        "avg": 1.92,
+        "low": 0.03,
+        "trend": 1.97,
+        "avg1": 1.99,
+        "avg7": 1.45,
+        "avg30": 1.66,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.77,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.68,
+        "avg30-holo": 0.8
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.997Z",
+        "holofoil": {
+          "productId": 89882,
+          "lowPrice": 3,
+          "midPrice": 6,
+          "highPrice": 109.82,
+          "marketPrice": 6.25,
+          "directLowPrice": 19.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2011bw-4",
+    "illustrator": "Ken Sugimori",
+    "localId": "4",
+    "name": "Oshawott",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "2011bw",
+      "name": "McDonald's Collection 2011"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.557Z",
+            "unit": "EUR",
+            "idProduct": 281793,
+            "avg": 2.5,
+            "low": 0.1,
+            "trend": 3.19,
+            "avg1": 0.09,
+            "avg7": 2.72,
+            "avg30": 3.02,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.71,
+            "avg1-holo": 0.85,
+            "avg7-holo": 0.64,
+            "avg30-holo": 0.74
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-07-02T22:58:50.997Z",
+            "holofoil": {
+              "productId": 87893,
+              "lowPrice": 5.21,
+              "midPrice": 11.99,
+              "highPrice": 99.97,
+              "marketPrice": 11.19,
+              "directLowPrice": 99.97
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      501
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "description": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": "Water Pulse",
+        "effect": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+        "damage": 20
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.557Z",
+        "unit": "EUR",
+        "idProduct": 281793,
+        "avg": 2.5,
+        "low": 0.1,
+        "trend": 3.19,
+        "avg1": 0.09,
+        "avg7": 2.72,
+        "avg30": 3.02,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.71,
+        "avg1-holo": 0.85,
+        "avg7-holo": 0.64,
+        "avg30-holo": 0.74
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.997Z",
+        "holofoil": {
+          "productId": 87893,
+          "lowPrice": 5.21,
+          "midPrice": 11.99,
+          "highPrice": 99.97,
+          "marketPrice": 11.19,
+          "directLowPrice": 99.97
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2011bw-5",
+    "illustrator": "sui",
+    "localId": "5",
+    "name": "Alomomola",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "2011bw",
+      "name": "McDonald's Collection 2011"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.557Z",
+            "unit": "EUR",
+            "idProduct": 281794,
+            "avg": 1.65,
+            "low": 0.08,
+            "trend": 1.47,
+            "avg1": 2,
+            "avg7": 1.13,
+            "avg30": 1.6,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.86,
+            "avg1-holo": 0.65,
+            "avg7-holo": 0.84,
+            "avg30-holo": 0.71
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-07-02T22:58:50.997Z",
+            "holofoil": {
+              "productId": 83507,
+              "lowPrice": 2.4,
+              "midPrice": 3.66,
+              "highPrice": 50,
+              "marketPrice": 4.09,
+              "directLowPrice": null
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      594
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "description": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": "Pound",
+        "damage": 20
+      },
+      {
+        "name": "Wave Splash",
+        "damage": 60
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.557Z",
+        "unit": "EUR",
+        "idProduct": 281794,
+        "avg": 1.65,
+        "low": 0.08,
+        "trend": 1.47,
+        "avg1": 2,
+        "avg7": 1.13,
+        "avg30": 1.6,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.86,
+        "avg1-holo": 0.65,
+        "avg7-holo": 0.84,
+        "avg30-holo": 0.71
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.997Z",
+        "holofoil": {
+          "productId": 83507,
+          "lowPrice": 2.4,
+          "midPrice": 3.66,
+          "highPrice": 50,
+          "marketPrice": 4.09,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2011bw-6",
+    "illustrator": "Ken Sugimori",
+    "localId": "6",
+    "name": "Blitzle",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "2011bw",
+      "name": "McDonald's Collection 2011"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.899Z",
+            "unit": "EUR",
+            "idProduct": 281795,
+            "avg": 2.55,
+            "low": 0.09,
+            "trend": 1.58,
+            "avg1": 1.3,
+            "avg7": 1.21,
+            "avg30": 1.94,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.66,
+            "avg1-holo": 0.39,
+            "avg7-holo": 0.66,
+            "avg30-holo": 0.55
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-07-02T22:58:50.997Z",
+            "holofoil": {
+              "productId": 83929,
+              "lowPrice": 1.99,
+              "midPrice": 4.4,
+              "highPrice": 52.4,
+              "marketPrice": 4.12,
+              "directLowPrice": null
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      522
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "description": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+        "damage": "10+"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.899Z",
+        "unit": "EUR",
+        "idProduct": 281795,
+        "avg": 2.55,
+        "low": 0.09,
+        "trend": 1.58,
+        "avg1": 1.3,
+        "avg7": 1.21,
+        "avg30": 1.94,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.66,
+        "avg1-holo": 0.39,
+        "avg7-holo": 0.66,
+        "avg30-holo": 0.55
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.997Z",
+        "holofoil": {
+          "productId": 83929,
+          "lowPrice": 1.99,
+          "midPrice": 4.4,
+          "highPrice": 52.4,
+          "marketPrice": 4.12,
+          "directLowPrice": null
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2011bw-7",
+    "illustrator": "Ken Sugimori",
+    "localId": "7",
+    "name": "Munna",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "2011bw",
+      "name": "McDonald's Collection 2011"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.557Z",
+            "unit": "EUR",
+            "idProduct": 281796,
+            "avg": 2.06,
+            "low": 0.1,
+            "trend": 2.43,
+            "avg1": 4,
+            "avg7": 1.69,
+            "avg30": 1.8,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.4,
+            "avg1-holo": 0.25,
+            "avg7-holo": 0.49,
+            "avg30-holo": 0.36
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-07-02T22:58:50.997Z",
+            "holofoil": {
+              "productId": 87642,
+              "lowPrice": 1.77,
+              "midPrice": 4.91,
+              "highPrice": 103.72,
+              "marketPrice": 4.99,
+              "directLowPrice": 103.72
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      517
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "description": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": "Yawn",
+        "effect": "The Defending Pokémon is now Asleep."
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.557Z",
+        "unit": "EUR",
+        "idProduct": 281796,
+        "avg": 2.06,
+        "low": 0.1,
+        "trend": 2.43,
+        "avg1": 4,
+        "avg7": 1.69,
+        "avg30": 1.8,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.4,
+        "avg1-holo": 0.25,
+        "avg7-holo": 0.49,
+        "avg30-holo": 0.36
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.997Z",
+        "holofoil": {
+          "productId": 87642,
+          "lowPrice": 1.77,
+          "midPrice": 4.91,
+          "highPrice": 103.72,
+          "marketPrice": 4.99,
+          "directLowPrice": 103.72
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2011bw-8",
+    "illustrator": "Ken Sugimori",
+    "localId": "8",
+    "name": "Sandile",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "2011bw",
+      "name": "McDonald's Collection 2011"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.557Z",
+            "unit": "EUR",
+            "idProduct": 281797,
+            "avg": 1.75,
+            "low": 0.05,
+            "trend": 1.39,
+            "avg1": 0.59,
+            "avg7": 1.45,
+            "avg30": 1.94,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.58,
+            "avg1-holo": 0.44,
+            "avg7-holo": 0.5,
+            "avg30-holo": 0.54
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-07-02T22:58:50.997Z",
+            "holofoil": {
+              "productId": 88913,
+              "lowPrice": 2.43,
+              "midPrice": 9.68,
+              "highPrice": 95.86,
+              "marketPrice": 9.6,
+              "directLowPrice": 7.19
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      551
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "description": "It moves along below the sand’s surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": "Sand Tomb",
+        "effect": "The Defending Pokémon can’t retreat during your opponent’s next turn.",
+        "damage": 30
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.557Z",
+        "unit": "EUR",
+        "idProduct": 281797,
+        "avg": 1.75,
+        "low": 0.05,
+        "trend": 1.39,
+        "avg1": 0.59,
+        "avg7": 1.45,
+        "avg30": 1.94,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.58,
+        "avg1-holo": 0.44,
+        "avg7-holo": 0.5,
+        "avg30-holo": 0.54
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.997Z",
+        "holofoil": {
+          "productId": 88913,
+          "lowPrice": 2.43,
+          "midPrice": 9.68,
+          "highPrice": 95.86,
+          "marketPrice": 9.6,
+          "directLowPrice": 7.19
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2011bw-9",
+    "illustrator": "Ken Sugimori",
+    "localId": "9",
+    "name": "Zorua",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "2011bw",
+      "name": "McDonald's Collection 2011"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.557Z",
+            "unit": "EUR",
+            "idProduct": 281798,
+            "avg": 2.61,
+            "low": 0.1,
+            "trend": 3.42,
+            "avg1": 4,
+            "avg7": 2.54,
+            "avg30": 2.52,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.63,
+            "avg1-holo": 1.12,
+            "avg7-holo": 0.76,
+            "avg30-holo": 0.67
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-07-02T22:58:50.997Z",
+            "holofoil": {
+              "productId": 90758,
+              "lowPrice": 4.12,
+              "midPrice": 8.39,
+              "highPrice": 80.3,
+              "marketPrice": 8.42,
+              "directLowPrice": 80.3
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      570
+    ],
+    "hp": 50,
+    "types": [
+      "Darkness"
+    ],
+    "description": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": "Scratch",
+        "damage": 10
+      },
+      {
+        "name": "Fury Swipes",
+        "effect": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+        "damage": "10×"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.557Z",
+        "unit": "EUR",
+        "idProduct": 281798,
+        "avg": 2.61,
+        "low": 0.1,
+        "trend": 3.42,
+        "avg1": 4,
+        "avg7": 2.54,
+        "avg30": 2.52,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.63,
+        "avg1-holo": 1.12,
+        "avg7-holo": 0.76,
+        "avg30-holo": 0.67
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.997Z",
+        "holofoil": {
+          "productId": 90758,
+          "lowPrice": 4.12,
+          "midPrice": 8.39,
+          "highPrice": 80.3,
+          "marketPrice": 8.42,
+          "directLowPrice": 80.3
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2011bw-10",
+    "illustrator": "Ken Sugimori",
+    "localId": "10",
+    "name": "Klink",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "2011bw",
+      "name": "McDonald's Collection 2011"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.899Z",
+            "unit": "EUR",
+            "idProduct": 281799,
+            "avg": 1.87,
+            "low": 0.15,
+            "trend": 1.39,
+            "avg1": 0.2,
+            "avg7": 1.07,
+            "avg30": 1.49,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.51,
+            "avg1-holo": 0.2,
+            "avg7-holo": 0.41,
+            "avg30-holo": 0.59
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-07-02T22:58:50.997Z",
+            "holofoil": {
+              "productId": 86480,
+              "lowPrice": 0.93,
+              "midPrice": 3.1,
+              "highPrice": 18.7,
+              "marketPrice": 3.78,
+              "directLowPrice": 2
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      599
+    ],
+    "hp": 50,
+    "types": [
+      "Metal"
+    ],
+    "description": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": "Charge Beam",
+        "effect": "Flip a coin. If heads, attach an Energy card from your discard pile to this Pokémon.",
+        "damage": 10
+      },
+      {
+        "name": "Irongrip",
+        "damage": 20
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.899Z",
+        "unit": "EUR",
+        "idProduct": 281799,
+        "avg": 1.87,
+        "low": 0.15,
+        "trend": 1.39,
+        "avg1": 0.2,
+        "avg7": 1.07,
+        "avg30": 1.49,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.51,
+        "avg1-holo": 0.2,
+        "avg7-holo": 0.41,
+        "avg30-holo": 0.59
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.997Z",
+        "holofoil": {
+          "productId": 86480,
+          "lowPrice": 0.93,
+          "midPrice": 3.1,
+          "highPrice": 18.7,
+          "marketPrice": 3.78,
+          "directLowPrice": 2
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2011bw-11",
+    "illustrator": "Ken Sugimori",
+    "localId": "11",
+    "name": "Pidove",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "2011bw",
+      "name": "McDonald's Collection 2011"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.557Z",
+            "unit": "EUR",
+            "idProduct": 281800,
+            "avg": 2.47,
+            "low": 0.15,
+            "trend": 1.79,
+            "avg1": 4.95,
+            "avg7": 2.17,
+            "avg30": 2.94,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 1.25,
+            "avg1-holo": 0.87,
+            "avg7-holo": 0.84,
+            "avg30-holo": 0.71
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-07-02T22:58:50.997Z",
+            "holofoil": {
+              "productId": 88055,
+              "lowPrice": 1.69,
+              "midPrice": 5.25,
+              "highPrice": 34.9,
+              "marketPrice": 4.83,
+              "directLowPrice": 19.99
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      519
+    ],
+    "hp": 40,
+    "types": [
+      "Colorless"
+    ],
+    "description": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": "Growl",
+        "effect": "During your opponent’s next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+      },
+      {
+        "name": "Gust",
+        "damage": 10
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.557Z",
+        "unit": "EUR",
+        "idProduct": 281800,
+        "avg": 2.47,
+        "low": 0.15,
+        "trend": 1.79,
+        "avg1": 4.95,
+        "avg7": 2.17,
+        "avg30": 2.94,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 1.25,
+        "avg1-holo": 0.87,
+        "avg7-holo": 0.84,
+        "avg30-holo": 0.71
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.997Z",
+        "holofoil": {
+          "productId": 88055,
+          "lowPrice": 1.69,
+          "midPrice": 5.25,
+          "highPrice": 34.9,
+          "marketPrice": 4.83,
+          "directLowPrice": 19.99
+        }
+      }
+    }
+  },
+  {
+    "category": "Pokemon",
+    "id": "2011bw-12",
+    "illustrator": "MAHOU",
+    "localId": "12",
+    "name": "Audino",
+    "rarity": "None",
+    "set": {
+      "cardCount": {
+        "official": 12,
+        "total": 12
+      },
+      "id": "2011bw",
+      "name": "McDonald's Collection 2011"
+    },
+    "variants": {
+      "firstEdition": false,
+      "holo": true,
+      "normal": false,
+      "reverse": false,
+      "wPromo": false
+    },
+    "variants_detailed": [
+      {
+        "type": "holo",
+        "size": "standard",
+        "variantId": "jr7oetx1mqug9",
+        "pricing": {
+          "cardmarket": {
+            "updated": "2026-07-02T22:58:39.557Z",
+            "unit": "EUR",
+            "idProduct": 281801,
+            "avg": 1.95,
+            "low": 0.1,
+            "trend": 2.09,
+            "avg1": 0.2,
+            "avg7": 2.01,
+            "avg30": 2.14,
+            "avg-holo": null,
+            "low-holo": null,
+            "trend-holo": 0.52,
+            "avg1-holo": 0.18,
+            "avg7-holo": 0.56,
+            "avg30-holo": 0.45
+          },
+          "tcgplayer": {
+            "unit": "USD",
+            "updated": "2026-07-02T22:58:50.997Z",
+            "holofoil": {
+              "productId": 83660,
+              "lowPrice": 2.1,
+              "midPrice": 4.95,
+              "highPrice": 100,
+              "marketPrice": 4.93,
+              "directLowPrice": null
+            }
+          }
+        }
+      }
+    ],
+    "dexId": [
+      531
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "description": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": "Double Slap",
+        "effect": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+        "damage": "30×"
+      }
+    ],
+    "legal": {
+      "standard": false,
+      "expanded": false
+    },
+    "updated": "2026-04-19T20:57:59Z",
+    "pricing": {
+      "cardmarket": {
+        "updated": "2026-07-02T22:58:39.557Z",
+        "unit": "EUR",
+        "idProduct": 281801,
+        "avg": 1.95,
+        "low": 0.1,
+        "trend": 2.09,
+        "avg1": 0.2,
+        "avg7": 2.01,
+        "avg30": 2.14,
+        "avg-holo": null,
+        "low-holo": null,
+        "trend-holo": 0.52,
+        "avg1-holo": 0.18,
+        "avg7-holo": 0.56,
+        "avg30-holo": 0.45
+      },
+      "tcgplayer": {
+        "unit": "USD",
+        "updated": "2026-07-02T22:58:50.997Z",
+        "holofoil": {
+          "productId": 83660,
+          "lowPrice": 2.1,
+          "midPrice": 4.95,
+          "highPrice": 100,
+          "marketPrice": 4.93,
+          "directLowPrice": null
+        }
+      }
+    }
+  }
+]

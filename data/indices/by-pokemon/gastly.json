@@ -1,0 +1,461 @@
+{
+  "name": "Gastly",
+  "totalCards": 35,
+  "cards": [
+    {
+      "id": "2019sm-7",
+      "name": "Gastly",
+      "set": "2019sm",
+      "setName": "McDonald's Collection 2019",
+      "number": "7",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "A1-120",
+      "name": "Gastly",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "120",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/120",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Masako Yamashita"
+    },
+    {
+      "id": "A2a-031",
+      "name": "Gastly",
+      "set": "A2a",
+      "setName": "Triumphant Light",
+      "number": "031",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2a/031",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yuu Nishida"
+    },
+    {
+      "id": "A3-220",
+      "name": "Gastly",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "220",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/220",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "base1-50",
+      "name": "Gastly",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "50",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base1/50",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "base3-33",
+      "name": "Gastly",
+      "set": "base3",
+      "setName": "Fossil",
+      "number": "33",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base3/33",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base4-75",
+      "name": "Gastly",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "75",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/base/base4/75",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "dp1-82",
+      "name": "Gastly",
+      "set": "dp1",
+      "setName": "Diamond & Pearl",
+      "number": "82",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp1/82",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "dp7-62",
+      "name": "Gastly",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "62",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/62",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "ecard1-109",
+      "name": "Gastly",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "109",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/109",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "ecard3-57",
+      "name": "Gastly",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "57",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/57",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex12-52",
+      "name": "Gastly",
+      "set": "ex12",
+      "setName": "Legend Maker",
+      "number": "52",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex12/52",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex6-63",
+      "name": "Gastly",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/63",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "g1-33",
+      "name": "Gastly",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "33",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/g1/33",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kodama"
+    },
+    {
+      "id": "hgss4-63",
+      "name": "Gastly",
+      "set": "hgss4",
+      "setName": "Triumphant",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss4/63",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Takashi Yamaguchi"
+    },
+    {
+      "id": "lc-76",
+      "name": "Gastly",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "76",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/lc/lc/76",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "me02.5-123",
+      "name": "Gastly",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "123",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/123",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me02-054",
+      "name": "Gastly",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "054",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02/054",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Saboteri"
+    },
+    {
+      "id": "me03-048",
+      "name": "Gastly",
+      "set": "me03",
+      "setName": "Perfect Order",
+      "number": "048",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me03/048",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "MARINA Chikazawa"
+    },
+    {
+      "id": "neo4-65",
+      "name": "Gastly",
+      "set": "neo4",
+      "setName": "Neo Destiny",
+      "number": "65",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/neo/neo4/65",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "pl4-36",
+      "name": "Gastly",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "36",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/36",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "pl4-64",
+      "name": "Gastly",
+      "set": "pl4",
+      "setName": "Arceus",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl4/64",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "sm10-67",
+      "name": "Gastly",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "67",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/67",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "chibi"
+    },
+    {
+      "id": "sm10-68",
+      "name": "Gastly",
+      "set": "sm10",
+      "setName": "Unbroken Bonds",
+      "number": "68",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm10/68",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "MAHOU"
+    },
+    {
+      "id": "sm4-36",
+      "name": "Gastly",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "36",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/36",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shibuzoh."
+    },
+    {
+      "id": "sv03.5-092",
+      "name": "Gastly",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "092",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/092",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "sv04.5-055",
+      "name": "Gastly",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "055",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/055",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nobuhiro Imagawa"
+    },
+    {
+      "id": "sv05-102",
+      "name": "Gastly",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "102",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/102",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Fujimoto Gold"
+    },
+    {
+      "id": "sv05-177",
+      "name": "Gastly",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "177",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/177",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mousho"
+    },
+    {
+      "id": "swsh11-064",
+      "name": "Gastly",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "064",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/064",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh1-83",
+      "name": "Gastly",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "83",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/83",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Taira Akitsu"
+    },
+    {
+      "id": "swsh6-55",
+      "name": "Gastly",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "55",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/55",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Motofumi Fujiwara"
+    },
+    {
+      "id": "xy12-47",
+      "name": "Gastly",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "47",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/47",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Keiji Kinebuchi"
+    },
+    {
+      "id": "xy8-58",
+      "name": "Gastly",
+      "set": "xy8",
+      "setName": "BREAKthrough",
+      "number": "58",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy8/58",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "xyp-XY132",
+      "name": "Gastly",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY132",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY132",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Shigenori Negishi"
+    }
+  ]
+}

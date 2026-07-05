@@ -1,0 +1,71 @@
+{
+  "name": "DemizuPosuka",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "g1-15",
+      "name": "Rapidash",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "15",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/g1/15",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "DemizuPosuka"
+    },
+    {
+      "id": "sm1-56",
+      "name": "Crobat",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "56",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/56",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DemizuPosuka"
+    },
+    {
+      "id": "sm1-6",
+      "name": "Pinsir",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "6",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/6",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "DemizuPosuka"
+    },
+    {
+      "id": "sm3.5-36",
+      "name": "Ekans",
+      "set": "sm3.5",
+      "setName": "Shining Legends",
+      "number": "36",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DemizuPosuka"
+    },
+    {
+      "id": "xy11-27",
+      "name": "Mantine",
+      "set": "xy11",
+      "setName": "Steam Siege",
+      "number": "27",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy11/27",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "DemizuPosuka"
+    }
+  ]
+}

@@ -1,0 +1,834 @@
+{
+  "name": "Ryota Murayama",
+  "totalCards": 64,
+  "cards": [
+    {
+      "id": "2023sv-14",
+      "name": "Cyclizar",
+      "set": "2023sv",
+      "setName": "McDonald's Collection 2023",
+      "number": "14",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "A1-003",
+      "name": "Venusaur",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "003",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/003",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "A1-227",
+      "name": "Bulbasaur",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "227",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/227",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "A1-281",
+      "name": "Pikachu ex",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "281",
+      "rarity": "Three Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/281",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "A1a-056",
+      "name": "Druddigon",
+      "set": "A1a",
+      "setName": "Mythical Island",
+      "number": "056",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1a/056",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "A2-176",
+      "name": "Staraptor",
+      "set": "A2",
+      "setName": "Space-Time Smackdown",
+      "number": "176",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2/176",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "A3b-028",
+      "name": "Espeon",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "028",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/028",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "A3b-043",
+      "name": "Umbreon",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "043",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/043",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "A3b-070",
+      "name": "Leafeon",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "070",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/070",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "B1-032",
+      "name": "Ho-Oh",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "032",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/032",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "B1-088",
+      "name": "Luxray",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "088",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/088",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "B2a-048",
+      "name": "Ceruledge",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "048",
+      "rarity": "Three Diamond",
+      "image": null,
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sm12-237",
+      "name": "Torkoal",
+      "set": "sm12",
+      "setName": "Cosmic Eclipse",
+      "number": "237",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm12/237",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sm7.5-12",
+      "name": "Litten",
+      "set": "sm7.5",
+      "setName": "Dragon Majesty",
+      "number": "12",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sm7.5-3",
+      "name": "Charizard",
+      "set": "sm7.5",
+      "setName": "Dragon Majesty",
+      "number": "3",
+      "rarity": "Rare",
+      "image": null,
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sm8-120",
+      "name": "Umbreon",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "120",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/120",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sm8-141",
+      "name": "Gardevoir",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "141",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/141",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sm8-89",
+      "name": "Espeon",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "89",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/89",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "smp-SM130",
+      "name": "Manectric",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM130",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM130",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "smp-SM201",
+      "name": "Reshiram & Charizard GX",
+      "set": "smp",
+      "setName": "SM Black Star Promos",
+      "number": "SM201",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/smp/SM201",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv01-015",
+      "name": "Meowscarada",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "015",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/015",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv01-164",
+      "name": "Cyclizar",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "164",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/164",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv01-247",
+      "name": "Koraidon ex",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "247",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/247",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv02-098",
+      "name": "Ceruledge",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "098",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/098",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv02-220",
+      "name": "Nacli",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "220",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/220",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv03.5-136",
+      "name": "Flareon",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "136",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/136",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv03-027",
+      "name": "Charmeleon",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "027",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/027",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv03-150",
+      "name": "Kingambit",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "150",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/150",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv03-227",
+      "name": "Poppy",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "227",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/227",
+      "types": null,
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv04.5-040",
+      "name": "Ceruledge",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "040",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/040",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv04-086",
+      "name": "Scream Tail",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "086",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/086",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv04-251",
+      "name": "Roaring Moon ex",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "251",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/251",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv04-256",
+      "name": "Professor Sada's Vitality",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "256",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/256",
+      "types": null,
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv05-027",
+      "name": "Rapidash",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "027",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/027",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv07-069",
+      "name": "Espathra",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "069",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/069",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv08.5-013",
+      "name": "Flareon",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "013",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/013",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv08.5-042",
+      "name": "Scream Tail",
+      "set": "sv08.5",
+      "setName": "Prismatic Evolutions",
+      "number": "042",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08.5/042",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv08-155",
+      "name": "Heliolisk",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "155",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/155",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv09-136",
+      "name": "Hop's Dubwool",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "136",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/136",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "sv10.5b-164",
+      "name": "Serperior ex",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "164",
+      "rarity": "Special illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/164",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh2-143",
+      "name": "Pidove",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "143",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/143",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh2-27",
+      "name": "Growlithe",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "27",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/27",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh3-100",
+      "name": "Grimer",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "100",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/100",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh3-13",
+      "name": "Decidueye",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "13",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/13",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh3-81",
+      "name": "Mimikyu",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "81",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/81",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh3-98",
+      "name": "Galarian Sirfetch'd",
+      "set": "swsh3",
+      "setName": "Darkness Ablaze",
+      "number": "98",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh3/98",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh4.5-8",
+      "name": "Decidueye",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "8",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/8",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh4-29",
+      "name": "Talonflame V",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "29",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/29",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh5-153",
+      "name": "Rapid Strike Urshifu V",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "153",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/153",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh5-16",
+      "name": "Tapu Bulu",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "16",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/16",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh5-54",
+      "name": "Galarian Slowpoke",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "54",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/54",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh5-96",
+      "name": "Houndoom",
+      "set": "swsh5",
+      "setName": "Battle Styles",
+      "number": "96",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh5/96",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh6-113",
+      "name": "Metagross VMAX",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "113",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/113",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh6-208",
+      "name": "Metagross VMAX",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "208",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/208",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh6-25",
+      "name": "Volcanion V",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "25",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/25",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh7-211",
+      "name": "Sylveon VMAX",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "211",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/211",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh7-58",
+      "name": "Dracozolt V",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "58",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/58",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swsh7-75",
+      "name": "Sylveon VMAX",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "75",
+      "rarity": "Holo Rare VMAX",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/75",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "swshp-SWSH063",
+      "name": "Pikachu V",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH063",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH063",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "xy2-70",
+      "name": "Druddigon",
+      "set": "xy2",
+      "setName": "Flashfire",
+      "number": "70",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy2/70",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "xy5-54",
+      "name": "Kyogre EX",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "54",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/54",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "xy5-85",
+      "name": "Groudon EX",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "85",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/85",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "xy6-75",
+      "name": "Rayquaza EX",
+      "set": "xy6",
+      "setName": "Roaring Skies",
+      "number": "75",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy6/75",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Ryota Murayama"
+    },
+    {
+      "id": "xy7-36",
+      "name": "Hoopa EX",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "36",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/36",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ryota Murayama"
+    }
+  ]
+}

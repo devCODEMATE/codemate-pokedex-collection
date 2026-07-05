@@ -1,0 +1,123 @@
+{
+  "name": "Snom",
+  "totalCards": 9,
+  "cards": [
+    {
+      "id": "A1-092",
+      "name": "Snom",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "092",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/092",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "ryoma uratsuka"
+    },
+    {
+      "id": "me01-042",
+      "name": "Snom",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "042",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/042",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "me02.5-052",
+      "name": "Snom",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "052",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/052",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Izucch"
+    },
+    {
+      "id": "sv05-045",
+      "name": "Snom",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "045",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/045",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Orca"
+    },
+    {
+      "id": "sv05-168",
+      "name": "Snom",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "168",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/168",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "N-DESIGN Inc."
+    },
+    {
+      "id": "swsh1-63",
+      "name": "Snom",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "63",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/63",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mina Nakai"
+    },
+    {
+      "id": "swsh4.5-29",
+      "name": "Snom",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "29",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/29",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tika Matsuno"
+    },
+    {
+      "id": "swsh4.5-SV033",
+      "name": "Snom",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV033",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV033",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yumi"
+    },
+    {
+      "id": "swsh8-84",
+      "name": "Snom",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "84",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/84",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yuka Morii"
+    }
+  ]
+}

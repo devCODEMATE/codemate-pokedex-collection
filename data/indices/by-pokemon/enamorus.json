@@ -1,0 +1,45 @@
+{
+  "name": "Enamorus",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv06-093",
+      "name": "Enamorus",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "093",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/093",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "DOM"
+    },
+    {
+      "id": "sv06-180",
+      "name": "Enamorus",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "180",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/180",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "GOTO minori"
+    },
+    {
+      "id": "swsh12.5-067",
+      "name": "Enamorus",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "067",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/067",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Spectrier",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "me02.5-098",
+      "name": "Spectrier",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "098",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/098",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Taiga Kasai"
+    },
+    {
+      "id": "swsh11-081",
+      "name": "Spectrier",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "081",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/081",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    }
+  ]
+}

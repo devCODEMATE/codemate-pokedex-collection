@@ -1,0 +1,550 @@
+{
+  "name": "Magikarp",
+  "totalCards": 42,
+  "cards": [
+    {
+      "id": "2016xy-4",
+      "name": "Magikarp",
+      "set": "2016xy",
+      "setName": "McDonald's Collection 2016",
+      "number": "4",
+      "rarity": "None",
+      "image": null,
+      "types": null,
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "A1-077",
+      "name": "Magikarp",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "077",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/077",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "A1a-017",
+      "name": "Magikarp",
+      "set": "A1a",
+      "setName": "Mythical Island",
+      "number": "017",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1a/017",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "A4-044",
+      "name": "Magikarp",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "044",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/044",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "A4-214",
+      "name": "Magikarp",
+      "set": "A4",
+      "setName": "Wisdom of Sea and Sky",
+      "number": "214",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A4/214",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "B1-050",
+      "name": "Magikarp",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "050",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/050",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "B1-232",
+      "name": "Magikarp",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "232",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/232",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tetsu Kayama"
+    },
+    {
+      "id": "base1-35",
+      "name": "Magikarp",
+      "set": "base1",
+      "setName": "Base Set",
+      "number": "35",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base1/35",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base4-50",
+      "name": "Magikarp",
+      "set": "base4",
+      "setName": "Base Set 2",
+      "number": "50",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base4/50",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "base5-47",
+      "name": "Magikarp",
+      "set": "base5",
+      "setName": "Team Rocket",
+      "number": "47",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/base/base5/47",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kagemaru Himeno"
+    },
+    {
+      "id": "bw11-30",
+      "name": "Magikarp",
+      "set": "bw11",
+      "setName": "Legendary Treasures",
+      "number": "30",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw11/30",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "bw6-23",
+      "name": "Magikarp",
+      "set": "bw6",
+      "setName": "Dragons Exalted",
+      "number": "23",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/bw/bw6/23",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "col1-61",
+      "name": "Magikarp",
+      "set": "col1",
+      "setName": "Call of Legends",
+      "number": "61",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/col/col1/61",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "det1-8",
+      "name": "Magikarp",
+      "set": "det1",
+      "setName": "Detective Pikachu",
+      "number": "8",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/det1/8",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Framestore"
+    },
+    {
+      "id": "dp2-89",
+      "name": "Magikarp",
+      "set": "dp2",
+      "setName": "Mysterious Treasures",
+      "number": "89",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp2/89",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yusuke Ohmura"
+    },
+    {
+      "id": "dp7-65",
+      "name": "Magikarp",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "65",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/65",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "ecard1-118",
+      "name": "Magikarp",
+      "set": "ecard1",
+      "setName": "Expedition Base Set",
+      "number": "118",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard1/118",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Tomokazu Komiya"
+    },
+    {
+      "id": "ecard3-75",
+      "name": "Magikarp",
+      "set": "ecard3",
+      "setName": "Skyridge",
+      "number": "75",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ecard/ecard3/75",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Keiko Fukuyama"
+    },
+    {
+      "id": "ex13-69",
+      "name": "Magikarp δ",
+      "set": "ex13",
+      "setName": "Holon Phantoms",
+      "number": "69",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex13/69",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "ex3-60",
+      "name": "Magikarp",
+      "set": "ex3",
+      "setName": "Dragon",
+      "number": "60",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex3/60",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ex6-67",
+      "name": "Magikarp",
+      "set": "ex6",
+      "setName": "FireRed & LeafGreen",
+      "number": "67",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex6/67",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "ex7-65",
+      "name": "Magikarp",
+      "set": "ex7",
+      "setName": "Team Rocket Returns",
+      "number": "65",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex7/65",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "ex8-64",
+      "name": "Magikarp",
+      "set": "ex8",
+      "setName": "Deoxys",
+      "number": "64",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/ex/ex8/64",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Hisao Nakamura"
+    },
+    {
+      "id": "g1-22",
+      "name": "Magikarp",
+      "set": "g1",
+      "setName": "Generations",
+      "number": "22",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/g1/22",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "hgss1-72",
+      "name": "Magikarp",
+      "set": "hgss1",
+      "setName": "HeartGold SoulSilver",
+      "number": "72",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss1/72",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "lc-52",
+      "name": "Magikarp",
+      "set": "lc",
+      "setName": "Legendary Collection",
+      "number": "52",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/lc/lc/52",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "mfb-29",
+      "name": "Magikarp",
+      "set": "mfb",
+      "setName": "My First Battle",
+      "number": "29",
+      "rarity": "None",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Amelicart"
+    },
+    {
+      "id": "pl3-110",
+      "name": "Magikarp",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "110",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/110",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "sm115-15",
+      "name": "Magikarp",
+      "set": "sm115",
+      "setName": "Hidden Fates",
+      "number": "15",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm115/15",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "sm3-32",
+      "name": "Magikarp",
+      "set": "sm3",
+      "setName": "Burning Shadows",
+      "number": "32",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm3/32",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "sm4-17",
+      "name": "Magikarp",
+      "set": "sm4",
+      "setName": "Crimson Invasion",
+      "number": "17",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm4/17",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "TOKIYA"
+    },
+    {
+      "id": "sm7.5-19",
+      "name": "Magikarp",
+      "set": "sm7.5",
+      "setName": "Dragon Majesty",
+      "number": "19",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Sekio"
+    },
+    {
+      "id": "sm9-29",
+      "name": "Magikarp",
+      "set": "sm9",
+      "setName": "Team Up",
+      "number": "29",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sm/sm9/29",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "sui"
+    },
+    {
+      "id": "sv01-044",
+      "name": "Magikarp",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "044",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/044",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "KIYOTAKA OSHIYAMA"
+    },
+    {
+      "id": "sv02-042",
+      "name": "Magikarp",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "042",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/042",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "HYOGONOSUKE"
+    },
+    {
+      "id": "sv02-203",
+      "name": "Magikarp",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "203",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/203",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Shinji Kanda"
+    },
+    {
+      "id": "sv03.5-129",
+      "name": "Magikarp",
+      "set": "sv03.5",
+      "setName": "151",
+      "number": "129",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03.5/129",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "swsh10.5-021",
+      "name": "Magikarp",
+      "set": "swsh10.5",
+      "setName": "Pokémon GO",
+      "number": "021",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/021",
+      "types": [
+        "Water"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh2-39",
+      "name": "Magikarp",
+      "set": "swsh2",
+      "setName": "Rebel Clash",
+      "number": "39",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh2/39",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "kanahei"
+    },
+    {
+      "id": "xy12-33",
+      "name": "Magikarp",
+      "set": "xy12",
+      "setName": "Evolutions",
+      "number": "33",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy12/33",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "xy7-19",
+      "name": "Magikarp",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "19",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/19",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "xyp-XY143",
+      "name": "Magikarp",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY143",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY143",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Saya Tsuruta"
+    }
+  ]
+}

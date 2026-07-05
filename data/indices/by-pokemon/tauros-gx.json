@@ -1,0 +1,45 @@
+{
+  "name": "Tauros GX",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sm1-100",
+      "name": "Tauros GX",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "100",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/100",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm1-144",
+      "name": "Tauros GX",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "144",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/144",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "sm1-156",
+      "name": "Tauros GX",
+      "set": "sm1",
+      "setName": "Sun & Moon",
+      "number": "156",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm1/156",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}

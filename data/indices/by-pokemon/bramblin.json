@@ -1,0 +1,84 @@
+{
+  "name": "Bramblin",
+  "totalCards": 6,
+  "cards": [
+    {
+      "id": "B2a-010",
+      "name": "Bramblin",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "010",
+      "rarity": "One Diamond",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "me02-046",
+      "name": "Bramblin",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "046",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02/046",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Takeshi Nakamura"
+    },
+    {
+      "id": "sv02-022",
+      "name": "Bramblin",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "022",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/022",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Pani Kobayashi"
+    },
+    {
+      "id": "sv02-023",
+      "name": "Bramblin",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "023",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/023",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "sv02-198",
+      "name": "Bramblin",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "198",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/198",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "sowsow"
+    },
+    {
+      "id": "sv05-020",
+      "name": "Bramblin",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "020",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/020",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Tetsu Kayama"
+    }
+  ]
+}

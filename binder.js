@@ -9,6 +9,7 @@
 let currentBinderEntry = null;
 let currentBinderData = null;
 let currentPageIndex = 0; // 0-based
+let currentPageCardsBySlot = {}; // slotIndex -> carta ya resuelta, para el click de "ver más grande"
 
 function openBinder(binderId) {
   const index = getBindersIndex();
@@ -25,7 +26,7 @@ function openBinder(binderId) {
   renderBinderPage();
 }
 
-function renderBinderPage() {
+async function renderBinderPage() {
   currentBinderData = getBinderPages(currentBinderEntry.id); // re-leer por si buscador escribió
   const { cols, rows } = currentBinderEntry.grid;
   const page = currentBinderData.pages[currentPageIndex];
@@ -36,25 +37,35 @@ function renderBinderPage() {
   const isTransparentFolio = currentBinderEntry.folioColor === 'transparente';
   const folioHex = resolveSwatchHex(currentBinderEntry.folioColor);
 
+  // 1) pintamos ya mismo el esqueleto (vacíos + "cargando" para los que tienen carta)
   pageEl.innerHTML = page.slots.map((cardId, slotIndex) => {
-    const card = cardId ? MOCK_CARDS_BY_ID[cardId] : null;
     const bg = isTransparentFolio ? '' : `background:${folioHex};`;
     return `
       <div class="binder-slot ${isTransparentFolio ? 'is-transparent-folio' : ''}" style="${bg}"
         id="slot-${slotIndex}" role="button" tabindex="0"
-        aria-label="${card ? escapeHTML(card.name) : 'Slot vacío'}">
-        ${card ? renderCardFaceSVG(card, { compact: true }) : '<div class="binder-slot-empty"></div>'}
+        aria-label="${cardId ? 'Cargando carta…' : 'Slot vacío'}">
+        ${cardId ? '<div class="binder-slot-loading"></div>' : '<div class="binder-slot-empty"></div>'}
       </div>`;
   }).join('');
 
+  currentPageCardsBySlot = {};
+
   page.slots.forEach((cardId, slotIndex) => {
     const el = document.getElementById(`slot-${slotIndex}`);
-    const handler = () => openBuscador({ binderId: currentBinderEntry.id, pageNumber: page.pageNumber, slotIndex });
+    const handler = () => {
+      const pendingSlot = { binderId: currentBinderEntry.id, pageNumber: page.pageNumber, slotIndex };
+      if (cardId) {
+        const card = currentPageCardsBySlot[slotIndex];
+        if (card) openCardDetail(card, { mode: 'binder', pendingSlot });
+      } else {
+        openBuscador(pendingSlot);
+      }
+    };
     el.addEventListener('click', handler);
     el.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); handler(); } });
   });
 
-  // progreso: sin sourceFilter en Fase 1, mostramos solo cantidad de slots llenos
+  // progreso: sin sourceFilter todavía, mostramos solo cantidad de slots llenos
   const filled = countFilledSlots(currentBinderData);
   const total = cols * rows * currentBinderData.pages.length;
   document.getElementById('binder-progress-label').textContent = `${filled} / ${total} cartas`;
@@ -63,6 +74,27 @@ function renderBinderPage() {
     `Página ${currentPageIndex + 1} de ${currentBinderData.pages.length}`;
   document.getElementById('binder-prev-btn').disabled = currentPageIndex === 0;
   document.getElementById('binder-next-btn').disabled = currentPageIndex === currentBinderData.pages.length - 1;
+
+  // 2) resolvemos las cartas reales (agrupando por set para no pedir el mismo archivo dos veces)
+  const renderToken = (currentBinderData.__renderToken = Symbol());
+  const pendingSlots = page.slots
+    .map((cardId, slotIndex) => ({ cardId, slotIndex }))
+    .filter((s) => s.cardId);
+
+  await Promise.all(pendingSlots.map(async ({ cardId, slotIndex }) => {
+    try {
+      const card = await resolveCard(cardId);
+      if (currentBinderData.__renderToken !== renderToken) return; // el usuario ya cambió de página
+      const el = document.getElementById(`slot-${slotIndex}`);
+      if (el && card) {
+        el.innerHTML = renderCardFaceSVG(card, { compact: true });
+        el.setAttribute('aria-label', card.name);
+        currentPageCardsBySlot[slotIndex] = card;
+      }
+    } catch (err) {
+      console.error(`No se pudo cargar la carta ${cardId}:`, err);
+    }
+  }));
 }
 
 function flipBinderPage(direction) {

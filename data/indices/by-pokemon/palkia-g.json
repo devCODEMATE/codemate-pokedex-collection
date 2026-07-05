@@ -1,0 +1,32 @@
+{
+  "name": "Palkia G",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "pl1-12",
+      "name": "Palkia G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "12",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/12",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Yusuke Ishikawa"
+    },
+    {
+      "id": "pl1-125",
+      "name": "Palkia G",
+      "set": "pl1",
+      "setName": "Platinum",
+      "number": "125",
+      "rarity": "Rare Holo LV.X",
+      "image": "https://assets.tcgdex.net/en/pl/pl1/125",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

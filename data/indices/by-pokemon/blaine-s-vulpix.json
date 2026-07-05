@@ -1,0 +1,32 @@
+{
+  "name": "Blaine's Vulpix",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym1-65",
+      "name": "Blaine's Vulpix",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "65",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/65",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym2-66",
+      "name": "Blaine's Vulpix",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "66",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/66",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

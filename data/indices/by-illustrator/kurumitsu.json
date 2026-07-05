@@ -1,0 +1,435 @@
+{
+  "name": "kurumitsu",
+  "totalCards": 33,
+  "cards": [
+    {
+      "id": "A1-163",
+      "name": "Grapploct",
+      "set": "A1",
+      "setName": "Genetic Apex",
+      "number": "163",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A1/163",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "A2b-094",
+      "name": "Tinkaton ex",
+      "set": "A2b",
+      "setName": "Shining Revelry",
+      "number": "094",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A2b/094",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "A3-220",
+      "name": "Gastly",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "220",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/220",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "A3-221",
+      "name": "Haunter",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "221",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/221",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "A3-222",
+      "name": "Gengar",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "222",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/222",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "A3b-092",
+      "name": "Eevee ex",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "092",
+      "rarity": "Three Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/092",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "B2-112",
+      "name": "Mawile",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "112",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/112",
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "B2-222",
+      "name": "Phanpy",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "222",
+      "rarity": "One Shiny",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/222",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "B2a-123",
+      "name": "Tinkatink",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "123",
+      "rarity": "One Shiny",
+      "image": null,
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "B2a-124",
+      "name": "Tinkatuff",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "124",
+      "rarity": "One Shiny",
+      "image": null,
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "B2a-125",
+      "name": "Gholdengo",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "125",
+      "rarity": "One Shiny",
+      "image": null,
+      "types": [
+        "Metal"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "me02.5-069",
+      "name": "Iono's Tadbulb",
+      "set": "me02.5",
+      "setName": "Ascended Heroes",
+      "number": "069",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02.5/069",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv01-003",
+      "name": "Shroomish",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "003",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/003",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv01-051",
+      "name": "Bruxish",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "051",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/051",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv02-029",
+      "name": "Fletchinder",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "029",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/029",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv02-068",
+      "name": "Shinx",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "068",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/068",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv02-106",
+      "name": "Mankey",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "106",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/106",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv02-119",
+      "name": "Falinks",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "119",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/119",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv03-064",
+      "name": "Magneton",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "064",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/064",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv03-080",
+      "name": "Cleffa",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "080",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/080",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv03-160",
+      "name": "Altaria",
+      "set": "sv03",
+      "setName": "Obsidian Flames",
+      "number": "160",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv03/160",
+      "types": [
+        "Dragon"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv04.5-034",
+      "name": "Cottonee",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "034",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/034",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv04.5-123",
+      "name": "Finizen",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "123",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/123",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv04.5-142",
+      "name": "Pawmi",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "142",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/142",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv04.5-203",
+      "name": "Wingull",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "203",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/203",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv04-143",
+      "name": "Porygon2",
+      "set": "sv04",
+      "setName": "Paradox Rift",
+      "number": "143",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv04/143",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv05-058",
+      "name": "Yamper",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "058",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/058",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv09-052",
+      "name": "Iono's Tadbulb",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "052",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/052",
+      "types": [
+        "Lightning"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv10.5b-004",
+      "name": "Pansage",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "004",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/004",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv10.5b-005",
+      "name": "Simisage",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "005",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/005",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "sv10.5b-133",
+      "name": "Whirlipede",
+      "set": "sv10.5b",
+      "setName": "Black Bolt",
+      "number": "133",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv10.5b/133",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "svp-062",
+      "name": "Sinistea",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "062",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/062",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "kurumitsu"
+    },
+    {
+      "id": "svp-076",
+      "name": "Sprigatito",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "076",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/076",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "kurumitsu"
+    }
+  ]
+}

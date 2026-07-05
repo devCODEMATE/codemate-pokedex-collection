@@ -1,0 +1,45 @@
+{
+  "name": "Farigiraf",
+  "totalCards": 3,
+  "cards": [
+    {
+      "id": "sv02-155",
+      "name": "Farigiraf",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "155",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/155",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv02-228",
+      "name": "Farigiraf",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "228",
+      "rarity": "Illustration rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/228",
+      "types": [
+        "Colorless"
+      ],
+      "illustrator": "Mina Nakai"
+    },
+    {
+      "id": "sv06-084",
+      "name": "Farigiraf",
+      "set": "sv06",
+      "setName": "Twilight Masquerade",
+      "number": "084",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv06/084",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Dsuke"
+    }
+  ]
+}

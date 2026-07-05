@@ -1,0 +1,32 @@
+{
+  "name": "Sabrina's Gengar",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "gym1-14",
+      "name": "Sabrina's Gengar",
+      "set": "gym1",
+      "setName": "Gym Heroes",
+      "number": "14",
+      "rarity": "Rare Holo",
+      "image": "https://assets.tcgdex.net/en/gym/gym1/14",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "gym2-29",
+      "name": "Sabrina's Gengar",
+      "set": "gym2",
+      "setName": "Gym Challenge",
+      "number": "29",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/gym/gym2/29",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    }
+  ]
+}

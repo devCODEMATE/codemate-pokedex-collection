@@ -1,0 +1,71 @@
+{
+  "name": "Mimikyu ex",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "B2-073",
+      "name": "Mimikyu ex",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "073",
+      "rarity": "Four Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/073",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "B2-186",
+      "name": "Mimikyu ex",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "186",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/186",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA CG Works"
+    },
+    {
+      "id": "B2-199",
+      "name": "Mimikyu ex",
+      "set": "B2",
+      "setName": "Fantastical Parade",
+      "number": "199",
+      "rarity": "Two Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/B2/199",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Mori Yuu"
+    },
+    {
+      "id": "sv09-069",
+      "name": "Mimikyu ex",
+      "set": "sv09",
+      "setName": "Journey Together",
+      "number": "069",
+      "rarity": "Double rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv09/069",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA Igarashi"
+    },
+    {
+      "id": "svp-004",
+      "name": "Mimikyu ex",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "004",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/004",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "PLANETA Yamashita"
+    }
+  ]
+}

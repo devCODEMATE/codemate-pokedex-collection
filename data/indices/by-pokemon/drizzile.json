@@ -1,0 +1,71 @@
+{
+  "name": "Drizzile",
+  "totalCards": 5,
+  "cards": [
+    {
+      "id": "me01-040",
+      "name": "Drizzile",
+      "set": "me01",
+      "setName": "Mega Evolution",
+      "number": "040",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me01/040",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Souichirou Gunjima"
+    },
+    {
+      "id": "swsh1-56",
+      "name": "Drizzile",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "56",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/56",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Naoki Saito"
+    },
+    {
+      "id": "swsh1-57",
+      "name": "Drizzile",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "57",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/57",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "swsh4.5-SV026",
+      "name": "Drizzile",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV026",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV026",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "swsh6-42",
+      "name": "Drizzile",
+      "set": "swsh6",
+      "setName": "Chilling Reign",
+      "number": "42",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh6/42",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    }
+  ]
+}

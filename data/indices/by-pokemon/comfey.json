@@ -1,0 +1,97 @@
+{
+  "name": "Comfey",
+  "totalCards": 7,
+  "cards": [
+    {
+      "id": "A3-080",
+      "name": "Comfey",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "080",
+      "rarity": "Three Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/080",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "A3-168",
+      "name": "Comfey",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "168",
+      "rarity": "One Star",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/168",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "mashu"
+    },
+    {
+      "id": "sm2-93",
+      "name": "Comfey",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "93",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/93",
+      "types": [
+        "Fairy"
+      ],
+      "illustrator": "Sanosuke Sakuma"
+    },
+    {
+      "id": "sv07-063",
+      "name": "Comfey",
+      "set": "sv07",
+      "setName": "Stellar Crown",
+      "number": "063",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv07/063",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "saino misaki"
+    },
+    {
+      "id": "swsh11-079",
+      "name": "Comfey",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "079",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/079",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh12.5-GG14",
+      "name": "Comfey",
+      "set": "swsh12.5",
+      "setName": "Crown Zenith",
+      "number": "GG14",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG14",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swshp-SWSH242",
+      "name": "Comfey",
+      "set": "swshp",
+      "setName": "SWSH Black Star Promos",
+      "number": "SWSH242",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH242",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    }
+  ]
+}

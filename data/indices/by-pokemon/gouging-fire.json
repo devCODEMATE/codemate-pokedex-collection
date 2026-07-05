@@ -1,0 +1,32 @@
+{
+  "name": "Gouging Fire",
+  "totalCards": 2,
+  "cards": [
+    {
+      "id": "sv08-038",
+      "name": "Gouging Fire",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "038",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/038",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "AKIRA EGAWA"
+    },
+    {
+      "id": "svp-151",
+      "name": "Gouging Fire",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "151",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/151",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Hasuno"
+    }
+  ]
+}

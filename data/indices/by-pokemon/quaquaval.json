@@ -1,0 +1,58 @@
+{
+  "name": "Quaquaval",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "B2a-024",
+      "name": "Quaquaval",
+      "set": "B2a",
+      "setName": "Paldean Wonders",
+      "number": "024",
+      "rarity": "Three Diamond",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv01-054",
+      "name": "Quaquaval",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "054",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/054",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "sv08-052",
+      "name": "Quaquaval",
+      "set": "sv08",
+      "setName": "Surging Sparks",
+      "number": "052",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv08/052",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "svp-005",
+      "name": "Quaquaval",
+      "set": "svp",
+      "setName": "SVP Black Star Promos",
+      "number": "005",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/sv/svp/005",
+      "types": [
+        "Water"
+      ],
+      "illustrator": "kodama"
+    }
+  ]
+}

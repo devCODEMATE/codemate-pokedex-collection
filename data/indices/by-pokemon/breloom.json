@@ -1,0 +1,214 @@
+{
+  "name": "Breloom",
+  "totalCards": 16,
+  "cards": [
+    {
+      "id": "B1-012",
+      "name": "Breloom",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "012",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/012",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "dp3-45",
+      "name": "Breloom",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "45",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/45",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "ex1-16",
+      "name": "Breloom",
+      "set": "ex1",
+      "setName": "Ruby & Sapphire",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex1/16",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ex2-33",
+      "name": "Breloom",
+      "set": "ex2",
+      "setName": "Sandstorm",
+      "number": "33",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex2/33",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "ex8-3",
+      "name": "Breloom",
+      "set": "ex8",
+      "setName": "Deoxys",
+      "number": "3",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex8/3",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex9-22",
+      "name": "Breloom",
+      "set": "ex9",
+      "setName": "Emerald",
+      "number": "22",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/ex/ex9/22",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "pl3-52",
+      "name": "Breloom",
+      "set": "pl3",
+      "setName": "Supreme Victors",
+      "number": "52",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/pl/pl3/52",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "sm11-108",
+      "name": "Breloom",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "108",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/108",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Atsuko Nishida"
+    },
+    {
+      "id": "sm3.5-5",
+      "name": "Breloom",
+      "set": "sm3.5",
+      "setName": "Shining Legends",
+      "number": "5",
+      "rarity": "Common",
+      "image": null,
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Mizue"
+    },
+    {
+      "id": "sv01-004",
+      "name": "Breloom",
+      "set": "sv01",
+      "setName": "Scarlet & Violet",
+      "number": "004",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv01/004",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Ryuta Fuse"
+    },
+    {
+      "id": "sv05-007",
+      "name": "Breloom",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "007",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/007",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Taiga Kasai"
+    },
+    {
+      "id": "sv10-006",
+      "name": "Breloom",
+      "set": "sv10",
+      "setName": "Destined Rivals",
+      "number": "006",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/sv/sv10/006",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "nisimono"
+    },
+    {
+      "id": "swsh8-5",
+      "name": "Breloom",
+      "set": "swsh8",
+      "setName": "Fusion Strike",
+      "number": "5",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh8/5",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "swsh9-004",
+      "name": "Breloom",
+      "set": "swsh9",
+      "setName": "Brilliant Stars",
+      "number": "004",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh9/004",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "xy3-50",
+      "name": "Breloom",
+      "set": "xy3",
+      "setName": "Furious Fists",
+      "number": "50",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy3/50",
+      "types": [
+        "Fighting"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "xy5-16",
+      "name": "Breloom",
+      "set": "xy5",
+      "setName": "Primal Clash",
+      "number": "16",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/xy/xy5/16",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Suwama Chiaki"
+    }
+  ]
+}

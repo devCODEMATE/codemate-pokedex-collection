@@ -1,0 +1,370 @@
+{
+  "name": "Sableye",
+  "totalCards": 28,
+  "cards": [
+    {
+      "id": "A3-070",
+      "name": "Sableye",
+      "set": "A3",
+      "setName": "Celestial Guardians",
+      "number": "070",
+      "rarity": "Two Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3/070",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "A3b-044",
+      "name": "Sableye",
+      "set": "A3b",
+      "setName": "Eevee Grove",
+      "number": "044",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/A3b/044",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "B1-101",
+      "name": "Sableye",
+      "set": "B1",
+      "setName": "Mega Rising",
+      "number": "101",
+      "rarity": "One Diamond",
+      "image": "https://assets.tcgdex.net/en/tcgp/B1/101",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "bw11-61",
+      "name": "Sableye",
+      "set": "bw11",
+      "setName": "Legendary Treasures",
+      "number": "61",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw11/61",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Hiroki Asanuma"
+    },
+    {
+      "id": "bw5-62",
+      "name": "Sableye",
+      "set": "bw5",
+      "setName": "Dark Explorers",
+      "number": "62",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/bw/bw5/62",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "kawayoo"
+    },
+    {
+      "id": "bw9-49",
+      "name": "Sableye",
+      "set": "bw9",
+      "setName": "Plasma Freeze",
+      "number": "49",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/bw/bw9/49",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "dp3-63",
+      "name": "Sableye",
+      "set": "dp3",
+      "setName": "Secret Wonders",
+      "number": "63",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp3/63",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Sumiyoshi Kizuki"
+    },
+    {
+      "id": "dp7-48",
+      "name": "Sableye",
+      "set": "dp7",
+      "setName": "Stormfront",
+      "number": "48",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/dp/dp7/48",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Kyoko Umemoto"
+    },
+    {
+      "id": "ex13-31",
+      "name": "Sableye",
+      "set": "ex13",
+      "setName": "Holon Phantoms",
+      "number": "31",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex13/31",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "ex14-10",
+      "name": "Sableye",
+      "set": "ex14",
+      "setName": "Crystal Guardians",
+      "number": "10",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex14/10",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "ex16-22",
+      "name": "Sableye",
+      "set": "ex16",
+      "setName": "Power Keepers",
+      "number": "22",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex16/22",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Ken Sugimori"
+    },
+    {
+      "id": "ex2-10",
+      "name": "Sableye",
+      "set": "ex2",
+      "setName": "Sandstorm",
+      "number": "10",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex2/10",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "ex8-23",
+      "name": "Sableye",
+      "set": "ex8",
+      "setName": "Deoxys",
+      "number": "23",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/ex/ex8/23",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "hgss3-35",
+      "name": "Sableye",
+      "set": "hgss3",
+      "setName": "Undaunted",
+      "number": "35",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/hgss/hgss3/35",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Midori Harada"
+    },
+    {
+      "id": "me02-059",
+      "name": "Sableye",
+      "set": "me02",
+      "setName": "Phantasmal Flames",
+      "number": "059",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/me02/059",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "osare"
+    },
+    {
+      "id": "sm11-133",
+      "name": "Sableye",
+      "set": "sm11",
+      "setName": "Unified Minds",
+      "number": "133",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm11/133",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Suwama Chiaki"
+    },
+    {
+      "id": "sm2-80",
+      "name": "Sableye",
+      "set": "sm2",
+      "setName": "Guardians Rising",
+      "number": "80",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm2/80",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Aya Kusube"
+    },
+    {
+      "id": "sm7-88",
+      "name": "Sableye",
+      "set": "sm7",
+      "setName": "Celestial Storm",
+      "number": "88",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm7/88",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Yukiko Baba"
+    },
+    {
+      "id": "sm8-96",
+      "name": "Sableye",
+      "set": "sm8",
+      "setName": "Lost Thunder",
+      "number": "96",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sm/sm8/96",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Miki Tanaka"
+    },
+    {
+      "id": "sv02-136",
+      "name": "Sableye",
+      "set": "sv02",
+      "setName": "Paldea Evolved",
+      "number": "136",
+      "rarity": "Rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv02/136",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Nagomi Nijo"
+    },
+    {
+      "id": "sv04.5-184",
+      "name": "Sableye",
+      "set": "sv04.5",
+      "setName": "Paldean Fates",
+      "number": "184",
+      "rarity": "Shiny rare",
+      "image": "https://assets.tcgdex.net/en/sv/sv04.5/184",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "nagimiso"
+    },
+    {
+      "id": "sv05-107",
+      "name": "Sableye",
+      "set": "sv05",
+      "setName": "Temporal Forces",
+      "number": "107",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/sv/sv05/107",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "0313"
+    },
+    {
+      "id": "swsh11-070",
+      "name": "Sableye",
+      "set": "swsh11",
+      "setName": "Lost Origin",
+      "number": "070",
+      "rarity": "Holo Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh11/070",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": null
+    },
+    {
+      "id": "swsh4-105",
+      "name": "Sableye",
+      "set": "swsh4",
+      "setName": "Vivid Voltage",
+      "number": "105",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4/105",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "KEIICHIRO ITO"
+    },
+    {
+      "id": "swsh7-67",
+      "name": "Sableye",
+      "set": "swsh7",
+      "setName": "Evolving Skies",
+      "number": "67",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh7/67",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "Eri Yamaki"
+    },
+    {
+      "id": "xy1-68",
+      "name": "Sableye",
+      "set": "xy1",
+      "setName": "XY",
+      "number": "68",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy1/68",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Shigenori Negishi"
+    },
+    {
+      "id": "xy7-44",
+      "name": "Sableye",
+      "set": "xy7",
+      "setName": "Ancient Origins",
+      "number": "44",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/xy/xy7/44",
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Hitoshi Ariga"
+    },
+    {
+      "id": "xyp-XY92",
+      "name": "Sableye",
+      "set": "xyp",
+      "setName": "XY Black Star Promos",
+      "number": "XY92",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/xy/xyp/XY92",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "match"
+    }
+  ]
+}

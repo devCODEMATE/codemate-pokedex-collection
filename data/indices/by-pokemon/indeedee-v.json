@@ -1,0 +1,58 @@
+{
+  "name": "Indeedee V",
+  "totalCards": 4,
+  "cards": [
+    {
+      "id": "swsh1-192",
+      "name": "Indeedee V",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "192",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/192",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh1-91",
+      "name": "Indeedee V",
+      "set": "swsh1",
+      "setName": "Sword & Shield",
+      "number": "91",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh1/91",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh4.5-39",
+      "name": "Indeedee V",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "39",
+      "rarity": "Holo Rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/39",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "swsh4.5-SV114",
+      "name": "Indeedee V",
+      "set": "swsh4.5",
+      "setName": "Shining Fates",
+      "number": "SV114",
+      "rarity": "Shiny rare V",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh4.5/SV114",
+      "types": [
+        "Psychic"
+      ],
+      "illustrator": "5ban Graphics"
+    }
+  ]
+}
