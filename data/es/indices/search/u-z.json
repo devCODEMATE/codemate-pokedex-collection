@@ -1856,19 +1856,6 @@
       "illustrator": "kirisAki"
     },
     {
-      "id": "P-A-085",
-      "name": "Vanillite",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "085",
-      "rarity": "Un Diamante",
-      "image": null,
-      "types": [
-        "Agua"
-      ],
-      "illustrator": "OOYAMA"
-    },
-    {
       "id": "bw3-27",
       "name": "Vanillite",
       "set": "bw3",
@@ -1932,6 +1919,19 @@
         "Agua"
       ],
       "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "P-A-085",
+      "name": "Vanillite",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "085",
+      "rarity": "Un Diamante",
+      "image": null,
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "OOYAMA"
     },
     {
       "id": "sm2-33",
@@ -3195,19 +3195,6 @@
       "illustrator": "Ryuta Fuse"
     },
     {
-      "id": "P-A-018",
-      "name": "Venusaur",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "018",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/018",
-      "types": [
-        "Planta"
-      ],
-      "illustrator": "Kuroimori"
-    },
-    {
       "id": "bw5-3",
       "name": "Venusaur",
       "set": "bw5",
@@ -3219,6 +3206,19 @@
         "Planta"
       ],
       "illustrator": "Masakazu Fukuda"
+    },
+    {
+      "id": "P-A-018",
+      "name": "Venusaur",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "018",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/018",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Kuroimori"
     },
     {
       "id": "sm3.5-3",
@@ -5875,19 +5875,6 @@
       "illustrator": "DOM"
     },
     {
-      "id": "P-A-028",
-      "name": "Volcarona",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "028",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/028",
-      "types": [
-        "Fuego"
-      ],
-      "illustrator": "Shin Nagasawa"
-    },
-    {
       "id": "bw3-21",
       "name": "Volcarona",
       "set": "bw3",
@@ -5908,6 +5895,19 @@
       "number": "22",
       "rarity": "Rara",
       "image": "https://assets.tcgdex.net/es/bw/bw5/22",
+      "types": [
+        "Fuego"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "P-A-028",
+      "name": "Volcarona",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "028",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/028",
       "types": [
         "Fuego"
       ],

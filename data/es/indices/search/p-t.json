@@ -28,19 +28,6 @@
       "illustrator": "Tomowaka"
     },
     {
-      "id": "P-A-058",
-      "name": "Pachirisu",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "058",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/058",
-      "types": [
-        "Rayo"
-      ],
-      "illustrator": "OOYAMA"
-    },
-    {
       "id": "bw9-37",
       "name": "Pachirisu",
       "set": "bw9",
@@ -65,6 +52,19 @@
         "Rayo"
       ],
       "illustrator": "tono"
+    },
+    {
+      "id": "P-A-058",
+      "name": "Pachirisu",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "058",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/058",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "OOYAMA"
     },
     {
       "id": "sm5-49",
@@ -2900,19 +2900,6 @@
       "illustrator": "whomor Inc."
     },
     {
-      "id": "P-A-054",
-      "name": "Pawmot",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "054",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/054",
-      "types": [
-        "Rayo"
-      ],
-      "illustrator": "REND"
-    },
-    {
       "id": "me02-034",
       "name": "Pawmot",
       "set": "me02",
@@ -2924,6 +2911,19 @@
         "Rayo"
       ],
       "illustrator": "satoma"
+    },
+    {
+      "id": "P-A-054",
+      "name": "Pawmot",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "054",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/054",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "REND"
     },
     {
       "id": "sv01-076",
@@ -6095,45 +6095,6 @@
       "illustrator": "Naoyo Kimura"
     },
     {
-      "id": "P-A-009",
-      "name": "Pikachu",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "009",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/009",
-      "types": [
-        "Rayo"
-      ],
-      "illustrator": "Atsushi Furusawa"
-    },
-    {
-      "id": "P-A-015",
-      "name": "Pikachu",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "015",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/015",
-      "types": [
-        "Rayo"
-      ],
-      "illustrator": "Kouki Saitou"
-    },
-    {
-      "id": "P-A-026",
-      "name": "Pikachu",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "026",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/026",
-      "types": [
-        "Rayo"
-      ],
-      "illustrator": "Kouki Saitou"
-    },
-    {
       "id": "bw1-115",
       "name": "Pikachu",
       "set": "bw1",
@@ -6197,6 +6158,45 @@
         "Rayo"
       ],
       "illustrator": "kamonabe"
+    },
+    {
+      "id": "P-A-009",
+      "name": "Pikachu",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "009",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/009",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Atsushi Furusawa"
+    },
+    {
+      "id": "P-A-015",
+      "name": "Pikachu",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "015",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/015",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Kouki Saitou"
+    },
+    {
+      "id": "P-A-026",
+      "name": "Pikachu",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "026",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/026",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Kouki Saitou"
     },
     {
       "id": "sm10-54",
@@ -8193,19 +8193,6 @@
       "illustrator": "Hajime Kusajima"
     },
     {
-      "id": "P-A-034",
-      "name": "Piplup",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "034",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/034",
-      "types": [
-        "Agua"
-      ],
-      "illustrator": "Kariya"
-    },
-    {
       "id": "bw5-27",
       "name": "Piplup",
       "set": "bw5",
@@ -8256,6 +8243,19 @@
         "Agua"
       ],
       "illustrator": "Saboteri"
+    },
+    {
+      "id": "P-A-034",
+      "name": "Piplup",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "034",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/034",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kariya"
     },
     {
       "id": "sm12-54",
@@ -8671,17 +8671,6 @@
       "illustrator": "Akira Komayama"
     },
     {
-      "id": "P-A-001",
-      "name": "Poción",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "001",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/001",
-      "types": null,
-      "illustrator": "5ban Graphics"
-    },
-    {
       "id": "bw1-100",
       "name": "Poción",
       "set": "bw1",
@@ -8713,6 +8702,17 @@
       "image": "https://assets.tcgdex.net/es/me/me03/083",
       "types": null,
       "illustrator": "Ayaka Yoshida"
+    },
+    {
+      "id": "P-A-001",
+      "name": "Poción",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "001",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/001",
+      "types": null,
+      "illustrator": "5ban Graphics"
     },
     {
       "id": "sm1-127",
@@ -9108,17 +9108,6 @@
       "illustrator": "Toyste Beach"
     },
     {
-      "id": "P-A-005",
-      "name": "Poké Ball",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "005",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/005",
-      "types": null,
-      "illustrator": "Ryo Ueda"
-    },
-    {
       "id": "bw1-97",
       "name": "Poké Ball",
       "set": "bw1",
@@ -9150,6 +9139,17 @@
       "image": "https://assets.tcgdex.net/es/me/me03/080",
       "types": null,
       "illustrator": "Studio Bora Inc."
+    },
+    {
+      "id": "P-A-005",
+      "name": "Poké Ball",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "005",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/005",
+      "types": null,
+      "illustrator": "Ryo Ueda"
     },
     {
       "id": "sm1-125",
@@ -9308,6 +9308,17 @@
       "illustrator": "Sanosuke Sakuma"
     },
     {
+      "id": "bw1-98",
+      "name": "Pokédex",
+      "set": "bw1",
+      "setName": "Negro y Blanco",
+      "number": "98",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/es/bw/bw1/98",
+      "types": null,
+      "illustrator": "Noriko Hotta"
+    },
+    {
       "id": "P-A-004",
       "name": "Pokédex",
       "set": "P-A",
@@ -9328,17 +9339,6 @@
       "image": "https://assets.tcgdex.net/es/tcgp/P-A/008",
       "types": null,
       "illustrator": "Yuu Nishida"
-    },
-    {
-      "id": "bw1-98",
-      "name": "Pokédex",
-      "set": "bw1",
-      "setName": "Negro y Blanco",
-      "number": "98",
-      "rarity": "Uncommon",
-      "image": "https://assets.tcgdex.net/es/bw/bw1/98",
-      "types": null,
-      "illustrator": "Noriko Hotta"
     },
     {
       "id": "xy12-82",
@@ -14151,19 +14151,6 @@
       "illustrator": "Nisota Niso"
     },
     {
-      "id": "P-A-044",
-      "name": "Raichu",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "044",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/044",
-      "types": [
-        "Rayo"
-      ],
-      "illustrator": "Kazumasa Yasukuni"
-    },
-    {
       "id": "bw4-40",
       "name": "Raichu",
       "set": "bw4",
@@ -14188,6 +14175,19 @@
         "Rayo"
       ],
       "illustrator": "Iori Suzuki"
+    },
+    {
+      "id": "P-A-044",
+      "name": "Raichu",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "044",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/044",
+      "types": [
+        "Rayo"
+      ],
+      "illustrator": "Kazumasa Yasukuni"
     },
     {
       "id": "sm10-55",
@@ -15826,19 +15826,6 @@
       "illustrator": "so-taro"
     },
     {
-      "id": "P-A-063",
-      "name": "Rayquaza",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "063",
-      "rarity": "Tres Diamantes",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/063",
-      "types": [
-        "Incolora"
-      ],
-      "illustrator": "Yoshinobu Saito"
-    },
-    {
       "id": "bw6-128",
       "name": "Rayquaza",
       "set": "bw6",
@@ -15863,6 +15850,19 @@
         "Dragón"
       ],
       "illustrator": "nagimiso"
+    },
+    {
+      "id": "P-A-063",
+      "name": "Rayquaza",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "063",
+      "rarity": "Tres Diamantes",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/063",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Yoshinobu Saito"
     },
     {
       "id": "sm2-106",
@@ -19989,19 +19989,6 @@
       "illustrator": "GOSSAN"
     },
     {
-      "id": "P-A-059",
-      "name": "Riolu",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "059",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/059",
-      "types": [
-        "Lucha"
-      ],
-      "illustrator": "Akira Komayama"
-    },
-    {
       "id": "bw4-63",
       "name": "Riolu",
       "set": "bw4",
@@ -20078,6 +20065,19 @@
         "Lucha"
       ],
       "illustrator": "GOSSAN"
+    },
+    {
+      "id": "P-A-059",
+      "name": "Riolu",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "059",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/059",
+      "types": [
+        "Lucha"
+      ],
+      "illustrator": "Akira Komayama"
     },
     {
       "id": "sm10-102",
@@ -31718,19 +31718,6 @@
       "illustrator": "Oswaldo KATO"
     },
     {
-      "id": "P-A-039",
-      "name": "Skarmory",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "039",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/039",
-      "types": [
-        "Metálica"
-      ],
-      "illustrator": "Anesaki Dynamic"
-    },
-    {
       "id": "bw7-95",
       "name": "Skarmory",
       "set": "bw7",
@@ -31768,6 +31755,19 @@
         "Metálica"
       ],
       "illustrator": "5ban Graphics"
+    },
+    {
+      "id": "P-A-039",
+      "name": "Skarmory",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "039",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/039",
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "Anesaki Dynamic"
     },
     {
       "id": "sm1-88",
@@ -34732,19 +34732,6 @@
       "illustrator": "Kagemaru Himeno"
     },
     {
-      "id": "P-A-027",
-      "name": "Snivy",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "027",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/027",
-      "types": [
-        "Planta"
-      ],
-      "illustrator": "Yoriyuki Ikegami"
-    },
-    {
       "id": "bw1-1",
       "name": "Snivy",
       "set": "bw1",
@@ -34795,6 +34782,19 @@
         "Planta"
       ],
       "illustrator": "Narumi Sato"
+    },
+    {
+      "id": "P-A-027",
+      "name": "Snivy",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "027",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/027",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Yoriyuki Ikegami"
     },
     {
       "id": "sv10.5b-001",
@@ -34992,19 +34992,6 @@
       "illustrator": "burari"
     },
     {
-      "id": "P-A-049",
-      "name": "Snorlax",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "049",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/049",
-      "types": [
-        "Incolora"
-      ],
-      "illustrator": "okayamatakatoshi"
-    },
-    {
       "id": "bw7-109",
       "name": "Snorlax",
       "set": "bw7",
@@ -35042,6 +35029,19 @@
         "Incolora"
       ],
       "illustrator": "Toshinao Aoki"
+    },
+    {
+      "id": "P-A-049",
+      "name": "Snorlax",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "049",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/049",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "okayamatakatoshi"
     },
     {
       "id": "sm10-158",
@@ -38286,19 +38286,6 @@
       "illustrator": "Nisota Niso"
     },
     {
-      "id": "P-A-033",
-      "name": "Squirtle",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "033",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/033",
-      "types": [
-        "Agua"
-      ],
-      "illustrator": "Kanako Eo"
-    },
-    {
       "id": "bw7-29",
       "name": "Squirtle",
       "set": "bw7",
@@ -38336,6 +38323,19 @@
         "Agua"
       ],
       "illustrator": "Saboteri"
+    },
+    {
+      "id": "P-A-033",
+      "name": "Squirtle",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "033",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/033",
+      "types": [
+        "Agua"
+      ],
+      "illustrator": "Kanako Eo"
     },
     {
       "id": "sm10-33",
@@ -38637,19 +38637,6 @@
       "illustrator": "Minahamu"
     },
     {
-      "id": "P-A-047",
-      "name": "Staraptor",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "047",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/047",
-      "types": [
-        "Incolora"
-      ],
-      "illustrator": "Hasuno"
-    },
-    {
       "id": "bw9-97",
       "name": "Staraptor",
       "set": "bw9",
@@ -38661,6 +38648,19 @@
         "Incolora"
       ],
       "illustrator": "Hajime Kusajima"
+    },
+    {
+      "id": "P-A-047",
+      "name": "Staraptor",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "047",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/047",
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Hasuno"
     },
     {
       "id": "sm4-83",
@@ -40184,19 +40184,6 @@
       "illustrator": "Sanosuke Sakuma"
     },
     {
-      "id": "P-A-083",
-      "name": "Stufful",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "083",
-      "rarity": "Tres Diamantes",
-      "image": null,
-      "types": [
-        "Incolora"
-      ],
-      "illustrator": "Kanako Eo"
-    },
-    {
       "id": "me01-111",
       "name": "Stufful",
       "set": "me01",
@@ -40221,6 +40208,19 @@
         "Incolora"
       ],
       "illustrator": "OKACHEKE"
+    },
+    {
+      "id": "P-A-083",
+      "name": "Stufful",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "083",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Incolora"
+      ],
+      "illustrator": "Kanako Eo"
     },
     {
       "id": "sm1-111",
@@ -48303,19 +48303,6 @@
       "illustrator": "Misa Tsutsui"
     },
     {
-      "id": "P-A-090",
-      "name": "Togedemaru",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "090",
-      "rarity": "Tres Diamantes",
-      "image": null,
-      "types": [
-        "Metálica"
-      ],
-      "illustrator": "sowsow"
-    },
-    {
       "id": "me02-073",
       "name": "Togedemaru",
       "set": "me02",
@@ -48340,6 +48327,19 @@
         "Metálica"
       ],
       "illustrator": "Bun Toujo"
+    },
+    {
+      "id": "P-A-090",
+      "name": "Togedemaru",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "090",
+      "rarity": "Tres Diamantes",
+      "image": null,
+      "types": [
+        "Metálica"
+      ],
+      "illustrator": "sowsow"
     },
     {
       "id": "sm1-53",
@@ -48732,19 +48732,6 @@
       "illustrator": "Narumi Sato"
     },
     {
-      "id": "P-A-041",
-      "name": "Togepi",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "041",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/041",
-      "types": [
-        "Psíquico"
-      ],
-      "illustrator": "Naoyo Kimura"
-    },
-    {
       "id": "bw7-110",
       "name": "Togepi",
       "set": "bw7",
@@ -48782,6 +48769,19 @@
         "Psíquico"
       ],
       "illustrator": "Yoko Hishida"
+    },
+    {
+      "id": "P-A-041",
+      "name": "Togepi",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "041",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/041",
+      "types": [
+        "Psíquico"
+      ],
+      "illustrator": "Naoyo Kimura"
     },
     {
       "id": "sm10-136",
@@ -52624,19 +52624,6 @@
       "illustrator": "OOYAMA"
     },
     {
-      "id": "P-A-035",
-      "name": "Turtwig",
-      "set": "P-A",
-      "setName": "Promo-A",
-      "number": "035",
-      "rarity": "Ninguno",
-      "image": "https://assets.tcgdex.net/es/tcgp/P-A/035",
-      "types": [
-        "Planta"
-      ],
-      "illustrator": "Atsuko Nishida"
-    },
-    {
       "id": "bw8-1",
       "name": "Turtwig",
       "set": "bw8",
@@ -52661,6 +52648,19 @@
         "Planta"
       ],
       "illustrator": "Saboteri"
+    },
+    {
+      "id": "P-A-035",
+      "name": "Turtwig",
+      "set": "P-A",
+      "setName": "Promo-A",
+      "number": "035",
+      "rarity": "Ninguno",
+      "image": "https://assets.tcgdex.net/es/tcgp/P-A/035",
+      "types": [
+        "Planta"
+      ],
+      "illustrator": "Atsuko Nishida"
     },
     {
       "id": "sm5-6",

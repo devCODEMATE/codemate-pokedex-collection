@@ -3346,19 +3346,6 @@
       "illustrator": "Orca"
     },
     {
-      "id": "P-A-085",
-      "name": "Vanillite",
-      "set": "P-A",
-      "setName": "Promos-A",
-      "number": "085",
-      "rarity": "One Diamond",
-      "image": null,
-      "types": [
-        "Water"
-      ],
-      "illustrator": "OOYAMA"
-    },
-    {
       "id": "bw3-27",
       "name": "Vanillite",
       "set": "bw3",
@@ -3422,6 +3409,19 @@
         "Water"
       ],
       "illustrator": "Akira Komayama"
+    },
+    {
+      "id": "P-A-085",
+      "name": "Vanillite",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "085",
+      "rarity": "One Diamond",
+      "image": null,
+      "types": [
+        "Water"
+      ],
+      "illustrator": "OOYAMA"
     },
     {
       "id": "sm2-33",
@@ -5020,19 +5020,6 @@
       "illustrator": "Eske Yoshinob"
     },
     {
-      "id": "P-A-018",
-      "name": "Venusaur",
-      "set": "P-A",
-      "setName": "Promos-A",
-      "number": "018",
-      "rarity": "None",
-      "image": "https://assets.tcgdex.net/en/tcgp/P-A/018",
-      "types": [
-        "Grass"
-      ],
-      "illustrator": "Kuroimori"
-    },
-    {
       "id": "base1-15",
       "name": "Venusaur",
       "set": "base1",
@@ -5174,6 +5161,19 @@
         "Grass"
       ],
       "illustrator": "Mitsuhiro Arita"
+    },
+    {
+      "id": "P-A-018",
+      "name": "Venusaur",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "018",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/tcgp/P-A/018",
+      "types": [
+        "Grass"
+      ],
+      "illustrator": "Kuroimori"
     },
     {
       "id": "pl3-13",
@@ -8355,19 +8355,6 @@
       "illustrator": "DOM"
     },
     {
-      "id": "P-A-028",
-      "name": "Volcarona",
-      "set": "P-A",
-      "setName": "Promos-A",
-      "number": "028",
-      "rarity": "None",
-      "image": "https://assets.tcgdex.net/en/tcgp/P-A/028",
-      "types": [
-        "Fire"
-      ],
-      "illustrator": "Shin Nagasawa"
-    },
-    {
       "id": "bw10-13",
       "name": "Volcarona",
       "set": "bw10",
@@ -8414,6 +8401,19 @@
       "number": "BW40",
       "rarity": "Rare",
       "image": "https://assets.tcgdex.net/en/bw/bwp/BW40",
+      "types": [
+        "Fire"
+      ],
+      "illustrator": "Shin Nagasawa"
+    },
+    {
+      "id": "P-A-028",
+      "name": "Volcarona",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "028",
+      "rarity": "None",
+      "image": "https://assets.tcgdex.net/en/tcgp/P-A/028",
       "types": [
         "Fire"
       ],
@@ -12078,19 +12078,6 @@
       "illustrator": "kawayoo"
     },
     {
-      "id": "P-A-100",
-      "name": "Weavile",
-      "set": "P-A",
-      "setName": "Promos-A",
-      "number": "100",
-      "rarity": "Three Diamond",
-      "image": null,
-      "types": [
-        "Darkness"
-      ],
-      "illustrator": "Satoshi Shirai"
-    },
-    {
       "id": "bw4-70",
       "name": "Weavile",
       "set": "bw4",
@@ -12193,6 +12180,19 @@
         "Darkness"
       ],
       "illustrator": "matazo"
+    },
+    {
+      "id": "P-A-100",
+      "name": "Weavile",
+      "set": "P-A",
+      "setName": "Promos-A",
+      "number": "100",
+      "rarity": "Three Diamond",
+      "image": null,
+      "types": [
+        "Darkness"
+      ],
+      "illustrator": "Satoshi Shirai"
     },
     {
       "id": "sm12-44",

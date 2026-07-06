@@ -111,6 +111,8 @@ Two Node.js scripts, plus a GitHub Actions workflow that runs them automatically
 
 Both scripts are idempotent and safe to re-run; `build-indices.js` always regenerates its output from scratch so the indices never drift from the underlying card data.
 
+**A note on catalog completeness:** TCGdex is an open, community-maintained database — it is not an official Pokémon Company source. It's actively growing, but some very recent cards, regional promos, or niche variants may not be catalogued there yet. If a card is missing from a search, it's likely not yet available in TCGdex itself rather than a bug in this app's pipeline. The monthly automated refresh (see below) picks up new sets and cards as soon as TCGdex adds them.
+
 ## Project structure
 
 ```
