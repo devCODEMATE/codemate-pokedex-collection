@@ -756,3 +756,31 @@ img.card-face { object-fit: contain; display: block; background: rgba(255,255,25
   transform: scale(1.05);
   box-shadow: 0 12px 24px rgba(0,0,0,0.4);
 }
+
+/* ---------- vista de spread (dos hojas enfrentadas, como una carpeta física) ---------- */
+.binder-spread { display: flex; align-items: stretch; justify-content: center; gap: 0; }
+.binder-shell.is-spread { max-width: 900px; }
+.binder-shell.is-spread .binder-page-wrap { flex: 1; min-width: 0; }
+.binder-spine {
+  width: 14px;
+  flex-shrink: 0;
+  background: linear-gradient(90deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.15) 20%, rgba(0,0,0,0.15) 80%, rgba(0,0,0,0.5) 100%);
+  margin: 0 -2px;
+  z-index: 1;
+}
+@media (max-width: 800px) {
+  .binder-shell.is-spread { max-width: 100%; }
+  .binder-spine { width: 8px; }
+}
+
+/* ---------- drag and drop de cartas en el binder ---------- */
+.binder-slot.slot-drag-source { opacity: 0.35; }
+.binder-slot.slot-drag-over { outline: 3px dashed var(--yellow); outline-offset: -3px; }
+.slot-drag-ghost {
+  position: fixed;
+  pointer-events: none;
+  z-index: 999;
+  opacity: 0.85;
+  transform: scale(1.05);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.4);
+}

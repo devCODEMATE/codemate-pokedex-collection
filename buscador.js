@@ -7,9 +7,13 @@
  *   - Elige un ilustrador  -> data/{lang}/indices/by-illustrator/{slug}.json
  *   - Elige una generación -> data/{lang}/indices/by-generation/{serieId}.json
  *   - Escribe un nombre    -> data/{lang}/indices/search/{bucket}.json
+ *   - Elige solo Rareza/Tipo (sin nombre/ilustrador/generación) -> se
+ *     recorren todos los chunks alfabéticos, porque Rareza/Tipo no tienen
+ *     su propio índice separado.
  *
- * Rareza y Tipo son filtros secundarios: se aplican en memoria sobre lo
- * que ya se cargó, no piden nada nuevo.
+ * Si la búsqueda por nombre no encuentra nada en el primer chunk (porque
+ * el nombre buscado no es la primera palabra de la carta, ej. "candy" en
+ * "Rare Candy"), reintenta recorriendo todos los chunks antes de rendirse.
  */
 
 let buscadorPendingSlot = null; // { binderId, pageNumber, slotIndex }
@@ -126,6 +130,13 @@ function renderIllustratorSuggestions(query) {
   });
 }
 
+function clearBuscadorFilters() {
+  buscadorFilters = { query: '', rarity: null, type: null, illustratorSlug: null, generationId: null };
+  document.getElementById('buscador-search-input').value = '';
+  renderBuscadorFilterControls();
+  renderBuscadorPrompt(t('startPrompt'));
+}
+
 function wireBuscadorGlobalEvents() {
   document.getElementById('buscador-close-btn').addEventListener('click', closeBuscador);
   document.getElementById('buscador-modal').addEventListener('click', (e) => {
@@ -163,6 +174,7 @@ function wireBuscadorGlobalEvents() {
     const panel = document.getElementById('buscador-filters-panel');
     setBuscadorFiltersCollapsed(!panel.classList.contains('collapsed'));
   });
+  document.getElementById('buscador-clear-filters-btn').addEventListener('click', clearBuscadorFilters);
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape' && !document.getElementById('buscador-modal').hidden) closeBuscador();
   });
@@ -173,10 +185,10 @@ function renderBuscadorPrompt(message) {
 }
 
 /** Decide de dónde traer el "pool" base de cartas según lo que el usuario tocó, y filtra en memoria */
-/** Decide de dónde traer el "pool" base de cartas según lo que el usuario tocó, y filtra en memoria */
 async function runBuscadorSearch() {
   const token = ++buscadorRequestToken;
   const q = buscadorFilters.query.trim();
+  const hasRarityOrType = Boolean(buscadorFilters.rarity || buscadorFilters.type);
   let searchedAllBuckets = false;
 
   let pool = null;
@@ -201,6 +213,13 @@ async function runBuscadorSearch() {
         const data = await loadSearchBucket(bucket, buscadorLang);
         pool = data.cards;
       }
+    } else if (hasRarityOrType) {
+      // Solo se tocó Rareza y/o Tipo, sin nombre/ilustrador/generación:
+      // no hay un índice propio para esto, así que recorremos todo.
+      renderBuscadorPrompt(t('searching'));
+      const data = await loadAllSearchBuckets(buscadorLang);
+      pool = data.cards;
+      searchedAllBuckets = true;
     } else {
       renderBuscadorPrompt(t('startPrompt'));
       return;
@@ -215,8 +234,8 @@ async function runBuscadorSearch() {
   if (token !== buscadorRequestToken) return; // el usuario ya cambió el filtro, este resultado quedó viejo
 
   const qParts = q.toLowerCase().replace(/^#/, '').split('/');
-  const qLower = qParts[0].trim(); // "#189", "189" y "189/192" buscan por el mismo número...
-  const qSetTotal = qParts[1] ? qParts[1].trim() : null; // ...pero si escribiste el "/192", lo usamos para afinar al set exacto
+  const qLower = qParts[0].trim();
+  const qSetTotal = qParts[1] ? qParts[1].trim() : null;
 
   const matchesQuery = (card) => {
     if (qLower) {
@@ -234,7 +253,6 @@ async function runBuscadorSearch() {
     if (buscadorFilters.rarity && card.rarity !== buscadorFilters.rarity) return false;
     if (buscadorFilters.type && !(card.types || []).includes(buscadorFilters.type)) return false;
     if (buscadorFilters.generationId && buscadorFilters.illustratorSlug) {
-      // generación se usó como filtro secundario porque el pool vino del ilustrador
       const setMeta = buscadorSets.get(card.set);
       if (!setMeta || !setMeta.serie || setMeta.serie.id !== buscadorFilters.generationId) return false;
     }
@@ -243,10 +261,10 @@ async function runBuscadorSearch() {
 
   let filtered = pool.filter(matchesQuery);
 
-  // El nombre puede no empezar con lo que se escribió (ej. buscar "candy"
-  // debería encontrar "Rare Candy", que vive en el cajón alfabético de la
-  // "R", no en el de la "C"). Si el primer intento no encontró nada y no
-  // veníamos ya de revisar todos los cajones, reintentamos ahí.
+  // Reintento ampliado: si buscamos por nombre en un solo chunk alfabético
+  // y no encontramos nada, puede ser que el nombre buscado no sea la
+  // primera palabra de la carta (ej. "candy" en "Rare Candy") — probamos
+  // de nuevo mirando todos los chunks antes de rendirnos.
   if (filtered.length === 0 && qLower && !searchedAllBuckets && !buscadorFilters.illustratorSlug && !buscadorFilters.generationId) {
     try {
       const allData = await loadAllSearchBuckets(buscadorLang);

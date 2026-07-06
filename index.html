@@ -10,14 +10,14 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=DM+Sans:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="style.css?v=28"/>
+<link rel="stylesheet" href="style.css?v=29"/>
 </head>
 <body>
 <div id="app">
 
   <header class="app-header">
     <div class="brand" id="brand-home-btn" role="button" tabindex="0" data-i18n-aria="brandAriaLabel">
-    <img class="naga-pixel" src="images/codemate-avatar.png?v=28" alt="CodeMate" />
+    <img class="naga-pixel" src="images/codemate-avatar.png?v=29" alt="CodeMate" />
     <span class="wordmark">&lt;CodeMate&gt;<em>Pokédex Collection</em></span>    </div>
     <nav>
       <button id="nav-library" class="nav-btn active" type="button" data-i18n="navLibrary">Your Library</button>
@@ -69,15 +69,22 @@
           </div>
         </div>
         <div class="binder-header-actions">
+          <button class="nav-btn on-light" id="binder-view-mode-btn" type="button" data-i18n="viewModeTwoBtn">⧉ 2 Pages</button>
           <button class="nav-btn on-light" id="binder-export-btn" type="button" data-i18n="exportBtn">⬇ Export binder</button>
           <button class="nav-btn on-light" id="binder-back-btn" type="button" data-i18n="backToLibrary">← Your Library</button>
         </div>
       </div>
 
       <div class="binder-stage">
-        <div class="binder-shell">
-          <div class="binder-page-wrap" id="binder-page-wrap">
-            <div class="binder-page" id="binder-page"></div>
+        <div class="binder-shell" id="binder-shell">
+          <div class="binder-spread" id="binder-spread">
+            <div class="binder-page-wrap" id="binder-page-wrap-left">
+              <div class="binder-page" id="binder-page-left"></div>
+            </div>
+            <div class="binder-spine" id="binder-spine" hidden></div>
+            <div class="binder-page-wrap" id="binder-page-wrap-right" hidden>
+              <div class="binder-page" id="binder-page-right"></div>
+            </div>
           </div>
         </div>
       </div>
@@ -110,6 +117,7 @@
           </button>
         </div>
         <div id="buscador-filters-panel">
+          <button type="button" class="link-btn" id="buscador-clear-filters-btn" style="margin-bottom:10px;" data-i18n="clearFiltersBtn">Clear filters</button>
           <div class="filter-select-row">
             <div class="combo-field">
               <span class="filter-group-label" data-i18n="illustratorLabel">Illustrator</span>
@@ -198,16 +206,16 @@
 
 </div>
 
-<script src="i18n.js?v=28"></script>
-<script src="data-service.js?v=28"></script>
-<script src="storage.js?v=28"></script>
-<script src="render-card.js?v=28"></script>
-<script src="wizard.js?v=28"></script>
-<script src="library.js?v=28"></script>
-<script src="card-detail.js?v=28"></script>
-<script src="buscador.js?v=28"></script>
-<script src="binder.js?v=28"></script>
-<script src="export.js?v=28"></script>
-<script src="app.js?v=28"></script>
+<script src="i18n.js?v=29"></script>
+<script src="data-service.js?v=29"></script>
+<script src="storage.js?v=29"></script>
+<script src="render-card.js?v=29"></script>
+<script src="wizard.js?v=29"></script>
+<script src="library.js?v=29"></script>
+<script src="card-detail.js?v=29"></script>
+<script src="buscador.js?v=29"></script>
+<script src="binder.js?v=29"></script>
+<script src="export.js?v=29"></script>
+<script src="app.js?v=29"></script>
 </body>
 </html>

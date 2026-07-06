@@ -61,7 +61,8 @@ function initApp() {
   document.getElementById('binder-prev-btn').addEventListener('click', () => flipBinderPage(-1));
   document.getElementById('binder-next-btn').addEventListener('click', () => flipBinderPage(1));
   document.getElementById('binder-add-page-btn').addEventListener('click', handleAddPage);
-document.getElementById('binder-export-btn').addEventListener('click', () => exportBinderHTML(currentBinderEntry));
+  document.getElementById('binder-view-mode-btn').addEventListener('click', toggleViewMode);
+  document.getElementById('binder-export-btn').addEventListener('click', () => exportBinderHTML(currentBinderEntry));
 
   wireBuscadorGlobalEvents();
   wireCardDetailGlobalEvents();

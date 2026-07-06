@@ -75,9 +75,12 @@ const TRANSLATIONS = {
     prevPageAria: 'Previous page',
     nextPageAria: 'Next page',
     pageIndicator: 'Page {n} of {total}',
+    pageIndicatorRange: 'Pages {a}-{b} of {total}',
     addPageBtn: '+ Add page',
     loadingCardAria: 'Loading card…',
     emptySlotAria: 'Empty slot',
+    viewModeTwoBtn: '⧉ 2 Pages',
+    viewModeOneBtn: '▯ 1 Page',
 
     // export binder
     exportBtn: '⬇ Export binder',
@@ -93,6 +96,7 @@ const TRANSLATIONS = {
     buscadorSubtitle: 'Pick a card for this slot.',
     searchPlaceholder: 'Search by name or card number…',
     filtersBtn: 'Filters',
+    clearFiltersBtn: 'Clear filters',
     illustratorLabel: 'Illustrator',
     illustratorPlaceholder: 'All illustrators',
     illustratorHint: 'Search by first or last name, anywhere in the name.',
@@ -195,9 +199,12 @@ const TRANSLATIONS = {
     prevPageAria: 'Página anterior',
     nextPageAria: 'Página siguiente',
     pageIndicator: 'Página {n} de {total}',
+    pageIndicatorRange: 'Páginas {a}-{b} de {total}',
     addPageBtn: '+ Agregar hoja',
     loadingCardAria: 'Cargando carta…',
     emptySlotAria: 'Slot vacío',
+    viewModeTwoBtn: '⧉ 2 Hojas',
+    viewModeOneBtn: '▯ 1 Hoja',
 
     // exportar carpeta
     exportBtn: '⬇ Exportar carpeta',
@@ -212,6 +219,7 @@ const TRANSLATIONS = {
     buscadorSubtitle: 'Elegí una carta para este slot.',
     searchPlaceholder: 'Buscar por nombre o número de carta…',
     filtersBtn: 'Filtros',
+    clearFiltersBtn: 'Limpiar filtros',
     illustratorLabel: 'Ilustrador',
     illustratorPlaceholder: 'Todos los ilustradores',
     illustratorHint: 'Buscá por nombre o apellido, en cualquier parte del nombre.',
