@@ -744,3 +744,15 @@ img.card-face { object-fit: contain; display: block; background: rgba(255,255,25
   background: var(--teal);
   transition: width 0.2s ease;
 }
+
+/* ---------- drag and drop de cartas en el binder ---------- */
+.binder-slot.slot-drag-source { opacity: 0.35; }
+.binder-slot.slot-drag-over { outline: 3px dashed var(--yellow); outline-offset: -3px; }
+.slot-drag-ghost {
+  position: fixed;
+  pointer-events: none;
+  z-index: 999;
+  opacity: 0.85;
+  transform: scale(1.05);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.4);
+}

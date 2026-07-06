@@ -2,8 +2,10 @@
  * binder.js
  * -----------------------------------------------------------------------
  * "Vista del binder": grilla dinámica según tamaño, folio tiñendo cada
- * slot, animación de vuelta de página (flip 3D), y click en slot vacío
- * para abrir el Buscador.
+ * slot, animación de vuelta de página (flip 3D), click en slot vacío para
+ * abrir el Buscador, y arrastrar-y-soltar (con Pointer Events, funciona
+ * igual con mouse que con el dedo en celular) para reordenar cartas dentro
+ * de la misma hoja.
  */
 
 let currentBinderEntry = null;
@@ -26,6 +28,92 @@ function openBinder(binderId) {
   renderBinderPage();
 }
 
+/** Intercambia el contenido de dos slots de una misma hoja (funciona aunque uno esté vacío) */
+function swapBinderSlots(pageNumber, indexA, indexB) {
+  if (indexA === indexB) return;
+  const data = getBinderPages(currentBinderEntry.id);
+  const page = data.pages.find((p) => p.pageNumber === pageNumber);
+  const tmp = page.slots[indexA];
+  page.slots[indexA] = page.slots[indexB];
+  page.slots[indexB] = tmp;
+  saveBinderPages(currentBinderEntry.id, data);
+}
+
+/**
+ * Habilita arrastrar un slot que tiene carta. Usa Pointer Events (no el
+ * drag-and-drop nativo de HTML5) para que funcione igual con mouse que con
+ * el dedo en celular. Un "click" normal (sin moverse) sigue abriendo el
+ * detalle de la carta como siempre — solo se activa el arrastre si el
+ * puntero se mueve más de DRAG_THRESHOLD píxeles antes de soltar.
+ */
+const DRAG_THRESHOLD = 8;
+
+function wireSlotDragging(el, slotIndex, hasCard, pageNumber) {
+  if (!hasCard) return; // solo se puede arrastrar un slot que tiene carta
+
+  el.addEventListener('pointerdown', (e) => {
+    if (e.button !== 0 && e.pointerType === 'mouse') return; // solo click izquierdo en mouse
+
+    const startX = e.clientX;
+    const startY = e.clientY;
+    let dragging = false;
+    let ghost = null;
+
+    const onMove = (moveEvent) => {
+      const dx = moveEvent.clientX - startX;
+      const dy = moveEvent.clientY - startY;
+
+      if (!dragging && Math.hypot(dx, dy) > DRAG_THRESHOLD) {
+        dragging = true;
+        el.classList.add('slot-drag-source');
+        ghost = el.cloneNode(true);
+        ghost.classList.add('slot-drag-ghost');
+        ghost.style.width = `${el.offsetWidth}px`;
+        ghost.style.height = `${el.offsetHeight}px`;
+        document.body.appendChild(ghost);
+      }
+
+      if (dragging && ghost) {
+        ghost.style.left = `${moveEvent.clientX - el.offsetWidth / 2}px`;
+        ghost.style.top = `${moveEvent.clientY - el.offsetHeight / 2}px`;
+        document.querySelectorAll('.binder-slot.slot-drag-over').forEach((s) => s.classList.remove('slot-drag-over'));
+        const under = document.elementFromPoint(moveEvent.clientX, moveEvent.clientY);
+        const targetSlot = under && under.closest('.binder-slot');
+        if (targetSlot && targetSlot !== el) targetSlot.classList.add('slot-drag-over');
+      }
+    };
+
+    const onUp = (upEvent) => {
+      document.removeEventListener('pointermove', onMove);
+      document.removeEventListener('pointerup', onUp);
+
+      if (!dragging) return; // fue un click normal, no un arrastre — no hacemos nada acá
+
+      el.classList.remove('slot-drag-source');
+      if (ghost) { ghost.remove(); ghost = null; }
+      document.querySelectorAll('.binder-slot.slot-drag-over').forEach((s) => s.classList.remove('slot-drag-over'));
+
+      const under = document.elementFromPoint(upEvent.clientX, upEvent.clientY);
+      const targetSlot = under && under.closest('.binder-slot');
+      if (targetSlot) {
+        const targetIndex = Number(targetSlot.dataset.slotIndex);
+        if (!Number.isNaN(targetIndex) && targetIndex !== slotIndex) {
+          swapBinderSlots(pageNumber, slotIndex, targetIndex);
+          renderBinderPage();
+        }
+      }
+
+      // evita que el 'click' que el navegador dispara justo después del
+      // soltar abra el detalle de carta por accidente
+      el.dataset.suppressClick = 'true';
+      setTimeout(() => { delete el.dataset.suppressClick; }, 0);
+    };
+
+    document.addEventListener('pointermove', onMove);
+    document.addEventListener('pointerup', onUp);
+  });
+}
+
 async function renderBinderPage() {
   currentBinderData = getBinderPages(currentBinderEntry.id); // re-leer por si buscador escribió
   const { cols, rows } = currentBinderEntry.grid;
@@ -42,7 +130,7 @@ async function renderBinderPage() {
     const bg = isTransparentFolio ? '' : `background:${folioHex};`;
     return `
       <div class="binder-slot ${isTransparentFolio ? 'is-transparent-folio' : ''}" style="${bg}"
-        id="slot-${slotIndex}" role="button" tabindex="0"
+        id="slot-${slotIndex}" data-slot-index="${slotIndex}" role="button" tabindex="0"
         aria-label="${cardId ? t('loadingCardAria') : t('emptySlotAria')}">
         ${cardId ? '<div class="binder-slot-loading"></div>' : '<div class="binder-slot-empty"></div>'}
       </div>`;
@@ -53,6 +141,7 @@ async function renderBinderPage() {
   page.slots.forEach((cardId, slotIndex) => {
     const el = document.getElementById(`slot-${slotIndex}`);
     const handler = () => {
+      if (el.dataset.suppressClick) return; // se acaba de soltar un arrastre, no abrir nada
       const pendingSlot = { binderId: currentBinderEntry.id, pageNumber: page.pageNumber, slotIndex };
       if (cardId) {
         const card = currentPageCardsBySlot[slotIndex];
@@ -63,6 +152,7 @@ async function renderBinderPage() {
     };
     el.addEventListener('click', handler);
     el.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); handler(); } });
+    wireSlotDragging(el, slotIndex, Boolean(cardId), page.pageNumber);
   });
 
   // progreso: sin sourceFilter todavía, mostramos solo cantidad de slots llenos

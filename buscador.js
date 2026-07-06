@@ -217,8 +217,7 @@ async function runBuscadorSearch() {
 
   const filtered = pool.filter((card) => {
     if (qLower) {
-      const matchesName = card.name.toLowerCase().includes(qLower);
-      const matchesNumber = String(card.number ?? '').toLowerCase() === qLower;
+      const matchesName = qLower && slugify(card.name).includes(slugify(qLower));      const matchesNumber = String(card.number ?? '').toLowerCase() === qLower;
       if (!matchesName && !matchesNumber) return false;
     }
     if (qSetTotal && buscadorSets) {
