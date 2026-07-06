@@ -15,13 +15,14 @@ const storageBinderKey = (id) => `codemate-binder-${id}`;
 
 const SIZES = {
   chica: { cols: 2, rows: 2, defaultPages: 8 },
+  cuadrada: { cols: 3, rows: 3, defaultPages: 10 },
   mediana: { cols: 4, rows: 3, defaultPages: 12 },
   grande: { cols: 5, rows: 4, defaultPages: 15 },
 };
 
 /** Traduce el nombre de un tamaño de carpeta al idioma actual */
 function sizeLabel(sizeKey) {
-  const keys = { chica: 'sizeChicaLabel', mediana: 'sizeMedianaLabel', grande: 'sizeGrandeLabel' };
+  const keys = { chica: 'sizeChicaLabel', cuadrada: 'sizeCuadradaLabel', mediana: 'sizeMedianaLabel', grande: 'sizeGrandeLabel' };
   return t(keys[sizeKey] || 'sizeChicaLabel');
 }
 

@@ -56,6 +56,7 @@ const TRANSLATIONS = {
     langSpanishLabel: 'Español',
     folioColorDesc: "Tints the area around each card. The binder and background are always black.",
     sizeSmallLabel: 'Small', sizeSmallDesc: '4 slots per page · pocket-size binder',
+    sizeSquareLabel: 'Square', sizeSquareDesc: '9 slots per page · balanced 3×3 grid',
     sizeMediumLabel: 'Medium', sizeMediumDesc: '12 slots per page · the classic "12-pocket"',
     sizeLargeLabel: 'Large', sizeLargeDesc: '20 slots per page · high capacity',
     coverPreviewCaption: "This is how your binder's cover will look.",
@@ -134,6 +135,7 @@ const TRANSLATIONS = {
 
     // storage sizes
     sizeChicaLabel: 'Small · 2×2',
+    sizeCuadradaLabel: 'Square · 3×3',
     sizeMedianaLabel: 'Medium · 4×3',
     sizeGrandeLabel: 'Large · 5×4',
 
@@ -175,6 +177,7 @@ const TRANSLATIONS = {
     langSpanishLabel: 'Español',
     folioColorDesc: 'Tiñe el área alrededor de cada carta. La carpeta y el fondo siempre son negros.',
     sizeSmallLabel: 'Chica', sizeSmallDesc: '4 slots por hoja · tipo binder de bolsillo',
+    sizeSquareLabel: 'Cuadrada', sizeSquareDesc: '9 slots por hoja · grilla equilibrada 3×3',
     sizeMediumLabel: 'Mediana', sizeMediumDesc: '12 slots por hoja · el clásico "12-pocket"',
     sizeLargeLabel: 'Grande', sizeLargeDesc: '20 slots por hoja · alta capacidad',
     coverPreviewCaption: 'Así se va a ver la portada de tu carpeta.',
@@ -247,6 +250,7 @@ const TRANSLATIONS = {
     imageComingSoonLine2: 'PRÓXIMAMENTE',
 
     sizeChicaLabel: 'Chica · 2×2',
+    sizeCuadradaLabel: 'Cuadrada · 3×3',
     sizeMedianaLabel: 'Mediana · 4×3',
     sizeGrandeLabel: 'Grande · 5×4',
 

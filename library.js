@@ -13,7 +13,7 @@ function renderLibrary() {
       <div class="empty-state">
         <img class="empty-state-icon" src="images/rack.png" alt="${t('emptyStateAlt')}" />
         <p>${t('emptyStateText')}</p>
-        <button class="btn btn-primary" onclick="goToView('wizard')">${t('navNew')}</button>
+        <button class="btn btn-primary" onclick="resetWizard(); goToView('wizard');">${t('navNew')}</button>
       </div>`;
     return;
   }

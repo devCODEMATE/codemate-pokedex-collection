@@ -111,14 +111,14 @@ function wizardStepCoverHTML() {
   return `
     <label class="field-label" for="wizard-name-input">${t('nameFieldLabel')}</label>
     <input type="text" class="text-input" id="wizard-name-input" placeholder="${t('namePlaceholder')}" maxlength="40" value="${escapeAttr(wizardState.name)}" />
-    <label class="field-label">${t('coverColorLabel')}</label>
+    <span class="field-label">${t('coverColorLabel')}</span>
     <div class="swatch-row" id="cover-swatch-row">
       ${COVER_COLORS.map((c) => `
         <button type="button" class="swatch ${wizardState.coverColor === c.key ? 'selected' : ''}"
           style="background:${resolveSwatchHex(c.key)}" data-color="${c.key}" title="${colorLabel(c.key)}" aria-label="${colorLabel(c.key)}"></button>
       `).join('')}
     </div>
-    <label class="field-label">${t('cardLanguageLabel')}</label>
+    <span class="field-label">${t('cardLanguageLabel')}</span>
     <p class="view-subtitle" style="margin-top:-4px;">${t('cardLanguageDesc')}</p>
     <div class="chip-row" id="card-language-row">
       ${CARD_LANGUAGES.map((l) => `
@@ -131,11 +131,12 @@ function wizardStepCoverHTML() {
 function wizardStepSizeHTML() {
   const sizes = [
     { key: 'chica', cols: 2, rows: 2, label: t('sizeSmallLabel'), desc: t('sizeSmallDesc') },
+    { key: 'cuadrada', cols: 3, rows: 3, label: t('sizeSquareLabel'), desc: t('sizeSquareDesc') },
     { key: 'mediana', cols: 4, rows: 3, label: t('sizeMediumLabel'), desc: t('sizeMediumDesc') },
     { key: 'grande', cols: 5, rows: 4, label: t('sizeLargeLabel'), desc: t('sizeLargeDesc') },
   ];
   return `
-    <label class="field-label">${t('sizeFieldLabel')}</label>
+    <span class="field-label">${t('sizeFieldLabel')}</span>
     <div class="size-option-row">
       ${sizes.map((s) => `
         <button type="button" class="size-option ${wizardState.size === s.key ? 'selected' : ''}" data-size="${s.key}">
@@ -154,7 +155,7 @@ function wizardStepSizeHTML() {
 
 function wizardStepFolioHTML() {
   return `
-    <label class="field-label">${t('folioColorLabel')}</label>
+    <span class="field-label">${t('folioColorLabel')}</span>
     <p class="view-subtitle" style="margin-top:-4px;">${t('folioColorDesc')}</p>
     <div class="swatch-row" id="folio-swatch-row">
       ${FOLIO_COLORS.map((c) => `
@@ -244,8 +245,9 @@ function updateWizardPreview() {
     if (wizardState.size) {
       const { cols, rows } = SIZES[wizardState.size];
       const cells = cols * rows;
+      const sizeLabelKeys = { chica: 'Small', cuadrada: 'Square', mediana: 'Medium', grande: 'Large' };
       slot.innerHTML = renderClosedCoverHTML(coverHex);
-      caption.textContent = t('sizePreviewCaption', { size: t(`size${wizardState.size === 'chica' ? 'Small' : wizardState.size === 'mediana' ? 'Medium' : 'Large'}Label`), n: cells });
+      caption.textContent = t('sizePreviewCaption', { size: t(`size${sizeLabelKeys[wizardState.size]}Label`), n: cells });
     } else {
       slot.innerHTML = renderClosedCoverHTML(coverHex);
       caption.textContent = t('sizePreviewChoose');
