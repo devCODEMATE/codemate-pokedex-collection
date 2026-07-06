@@ -173,9 +173,11 @@ function renderBuscadorPrompt(message) {
 }
 
 /** Decide de dónde traer el "pool" base de cartas según lo que el usuario tocó, y filtra en memoria */
+/** Decide de dónde traer el "pool" base de cartas según lo que el usuario tocó, y filtra en memoria */
 async function runBuscadorSearch() {
   const token = ++buscadorRequestToken;
   const q = buscadorFilters.query.trim();
+  let searchedAllBuckets = false;
 
   let pool = null;
   try {
@@ -192,6 +194,7 @@ async function runBuscadorSearch() {
         renderBuscadorPrompt(t('searchingByNumber'));
         const data = await loadAllSearchBuckets(buscadorLang);
         pool = data.cards;
+        searchedAllBuckets = true;
       } else {
         renderBuscadorPrompt(t('searching'));
         const bucket = searchBucketFor(q);
@@ -209,15 +212,16 @@ async function runBuscadorSearch() {
     return;
   }
 
-  if (token !== buscadorRequestToken) return;
+  if (token !== buscadorRequestToken) return; // el usuario ya cambió el filtro, este resultado quedó viejo
 
   const qParts = q.toLowerCase().replace(/^#/, '').split('/');
-  const qLower = qParts[0].trim();
-  const qSetTotal = qParts[1] ? qParts[1].trim() : null;
+  const qLower = qParts[0].trim(); // "#189", "189" y "189/192" buscan por el mismo número...
+  const qSetTotal = qParts[1] ? qParts[1].trim() : null; // ...pero si escribiste el "/192", lo usamos para afinar al set exacto
 
-  const filtered = pool.filter((card) => {
+  const matchesQuery = (card) => {
     if (qLower) {
-      const matchesName = qLower && slugify(card.name).includes(slugify(qLower));      const matchesNumber = String(card.number ?? '').toLowerCase() === qLower;
+      const matchesName = slugify(card.name).includes(slugify(qLower));
+      const matchesNumber = String(card.number ?? '').toLowerCase() === qLower;
       if (!matchesName && !matchesNumber) return false;
     }
     if (qSetTotal && buscadorSets) {
@@ -230,11 +234,28 @@ async function runBuscadorSearch() {
     if (buscadorFilters.rarity && card.rarity !== buscadorFilters.rarity) return false;
     if (buscadorFilters.type && !(card.types || []).includes(buscadorFilters.type)) return false;
     if (buscadorFilters.generationId && buscadorFilters.illustratorSlug) {
+      // generación se usó como filtro secundario porque el pool vino del ilustrador
       const setMeta = buscadorSets.get(card.set);
       if (!setMeta || !setMeta.serie || setMeta.serie.id !== buscadorFilters.generationId) return false;
     }
     return true;
-  });
+  };
+
+  let filtered = pool.filter(matchesQuery);
+
+  // El nombre puede no empezar con lo que se escribió (ej. buscar "candy"
+  // debería encontrar "Rare Candy", que vive en el cajón alfabético de la
+  // "R", no en el de la "C"). Si el primer intento no encontró nada y no
+  // veníamos ya de revisar todos los cajones, reintentamos ahí.
+  if (filtered.length === 0 && qLower && !searchedAllBuckets && !buscadorFilters.illustratorSlug && !buscadorFilters.generationId) {
+    try {
+      const allData = await loadAllSearchBuckets(buscadorLang);
+      if (token !== buscadorRequestToken) return;
+      filtered = allData.cards.filter(matchesQuery);
+    } catch (err) {
+      console.error('No se pudo completar la búsqueda ampliada:', err);
+    }
+  }
 
   const activeFilterCount = [qLower, buscadorFilters.rarity, buscadorFilters.type, buscadorFilters.illustratorSlug, buscadorFilters.generationId]
     .filter(Boolean).length;
